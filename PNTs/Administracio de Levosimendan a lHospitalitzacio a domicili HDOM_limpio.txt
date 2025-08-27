@@ -1,0 +1,118 @@
+El Levosimendan és un fàrmac inotròpic positiu i vasodilatador arterial que actua a través de
+l'increment de sensibilitat cardíaca al calci i l'obertura dels canals de potassi al múscul llis,
+aconseguint una millora de la contractilitat cardíaca i una reducció de les pressions tant
+pulmonars com sistèmiques. 
+Levosimendan és l'únic tractament inotròpic que presenta un efecte mantingut en el temps amb
+una durada aproximada d'entre 3-4 setmanes, que és dependent de la dosi total administrada. La
+seva via d'administració és endovenosa, a través d'una via perifèrica i els seus efectes secundaris
+són infreqüents. Habitualment predominen la hipotensió i la taquicàrdia en relació amb
+l'augment de dosi, però poden presentar-se casos d'arrítmies auriculars i ventriculars. Té
+l'avantatge que pot administrar-se sense retirar el tractament previ amb betabloquejants.
+Objectiu
+
+
+Administració de Levosimendan a l’Hospitalització a domicili
+(HDOM)
+Descriure com realitzar la dilució, programació i administració del Levosimendan en
+bomba d'infusió portàtil en pacients ingressats en el Dispositiu Transversal
+d’Hospitalització a domicili (HDOM).
+Garantir l'administració correcta del fàrmac a domicili. 
+Garantir la seguretat del pacient davant l'administració: anticipar de manera precoç els
+possibles efectes adversos i educar al pacient i família durant i després de l'administració
+del fàrmac.
+Responsabilitats
+Administratius/ves
+Farmacèutics/ques
+Infermers/es
+Metges/esses
+Procediment
+Selecció del candidat
+L’equip referent de cardiologia detectarà al pacient candidat a administració de
+Levosimendan al domicili. 
+Els criteris d’inclusió són els següents: 
+HDOM: acceptació del pacient/cuidador, zona AISBE, estabilitat clínica, condicions
+socials mínimes. 
+Cardiologia: tenir indicació de Levosimendan per clínica d’insuficiència cardíaca
+refractària, no ser candidat a mesures terapèutiques avançades (Trasplantament o
+assistència ventricular), haver rebut Levosimendan almenys en una ocasió a
+l’hospital de dia de cardiologia sense presentar complicacions, estar d’acord a rebre
+el fàrmac al domicili havent estat informat del risc/benefici. 
+L’equip de cardiologia contactarà amb l’equip de pal·liatiu no oncològics via interconsulta
+i amb l’equip avaluador d’HDOM (385053) i realitzarà interconsulta via SAP (especificant
+administració de Levosimendan) 
+
+
+Administració de Levosimendan a l’Hospitalització a domicili
+(HDOM)
+L’equip de pal·liatius no oncològics, realitzarà un informe d’interconsulta amb una
+valoració multidimensional de les necessitats, expectatives i planificació de decisions
+anticipades per garantir la comprensió del procediment.
+ Avaluació del pacient
+L’equip avaluador d’HDOM, contactarà amb el pacient per programar l’ingrés a domicili.
+Es registrarà el pes del pacient a la Història Clínica 
+Prescripció i dilució del fàrmac
+Es prescriurà a IPA: LEVOSIMENDAN 6,25 MG + SG5% / 250 ml. Especificar la dosi i
+les unitats (dosi inicial 0,05 mcg/kg/min). El sistema calcula el ritme (ml/h).
+La medicació estarà ubicada a la nevera d’HDOM (Esc. 9 Pl. 0) (conservació 2-8ºC). 
+Per preparar la infusió s'utilitzaran 2,5 ml del vial de Levosimendan (6,25 mg)
+Es diluiran aquests 2,5 ml en 250 cc de sèrum glucosat al 5%.
+Transport
+El transport es realitzarà a temperatura ambient 
+Intervenció a domicili
+El pacient signarà el consentiment informat d’ingrés a l’HDOM 
+Es facilitarà al pacient els equips necessaris per a la presa de les constants vitals (TA, FC,
+SatO2) 
+Es canalitzarà una via perifèrica.
+L’administració de Levosimendan es realitzarà durant 6 hores aproximadament, mitjançant
+una bomba d’infusió electrònica. La dosi objectiu serà de 0,1 mcg/kg/min (velocitat
+mitjana) i caldrà ajustar-la segons la tolerància clínica i hemodinàmica del pacient.
+Aquesta infusió es repetirà setmanalment durant 6 setmanes. 
+Es registraran les constants vitals abans de l’inici de la infusió. 
+La infusió s’iniciarà a la velocitat mínima (0,05 mcg/kg/min), (Vegeu Annex 1) i es farà
+control de constants vitals (freqüència cardíaca, ritme cardíac i pressió arterial) al cap de
+30 minuts. Si el pacient no presenta efectes secundaris, s’augmentarà la infusió a la
+velocitat mitjana (el doble que la inicial) i es mantindrà (0,1 mcg/kg/min) i es registraran
+les constants vitals als 60 min d’inici del tractament.
+
+
+Administració de Levosimendan a l’Hospitalització a domicili
+(HDOM)
+El/la infermer/a romandrà al domicili durant la primera hora d’infusió. 
+El pacient ens contactarà en el cas de presentar efectes secundaris durant la infusió. 
+Si no hi ha contraindicacions, el pacient serà alta del Dispositiu transversal
+d’hospitalització a domicili 
+En cas que el pacient presenti deteriorament clínic greu no reversible amb signes de
+patiment; s’iniciaran mesures de confort mitjançant infusor elastomèric.
+Material
+Via venosa perifèrica 
+Bomba d'infusió electrònica 
+Equip de seroteràpia adequat a la bomba d'infusió 
+Bossa de transport del fàrmac 
+Sèrum glucosat 5% per la dilució, segons indicació de farmàcia 
+Material per la preparació de la dilució (xeringues, agulles...) 
+Tensiòmetre 
+Pulsioxímetre
+Aspectes a remarcar
+El servei de cardiologia serà l'encarregat d'informar al pacient candidat sobre l'administració de
+Levosimendan a domicili, així com de les possibles reaccions adverses i complicacions
+associades a l'administració del fàrmac.
+Riscos Laborals
+Contacte amb agents biològics
+Actuació front punxada accidental
+Indicadors d'Avaluació
+Nombre de pacients que ingressen per l’administració de Levosimendan a domicili. 
+Percentatge de pacients amb reacció adversa al tractament amb Levosimendan a domicili.
+
+
+Administració de Levosimendan a l’Hospitalització a domicili
+(HDOM)
+Registres
+PiA (Prescripció i administració)
+Pla de cures
+Portal professional
+Registres clínics
+Registres especials
+Agenda de cures
+Valoració pacient
+Notificació d'incidents
+Alta d'infermeria

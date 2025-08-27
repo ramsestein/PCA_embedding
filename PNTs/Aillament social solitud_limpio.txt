@@ -1,0 +1,256 @@
+Seqüència d’intervencions realitzades als usuaris fràgils, ingressats a l’Hospital Clínic de
+Barcelona, amb o sense família i/o en situació d’aïllament social i/o solitud
+Objectiu
+Incrementar l’atenció i cura de l’usuari a qui s’ha detectat aïllament social  
+Millorar l’estada dels pacients en aquesta situació durant l’ingrés hospitalari
+Oferir el màxim recolzament emocional tant per part dels professionals sanitaris com dels
+voluntaris de la nostres unitats 
+Treballar aspectes relacionats amb l’atenció posterior a l’alta dels pacients
+
+
+Aïllament social, solitud
+Valorar els recursos adients per a l’alta, especialment en aquelles situacions en què aquella
+persona  no podrà tornar a viure sola (demències i altres dependències)
+Responsabilitats
+Coordinadors/es
+Infermers/es
+Metges/esses
+Psicòlegs
+Treballadors/es socials
+Procediment
+SEQÜÈNCIA D’INTERVENCIONS:  
+Acollida de  l’usuari a la nostra unitat
+A l’acollida, els infermers realitzaran la valoració a l’ingrés amb una primera recollida de
+dades de l’usuari; anotarà si viu sol, si té familiars o amics, així com els seus telèfons de
+contacte. També recollirà informació sobre les activitats de la vida diària que duia a terme
+abans de l’ingrés i dels canvis en el seu estat de salut
+Avisarem a l’equip de Treball social si l’usuari ingressa sol i no localitzem a cap familiar o
+persona de referència 
+Durant la seva estada a la Unitat la infermera registrarà al curs clínic si ha rebut visites i a
+quin grup (família/amics/veïns) pertanyen 
+
+
+Aïllament social, solitud
+Si veiem que l’usuari no rep cap visita es duran  a terme les actuacions i les intervencions
+establertes en el circuït d’usuaris que es troben en  risc o en situació d’aïllament
+L’Equip de Treball Social on estigui ingressada la persona a tractar farà una primera
+entrevista per valorar i completar la seva situació social i familiar (si disposa de  cuidador,
+si disposa d’algun recurs social, si està vinculat amb alguna xarxa social, si intervenen
+altres professionals d'Atenció Primària, si se sent aïllat o sol,  si surt de casa...) 
+A les sessions clíniques de la Unitat, que són de caire setmanal, l’equip multidisciplinari
+ elaborarà un pla d’acció amb els recursos o necessitats que requereixi l’usuari, per tal de
+buscar solucions i/o alternatives un cop sigui donat  d’alta
+S’activarà l’equip de voluntariat de la unitat per donar-li suport o acompanyament.  
+Actuarem i coordinarem amb l’equip de psicologia si es detecta la necessitat i sempre que
+el/la pacient ho accepti
+A l’alta, es gestionarà la coordinació amb els serveis comunitaris adients
+Material
+Programa informàtic d’IPA Pacient
+Full de registre de l’activitat del Voluntariat de cada Unitat d'hospitalització 
+Aspectes a remarcar
+
+
+Aïllament social, solitud
+Abordatge de la solitud per la bona evolució i benestar (físic i emocional) dels pacients 
+Negació ineficaç
+Codi NANDA
+00072
+Codi Nic
+4920
+Intervenció
+Potenciació de la comunicació: escolta activa
+Negació Ineficaç
+Codi NANDA
+00072
+Codi Nic
+5242
+Intervenció
+Assessorament
+Negació ineficaç
+Codi NANDA
+00072
+Codi Nic
+5100
+
+
+Aïllament social, solitud
+Intervenció
+Potenciació de la socialització
+Negació ineficaç
+Codi NANDA
+00072
+Codi Nic
+5270
+Intervenció
+Recolzament emocional
+Negació ineficaç
+Codi NANDA
+00072
+Codi Nic
+5250
+Intervenció
+Recolzament a la presa de decisions
+Negació ineficaç
+Codi NANDA
+00072
+Codi Nic
+5390
+Intervenció
+Potenciació de la consciència de sí mateix
+
+
+Aïllament social, solitud
+Negació ineficaç
+Codi NANDA
+00072
+Codi Nic
+5380
+Intervenció
+Potenciació de la seguretat
+Negació ineficaç
+Codi NANDA
+00072
+Codi Nic
+6630
+Intervenció
+Control de riscos: aïllament
+Negació ineficaç
+Codi NANDA
+00072
+Codi Nic
+6490
+Intervenció
+Prevenció de caigudes
+Negació ineficaç
+
+
+Aïllament social, solitud
+Codi NANDA
+00072
+Codi Nic
+4362
+Intervenció
+Modificació de la conducta: habilitats socials
+Negació ineficaç
+Codi NANDA
+00072
+Codi Nic
+4370
+Intervenció
+Teràpia conductual: entrenament per a controlar impulsos
+Negació ineficaç
+Codi NANDA
+00072
+Codi Nic
+5320
+Intervenció
+Humor
+Negació ineficaç
+Codi NANDA
+00072
+
+
+Aïllament social, solitud
+Codi Nic
+5480
+Intervenció
+Clarificació de valors
+Negació ineficaç
+Codi NANDA
+00072
+Codi Nic
+5020
+Intervenció
+Mediació de conflictes
+Negació ineficaç
+Codi NANDA
+00072
+Codi Nic
+5290
+Intervenció
+Facilitar el dol
+Negació ineficaç
+Codi NANDA
+00072
+Codi Nic
+6160
+
+
+Aïllament social, solitud
+Intervenció
+Intervenció en casos de crisi
+Incapacitat del malalt per prendre decisions per ell mateix
+(demències, incapacitació)
+Activitat
+Coordinació amb altres professionals com: l’equip mèdic de referència
+(dintre de les sessions diàries), Treballadora Social de barri/zona,
+interconsultes amb equip de psiquiatria i/o psicòlegs (si calgués). Tota
+aquesta coordinació amb equips externs a
+Incapacitat del malalt per prendre decisions per ell mateix
+(demències, incapacitació)
+Codi Nic
+7110
+Intervenció
+Implicació familiar
+Incapacitat del malalt per prendre decisions per ell mateix
+(demències, incapacitació)
+Codi Nic
+7140
+Intervenció
+Cures de la vida: recolzament familiar
+Incapacitat del malalt per prendre decisions per ell mateix
+(demències, incapacitació)
+
+
+Aïllament social, solitud
+Codi Nic
+5370
+Intervenció
+Potenciació de rols
+Limitació i/o falta de recursos socials (que es valorin com necessari)
+Codi Nic
+5440
+Intervenció
+Augmentar els sistemes de recolzament
+Limitació i/o falta de recursos socials (que es valorin com necessari)
+Codi Nic
+7370
+Intervenció
+Planificació de l’alta
+Limitació i/o falta de recursos socials (que es valorin com necessari)
+Codi Nic
+7110
+Intervenció
+Implicació familiar
+Limitació i/o falta de recursos socials (que es valorin com necessari)
+Codi Nic
+
+
+Aïllament social, solitud
+7140
+Intervenció
+Recolzament familiar
+Problemes relacionats amb el procediment
+Que l’usuari no accepti els recursos proposats per abordar l’aïllament social o solitud.
+Haurem de respectar la seva decisió
+Que l’usuari no estigui capacitat per prendre les seves pròpies decisions. En funció de la
+seva situació clínica es valoraran altres possibles actuacions
+Riscos Laborals
+Risc psicosocial derivat de l’atenció a malalts en situació d’angoixa.
+Indicadors d'Avaluació
+Nombre d’usuaris ingressats que requereixen assistència de treball social amb motiu
+d’aïllament social o solitud
+Nombre de visites que rep el/la pacient durant l’ingrés
+Nombre d'interconsultes a psicologia clínica per el tractament dels usuaris amb aïllament
+social o solitud
+ 
+Registres
+
+
+Aïllament social, solitud
+Capçalera
+Portal professional
+Història Social -Treball Social
+Registre dels voluntaris
+Alta d'infermeria
+Diagrama de Flujo

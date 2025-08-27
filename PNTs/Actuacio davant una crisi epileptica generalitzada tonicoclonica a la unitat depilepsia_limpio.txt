@@ -1,0 +1,158 @@
+Procediment intern d'actuació del personal (tècnics i equip d'infermeria) i dels recursos emprats
+(material: mascareta d'oxigen, pulsímetre...) davant una crisi epilèptica generalitzada tònic-
+clònica a la Unitat d'Epilèpsia.
+Objectiu
+Preservar la seguretat del pacient.
+Minimitzar les complicacions associades.
+Garantir una recuperació segura.
+
+
+Actuació davant una crisi epilèptica generalitzada tònico-clònica a la
+unitat d'epilèpsia
+Responsabilitats
+Infermers/es
+Metges/esses
+TCAIS
+Tècnics/ques
+Procediment
+El pacient és monitoritza les 24 hores al dia al llarg del seu ingrés, generalment entre 1 a 3
+setmanes (segons muntatge elèctrodes) a la Unitat d'Epilèpsia. Es registra la seva activitat
+cerebral mitjançant l'electroencefalograma (EEG) per mitjà de:
+Elèctrodes superficials. Col·locats usant el Sistema Internacional 10/10 realitzat pel
+personal tècnic de la Unitat d'Epilèpsia.
+Elèctrodes profunds i/o elèctrodes subdurals (MANTA). Col·locats per Neurocirurgians al
+quiròfan mitjançant una intervenció quirúrgica.
+SEQÜÈNCIA D' INTERVENCIÓ:
+Identificació de l'activitat d'una crisi epilèptica generalitzada tònico-clònica per part del
+tècnic d'epilèpsia mitjançant l'EEG i activar el procediment.
+OLAM: Acrònim que explica els passos que s'han de seguir davant d'una crisi
+generalitzada tonico-clonica, per tal d'evitar riscos i/o complicacions per al pacient, que a
+continuació desglossem.
+
+
+Actuació davant una crisi epilèptica generalitzada tònico-clònica a la
+unitat d'epilèpsia
+Oxigenoteràpia:  (O) A l'Inici de la fase tònica. És el primer que farà el tècnic, un
+cop identificada la crisi generalitzada tònic-clònica, ja que escurça la durada de la
+crisi generalitzada, accelera la recuperació de la consciència després de la crisi i
+redueix de manera significativa el risc de SUDEP. La infermera regularà el volum d'
+oxigen en 10 litres.
+Pulsioxímetre.  Per al mesurament de Spo2 del pacient, col·locat per infermeria, amb
+la finalitat de saber fins quan administrar oxigen al pacient.
+Posició de seguretat:  (L) Lateralització en posició de seguretat. Ho realitzarà el
+personal present en la crisi quan el tècnic ho autoritzi, ja que en lateralitzar el pacient
+bloquegem la clínica que estigui realitzant.
+Es col·locarà el pacient en posició decúbit lateral cap al final de la fase clònica. En
+cas d' observar-se abundants secrecions, es realitzarà abans de la fi de la fase clònica.
+Aspiració de secrecions:  (A) L'infermer/a que es trobi a l'habitació procedirà a
+realitzar l'aspiració de secrecions en el període proscritic. No obstant això, es
+procedirà a aspirar secrecions durant la crisi quan les secrecions siguin abundants.
+Medicació endovenosa:  (M) En el període proscritic (4-10min postcrisi). S'
+administrarà per part d' infermeria i després d' aspirar secrecions.
+Una vegada s' aplica el tractament i no s' observa activitat ictal en EEG compatible amb activitat
+epileptiforme, es donarà per conclòs el procediment.
+Material
+Matalassos protectors de les baranes dels dos costats del llit.
+
+
+Actuació davant una crisi epilèptica generalitzada tònico-clònica a la
+unitat d'epilèpsia
+Aspirador de buit, preparat, instal·lat i comprovat per infermeria en cada ingrés.
+Material per a l' aspiració; Sondes d' aspiració de diferents mides.
+Oxigenoteràpia; Mascareta d'oxigen (Ventimax ® ), pulsioxímetre (SPo2).
+Guants d' un sol ús.
+Kit catèter venós perifèric. Per a l'administració de la medicació endovenosa pautada pel
+metge (col·locat al pacient en l'ingrés).
+Aspectes a remarcar
+Status Epilepticus (estat d'epilèpsia) consisteix en una crisi única o repetides que
+persisteixen en el temps suficient per produir un dany neurològic i que requereix la
+intervenció d'un Neuròleg immediatament.
+Mort Sobtada Inesperada a Epilèpsia (Sudden Unexpected Death in Epilepsy o SUDEP per
+les seves sigles en anglès) és la mort sobtada i inesperada d'una persona amb epilèpsia.
+Disminució de la saturació d’oxigen
+Activitat
+Comprovarem que el saturador està ben col·locat
+Comprovarem que l’oxigenoteràpia funciona bé
+
+
+Actuació davant una crisi epilèptica generalitzada tònico-clònica a la
+unitat d'epilèpsia
+Revisarem la posició del cap, farem hiperextensió mandibular i posarem
+tub de Mayo (si precisa)
+Pot requerir maniobres de reanimació amb Ambú®
+Risc de broncoaspiració durant l’exploració
+Activitat
+Tindrem preparat i comprovat el kit d’aspiració
+Aspiració de les vies aèries
+Risc de lesió
+Codi NANDA
+00035
+Codi Nic
+6610
+Intervenció
+Identificació de riscos
+Risc de lesió
+Codi NANDA
+00035
+Codi Nic
+6482
+Intervenció
+Maneig ambiental: confort
+Risc d'autoagressió i/o heteroagressió
+
+
+Actuació davant una crisi epilèptica generalitzada tònico-clònica a la
+unitat d'epilèpsia
+Codi NANDA
+00138
+Codi Nic
+4640
+Intervenció
+Ajuda per control de l'enuig
+Problemes relacionats amb el procediment
+Dificultat en la recuperació de la saturació d'oxigen en sang, que haurem de controlar
+mitjançant el pulsioxímetre al costat del flux d'oxigen de la mascareta de Ventimask.
+Risc de broncoaspiració, hem de parar atenció a les secrecions que genera i per tant la
+importància de lateralitzar i aspirar el pacient.
+Risc de lesió i agitació del pacient, per això hem de protegir l'entorn i evitar tota situació
+que pugui ser de conflicte i/o pugui generar un dany (posar matalassos, retirar objectes
+personals...).
+ Relaxació d'esfínters, per la qual cosa una vegada el pacient es trobi recuperat de la crisi i
+fora de perill, farem els procediments necessaris perquè es trobi en un bon estat de confort.
+Riscos Laborals
+Contacte amb agents biològics
+Mesures de prevenció postures forçades
+Riscos laborals relacionats amb el lloc de treball: Coneix els riscos del teu lloc de
+treball
+Lesions derivades d’agressions de pacients desorientats / agitats
+
+
+Actuació davant una crisi epilèptica generalitzada tònico-clònica a la
+unitat d'epilèpsia
+Lesions físiques i/o verbals derivades de l’actuació en evitar la conducta
+heteroagressiva per part del pacient
+Inoculació o esquitxada
+Riscos Laborals
+Esquitxada per secreció durant la crisi. Utilitzarem mesures de protecció (mascaretes,
+guants).
+Riscos d' infeccions de diferents tipus a causa dels pacients aïllats. Utilitzarem EPI's.
+Lesions derivades d'agressions de pacients desorientats i/o agitats.
+Agitació i/o desorientació del pacient postcrisi.
+Agitació:  usarem mesures de contenció per al pacient evitant danys per a ell.
+Desorientació: actuació verbal per part del personal fins a recuperació del pacient
+Indicadors d'Avaluació
+Nombre de pacients que presenten complicacions durant l' ingrés. 
+Nombre de pacients que en baixar la medicació presenten crisi tònico-clònica
+generalitzada.
+
+
+Actuació davant una crisi epilèptica generalitzada tònico-clònica a la
+unitat d'epilèpsia
+Temps de durada de la crisi.
+Registres
+Es portarà un registre diari per cada pacient durant el seu ingrés a la unitat, que el realitza el
+tècnic:
+Retallarem les crisis en el registre informàtic (màster).
+Anotarem en paper:
+La data, hora i nom de la crisi del pacient registrades al màster.
+La quantitat de protocols aplicats.

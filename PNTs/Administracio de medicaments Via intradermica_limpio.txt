@@ -1,0 +1,160 @@
+ 
+La via intradèrmica es una tècnica utilitzada per l’administració de fàrmacs generalment
+anestèsics, algun tipus de vacunes (BCG, vacuna antigripal...)i per la realització de proves, com
+pot ser la prova de la tuberculina i les proves d’al·lèrgia cutània.
+Objectiu
+ 
+Administrar de forma segura la medicació prescrita per  via intradèrmica amb fins
+diagnòstics, terapèutics o preventius.
+Evitar i/o detectar de manera precoç l’aparició de possibles complicacions relacionades
+amb el procediment o amb la medicació.
+Realitzar educació sanitària sobre els efectes terapèutics i indicacions per tal de garantir el
+tractament i diagnòstic.
+Resposta a la medicació NOC 2301
+
+
+Administració de medicaments. Via intradèrmica
+Responsabilitats
+Infermers/es
+Procediment
+SEQÜÈNCIA D’INTERVENCIONS:
+Preparació:
+Ens rentarem les mans.
+Manipularem el medicament seguint les normes d’higiene recomanades.
+Posarem atenció als 5 punts bàsics: que el pacient, fàrmac, dosi, via i hora siguin els
+correctes.
+Verificarem l’IPA  del pacient  i procedirem a preparar la seva medicació el més a prop
+possible de l’habitació.
+Revisarem  les recomanacions o notes de farmàcia del medicament.
+Comprovarem que l’embalatge estigui íntegre, l’etiqueta’ t ben identificat i que no estigui
+caducat.
+Aplicarem la tècnica de manera asèptica.
+ Zones en les quals es pot administrar medicaments per via intradèrmica (Vegeu Imatge 1)
+Cara anterior avantbraç, quatre travessos de dit per sobre del flexor del canell i dos
+travessos de dit per sota del flexor del colze.  És el lloc que es tria amb més freqüència.
+Cara anterior i superior del tòrax, per sota de les clavícules.
+Part superior de l'esquena, a l'altura de les escàpules.
+  Administració
+Comprovarem de nou la identificació del pacient i verificarem  l’existència o no
+d’al·lèrgies.
+
+
+Administració de medicaments. Via intradèrmica
+Avaluarem si el pacient està en condicions de rebre el medicament que se li
+administrarà.             
+Prepararem la medicació. La infermera que prepara la medicació ha de ser la infermera
+que l’administra, excepte situacions majors on no sigui possible, com pot ser la urgència
+d’una situació clínica.
+Comentarem amb el pacient, l’administració, nom del medicament, propòsits i efectes del
+mateix.
+Farem un seguiment dels efectes terapèutics amb la valoració i vigilància del pacient.
+Aplicació intradèrmica (Vegeu Imatge 2)
+Desinfectarem la pell amb antisèptic de forma circular, de dins cap a fora, sense friccionar
+i deixarem assecar.
+Tibarem lleugerament amb una mà la zona de pell a punxar.
+Col·locarem la xeringa de manera que l'agulla quedi paral·lela a la pell i amb el bisell cap
+amunt.
+Injectarem la medicació lentament entre les capes dermis i epidermis fins a formar una
+pàpula.
+Retirarem lentament l'agulla sense comprimir ni friccionar sobre la pàpula.
+No tornarem a tapar l’agulla,protegirem l’ agulla amb el dispositiu de seguretat i la tirarem
+en un contenidor d’objectes punxants.
+OBSERVACIONS:
+Per evitar possible reflux del medicament, a l'hora de carregar-ho en la xeringa es pot
+afegir 0.1 ml d'aire i assegurar-nos que aquest queda posterior al líquid a administrar. Així,
+a l'hora de realitzar la injecció, l'aire forma una bombolla-tap que impedeix que surti el
+fàrmac.
+Sempre s’ha d’administrar de forma immediata després de la reconstitució.
+En cas d’envasos multi dosi (tuberculina PPD, etc.), en agafar la dosi del recipient, cal
+prendre les mesures de precaució per no contaminar el flascó. Mai retornarem la
+medicació agafada, al recipient del medicament.
+Verificar durant l'administració la formació de la pàpula, ja que si no es produeix el
+fàrmac s'haurà administrat incorrectament.
+En cas de medicacions de risc, extremarem les mesures preventives a la manipulació dels
+mateixos seguint les recomanacions del servei de farmàcia.
+No aplicarem en àrees amb taques, cicatrius, edemes, lesions o excés de pèls.
+
+
+Administració de medicaments. Via intradèrmica
+Material
+ 
+Solució hidroalcohòlica.
+Safata.
+Guants d’un sol us.
+Contenidor d’objectes  punxants.
+Antisèptic incolor (clorhexidina 2% o alcohol al 70%).
+Fàrmacs o substàncies a administrar.
+Xeringa de 1 ml graduada en centèsimes de bioseguretat amb agulla calibre 25 GA i bisell
+curt.
+Agulla per carregar medicació.
+Gases o cel·lulosa retallada.
+Aspectes a remarcar
+Assegurar que el malalt no té cap al·lèrgia coneguda al medicament.  
+Posar atenció als 5 punts bàsics: que el malalt, fàrmac, dosi, via i hora siguin correctes.
+El volum de líquid a administrar serà entre 0.1-0.3  ml.
+Administrar immediatament després de la preparació.
+Informar al malalt de la finalitat de la seva administració.
+Explicar al malalt que no friccioni la zona de punció.
+Reacció adversa a un medicament (RAM)
+Activitat
+Notificar-ho al sistema de notificació de reaccions adverses
+Avisar el metge
+Error en l'administració
+
+
+Administració de medicaments. Via intradèrmica
+Activitat
+Notificar-ho al sistema de notificació
+Risc d'infecció
+Codi NANDA
+00004
+Codi Nic
+6540
+Intervenció
+Control d'infeccions
+Risc de deteriorament de la integritat cutània
+Codi NANDA
+00047
+Codi Nic
+3550
+Intervenció
+Maneig de la pruïja
+Coneixements deficients
+Codi NANDA
+00126
+Codi Nic
+5510
+Intervenció
+Educació terapèutica
+
+
+Administració de medicaments. Via intradèrmica
+Dolor Agut
+Codi NANDA
+00132
+Codi Nic
+1400
+Intervenció
+Maneig del dolor
+Rebuig del pacient
+Activitat
+Intentarem esbrinar les raons per les quals rebutja el fàrmac i
+explicarem la indicació del fàrmac
+En cas de no administrar la medicació per rebuig del pacient, ho
+enregistrarem a l'IPA farmàcia i al curs clínic, especificant el motiu del
+mateix i ho comunicarem al metge responsable o de guàrdia
+Riscos Laborals
+Contacte amb agents biològics
+Actuació front punxada accidental
+Manipulació de medicaments de risc per exposició
+Indicadors d'Avaluació
+Nombre d’errors d’administració de medicaments per via intradèrmica i notificats a
+farmàcia.
+Nombre de malalts que reben la medicació, dosi, via i freqüència, de forma correcta.
+
+
+Administració de medicaments. Via intradèrmica
+Registres
+PiA (Prescripció i administració)
+Registre de notificació d’incidents via Plataforma notificació efectes adversos (SNiSP)
+Registre de reacció adversa al medicament

@@ -1,0 +1,159 @@
+Cures infermeres que es realitzen al pacient i acompanyant quan ingressen de forma electiva en
+una unitat d'hospitalització en situació de pandèmia.
+Objectiu
+Fomentar la confiança en el centre i l'equip assistencial.
+Proporcionar tota la informació necessària sobre l'entorn i el procés per aconseguir que el
+pacient se senti segur i obtenir la seva màxima col·laboració.
+Responsabilitats
+Administratius/ves
+Coordinadors/es
+
+
+Acollida electiva del pacient a la unitat d'hospitalització en situació
+de pandèmia 
+Gestor/a de pacients
+Infermers/es
+TCAIS
+Procediment
+SEQÜÈNCIA D’INTERVENCIONS:
+La gestora de pacients trucarà per telèfon al pacient per tal d’informar-lo del dia, l'hora i la
+unitat on haurà d'ingressar, al mateix temps, li explicarà els tràmits que haurà de realitzar
+abans de l'ingrés en cas de ser necessari, així com les recomanacions específiques en
+funció de la situació epidemiològica. Si fos necessari se sol·licitarà transport sanitari.
+Preparar l’entorn:
+Habitació preparada i neta per a rebre el pacient.
+Acollida (a l'entrada de la unitat):
+Conèixer el motiu d'ingrés i l'habitació de destí del pacient.
+Donarem la benvinguda, ens presentarem i identificarem en el moment de rebre el pacient
+i acompanyants, a l'entrada de la unitat.
+Realitzarem la identificació inequívoca del pacient segon procediment, i col·locarem la
+polsera identificativa, explicant el significat de la mateixa i recordant la importància de no
+treure-se-la durant tot l’ingrés. L’informarem que en cas de deteriorament, ens ho haurà de
+comunicar per recanviar-la.
+Informarem del funcionament de la unitat: horaris de visites i nombre de visitants, telèfons
+de la unitat, horari i canal d'informació mèdica (telefònica o presencial) i els diferents
+professionals que participaran en la seva atenció. Seguirem la normativa vigent establerta
+per l'hospital en situació de pandèmia, així com les específiques de cada unitat, com per
+exemple l'obligatorietat de la mascareta.
+Identificarem al familiar de referència i/o cuidador principal i li demanarem els telèfons de
+contacte. Registrarem les dades a IPA pacient, capçalera de dades sociodemogràfiques.
+
+
+Acollida electiva del pacient a la unitat d'hospitalització en situació
+de pandèmia 
+Explicarem al familiar/ acompanyant l’existència i el funcionament de l’APP “Familiars
+Clínic” i els hi facilitarem el codi d’accés perquè puguin fer el seguiment del procés
+quirúrgic del pacient en cas de cirurgia. 
+Entregarem l’autorització al familiar/ acompanyant per a poder accedir a l'hospital.
+Verificarem la comprensió dels aspectes bàsics i essencials necessaris per a la seva
+seguretat, tranquil·litat i confort.
+Establirem una relació professional de confiança per tal que el pacient es senti còmode i
+afavorirem l'expressió de sentiments.
+Deixarem un temps perquè el pacient i l'acompanyant es puguin acomiadar.
+Recepció i acomodació del pacient a l'habitació:
+Acompanyarem al pacient a l'habitació i farem les presentacions amb el company
+d'habitació, si s'escau.
+Ubicarem al pacient en l'espai (armari, sistemes d’alarma, funcionament del llit, tauleta de
+nit, lavabo, llums, comandaments, aparell de televisió) i de l'estructura de la unitat.
+Recordarem al pacient que durant l'ingrés no conservi objectes de valors a l'habitació. Si
+ingressa sol avisarem al servei de seguretat perquè els custodiï. 
+Recollirem tota la documentació de l'ingrés que porta el pacient.
+Realitzarem una determinació de variables clíniques, TA, SPO2, Fc, Fr, risc UPP, Index
+Barthel, risc de caigudes.
+Efectuarem una valoració integral del pacient per tal de poder conèixer les seves
+necessitats i establir el pla de cures partint dels problemes identificats al Pla de cuers de
+l'IPA pacient. Realitzarem l'entrevista per recollir les dades de forma informatitzada a peu
+de llit amb ajuda del dispositiu mòbil. Identificarem la col·locació de dispositius especials
+(vasculars, vesicals, ostomies...) i farem el registre al pla de cures del pacient i els
+registrarem al mòdul Registres Especials.
+Informarem el pacient que no pot prendre cap medicament no administrat per infermeria i
+que és possible que hagin d'aportar els fàrmacs que no estan en el petitori de l’hospital,
+se'ls informarà si fos necessari.
+Notificarem al metge responsable del pacient que ha ingressat per disposar de la pauta de
+prescripció al més aviat possible.
+Posarem en marxa tots els mecanismes de seguretat per aconseguir un entorn segur lliure
+d’obstacles.
+Material
+
+
+Acollida electiva del pacient a la unitat d'hospitalització en situació
+de pandèmia 
+Documentació: identificació administrativa del pacient, documentació clínica,
+documentació específica de la unitat, full informatiu. 
+Braçalet identificatiu. 
+Material per extreure analítica.
+Bata no estèril: codi SAP 180536
+Guants d'un sol ús: codi SAP 180457 (S), 180458 (M), 180459 (L)
+Mascareta quirúrgica: codi SAP: 193925
+Aspectes a remarcar
+Assegurarem el manteniment de la confidencialitat de les dades del pacient tant pel que fa
+a la documentació clínica, com a la informació verbal i/o telefònica.
+Preservarem la màxima intimitat durant el procés de l'entrevista i recollida de dades, així
+com durant l'exploració física si és necessària (portes tancades, cortines de separació
+posades, etc.).
+ Registrarem si el pacient arriba a la unitat amb ulleres, pròtesi dental, audiòfon i/o
+dispositius per a la seva mobilitat.
+ Identificarem els riscos a la capçalera de l'IPA, al SAP i a la Valoració a l'ingrés.
+Valorarem i respectarem les preferències del pacient quant al tracte que vol que se li doni
+(nom, tuteig, etc.).
+En l'acollida del pacient i l'acompanyant fomentarem un clima de confiança per afavorir la
+participació activa en el seu procés.
+Ansietat
+Codi NANDA
+00146
+Codi Nic
+5820
+Intervenció
+Disminució de l'ansietat
+
+
+Acollida electiva del pacient a la unitat d'hospitalització en situació
+de pandèmia 
+Coneixement deficient
+Codi NANDA
+00126
+Codi Nic
+5618
+Intervenció
+Ensenyament: procediments / tractament
+Afrontament familiar compromès
+Codi NANDA
+00074
+Codi Nic
+5440
+Intervenció
+Augmentar els sistemes de suport
+Problemes relacionats amb el procediment
+Desesperança relacionada amb l'aïllament social i la pandèmia de COVID-19
+Codi NANDA: 00124
+Codi NIC: 5270
+Intervenció: recolzament emocional.
+Deteriorament de la regulació de l’estat d’ànim.
+Codi NANDA: 00241
+Codi NIC: 4920
+Intervenció: escolta activa.
+Riscos Laborals
+
+
+Acollida electiva del pacient a la unitat d'hospitalització en situació
+de pandèmia 
+Mesures de prevenció de manipulació de càrregues
+Contacte amb agents biològics
+Riscos de caigudes
+Actuació front punxada accidental
+Indicadors d'Avaluació
+Percentatge de pacients amb identificació inequívoca.
+Percentatge de pacients amb registre de variables clíniques i valoració del dolor a l'ingrés
+respecte al nombre total de pacients ingressats.
+Percentatge de pacients amb valoració Infermera a l'ingrés realitzada durant les primeres
+24 h respecte al nombre total de pacients ingressats.
+Registres
+Portal professional
+Valoració pacient
+Agenda de cures
+Registres clínics
+Registres especials
+Pla de cures
+PiA (Prescripció i administració)
+Entrades i sortides
+SAP

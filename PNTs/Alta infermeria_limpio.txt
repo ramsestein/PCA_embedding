@@ -1,0 +1,309 @@
+Seqüència d'intervencions que es realitzen per elaborar l’alta del pacient, la qual és un procés
+multidisciplinari que s’inicia des del moment de l’ingrés i continua durant l’hospitalització, la
+qual cosa implica la màxima coordinació entre els equips que hi participen.Seqüència
+d'intervencions que es realitzen per elaborar l’alta del pacient, la qual és un procés
+multidisciplinari que s’inicia des del moment de l’ingrés i continua durant l’hospitalització, la
+qual cosa implica la màxima coordinació entre els equips que hi participen.
+Objectiu
+Proporcionar la informació que necessita el pacient / familiar i/o d’altres professionals de
+la salut en relació a la situació en la qual es troba la persona en el moment de l’alta, així
+com les mesures/cures que es recomanen continuar.
+Disminuir l’ansietat relacionada amb l’alta hospitalària.
+Garantir la continuïtat de les cures amb altres nivells assistencials.
+Preparar amb anterioritat la darrera etapa de la relació terapèutica amb el pacient, per
+facilitar que expressi tots els dubtes en relació amb la seva alta.
+
+
+
+Responsabilitats
+Administratius/ves
+Auxiliars sanitaris
+Dietistes
+Farmacèutics/ques
+Fisioterapeutes
+Infermers/es
+Metges/esses
+TCAIS
+Treballadors/es socials
+Procediment
+PREPARACIÓ DEL PACIENT ABANS DEL PROCEDIMENT
+Planificació d’alta hospitalària:
+Detectarem el més aviat possible, els dèficits i necessitats socials i familiars que puguin
+retardar l’alta (si viu sol, si té cuidador principal i si hi ha suport familiar per tornar al
+domicili després de l’alta). En cas que es detectin dificultats, ho comunicarem al/la
+treballador/a social de l’Institut, qui es coordinarà amb la UFISS en cas de requerir un
+recurs sociosanitari.
+Determinarem la intervenció dels professionals que tenen relació amb els dèficits detectats
+abans de l’alta, per poder garantir la continuïtat de les cures (treballador/a social, dietista,
+fisioterapeuta).
+Valorarem el grau d’entrenament del pacient i/o cuidador principal per seguir el règim
+terapèutic que precisa (autoadministració d’Insulina, heparina de baix pes molecular
+subcutània, anticoagulants orals, quimioteràpia oral, immunosupressors, inhaladors,
+maneig de la medicació, compliment de la dieta, cures dels estomes, sondes, ferides, etc).
+
+
+
+Ens assegurarem que el pacient i família comprenen el tipus d’alta i derivació que se li
+proposa.
+En cas de requerir material orto-protèsic (cadira rodes, fèrula, caminador, mitges de
+compressió o altres especificats al catàleg del CatSalut), es cursarà la sol·licitud de
+Prestació Ambulatòria Orto-protèsica (PAO), signada i segellada per un metge autoritzat
+sempre i quan el pacient tingui CIP. S’informarà a la família que l’han de tramitar el
+mateix dia de l’alta o amb posterioritat a l'oficina de PAO's a l'edifici de CCEE, c/
+Rosselló nº161, planta 0, Tel. 932279382.
+Confirmarem al pacient i família la data de l’alta, i coordinarem els recursos que necessiti
+per aquesta (ambulància, trasllat amb lliterer).
+Connectarem al pacient/familiar amb grups de suport o altres recursos socio-sanitaris que
+puguin necessitar a l’alta (altres centres, associacions, o ajudes al domicili).
+1. ALTA
+Accedirem al mòdul de registres especials (RE) i retirarem aquells amb els que el pacient
+no marxi d’alta.
+Revisarem el pla de cures del pacient, desactivant tots aquells problemes que estiguin
+resolts a l’alta. Aquells problemes i RE que quedin actius, es bolcaran a l’alta 
+d'infermeria.
+Escriurem l’últim curs evolutiu on deixarem registrat: estat del pacient a l’alta, mitjans
+amb els que marxa d’alta, si marxa sol o acompanyat i aquella informació rellevant
+relacionada amb el tancament de l’episodi de l’ingrés actual (resultat escala Barthel a l’alta
+si s’escau, data propera cura...) Aquest últim curs evolutiu es bolcarà automàticament a
+l’alta d’infermeria.
+Ens assegurarem que totes les perfusions están parades en el mòdul de prescripció i
+administració de medicaments.
+Crearem nou document “Informe alta infermeria”, accedint a la icona “documents” de la
+capçalera del pacient ( Vegeu PNT “ : creació document a SAP ”). Un cop
+obert el document, de forma automàtica es bolcarà: perfil del pacient, problemes que
+quedin en actiu, RE que quedin oberts a l’alta i últim curs evolutiu.
+Revisarem que tota la informació sigui la correcta en relació amb l’estat del pacient a
+l’alta, i escriurem a la pestanya “Observacions” allò que no hagi quedat registrat però sigui
+important deixar constància. A obstetrícia s'adjunten, en aquesta pestanya, les
+recomanacions a l'alta corresponents. En el cas de facilitar informació o recomanacions de
+
+
+
+pàgines web, ho farem constar a l’informe d’alta a la pestanya “Prescripció de la
+informació”.
+Confirmarem que té les receptes CAT SALUT.
+Reforçarem el coneixement que té el pacient/família sobre la medicació prescrita, si
+procedeix.
+En cas de visita posterior a COEX (Consultes Externes), confirmarem que té el full de
+citació per a la propera visita a COEX, Hospital de dia o seguiment ambulatori, així com
+també les citacions de les exploracions complementàries programades.
+En cas de visita abans dels 30 dies posteriors a l’alta hospitalària i quan sigui necessari
+transport (ambulància) s’ha de donar al pacient el full de sol·licitud de transport sanitari,
+signat pel metge.
+En cas de medicació amb controls periòdics (Sintrom®), verificar la pauta segons l’últim
+control.
+1.1. Alta a domicili
+En funció de les necessitats de cures al domicili, les gestores de casos o gestores de
+pacients (en funció de l’institut), contactaran amb l’ABS de referència a través del mail de
+Prealt o telèfon (ABS esquerra Eixample), per la resta de CAP’s, només via mail.
+En cas d’activació de PADES, qui farà el contacte amb ABS serà Treball Social, UFFISS
+o Pal·liatius (segons institut).
+En el cas d’HDOM, l’infermera avaluadora contactarà amb els gestors/es de casos dels
+centres d’atenció primària de referència, en el cas que el pacient requereixi d’un seguiment
+per la seva part.
+Quan es doni l'alta a pacients del servei d'addiccions, els professionals de Treball Social
+faran coordinacions i derivacions als serveis comunitaris (CAP, CSS, CAS, altres unitats
+hospitalàries, comunitats terapèutiques, pis terapèutic, etc...) depenent de les necessitats
+del pacient i pla de treball pactat ( Vegeu PNT relacionat)
+1.2. Alta a domicili amb requeriments d’equips de teràpia respiratòria (O2), nutrició
+enteral i rehabilitació domiciliària
+En cas que el pacient necessiti equips de teràpia respiratòria a domicili, el metge
+responsable del pacient es posarà en contacte amb el Servei de Pneumologia, el qual farà
+els tràmits pertinents per a que el pacient disposi dels equips al seu domicili.
+
+
+
+En cas que el pacient necessiti nutrició enteral domiciliaria o suplements, la Unitat de
+Dietètica a través de la dietista que porti el cas, elaborarà una pauta dietètica de sortida de
+l’hospital, informarà el pacient i família dels consells d’administració de l’alimentació,
+forma d’administració i normes higièniques, acompanyades de la pauta d’alimentació
+escrita. També li facilitarà els productes més immediats, material necessari per a la seva
+administració i tramitarà els passos necessaris pel subministrament domiciliari.
+En cas que el pacient precisi rehabilitació, el metge signarà el full de derivació. Treball
+Social informarà al pacient/família, coordinarà amb el centre proveïdor corresponent i
+gestionarà la sol·licitud amb el servei, de la manera adient i segons indicacions del Servei
+Català de la Salut.
+1.3. Alta a domicili amb seguiment per PADES (Programa Atenció Domiciliària per
+Equips de Suport)
+En cas de requerir seguiment per un equip de PADES, es contactarà amb Treball Social de
+l’Institut, o en el cas de l’ICMHO amb les infermeres de la Unitat de Suport i Cures Pal·liatives
+perquè avaluïn al pacient i gestionin el seguiment amb l’equip corresponent al domicili.
+En cas de ser donat d’alta amb tractament subcutani, es proporcionarà la medicació pautada per
+les primeres 24-48h (o quan estigui prevista la primera visita per part de l’equip de PADES al
+domicili).
+1.4. Alta amb ingrés a HDOM (vegeu PNT Valoració i inclusió del pacient candidat a
+Hospitalització a Domicili (HDOM) )
+L’ingrés a SAP el realitzarà l’administratiu del Dispositiu d’HDOM a excepció del pacient
+que es trobi ubicat al Servei d’Urgències.
+L’administratiu/va de la Unitat on es troba el pacient sol·licitarà l’ambulància especificant
+les condicions en les que s’ha de realitzar el trasllat (cadira/llitera, necessitats d’oxigen,
+mesures d'aïllament,...) i especificant a comentaris “Pacient HDOM. Acompanyar pacient
+al domicili”.
+La infermera referent del pacient, quan sigui necessari, entregarà el tractament oral per les
+primeres 24h a domicili i garantirà la seva comprensió.
+Conjuntament amb la infermera d’HDOM educarà de les cures/tècniques a realitzar al
+domicili i entregarà els fulls informatius per garantir la seguretat i el compliment
+terapèutic fins la primera visita a domicili.
+
+
+
+L’equip referent del pacient a l’Hospital entregarà el seus informes d’alta (Destí alta:
+Hosp. a domicili) i les citacions per les properes visites de control a l’hospital.
+L'administrativa de la Unitat realitzarà l’alta del pacient a SAP. (Destí alta: Hosp. a
+domicili).
+1.5. Alta a altres centres: Centre SocioSanitari, Residència, Centre de Salut Mental de
+mitja i llarga estada, Hospital d’Aguts
+Només es lliuren receptes en els trasllats a centres sociosanitaris.
+Prepararem al pacient pel seu trasllat.
+Si fos necessària la realització d’una exploració complementària ambulatòria , lliurarem
+tant el full de preparació, com la medicació prèvia (pe. Solució Bohm, Moviprep...) al
+pacient família.
+En el cas de el pacient hagi de seguir tractament amb mediació d’ús hospitalari, se li
+proporcionarà les receptes (Prosereme) necessàries fins a la propera visita ambulatòria.
+SEQÜÈNCIA D’ACCIONS
+Crearem el document d’alta d’infermeria a SAP (IA_ALTA_EN) ( vegeu PNT “Alta
+infermeria: creació document a SAP ") i complimentarem el seu contingut.
+Donarem el document de l’alta d’infermeria al pacient o família, reforçant verbalment
+totes les recomanacions que s’han donat al document escrit. S’entregarà doble còpia quan
+el pacient sigui traslladat a residència o centre sociosanitari.
+Comprovarem que el pacient i família recullen i s’emporten les seves pertinences al
+moment de l’alta, tant les que tenen al seu abast, com les que estiguin custodiades pel
+Servei de Seguretat de l’hospital.
+Prepararem al pacient i ens assegurarem que, en el cas que marxi amb dispositius,
+(drenatges, sondes, apòsits i altres), aquests es troben correctament fixats i preparats pel
+trasllat. En el cas que no marxi amb cap dispositiu, ens assegurarem que no els porta.
+Col·laborarem en el trasllat, tenint cura que l’acomodació del pacient sigui segura i
+correcta.
+Acomiadarem al pacient i família.
+En cas de pacients dependents, amb mobilitat reduïda o persones grans, l’auxiliar sanitari
+l’acompanyarà fins a la sortida i restarà amb ell fins que els familiars apropin el seu mitjà
+de transport o bé, agafi un taxi.
+Registrarem al curs evolutiu si el pacient es trasllada amb ambulància.
+
+
+
+Endreçarem tota la documentació del pacient en paper i la deixarem dins del sobre de la
+Història Clínica, per enviar a l’arxiu central.
+OBSERVACIONS
+Cal assegurar el manteniment de la confidencialitat de les dades del pacient pel que fa a la
+documentació clínica i a la informació verbal proporcionada.
+Cal afavorir l’expressió de dubtes per part del pacient i/o família i assegurar la seva
+comprensió respecte a l’alta i les cures a seguir.
+Material
+Alta infermera i recomanacions
+Alta mèdica
+Receptes del CAT SALUT, excepte en el cas dels accidents de trànsit
+Citació per a visites a CCEE o Hospital de Dia
+Sol·licitud d’ambulància, en cas de requeriment de transport sanitari en els propers 30 dies
+posteriors a l’alta hospitalària
+En cas de necessitat: pauta de Sintrom® (Servei d’Hemostàsia)
+Material específic quan procedeixi
+Aspectes a remarcar
+Una adequada planificació de l’alta des de l’ingrés, redueix els dies d’estada innecessaris
+pel pacient.
+Verificarem que el/la pacient i la família han comprès tota la informació verbal i escrita
+proporcionada.
+Ens assegurarem que el/la pacient i la família, marxen d’alta amb els documents entregats
+i les seves pertinences.
+En cas de d’èxitus del/la pacient, no és necessari realitzar l’alta d’infermeria.
+Ansietat
+
+
+
+Codi NANDA
+00146
+Codi Nic
+5820
+Intervenció
+Disminució de l'ansietat
+Maneig inefectiu del regim terapèutic
+Codi NANDA
+00078
+Codi Nic
+7140
+Intervenció
+Suport a la família
+Maneig inefectiu del regim terapèutic
+Codi NANDA
+00078
+Codi Nic
+7040
+Intervenció
+Suport al cuidador principal
+Alta voluntària
+Activitat
+Avisarem el metge responsable i/o al metge de guàrdia (vegeu
+document del Comitè d’Ètica Assistencial: “ Rebuig al tractament” i
+
+
+
+alta voluntària”).
+Enregistrarem al Curs Clínic: sol•licitud d’alta voluntària, motius que
+expressa el malalt, avis al metge, i l’hora i tràmits efectuats
+Alta per fuga
+Activitat
+Avisarem a Seguretat - telèfon 2026 (H. Clínic) o al Buscapersones
+382026 (H. Maternitat) - i immediatament avisarem el metge
+responsable i/o metge de guàrdia.
+Enregistrarem al Curs Clínic: com ha estat la fuga, el temps que fa que
+hem detectat l’absència, les condicions del malalt en el moment de la
+fuga (si portava vies, sondes, altres) i l’avís al metge responsable /
+Seguretat.
+El metge és qui decidirà quan es realitza l’alta administrativa, i el
+responsable de trucar i informar a la família
+Barrera idiomàtica i/o cultural
+Activitat
+Contactar amb el servei de mediació Intercultural, adscrit a la Unitat
+d’Atenció al Client. Seu Villarroel:
+àrab magrebí: de dilluns a divendres de 9 a 15h al busca 380554
+xinés: divendres de 10 a 16h al busca 380051
+urdú: dijous de 9 a 14h al busca 38216
+Seu Maternitat:
+xinés: dilluns i dimecres de 10 a 16h al busca 380051
+àrab magrebí: dilluns a dijous de 10 a 15h i divendres de 10 a 14h al
+busca 380052
+urdú: divendres de 9 a 14h al busca 38216
+Per a la seu Plató s’ha de contactar i per a altres mediadors
+interculturals no indicats, el servei s’ha de dirigir al 061 CatSalut
+Respon https://sem.gencat.cat/ca/061-salut-respon/serveis-als-
+professionals/
+
+
+
+Pèrdua d’objectes personals (pròtesi dental, ulleres, audiòfon, roba,
+etc.)
+Activitat
+El pacient i/o familiars hauran d’adreçar-se a la Unitat d’Atenció al
+Client on atendran la seva reclamació
+És important que el servei o unitat d’hospitalització, tingui constància
+de que l’objecte personal el portava durant aquest episodi
+d’hospitalització. Ha d’estar enregistrat en la valoració del pacient a
+l’ingrés
+A l’Hospital de la Maternitat, adreçar-se al servei d’Admissions, les 24h
+del dia
+Coneixements deficients
+Codi NANDA
+00126
+Codi Nic
+5520
+Intervenció
+Facilitar l'aprenentatge
+Coneixements deficients
+Codi NANDA
+00126
+Codi Nic
+5510
+Intervenció
+Educació terapèutica
+
+
+
+Riscos Laborals
+Mesures de prevenció de manipulació de càrregues
+Conflictes amb la família del malalt (agressions verbals i físiques)
+Indicadors d'Avaluació
+Nombre d'altes d'infermeria alliberades respecte al total de pacients donats d’alta x 100
+Nombre d'altes amb pla de cures revisat i actualitzat respecte al total de pacients donats
+d'alta x 100
+Registres
+Alta d'infermeria

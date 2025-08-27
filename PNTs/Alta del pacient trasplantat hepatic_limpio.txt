@@ -1,0 +1,197 @@
+Seqüència d’intervencions infermeres que es realitzen al pacient trasplantat de fetge i a la seva
+família, en el procés de preparació de l’alta hospitalària.
+Objectiu
+Proporcionar la informació que necessita el pacient i la seva família/cuidador i/o d’altres
+professionals de la salut en relació amb la situació en la qual es troba la persona en el
+moment de l’alta, per garantir la continuïtat de les cures en el seu domicili.
+Garantir la continuïtat de les cures amb altres nivells assistencials.
+Proporcionar la informació que necessita el pacient / familiar.
+Disminuir l’ansietat relacionada amb l’alta hospitalària i facilitar que el
+pacient/família/cuidador expressi tots els dubtes en relació amb la seva alta.
+Responsabilitats
+
+
+Alta del pacient trasplantat hepàtic 
+Coordinadors/es
+Fisioterapeutes
+Infermers/es
+Metges/esses
+Nutricionistes
+TCAIS
+Treballadors/es socials
+Procediment
+SEQÜÈNCIA D’INTERVENCIONS:
+Prèvies a l’alta del pacient:
+Comprovar que la família i el pacient estan informats de l'alta.
+Realitzar interconsulta informàticament amb el Servei de Dietètica.
+Realitzar interconsulta informàticament amb la IPA post TOH (ext. 9865)
+Avisar telefònicament a la treballadora social, si el pacient necessita algun tipus de recurs
+social.
+Realitzar l’alta d’infermeria.
+Entregar i recollir les enquestes de satisfacció del pacient i del familiar/cuidador
+trasplantat hepàtic.
+Avisar a l'administrativa de la unitat, per a la sol·licitud del transport sanitari, en cas de
+necessitat.
+En el moment d’alta: comprovarem que li hem lliurat tots els documents:
+Informe Alta d'infermeria.
+Informe Alta mèdica.
+Recomanacions a l’alta.
+Recepta electrònica del CatSalut.
+Prescripció de medicaments Prosereme:
+
+
+Alta del pacient trasplantat hepàtic 
+Dispensar recepta de medicaments Prosereme a l’alta del pacient i verificar que el
+pacient recull el medicament a la Farmàcia Ambulatòria Esc 8b soterrani de 09:00 h
+a 15:30 h.
+Una vegada donat d’alta, les següents receptes es realitzaran informàticament pel seu
+metge de referència a cada visita concertada a consultes externes (CCEE). MAI ES
+POT FER UNA RECEPTA DE PROSEREME SI EL PACIENT ESTÀ
+INGRESSAT.
+ Fàrmacs que precisen receptes de Prosereme: 
+Immunoglobulina antihepatitis B niuliva ev (si es prescriu IM no és necessària
+la recepta de Prosereme)
+Rivabirina
+Lamivudina / Zeffix
+Adefovir, Entecavir i Tenofovir
+Aranesp (Darbepoetina alfa)
+Neorecormon (Epoetina beta)
+Sildenafilo
+Iloprost
+Pentamidina (programar cita en HD infeccions)
+Valganciclovir
+Programació d’analítica al laboratori central.
+Programació de visita a CCEE, amb el metge de referència i IPA post TOH.
+Programació de visita a CCEE amb addiccions si és necessari, pel seu seguiment.
+Donarem el document de l’alta d’infermeria al pacient o família/cuidador, reforçant
+verbalment totes les recomanacions que s’han donat al document escrit. S’entregarà doble
+còpia quan el pacient sigui traslladat a residència o centre sociosanitari.
+Comprovarem que el pacient i família/cuidador recullen i s’emporten les seves pertinences
+al moment de l’alta, tant les que tenen al seu abast, com les que estiguin custodiades pel
+servei de seguretat de l’hospital.
+Prepararem al pacient i ens assegurarem que tots els dispositius (drenatges, sondes, apòsits
+i altres), estan correctament fixats i preparats pel trasllat.
+Col·laborar en el trasllat, tenint cura que l’acomodació del pacient sigui segura i correcta.
+Acomiadarem al pacient i família/cuidador.
+
+
+Alta del pacient trasplantat hepàtic 
+En cas de pacients dependents, amb mobilitat reduïda o persones grans, l’auxiliar sanitari
+l’acompanyarà fins a la sortida i restarà amb ell fins que el familiar/cuidador apropin el
+seu mitjà de transport o bé, agafi un taxi.
+Registrarem al curs clínic si el pacient es trasllada amb ambulància.
+Actualitzarem l’alta administrativa del pacient, de planificada a real al sistema SAP.
+OBSERVACIONS:
+Cal assegurar el manteniment de la confidencialitat de les dades del pacient pel que fa a la
+documentació clínica i a la informació verbal proporcionada.
+Cal afavorir l’expressió de dubtes per part del pacient, família i/o cuidador, i assegurar la
+seva comprensió respecte a l’alta i les cures a seguir.
+Material
+Alta mèdica
+Alta d’infermeria
+Recomanacions a l’alta
+Citació per a visites a CCEE
+Programació d’analítica
+Material específic, quan procedeixi
+Aspectes a remarcar
+Comentarem amb el metge qualsevol incidència que es detecti.
+Treballarem en equip (infermera, metge, TCAI) de forma coordinada a fi de poder
+aconseguir l’objectiu proposat.
+Una adequada planificació de l’alta des de l’ingrés, redueix els dies d’estada innecessaris
+pel pacient.
+Verificarem que el pacient i la família/cuidador han comprès tota la informació verbal i
+escrita proporcionada.
+Ens assegurarem que el pacient i la família/cuidador, marxen d’alta amb els documents
+entregats i les seves pertinences.
+Fàrmacs que precisen receptes de prosereme: 
+
+
+Alta del pacient trasplantat hepàtic 
+Inmunoglobulina antihepatitis B Niuliva EV (si es prescriu IM no és necessària la
+recepta de Prosereme)
+Rivabirina
+Lamivudina / Zeffix
+Adefovir, Entecavir i Tenofovir
+Aranesp (Darbepoetina alfa)
+Neorecormon (Epoetina beta)
+Sildenafilo
+Iloprost
+Pentamidina (programar cita en HD infeccions)
+Valganciclovir
+Ansietat
+Codi NANDA
+00146
+Codi Nic
+5820
+Intervenció
+Disminució de l'ansietat
+Coneixements deficients
+Codi NANDA
+00126
+Codi Nic
+5510
+Intervenció
+Educació terapèutica
+
+
+Alta del pacient trasplantat hepàtic 
+Maneig inefectiu del regim terapèutic
+Codi NANDA
+00078
+Codi Nic
+7140
+Intervenció
+Suport a la família
+Maneig inefectiu del regim terapèutic
+Codi NANDA
+00078
+Codi Nic
+7040
+Intervenció
+Suport al cuidador principal
+Barrera idiomàtica i/o cultural
+Activitat
+Contactar amb el servei de mediació Intercultural, adscrit a la Unitat
+d’Atenció al Client. Seu Villarroel:
+àrab magrebí: de dilluns a divendres de 9 a 15h al busca 380554
+xinés: divendres de 10 a 16h al busca 380051
+urdú: dijous de 9 a 14h al busca 38216
+Seu Maternitat:
+xinés: dilluns i dimecres de 10 a 16h al busca 380051
+àrab magrebí: dilluns a dijous de 10 a 15h i divendres de 10 a 14h al
+busca 380052
+
+
+Alta del pacient trasplantat hepàtic 
+urdú: divendres de 9 a 14h al busca 38216
+Per a la seu Plató s’ha de contactar i per a altres mediadors
+interculturals no indicats, el servei s’ha de dirigir al 061 CatSalut
+Respon https://sem.gencat.cat/ca/061-salut-respon/serveis-als-
+professionals/
+Pèrdua d’objectes personals (pròtesi dental, ulleres, audiòfon, roba,
+etc.)
+Activitat
+El pacient i/o familiars hauran d’adreçar-se a la Unitat d’Atenció al
+Client on atendran la seva reclamació
+És important que el servei o unitat d’hospitalització, tingui constància
+de que l’objecte personal el portava durant aquest episodi
+d’hospitalització. Ha d’estar enregistrat en la valoració del pacient a
+l’ingrés
+A l’Hospital de la Maternitat, adreçar-se al servei d’Admissions, les 24h
+del dia
+Riscos Laborals
+Contacte amb agents biològics
+Mesures de prevenció postures forçades
+Indicadors d'Avaluació
+Percentatge de pacients amb la interconsulta del nutricionista i la IPA de post-toh
+realitzades.
+Percentatge de pacients que marxen amb tota la documentació correcta.
+Percentatge de pacients/familiars que emplenen les enquestes de satisfacció.
+Registres
+SAP
+
+
+Alta del pacient trasplantat hepàtic 
+Alta d'infermeria
+Registres clínics
+Portal professional

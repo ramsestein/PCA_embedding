@@ -1,0 +1,194 @@
+[
+    {
+        "query": "Com dono alta a un pacient pal·liatiu amb hospitalització a domicili?",
+        "document_expected": "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio.txt"
+    },
+    {
+        "query": "Qui gestiona l'ingrés al centre d'atenció intermèdia en situació de final de vida?",
+        "document_expected": "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio.txt"
+    },
+    {
+        "query": "Quines escales haig de passar en la valoració integral d'una pacient amb patologia oncològica ginecològica?",
+        "document_expected": "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio.txt"
+    },
+    {
+        "query": "A qui haig de fer interconsulta en cas de pacient d'onco gine?",
+        "document_expected": "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio.txt"
+    },
+    {
+        "query": "Qui ha d'aprovar que es doni una prestació fora del SISCAT, de caràcter excepcional?",
+        "document_expected": "Acces a lassistencia sanitaria per a convenis internacionals i prestacions de caracter excepcional CASCIPE_limpio.txt"
+    },
+    {
+        "query": "Dona'm l'enllaç d'accés al CASCIPE",
+        "document_expected": "Acces a lassistencia sanitaria per a convenis internacionals i prestacions de caracter excepcional CASCIPE_limpio.txt"
+    },
+    {
+        "query": "Qui fa l'acollida en situació de pandèmia?",
+        "document_expected": "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio.txt"
+    },
+    {
+        "query": "Quines variables clíniques es recullen en cas d'acollida de pacient en pandèmia?",
+        "document_expected": "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio.txt"
+    },
+    {
+        "query": "Amb qui haig de coordinar la medicació a administrar quan un pacient ingressa al CDI?",
+        "document_expected": "Acollida i atencio integral al pacient en el CDI_limpio.txt"
+    },
+    {
+        "query": "En pacient amb DAI a radiologia, cal portar el desfibril·lador?",
+        "document_expected": "Acollida i atencio integral al pacient en el CDI_limpio.txt"
+    },
+    {
+        "query": "Què he de fer en una crisi tonicoclònica?",
+        "document_expected": "Actuacio davant una crisi epileptica generalitzada tonicoclonica a la unitat depilepsia_limpio.txt"
+    },
+    {
+        "query": "Quant de temps ha d'estar monitoritzat després d'una crisi tonicoclònica?",
+        "document_expected": "Actuacio davant una crisi epileptica generalitzada tonicoclonica a la unitat depilepsia_limpio.txt"
+    },
+    {
+        "query": "Cercapersones de la llevadora sènior de la mater",
+        "document_expected": "Actuacio en situacions demergencia obstetrica seu Maternitat circuit de trucades interdisciplinars davis_limpio.txt"
+    },
+    {
+        "query": "Quin és el número d'emergència a la seu de maternitat?",
+        "document_expected": "Actuacio en situacions demergencia obstetrica seu Maternitat circuit de trucades interdisciplinars davis_limpio.txt"
+    },
+    {
+        "query": "Què puc fer per afavorir el descans nocturn d'un pacient?",
+        "document_expected": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio.txt"
+    },
+    {
+        "query": "Pot quedar-se un familiar durant la nit?",
+        "document_expected": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio.txt"
+    },
+    {
+        "query": "Què puc nebulitzar d'antibiòtic?",
+        "document_expected": "Administracio dantibiotics via inhalatoria_limpio.txt"
+    },
+    {
+        "query": "Com nebulitzo un antibiòtic en un pacient amb cànula de plata?",
+        "document_expected": "Administracio dantibiotics via inhalatoria_limpio.txt"
+    },
+    {
+        "query": "Número del cercapersones de l'equip d'HDOM",
+        "document_expected": "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio.txt"
+    },
+    {
+        "query": "A quina temperatura s'ha de guardar el levosimendan?",
+        "document_expected": "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio.txt"
+    },
+    {
+        "query": "Quan hauria d'utilitzar cambra espaiadora per nebulitzar?",
+        "document_expected": "Administracio de medicaments Via Inhalatoria Pols seca_limpio.txt"
+    },
+    {
+        "query": "Com s'ha de col·locar la llengua en la nebulització de medicació?",
+        "document_expected": "Administracio de medicaments Via Inhalatoria Pols seca_limpio.txt"
+    },
+    {
+        "query": "Quins medicaments es nebulitzen en forma de pols seca?",
+        "document_expected": "Administracio de medicaments Via inhalatoria amb cartutx pressuritzat_limpio.txt"
+    },
+    {
+        "query": "Com s'utilitza la nebulització en forma de pols seca en monodosi?",
+        "document_expected": "Administracio de medicaments Via inhalatoria amb cartutx pressuritzat_limpio.txt"
+    },
+    {
+        "query": "A quants litres s'ha de posar l'aire en la nebulització de medicació?",
+        "document_expected": "Administracio de medicaments Via inhalatoria_limpio.txt"
+    },
+    {
+        "query": "Nebulitzo la medicació amb oxigen o amb aire?",
+        "document_expected": "Administracio de medicaments Via inhalatoria_limpio.txt"
+    },
+    {
+        "query": "Què podem administrar per via intradèrmica?",
+        "document_expected": "Administracio de medicaments Via intradermica_limpio.txt"
+    },
+    {
+        "query": "Com sé que he administrat un fàrmac intradèrmic correctament?",
+        "document_expected": "Administracio de medicaments Via intradermica_limpio.txt"
+    },
+    {
+        "query": "Com carrego medicació per administració intramuscular?",
+        "document_expected": "Administracio de medicaments Via intramuscular_limpio.txt"
+    },
+    {
+        "query": "Quin volum màxim puc administrar de forma intramuscular?",
+        "document_expected": "Administracio de medicaments Via intramuscular_limpio.txt"
+    },
+    {
+        "query": "Com s'administra un fàrmac en bolus?",
+        "document_expected": "Administracio de medicaments Via intravenosa_limpio.txt"
+    },
+    {
+        "query": "On preparo la medicació IV d'un pacient domiciliari?",
+        "document_expected": "Administracio de medicaments Via intravenosa_limpio.txt"
+    },
+    {
+        "query": "Quins tipus de medicació via oftàlmica hi ha?",
+        "document_expected": "Administracio de medicaments Via oftalmica_limpio.txt"
+    },
+    {
+        "query": "Durant quant temps puc guardar un col·liri per reutilitzar-lo?",
+        "document_expected": "Administracio de medicaments Via oftalmica_limpio.txt"
+    },
+    {
+        "query": "Com sé si un fàrmac està en bon estat?",
+        "document_expected": "Administracio de medicaments Via oral_limpio.txt"
+    },
+    {
+        "query": "Com administro un fàrmac via oral a un pacient amb disfàgia?",
+        "document_expected": "Administracio de medicaments Via oral_limpio.txt"
+    },
+    {
+        "query": "Com identifico una ploma d'insulina d'un pacient?",
+        "document_expected": "Administracio dinsulina Via subcutania_limpio.txt"
+    },
+    {
+        "query": "Efectes secundaris de la insulina",
+        "document_expected": "Administracio dinsulina Via subcutania_limpio.txt"
+    },
+    {
+        "query": "En quant puc diluir el ferinject?",
+        "document_expected": "Administracio segura de ferroterapia intravenosa al domicili_limpio.txt"
+    },
+    {
+        "query": "Quins són els efectes secundaris més importants del ferro IV?",
+        "document_expected": "Administracio segura de ferroterapia intravenosa al domicili_limpio.txt"
+    },
+    {
+        "query": "Què haig de fer en cas de tenir un pacient en aïllament social no desitjat?",
+        "document_expected": "Aillament social solitud_limpio.txt"
+    },
+    {
+        "query": "A qui haig de fer interconsulta si tinc un pacient aïllat?",
+        "document_expected": "Aillament social solitud_limpio.txt"
+    },
+    {
+        "query": "La ribavirina necessita recepta de prosereme?",
+        "document_expected": "Alta del pacient trasplantat hepatic_limpio.txt"
+    },
+    {
+        "query": "Consideracions en pautar pentamidina",
+        "document_expected": "Alta del pacient trasplantat hepatic_limpio.txt"
+    },
+    {
+        "query": "Què haig de revisar a l'alta d'un pacient d'infermeria?",
+        "document_expected": "Alta infermeria_limpio.txt"
+    },
+    {
+        "query": "Què puc prescriure com a infermera a l'alta?",
+        "document_expected": "Alta infermeria_limpio.txt"
+    },
+    {
+        "query": "Qui dona la magnetoteràpia?",
+        "document_expected": "Aplicacio de la tecnica terapeutica magnetoterapia_limpio.txt"
+    },
+    {
+        "query": "Puc fer magnetoteràpia en un pacient amb audiòfons?",
+        "document_expected": "Aplicacio de la tecnica terapeutica magnetoterapia_limpio.txt"
+    }
+]

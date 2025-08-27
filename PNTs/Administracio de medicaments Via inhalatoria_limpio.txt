@@ -1,0 +1,212 @@
+Administració de medicació per via inhalatòria nebulitzada a pacients amb respiració espontània
+consisteix en la utilització d’un dispositiu, el nebulitzador, que és capaç de transformar una
+solució líquida en un aerosol de partícules suspeses en un gas, que resulta fàcil per a la
+inhalació.
+Aquest procediment està íntimament relacionat: Vegeu procediment d’Administració segura de
+medicaments.
+Objectiu
+Administrar de forma segura la medicació nebulitzada prescrita.
+Realitzar educació  terapèutica i aconseguir efectes beneficiosos per tal de
+garantir/potenciar l’adhesió al tractament, ja sigui durant l’ingrés hospitalari com a l’alta
+en pacients amb tractament nebulitzador a domicili.
+Detectar precoçment els possibles efectes secundaris que pot presentar el pacient a causa
+de la medicació.
+NOC 2301: resposta a la medicació
+
+
+Administració de medicaments. Via inhalatòria
+NOC 0802: signes vitals
+NOC 230105: reacció al·lèrgica
+Responsabilitats
+Infermers/es
+Procediment
+És imprescindible revisar les recomanacions generals i les referents al medicament del
+procediment. ( Vegeu PNT Administració segura de medicaments)
+Preparació del pacient abans del procediment:
+Seguir les recomanacions per a la correcta administració del fàrmac mitjançant les notes
+de farmàcia.
+Informar el pacient, si està conscient, del procediment a realitzar.
+Col·locar el pacient en posició sedestació o fowler.
+Personal: Infermera
+SEQÜÈNCIA D’INTERVENCIONS:
+Verificar la  medicació al PIA (Mòdul de prescripció i administració de medicació) del
+pacient i procedirem a preparar la seva medicació.
+Seguir les recomanacions d’higiene de mans o ús de les solucions hidroalcohòliques.
+(Vegeu procediment: Higiene de les mans )
+Es manipularà el medicament seguint les normes d’higiene recomanades.
+Posar atenció als 5 punts bàsics: (pacient, fàrmac, dosi, via i hora, siguin els correctes).
+Revisar que l’embalatge estigui íntegre, l’etiquetatge ben identificat i que no estigui
+caducat.
+Comprovar novament la identificació del pacient. (Vegeu procediment: Identificació
+inequívoca del pacient)
+S’ha d’avaluar  els signes vitals del pacient per saber si està en condicions de rebre el
+medicament que se li administrarà.
+
+
+Administració de medicaments. Via inhalatòria
+Introduir el volum total del medicament prescrit, a la cassoleta del Kit nebulitzador.
+Es connectarà la cassoleta a la mascareta i a la tubuladura, i connectarem el kit
+nebulitzador a la presa d’aire o oxigen, segons necessitats del pacient, entre  5-8 litres per
+minut.
+S’ha de verificar que el pacient manté ben col·locada la mascareta durant el temps
+necessari fins a exhaurir la medicació. (7/8 minuts)
+Fer un seguiment dels efectes terapèutics amb la valoració i vigilància del pacient.
+En finalitzar el tractament nebulitzador s’aconsella glopejar amb aigua o antisèptic oral per
+tal d’evitar l’aparició d’aftes bucals. Sobretot quan es tracta de fàrmacs que contenen
+corticoides.
+ATENCIÓ A GRUPS DE PACIENTS:
+Pacients amb oxigenoteràpia ? 28%
+Afegir unes cànules nasals amb un flux d'oxigen de 2 litres per minut.
+Posar mascareta nasobucal i kit nebulitzador connectat a l'aire comprimit entre 5-8 l/min.
+ Pacients amb oxigenoteràpia > 28-31%
+Es connectarà la mascareta nasobucal i kit nebulitzador directament a l'oxigen amb un flux
+d'oxigen entre 5-8 litres per minut.
+Pacients amb oxigenoteràpia > 31% (Vegeu Imatge 2)
+Adaptar  tub corrugat(2)a la mascareta nasobucal(1), seguidament connectar al tub
+coarrugat al connector de FiO2 del pacient(3) i  la peça humidificadora(4). La peça
+humidificadora permet adaptar a la vegada la cassoleta nebulitzadora amb oxigenoteràpia
+segons les necessitats del pacient.
+Connectar a la peça humidificadora el kit nebulitzador connectat a l'aire comprimit 5-6
+l/min.
+Pacients amb traqueostomia/traqueotomia
+S’utilitzarà una mascareta articulada en lloc de la nasobucal.
+
+
+Administració de medicaments. Via inhalatòria
+Connectar el Tub corrugat (2) a la mascareta articulada (1) seguida de la peça 
+humidificadora (3). (Vegeu Imatge 3)
+Adaptar la cassoleta (4) a la peça humidificadora intentant mantenir-la en posició vertical.
+Resta de procediment igual, tenint en compte la FiO2 que tingui el pacient
+OBSERVACIONS:
+Durant la nebulització s’evitaran els punts de pressió.
+En finalitzar la nebulització, mantenir  la pell neta i seca evitant irritacions cutànies.
+El kit nebulitzador és material d’un sol ús.
+Material
+Estació mòbil informatitzada de treball (ETM)
+Kit nebulitzador  (Vegeu Imatge 1) cód. SAP 181183
+Mascareta nasobucal  SAP: 181073 o traqueostomia, cód. SAP: 180866
+Medicació a administrar: unidosi  
+Guants no estèrils cód. SAP: 180457 (S), cód.SAP: 180458 (M) i cód.SAP: 180459 (L).
+Tub coarrugat cód. SAP: 181204
+Cànules nasals cód. SAP: 180915
+Peça humidificadora  cód. SAP 187324
+Solució Hidroalcohòlica ( Àrea del medicament)
+Got cód. SAP: 179979 (220 ml.)  amb aigua i/o antisèptic oral ( Àrea del medicament)
+Font: d’aire o oxigen
+Aspectes a remarcar
+Posar atenció als 5 punts bàsics: que el pacient, fàrmac, dosi, via i hora sigui correcte.
+Vigilar que el pacient exhaureixi la medicació.
+Avantatges:
+Es precisa menor col·laboració del pacient.
+Permet administrar conjuntament alguns medicaments, només es poden barrejar
+broncodilatadors i corticoides inhalats; mucolítics i antibiòtics  sempre s’han
+d’administrar de manera individual).
+Es pot administrar en pacients greus i/o inconscients.
+Inconvenients:
+
+
+Administració de medicaments. Via inhalatòria
+Pot produir eritema facial i/o irritació de la mucosa conjuntival.
+Reacció adversa a un medicament (RAM)
+Activitat
+Notificar-ho al sistema de notificació de reaccions adverses
+Avisar el metge
+Error en l'administració
+Activitat
+Notificar-ho al sistema de notificació
+Risc d’aspiració
+Codi NANDA
+00039
+Codi Nic
+6680
+Intervenció
+Monitorització signes vitals/Intervenció
+Risc d’aspiració
+Codi NANDA
+00039
+Codi Nic
+3350
+
+
+Administració de medicaments. Via inhalatòria
+Intervenció
+Monitorització respiratòria
+Risc d’aspiració
+Codi NANDA
+00039
+Codi Nic
+6650
+Intervenció
+Vigilància
+Incidents relacionats amb la medicació. Es notificaran mitjançant
+SNiSP
+Activitat
+Interferències durant la preparació de la medicació
+Medicament erroni
+Omissió de dosi o del medicament
+Dosi incorrecta
+Freqüència errònia
+Forma farmacèutica errònia
+Error en la preparació/manipulació/condicionament del medicament
+Técnica d’administració incorrecta
+Via d’administració errònia.
+Velocitat d’administració errònia
+Hora d’administració incorrecta
+Pacient equivocat
+Duració del tractament incorrecta
+Monitorització insuficient del tractament.
+Medicament deteriorat o caducat
+Rebuig del malalt
+
+
+Administració de medicaments. Via inhalatòria
+Problemes relacionats amb el procediment
+2300 Administració de medicac ió
+ Seguir els cinc principis de l'administració de medicaments
+Observar si existeixen possibles al·lèrgies, interaccions i/o contraindicacions
+Administrar la medicació amb la tècnica i la via adequada
+ Observar els efectes terapèutics de la medicació en el pacient
+2311 Adminitració de medicació: inhalatòria
+6680 Monitorització signes vitals
+Controlar la pressió sanguínia, pols i respiració del pacient
+Controlar periòdicament la freqüència i el ritme respiratori
+Controlar periòdicament saturació oxigen
+3350 Monitoratge respiratòria
+Observar si hi ha disnea i successos que milloren o empitjoren
+6650 Vigilància
+3160 Aspiració de les vies aèries
+Determinar la necessitat de l’aspiració oral/traqueal
+Disposar de precaucions: guants, ulleres, màscara si procedeix
+Anotar el tipus i la quantitat de secrecions extretes
+Riscos Laborals
+Contacte amb agents biològics
+Mesures de prevenció postures forçades
+Riscos Laborals
+Contacte amb agents biològics (Vegeu document:  Mesures de prevenció risc biològic ).
+
+
+Administració de medicaments. Via inhalatòria
+Mobilització del pacient (Vegeu document  Mesures de prevenció postures forçades ).
+Indicadors d'Avaluació
+Percentatge d'errors d'administració de medicaments per via nebulitzada notificats
+mitjançant la plataforma NiSP:  nombre d'errors d'administració de medicaments per via
+nebulitzada notificat / nombre d'errors de medicaments notificats totals
+Percentatge de pacients que no nebulitzen correctament:  nombre de pacients que no
+nebulitzen correctament/ nombre de pacients nebulitzats
+Percentatge de pacients amb lesions cutànies relacionats amb la nebulització:  nombre
+de pacients que presenten lesions cutànies després de nebulitzar/nombre de pacients
+nebulitzats.
+Registres
+PiA (Prescripció i administració)
+Registre de reacció adversa al medicament
+Registre de notificació d’incidents via Plataforma notificació efectes adversos (SNiSP)
+Portal professional
+Registres
+Registre en PIA (constància de l'administració, signatura de la persona que administra,
+motius de la no administració, o administració variable en dosi o hora).
+Registre prescripció electrònica (verificació de la prescripció).
+Anotació al portal professional (incidències i evolutiu, esdeveniments adversos, si s'han
+produït, i si s'ha fet alguna actuació per resoldre la incidència i els contactes i acords
+presos).
+Registre d'administració pròpia d'unitats específiques.
+Registre de reacció adversa al medicament RAM o error d'EM.
