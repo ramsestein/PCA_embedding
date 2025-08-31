@@ -1,0 +1,65 @@
+================================================================================
+REPORTE DE BENCHMARK - MODELO BASELINE (384 dimensiones)
+MODELO: all-MiniLM-L6-v2
+================================================================================
+
+MÉTRICAS EN CATALÁN:
+------------------------------
+Total de preguntas: 48
+Top-1 Accuracy: 0.4792 (47.92%)
+Top-3 Accuracy: 0.6458 (64.58%)
+MRR Score: 0.5860
+Posición promedio: 5.15
+Similitud máxima promedio: 0.4890
+
+MÉTRICAS EN ESPAÑOL:
+------------------------------
+Total de preguntas: 48
+Top-1 Accuracy: 0.3542 (35.42%)
+Top-3 Accuracy: 0.5000 (50.00%)
+MRR Score: 0.4719
+Posición promedio: 7.02
+Similitud máxima promedio: 0.5175
+
+COMPARACIÓN ENTRE IDIOMAS:
+-----------------------------------
+Diferencia Top-1: 12.50 puntos porcentuales
+Diferencia Top-3: 14.58 puntos porcentuales
+Diferencia MRR: 0.1141
+
+DISTRIBUCIÓN DE POSICIONES:
+-----------------------------------
+Catalán:
+  Posición 1: 23 preguntas
+  Posición 2: 4 preguntas
+  Posición 3: 4 preguntas
+  Posición 5: 2 preguntas
+  Posición 6: 3 preguntas
+  Posición 9: 1 preguntas
+  Posición 10: 1 preguntas
+  Posición 11: 3 preguntas
+  Posición 13: 1 preguntas
+  Posición 15: 1 preguntas
+  Posición 16: 2 preguntas
+  Posición 21: 2 preguntas
+  Posición 22: 1 preguntas
+
+Español:
+  Posición 1: 17 preguntas
+  Posición 2: 5 preguntas
+  Posición 3: 2 preguntas
+  Posición 4: 3 preguntas
+  Posición 7: 1 preguntas
+  Posición 8: 3 preguntas
+  Posición 9: 2 preguntas
+  Posición 10: 1 preguntas
+  Posición 11: 1 preguntas
+  Posición 12: 2 preguntas
+  Posición 13: 2 preguntas
+  Posición 14: 1 preguntas
+  Posición 15: 1 preguntas
+  Posición 18: 1 preguntas
+  Posición 19: 1 preguntas
+  Posición 20: 1 preguntas
+  Posición 21: 3 preguntas
+  Posición 23: 1 preguntas

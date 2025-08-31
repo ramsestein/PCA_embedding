@@ -1,0 +1,20 @@
+{
+  "embeddings_only": {
+    "strategy": "Solo Embeddings (Baseline)",
+    "total_queries": 48,
+    "top1_correct": 0,
+    "top5_correct": 0,
+    "top1_accuracy": 0.0,
+    "top5_accuracy": 0.0,
+    "query_results": [
+      {
+        "query": "Cómo alto a un paciente paliativo con hospitalización a domicilio?",
+        "expected_doc": "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio.txt",
+        "top1_correct": false,
+        "top5_correct": false,
+        "search_time": 0.026146650314331055,
+        "top_results": [
+          {
+            "rank": 1,
+            "doc_id": "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio",
+            "score": 

@@ -1,0 +1,28 @@
+REPORTE DE AUGMENTACIÓN SEMÁNTICA - ESTRATEGIA 2
+================================================================================
+
+Fecha: 2025-08-27 23:40:55
+Total consultas evaluadas: 96
+Documentos originales: 24
+Documentos aumentados: 94
+Variaciones generadas: 70
+
+RESULTADOS DE EVALUACIÓN:
+----------------------------------------
+                Método  Documentos  Dimensiones Top-1 Accuracy Top-3 Accuracy Top-5 Accuracy    MRR
+   Baseline (Original)          24          384         0.4167         0.5729         0.6250 0.5289
+Augmentación Semántica          94          384         0.4167         0.4896         0.5417 0.4886
+
+ANÁLISIS DETALLADO:
+----------------------------------------
+📊 COMPARACIÓN CON BASELINE:
+   Baseline MRR: 0.5289
+   Augmentación MRR: 0.4886
+   Mejora MRR: -7.62%
+
+📊 MÉTRICAS DE ACCURACY:
+   Top-1: 0.4167 → 0.4167
+   Top-3: 0.5729 → 0.4896
+   Top-5: 0.6250 → 0.5417
+
+⚠️  CONCLUSIÓN: La augmentación semántica NO mejora el rendimiento.

@@ -1,0 +1,113 @@
+🚀 REPORTE DE EXPANSIONES EXTREMAS - BUSCANDO TOP-1 DEL 100%
+================================================================================
+Fecha: 2025
+Modelo base: all-mini-base
+Documentos PNTs: 25
+Dimensiones originales: 384
+
+🎯 OBJETIVO: DISCRIMINACIÓN ABSOLUTA (Top-1 del 100%)
+
+📊 CONFIGURACIONES EXTREMAS GENERADAS:
+--------------------------------------------------
+
+🔬 Extremo Uniforme Masivo (500d)
+   📏 Dimensiones adicionales: 500
+   🎲 Tipo de ruido: extreme_uniform
+   📊 Escala de ruido: 0.8
+   📈 Ratio de varianza: 1.9586
+   📏 Distancia promedio: 16.2670
+   📏 Distancia mínima: 14.7139
+   📏 Distancia máxima: 17.6249
+   🎯 Puntuación de separación: 0.9045
+   🚀 Potencial de discriminación: 0.0333
+
+🔬 Extremo Uniforme Ultra Masivo (1000d)
+   📏 Dimensiones adicionales: 1000
+   🎲 Tipo de ruido: extreme_uniform
+   📊 Escala de ruido: 1.0
+   📈 Ratio de varianza: 1.1320
+   📏 Distancia promedio: 28.9497
+   📏 Distancia mínima: 27.2945
+   📏 Distancia máxima: 30.4626
+   🎯 Puntuación de separación: 0.9428
+   🚀 Potencial de discriminación: 0.0202
+
+🔬 Extremo Gaussiano Masivo (500d)
+   📏 Dimensiones adicionales: 500
+   🎲 Tipo de ruido: extreme_gaussian
+   📊 Escala de ruido: 0.7
+   📈 Ratio de varianza: 1.6508
+   📏 Distancia promedio: 28.0271
+   📏 Distancia mínima: 25.9902
+   📏 Distancia máxima: 31.1266
+   🎯 Puntuación de separación: 0.9273
+   🚀 Potencial de discriminación: 0.0307
+
+🔬 Extremo Gaussiano Ultra Masivo (1000d)
+   📏 Dimensiones adicionales: 1000
+   🎲 Tipo de ruido: extreme_gaussian
+   📊 Escala de ruido: 0.9
+   📈 Ratio de varianza: 1.3570
+   📏 Distancia promedio: 51.7350
+   📏 Distancia mínima: 48.4966
+   📏 Distancia máxima: 55.1857
+   🎯 Puntuación de separación: 0.9374
+   🚀 Potencial de discriminación: 0.0222
+
+🔬 Híbrido Extremo Complejo (750d)
+   📏 Dimensiones adicionales: 750
+   🎲 Tipo de ruido: hybrid_extreme
+   📊 Escala de ruido: 0.8
+   📈 Ratio de varianza: 3.0685
+   📏 Distancia promedio: 38.5711
+   📏 Distancia mínima: 35.1854
+   📏 Distancia máxima: 42.9689
+   🎯 Puntuación de separación: 0.9122
+   🚀 Potencial de discriminación: 0.0368
+
+🔬 Basado en Clusters (600d)
+   📏 Dimensiones adicionales: 600
+   🎲 Tipo de ruido: cluster_based
+   📊 Escala de ruido: 0.9
+   📈 Ratio de varianza: 1.3226
+   📏 Distancia promedio: 20.7586
+   📏 Distancia mínima: 19.1222
+   📏 Distancia máxima: 22.5338
+   🎯 Puntuación de separación: 0.9212
+   🚀 Potencial de discriminación: 0.0259
+
+🔬 Secuencial Extremo (800d)
+   📏 Dimensiones adicionales: 800
+   🎲 Tipo de ruido: sequential_extreme
+   📊 Escala de ruido: 0.85
+   📈 Ratio de varianza: 1.7518
+   📏 Distancia promedio: 35.7548
+   📏 Distancia mínima: 33.2205
+   📏 Distancia máxima: 38.4033
+   🎯 Puntuación de separación: 0.9291
+   🚀 Potencial de discriminación: 0.0272
+
+🔬 Adaptativo Extremo (900d)
+   📏 Dimensiones adicionales: 900
+   🎲 Tipo de ruido: adaptive_extreme
+   📊 Escala de ruido: 0.95
+   📈 Ratio de varianza: 0.9854
+   📏 Distancia promedio: 27.5800
+   📏 Distancia mínima: 26.1181
+   📏 Distancia máxima: 29.3133
+   🎯 Puntuación de separación: 0.9470
+   🚀 Potencial de discriminación: 0.0196
+
+💡 ANÁLISIS DE POTENCIAL:
+------------------------------
+1. 📈 Las expansiones masivas (500-1000 dimensiones) maximizan la separación
+2. 🎲 El ruido híbrido combina múltiples estrategias de diferenciación
+3. 🎯 El ruido basado en clusters diferencia documentos similares
+4. 🔄 El ruido secuencial aplica patrones en cascada
+5. 🧠 El ruido adaptativo se ajusta a cada documento
+
+🚀 PRÓXIMO PASO:
+Ejecutar 'extreme_benchmark_evaluator.py' para evaluar con el benchmark
+y verificar si alcanzamos el Top-1 del 100%
+
+================================================================================

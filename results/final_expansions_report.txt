@@ -1,0 +1,100 @@
+🚀 REPORTE DE EXPANSIONES FINALES - TOP-1 DEL 100%
+================================================================================
+Fecha: 2025
+Modelo base: all-mini-base
+Documentos PNTs: 25
+Dimensiones originales: 384
+
+🎯 OBJETIVO: TOP-1 DEL 100% MEDIANTE ESTRATEGIA EQUILIBRADA
+
+📊 CONFIGURACIONES FINALES GENERADAS:
+------------------------------------------------------------
+
+🔬 Diferenciación por Similitud Semántica (200d)
+   📏 Dimensiones adicionales: 200
+   🧠 Estrategia: semantic_similarity_differentiation
+   📊 Escala de ruido: 0.1
+   📈 Ratio de varianza: 13.8087
+   📏 Distancia promedio: 1.0725
+   📏 Distancia mínima: 0.7508
+   📏 Distancia máxima: 1.5292
+   🎯 Puntuación de separación: 0.7000
+   🚀 Potencial de discriminación: 0.1485
+   🧠 Preservación semántica: 0.4531
+   🧠 Preservación semántica original: 0.4877
+   🔗 Consistencia semántica: 0.9995
+   ⚡ Eficiencia de diferenciación: 1.6572
+
+🔬 Huella Digital Única (300d)
+   📏 Dimensiones adicionales: 300
+   🧠 Estrategia: unique_document_fingerprint
+   📊 Escala de ruido: 0.15
+   📈 Ratio de varianza: 1.7864
+   📏 Distancia promedio: 2.6150
+   📏 Distancia mínima: 2.3489
+   📏 Distancia máxima: 2.9054
+   🎯 Puntuación de separación: 0.8982
+   🚀 Potencial de discriminación: 0.0386
+   🧠 Preservación semántica: 0.1249
+   🧠 Preservación semántica original: 0.4877
+   🔗 Consistencia semántica: 0.7501
+   ⚡ Eficiencia de diferenciación: 18.8051
+
+🔬 Diferenciación Progresiva Inteligente (400d)
+   📏 Dimensiones adicionales: 400
+   🧠 Estrategia: progressive_intelligent_differentiation
+   📊 Escala de ruido: 0.2
+   📈 Ratio de varianza: 2.8857
+   📏 Distancia promedio: 2.3044
+   📏 Distancia mínima: 2.0140
+   📏 Distancia máxima: 2.6810
+   🎯 Puntuación de separación: 0.8740
+   🚀 Potencial de discriminación: 0.0466
+   🧠 Preservación semántica: 0.1530
+   🧠 Preservación semántica original: 0.4877
+   🔗 Consistencia semántica: 0.8237
+   ⚡ Eficiencia de diferenciación: 13.1668
+
+🔬 Balance Perfecto Semántica-Diferenciación (500d)
+   📏 Dimensiones adicionales: 500
+   🧠 Estrategia: perfect_semantic_differentiation_balance
+   📊 Escala de ruido: 0.25
+   📈 Ratio de varianza: 2.4823
+   📏 Distancia promedio: 2.1786
+   📏 Distancia mínima: 1.9870
+   📏 Distancia máxima: 2.4470
+   🎯 Puntuación de separación: 0.9121
+   🚀 Potencial de discriminación: 0.0411
+   🧠 Preservación semántica: 0.1694
+   🧠 Preservación semántica original: 0.4877
+   🔗 Consistencia semántica: 0.9153
+   ⚡ Eficiencia de diferenciación: 11.7301
+
+🔬 Diferenciación Adaptativa por Contenido (600d)
+   📏 Dimensiones adicionales: 600
+   🧠 Estrategia: content_adaptive_differentiation
+   📊 Escala de ruido: 0.3
+   📈 Ratio de varianza: 1.1018
+   📏 Distancia promedio: 6.2860
+   📏 Distancia mínima: 5.8623
+   📏 Distancia máxima: 6.7955
+   🎯 Puntuación de separación: 0.9326
+   🚀 Potencial de discriminación: 0.0240
+   🧠 Preservación semántica: 0.0269
+   🧠 Preservación semántica original: 0.4877
+   🔗 Consistencia semántica: 0.2378
+   ⚡ Eficiencia de diferenciación: 217.6116
+
+💡 ANÁLISIS DE ESTRATEGIAS FINALES:
+----------------------------------------
+1. 🧠 Diferenciación por Similitud Semántica: Diferenciar solo lo similar
+2. 🎯 Huella Digital Única: Identidad única por documento
+3. 📈 Diferenciación Progresiva Inteligente: Aumento gradual y controlado
+4. ⚖️ Balance Perfecto: Equilibrio entre semántica y diferenciación
+5. 🔄 Diferenciación Adaptativa: Ajuste automático por contenido
+
+🚀 PRÓXIMO PASO:
+Ejecutar 'final_benchmark_evaluator.py' para evaluar con el benchmark
+y verificar si alcanzamos el Top-1 del 100%
+
+================================================================================

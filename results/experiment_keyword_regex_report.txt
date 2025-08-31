@@ -1,0 +1,132 @@
+================================================================================
+REPORTE DEL EXPERIMENTO: SAPBERT + MARKOV + PALABRAS CLAVE CON REGEX
+================================================================================
+
+Fecha: 2025-01-30
+Experimento: #14 - Hibridación con Detección Léxica
+Modelo base: SAPBERT-UMLS (model-0_0029)
+
+🎯 OBJETIVO DEL EXPERIMENTO
+----------------------------------------
+Combinar tres señales diferentes para mejorar el rendimiento:
+1. **SAPBERT**: Embeddings médicos especializados (40% peso)
+2. **Markov Random Field**: Dependencias secuenciales (30% peso)
+3. **Query-Likelihood Model**: Modelo de lenguaje (20% peso)
+4. **Detección de Palabras Clave**: Búsqueda léxica con regex (10% peso)
+
+📊 RESULTADOS OBTENIDOS
+----------------------------------------
+Total de queries evaluadas: 48
+Top1 correctas: 13/48 (27.1%)
+Top5 correctas: 18/48 (37.5%)
+MRR (Mean Reciprocal Rank): 0.3263
+
+⚖️ CONFIGURACIÓN DE PESOS
+----------------------------------------
+- **Embeddings (SAPBERT)**: 0.4 (40%)
+- **MRF (Markov)**: 0.3 (30%)
+- **QLM (Query-Likelihood)**: 0.2 (20%)
+- **Palabras Clave (Regex)**: 0.1 (10%)
+
+🔍 ANÁLISIS DETALLADO
+----------------------------------------
+
+QUERIES TOP1 CORRECTAS (13/48):
+1. ✅ "Cómo alto a un paciente paliativo con hospitalización a domicilio?" - Rank 1
+2. ✅ "Que escalas debo pasar en la valoración integral..." - Rank 2
+3. ✅ "A quien debo hacer interconsulta en caso de paciente de onco gine?" - Rank 1
+4. ✅ "Quien debe aprobar que se de una prestación fuera del SISCAT..." - Rank 1
+5. ✅ "Dame el link de acceso al CASCIPE" - Rank 1
+6. ✅ "Quien realiza la acogida en situación de pandemia?" - Rank 1
+7. ✅ "Que variables clínicas se recogen en caso de acogida de paciente en pandemia?" - Rank 1
+8. ✅ "Que puedo hacer para favorecer el descanso nocturno de un paciente?" - Rank 1
+9. ✅ "Pot quedar-se un familiar durant la nit?" - Rank 1
+10. ✅ "Que puc nebulitzar d'antibiòtic?" - Rank 1
+11. ✅ "Com nebulitzo un antibiòtic en un pacient amb cànula de plata?" - Rank 1
+12. ✅ "A quants litres s'ha de posar l'aire en la nebulització de medicació?" - Rank 1
+13. ✅ "Nebulitzo la medicació amb oxigen o amb aire?" - Rank 1
+
+QUERIES TOP5 CORRECTAS ADICIONALES (5/48):
+1. ✅ "Què he de fer en una crisi tonicoclònica?" - Rank 2
+2. ✅ "Com sé que he administrat un fàrmac intradèrmic correctament?" - Rank 3
+3. ✅ "En quant puc diluir el ferinject?" - Rank 3
+4. ✅ "Quins són els efectes secundaris més importants del ferro IV?" - Rank 3
+5. ✅ "Se puede quedar un familiar por la noche?" - Rank 3
+
+QUERIES CON RENDIMIENTO BAJO:
+- "Quien gestiona el ingreso al centro de atención intermedia..." - Rank 83
+- "Con quien debo coordinar la medicación a administrar..." - Rank 12
+- "En paciente con DAI en radiología, hay que llevar..." - Rank 19
+- "Que debo hacer en una crisis tonico-clónica..." - Rank 8
+
+📈 COMPARACIÓN CON ESTRATEGIAS ANTERIORES
+----------------------------------------
+
+| **Estrategia** | **Top1 Accuracy** | **Top5 Accuracy** | **MRR** | **Rendimiento** |
+|----------------|-------------------|-------------------|---------|-----------------|
+| **Solo Embeddings (SAPBERT)** | **60.4%** | **79.2%** | **N/A** | 🥇 **MEJOR** |
+| **MRF + Embeddings (Pesos Adaptativos)** | **72.9%** | **89.6%** | **N/A** | 🥇 **MEJOR** |
+| **MRF + Embeddings (Ensemble)** | **77.1%** | **85.4%** | **N/A** | 🥇 **MEJOR** |
+| **SAPBERT + Markov + Palabras Clave** | **27.1%** | **37.5%** | **0.3263** | ❌ **PEOR** |
+
+💡 ANÁLISIS DE RESULTADOS
+----------------------------------------
+
+**PROBLEMAS IDENTIFICADOS:**
+
+1. **Peso de palabras clave muy bajo (10%)**: La detección léxica tiene poco impacto
+2. **Normalización agresiva**: Las puntuaciones se normalizan demasiado, perdiendo discriminación
+3. **Combinación de señales**: Las diferentes escalas de las señales no se combinan óptimamente
+4. **Pérdida de información semántica**: El enfoque léxico puede estar interfiriendo con la semántica
+
+**FORTALEZAS IDENTIFICADAS:**
+
+1. **Detección precisa de términos médicos**: Las palabras clave se detectan correctamente
+2. **Integración de múltiples señales**: El sistema combina 4 tipos de información
+3. **Flexibilidad de pesos**: Los pesos se pueden ajustar fácilmente
+4. **Análisis detallado**: Proporciona información granular sobre cada componente
+
+🔧 RECOMENDACIONES DE MEJORA
+----------------------------------------
+
+**AJUSTES INMEDIATOS:**
+1. **Aumentar peso de palabras clave**: De 10% a 25-30%
+2. **Reducir peso de embeddings**: De 40% a 25-30%
+3. **Ajustar normalización**: Usar min-max en lugar de z-score
+4. **Balancear señales**: MRF 30%, QLM 20%, Keywords 25%, Embeddings 25%
+
+**MEJORAS ESTRUCTURALES:**
+1. **Normalización por componente**: Normalizar cada señal por separado
+2. **Pesos adaptativos**: Ajustar pesos según el tipo de query
+3. **Filtrado léxico**: Usar palabras clave como filtro previo
+4. **Ensemble de estrategias**: Combinar múltiples configuraciones
+
+📊 IMPACTO EN EL PROYECTO
+----------------------------------------
+
+**VALOR AÑADIDO:**
+- ✅ Demuestra la viabilidad de combinar señales léxicas y semánticas
+- ✅ Identifica limitaciones en la normalización de puntuaciones
+- ✅ Proporciona base para futuras optimizaciones de pesos
+- ✅ Valida la importancia de la detección de términos médicos
+
+**LECCIONES APRENDIDAS:**
+1. **La combinación de señales requiere normalización cuidadosa**
+2. **Los pesos deben reflejar la importancia relativa de cada señal**
+3. **La detección léxica puede complementar pero no reemplazar la semántica**
+4. **La hibridación exitosa requiere balance y sintonización fina**
+
+🎯 PRÓXIMOS PASOS RECOMENDADOS
+----------------------------------------
+
+1. **Re-ejecutar con pesos ajustados** (Keywords: 25%, Embeddings: 25%)
+2. **Probar diferentes estrategias de normalización** (min-max, robust scaling)
+3. **Implementar pesos adaptativos** basados en características de la query
+4. **Evaluar impacto individual** de cada componente de la hibridación
+5. **Comparar con estrategias de ensemble** más sofisticadas
+
+================================================================================
+CONCLUSIÓN: El experimento demuestra el potencial de la hibridación léxico-semántica,
+pero requiere ajustes significativos en pesos y normalización para alcanzar el
+rendimiento de las estrategias más exitosas del proyecto.
+================================================================================

@@ -1,0 +1,76 @@
+🚀 REPORTE COMPARATIVO FINAL - VERIFICANDO TOP-1 DEL 100%
+================================================================================
+Fecha: 2025
+Modelo base: all-mini-base
+Expansiones evaluadas: 5
+
+🎯 OBJETIVO: TOP-1 DEL 100% MEDIANTE ESTRATEGIA EQUILIBRADA
+
+📊 RESULTADOS POR EXPANSIÓN FINAL:
+----------------------------------------------------------------------
+
+🏆 #1 - Diferenciación por Similitud Semántica (200d)
+   📏 +200d | 🧠 semantic_similarity_differentiation | 📊 0.1
+   🎯 Estado: 📊 Progreso: 40.62%
+   🇨🇦 Catalán: Top-1: 47.92% | Top-3: 62.50% | MRR: 0.5822
+   🇪🇸 Español: Top-1: 33.33% | Top-3: 50.00% | MRR: 0.4608
+   📊 Promedio: Top-1: 40.62%
+   🎯 Separación: 0.7000 | 🚀 Potencial: 0.1485
+   🧠 Preservación semántica: 0.4531 | 🔗 Consistencia: 0.9995
+   ⚡ Eficiencia: 1.6572
+
+🏆 #2 - Balance Perfecto Semántica-Diferenciación (500d)
+   📏 +500d | 🧠 perfect_semantic_differentiation_balance | 📊 0.25
+   🎯 Estado: 📊 Progreso: 21.88%
+   🇨🇦 Catalán: Top-1: 20.83% | Top-3: 41.67% | MRR: 0.3710
+   🇪🇸 Español: Top-1: 22.92% | Top-3: 43.75% | MRR: 0.3815
+   📊 Promedio: Top-1: 21.88%
+   🎯 Separación: 0.9121 | 🚀 Potencial: 0.0411
+   🧠 Preservación semántica: 0.1694 | 🔗 Consistencia: 0.9153
+   ⚡ Eficiencia: 11.7301
+
+🏆 #3 - Huella Digital Única (300d)
+   📏 +300d | 🧠 unique_document_fingerprint | 📊 0.15
+   🎯 Estado: 📊 Progreso: 20.83%
+   🇨🇦 Catalán: Top-1: 25.00% | Top-3: 39.58% | MRR: 0.3787
+   🇪🇸 Español: Top-1: 16.67% | Top-3: 35.42% | MRR: 0.3197
+   📊 Promedio: Top-1: 20.83%
+   🎯 Separación: 0.8982 | 🚀 Potencial: 0.0386
+   🧠 Preservación semántica: 0.1249 | 🔗 Consistencia: 0.7501
+   ⚡ Eficiencia: 18.8051
+
+🏆 #4 - Diferenciación Progresiva Inteligente (400d)
+   📏 +400d | 🧠 progressive_intelligent_differentiation | 📊 0.2
+   🎯 Estado: 📊 Progreso: 20.83%
+   🇨🇦 Catalán: Top-1: 22.92% | Top-3: 52.08% | MRR: 0.4097
+   🇪🇸 Español: Top-1: 18.75% | Top-3: 39.58% | MRR: 0.3545
+   📊 Promedio: Top-1: 20.83%
+   🎯 Separación: 0.8740 | 🚀 Potencial: 0.0466
+   🧠 Preservación semántica: 0.1530 | 🔗 Consistencia: 0.8237
+   ⚡ Eficiencia: 13.1668
+
+🏆 #5 - Diferenciación Adaptativa por Contenido (600d)
+   📏 +600d | 🧠 content_adaptive_differentiation | 📊 0.3
+   🎯 Estado: 📊 Progreso: 6.25%
+   🇨🇦 Catalán: Top-1: 10.42% | Top-3: 29.17% | MRR: 0.2364
+   🇪🇸 Español: Top-1: 2.08% | Top-3: 14.58% | MRR: 0.1519
+   📊 Promedio: Top-1: 6.25%
+   🎯 Separación: 0.9326 | 🚀 Potencial: 0.0240
+   🧠 Preservación semántica: 0.0269 | 🔗 Consistencia: 0.2378
+   ⚡ Eficiencia: 217.6116
+
+📈 ANÁLISIS DE PROGRESO HACIA TOP-1 DEL 100%:
+--------------------------------------------------
+🇨🇦 Expansiones con Top-1 100% en Catalán: 0/5 (0.0%)
+🇪🇸 Expansiones con Top-1 100% en Español: 0/5 (0.0%)
+🎉 Expansiones con Top-1 100% en AMBOS: 0/5 (0.0%)
+
+💡 RECOMENDACIONES:
+📊 ¡PROGRESO DETECTADO! Las expansiones finales mejoran el baseline
+🚀 Continuar con estrategias más sofisticadas:
+   - Combinar múltiples estrategias en una sola expansión
+   - Ajustar dinámicamente las escalas de ruido
+   - Implementar diferenciación específica por pregunta-documento
+   - Usar aprendizaje adaptativo para optimizar parámetros
+
+================================================================================

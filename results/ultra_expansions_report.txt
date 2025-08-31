@@ -1,0 +1,132 @@
+🚀 REPORTE DE EXPANSIONES ULTRA-INTELIGENTES - TOP-1 DEL 100%
+================================================================================
+Fecha: 2025
+Modelo base: all-mini-base
+Documentos PNTs: 25
+Dimensiones originales: 384
+
+🎯 OBJETIVO: TOP-1 DEL 100% MEDIANTE ESTRATEGIAS ULTRA-INTELIGENTES
+
+📊 CONFIGURACIONES ULTRA-INTELIGENTES GENERADAS:
+------------------------------------------------------------
+
+🔬 Semántico Controlado (300d)
+   📏 Dimensiones adicionales: 300
+   🧠 Estrategia: semantic_controlled
+   📊 Escala de ruido: 0.3
+   📈 Ratio de varianza: 1.7046
+   📏 Distancia promedio: 2.3879
+   📏 Distancia mínima: 2.1200
+   📏 Distancia máxima: 2.6318
+   🎯 Puntuación de separación: 0.8878
+   🚀 Potencial de discriminación: 0.0382
+   🧠 Preservación semántica: 0.1435
+   ⚖️ Balance discriminación-semántica: 14.7710
+
+🔬 Progresivo Inteligente (400d)
+   📏 Dimensiones adicionales: 400
+   🧠 Estrategia: progressive_intelligent
+   📊 Escala de ruido: 0.4
+   📈 Ratio de varianza: 1.5262
+   📏 Distancia promedio: 5.5167
+   📏 Distancia mínima: 5.0385
+   📏 Distancia máxima: 6.0143
+   🎯 Puntuación de separación: 0.9133
+   🚀 Potencial de discriminación: 0.0318
+   🧠 Preservación semántica: 0.0342
+   ⚖️ Balance discriminación-semántica: 147.5148
+
+🔬 Específico por Documento (500d)
+   📏 Dimensiones adicionales: 500
+   🧠 Estrategia: document_specific
+   📊 Escala de ruido: 0.5
+   📈 Ratio de varianza: 1.0755
+   📏 Distancia promedio: 9.7365
+   📏 Distancia mínima: 8.7823
+   📏 Distancia máxima: 10.5263
+   🎯 Puntuación de separación: 0.9020
+   🚀 Potencial de discriminación: 0.0248
+   🧠 Preservación semántica: 0.0111
+   ⚖️ Balance discriminación-semántica: 790.7663
+
+🔬 Balance Semántico (600d)
+   📏 Dimensiones adicionales: 600
+   🧠 Estrategia: semantic_balance
+   📊 Escala de ruido: 0.6
+   📈 Ratio de varianza: 1.1614
+   📏 Distancia promedio: 7.3490
+   📏 Distancia mínima: 6.8189
+   📏 Distancia máxima: 7.8765
+   🎯 Puntuación de separación: 0.9279
+   🚀 Potencial de discriminación: 0.0245
+   🧠 Preservación semántica: 0.0175
+   ⚖️ Balance discriminación-semántica: 389.6682
+
+🔬 Adaptativo por Clusters (700d)
+   📏 Dimensiones adicionales: 700
+   🧠 Estrategia: adaptive_clusters
+   📊 Escala de ruido: 0.7
+   📈 Ratio de varianza: 30.8460
+   📏 Distancia promedio: 28.4150
+   📏 Distancia mínima: 17.5618
+   📏 Distancia máxima: 33.7022
+   🎯 Puntuación de separación: 0.6180
+   🚀 Potencial de discriminación: 0.1201
+   🧠 Preservación semántica: -0.0005
+   ⚖️ Balance discriminación-semántica: -33656.3115
+
+🔬 Secuencial Inteligente (800d)
+   📏 Dimensiones adicionales: 800
+   🧠 Estrategia: sequential_intelligent
+   📊 Escala de ruido: 0.8
+   📈 Ratio de varianza: 1.1149
+   📏 Distancia promedio: 11.7293
+   📏 Distancia mínima: 10.7773
+   📏 Distancia máxima: 12.4625
+   🎯 Puntuación de separación: 0.9188
+   🚀 Potencial de discriminación: 0.0218
+   🧠 Preservación semántica: 0.0106
+   ⚖️ Balance discriminación-semántica: 1017.8480
+
+🔬 Híbrido Ultra-Controlado (900d)
+   📏 Dimensiones adicionales: 900
+   🧠 Estrategia: hybrid_ultra_controlled
+   📊 Escala de ruido: 0.9
+   📈 Ratio de varianza: 2.3393
+   📏 Distancia promedio: 18.0942
+   📏 Distancia mínima: 16.7926
+   📏 Distancia máxima: 19.6689
+   🎯 Puntuación de separación: 0.9281
+   🚀 Potencial de discriminación: 0.0302
+   🧠 Preservación semántica: -0.0002
+   ⚖️ Balance discriminación-semántica: -110223.4634
+
+🔬 Máxima Discriminación Semántica (1000d)
+   📏 Dimensiones adicionales: 1000
+   🧠 Estrategia: max_discrimination_semantic
+   📊 Escala de ruido: 1.0
+   📈 Ratio de varianza: 5.4637
+   📏 Distancia promedio: 36.2201
+   📏 Distancia mínima: 31.1035
+   📏 Distancia máxima: 40.3042
+   🎯 Puntuación de separación: 0.8587
+   🚀 Potencial de discriminación: 0.0445
+   🧠 Preservación semántica: 0.0014
+   ⚖️ Balance discriminación-semántica: 21673.9367
+
+💡 ANÁLISIS DE ESTRATEGIAS ULTRA-INTELIGENTES:
+--------------------------------------------------
+1. 🧠 Semántico Controlado: Preserva similitud mientras diferencia
+2. 📈 Progresivo Inteligente: Aumenta diferenciación gradualmente
+3. 📄 Específico por Documento: Ruido personalizado por documento
+4. ⚖️ Balance Semántico: Equilibrio entre diferenciación y semántica
+5. 🎯 Adaptativo por Clusters: Diferenciación inteligente por grupos
+6. 🔄 Secuencial Inteligente: Estrategias en cascada
+7. 🎲 Híbrido Ultra-Controlado: Múltiples tipos de ruido controlados
+8. 🚀 Máxima Discriminación Semántica: Diferenciación extrema preservando semántica
+
+🚀 PRÓXIMO PASO:
+Ejecutar 'ultra_benchmark_evaluator.py' para evaluar con el benchmark
+y verificar si alcanzamos el Top-1 del 100%
+
+================================================================================

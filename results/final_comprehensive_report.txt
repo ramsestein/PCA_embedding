@@ -1,0 +1,155 @@
+REPORTE FINAL COMPREHENSIVO - TODAS LAS ESTRATEGIAS
+================================================================================
+
+Fecha: 2025-08-27 23:41:56
+Total métodos evaluados: 27
+Estrategias implementadas: 2
+
+RESULTADOS COMPREHENSIVOS (Ordenados por MRR):
+--------------------------------------------------------------------------------
+                           Estrategia                                          Método  Dimensiones  Top-1 Accuracy  Top-3 Accuracy  Top-5 Accuracy      MRR Varianza Explicada
+Estrategia: Añadir Dimensiones Nuevas                   Gaussiano Muy Agresivo (100d)          484        0.427083        0.572917        0.572917 0.534644           0.806278
+Estrategia: Añadir Dimensiones Nuevas                           Mixto Agresivo (150d)          534        0.427083        0.572917        0.572917 0.534105           0.736176
+Estrategia: Añadir Dimensiones Nuevas                        Gaussiano Extremo (200d)          584        0.427083        0.552083        0.552083 0.530414           0.727157
+Estrategia: Añadir Dimensiones Nuevas                                 Baseline (384d)          384        0.416667        0.572917        0.572917 0.528930                1.0
+ Estrategia 2: Augmentación Semántica                             Baseline (Original)          384        0.416700        0.572900        0.625000 0.528900                N/A
+Estrategia: Añadir Dimensiones Nuevas                    Uniforme Muy Agresivo (100d)          484        0.416667        0.562500        0.562500 0.528256             0.7997
+Estrategia: Añadir Dimensiones Nuevas                  Uniforme Ultra Agresivo (150d)          534        0.416667        0.552083        0.552083 0.527348           0.734443
+Estrategia: Añadir Dimensiones Nuevas                         Uniforme Extremo (200d)          584        0.406250        0.583333        0.583333 0.525342           0.686366
+Estrategia: Añadir Dimensiones Nuevas                 Gaussiano Ultra Agresivo (150d)          534        0.406250        0.552083        0.552083 0.523212           0.753614
+Estrategia: Añadir Dimensiones Nuevas                     Mixto Ultra Agresivo (200d)          584        0.406250        0.541667        0.541667 0.522092           0.693856
+ Estrategia 2: Augmentación Semántica                          Augmentación Semántica          384        0.416700        0.489600        0.541700 0.488600                N/A
+Estrategia: Añadir Dimensiones Nuevas              Ultra: Semántico Controlado (300d)          684        0.125000        0.218750        0.218750 0.246258          14.770975
+Estrategia: Añadir Dimensiones Nuevas              Extreme: Adaptativo Extremo (900d)         1284        0.093750        0.156250        0.156250 0.200457           0.946994
+Estrategia: Añadir Dimensiones Nuevas            Ultra: Progresivo Inteligente (400d)          784        0.072917        0.208333        0.208333 0.198443         147.514758
+Estrategia: Añadir Dimensiones Nuevas  Extreme: Extremo Uniforme Ultra Masivo (1000d)         1384        0.072917        0.166667        0.166667 0.197960           0.942826
+Estrategia: Añadir Dimensiones Nuevas                 Ultra: Balance Semántico (600d)          984        0.062500        0.177083        0.177083 0.192509         389.668249
+Estrategia: Añadir Dimensiones Nuevas         Extreme: Extremo Uniforme Masivo (500d)          884        0.072917        0.166667        0.166667 0.190958           0.904519
+Estrategia: Añadir Dimensiones Nuevas              Extreme: Basado en Clusters (600d)          984        0.062500        0.145833        0.145833 0.184927           0.921166
+Estrategia: Añadir Dimensiones Nuevas Extreme: Extremo Gaussiano Ultra Masivo (1000d)         1384        0.062500        0.145833        0.145833 0.170393           0.937405
+Estrategia: Añadir Dimensiones Nuevas          Ultra: Híbrido Ultra-Controlado (900d)         1284        0.041667        0.145833        0.145833 0.164510     -110223.463425
+Estrategia: Añadir Dimensiones Nuevas          Ultra: Específico por Documento (500d)          884        0.031250        0.156250        0.156250 0.164416         790.766348
+Estrategia: Añadir Dimensiones Nuevas        Extreme: Extremo Gaussiano Masivo (500d)          884        0.062500        0.093750        0.093750 0.162916           0.927326
+Estrategia: Añadir Dimensiones Nuevas              Extreme: Secuencial Extremo (800d)         1184        0.041667        0.114583        0.114583 0.155573            0.92912
+Estrategia: Añadir Dimensiones Nuevas  Ultra: Máxima Discriminación Semántica (1000d)         1384        0.041667        0.104167        0.104167 0.154149       21673.936738
+Estrategia: Añadir Dimensiones Nuevas            Ultra: Secuencial Inteligente (800d)         1184        0.041667        0.125000        0.125000 0.149554        1017.847958
+Estrategia: Añadir Dimensiones Nuevas        Extreme: Híbrido Extremo Complejo (750d)         1134        0.052083        0.104167        0.104167 0.148908           0.912223
+Estrategia: Añadir Dimensiones Nuevas           Ultra: Adaptativo por Clusters (700d)         1084        0.020833        0.093750        0.093750 0.133679      -33656.311467
+
+ANÁLISIS POR ESTRATEGIA:
+----------------------------------------
+
+📊 Estrategia: Añadir Dimensiones Nuevas:
+   Métodos evaluados: 25
+   Mejor MRR: 0.5346
+   Peor MRR: 0.1337
+   MRR promedio: 0.3028
+   Mejor Top-1: 0.4271
+
+📊 Estrategia 2: Augmentación Semántica:
+   Métodos evaluados: 2
+   Mejor MRR: 0.5289
+   Peor MRR: 0.4886
+   MRR promedio: 0.5088
+   Mejor Top-1: 0.4167
+
+🏆 RANKING GENERAL DE MÉTODOS:
+----------------------------------------
+ 1. Gaussiano Muy Agresivo (100d)       | MRR: 0.5346 | Top-1: 0.4271 | Dims: 484
+ 2. Mixto Agresivo (150d)               | MRR: 0.5341 | Top-1: 0.4271 | Dims: 534
+ 3. Gaussiano Extremo (200d)            | MRR: 0.5304 | Top-1: 0.4271 | Dims: 584
+ 4. Baseline (384d)                     | MRR: 0.5289 | Top-1: 0.4167 | Dims: 384
+ 5. Baseline (Original)                 | MRR: 0.5289 | Top-1: 0.4167 | Dims: 384
+ 6. Uniforme Muy Agresivo (100d)        | MRR: 0.5283 | Top-1: 0.4167 | Dims: 484
+ 7. Uniforme Ultra Agresivo (150d)      | MRR: 0.5273 | Top-1: 0.4167 | Dims: 534
+ 8. Uniforme Extremo (200d)             | MRR: 0.5253 | Top-1: 0.4062 | Dims: 584
+ 9. Gaussiano Ultra Agresivo (150d)     | MRR: 0.5232 | Top-1: 0.4062 | Dims: 534
+10. Mixto Ultra Agresivo (200d)         | MRR: 0.5221 | Top-1: 0.4062 | Dims: 584
+11. Augmentación Semántica              | MRR: 0.4886 | Top-1: 0.4167 | Dims: 384
+12. Ultra: Semántico Controlado (300d)  | MRR: 0.2463 | Top-1: 0.1250 | Dims: 684
+13. Extreme: Adaptativo Extremo (900d)  | MRR: 0.2005 | Top-1: 0.0938 | Dims: 1284
+14. Ultra: Progresivo Inteligente (400d) | MRR: 0.1984 | Top-1: 0.0729 | Dims: 784
+15. Extreme: Extremo Uniforme Ultra Masivo (1000d) | MRR: 0.1980 | Top-1: 0.0729 | Dims: 1384
+16. Ultra: Balance Semántico (600d)     | MRR: 0.1925 | Top-1: 0.0625 | Dims: 984
+17. Extreme: Extremo Uniforme Masivo (500d) | MRR: 0.1910 | Top-1: 0.0729 | Dims: 884
+18. Extreme: Basado en Clusters (600d)  | MRR: 0.1849 | Top-1: 0.0625 | Dims: 984
+19. Extreme: Extremo Gaussiano Ultra Masivo (1000d) | MRR: 0.1704 | Top-1: 0.0625 | Dims: 1384
+20. Ultra: Híbrido Ultra-Controlado (900d) | MRR: 0.1645 | Top-1: 0.0417 | Dims: 1284
+21. Ultra: Específico por Documento (500d) | MRR: 0.1644 | Top-1: 0.0312 | Dims: 884
+22. Extreme: Extremo Gaussiano Masivo (500d) | MRR: 0.1629 | Top-1: 0.0625 | Dims: 884
+23. Extreme: Secuencial Extremo (800d)  | MRR: 0.1556 | Top-1: 0.0417 | Dims: 1184
+24. Ultra: Máxima Discriminación Semántica (1000d) | MRR: 0.1541 | Top-1: 0.0417 | Dims: 1384
+25. Ultra: Secuencial Inteligente (800d) | MRR: 0.1496 | Top-1: 0.0417 | Dims: 1184
+26. Extreme: Híbrido Extremo Complejo (750d) | MRR: 0.1489 | Top-1: 0.0521 | Dims: 1134
+27. Ultra: Adaptativo por Clusters (700d) | MRR: 0.1337 | Top-1: 0.0208 | Dims: 1084
+
+📈 ANÁLISIS DE MEJORAS:
+----------------------------------------
+Baseline (Original): MRR = 0.5289
+
+Gaussiano Muy Agresivo (100d)      : MRR = 0.5346 | Mejora: +1.09%
+Mixto Agresivo (150d)              : MRR = 0.5341 | Mejora: +0.98%
+Gaussiano Extremo (200d)           : MRR = 0.5304 | Mejora: +0.29%
+Baseline (384d)                    : MRR = 0.5289 | Mejora: +0.01%
+Uniforme Muy Agresivo (100d)       : MRR = 0.5283 | Mejora: -0.12%
+Uniforme Ultra Agresivo (150d)     : MRR = 0.5273 | Mejora: -0.29%
+Uniforme Extremo (200d)            : MRR = 0.5253 | Mejora: -0.67%
+Gaussiano Ultra Agresivo (150d)    : MRR = 0.5232 | Mejora: -1.08%
+Mixto Ultra Agresivo (200d)        : MRR = 0.5221 | Mejora: -1.29%
+Augmentación Semántica             : MRR = 0.4886 | Mejora: -7.62%
+Ultra: Semántico Controlado (300d) : MRR = 0.2463 | Mejora: -53.44%
+Extreme: Adaptativo Extremo (900d) : MRR = 0.2005 | Mejora: -62.10%
+Ultra: Progresivo Inteligente (400d): MRR = 0.1984 | Mejora: -62.48%
+Extreme: Extremo Uniforme Ultra Masivo (1000d): MRR = 0.1980 | Mejora: -62.57%
+Ultra: Balance Semántico (600d)    : MRR = 0.1925 | Mejora: -63.60%
+Extreme: Extremo Uniforme Masivo (500d): MRR = 0.1910 | Mejora: -63.90%
+Extreme: Basado en Clusters (600d) : MRR = 0.1849 | Mejora: -65.04%
+Extreme: Extremo Gaussiano Ultra Masivo (1000d): MRR = 0.1704 | Mejora: -67.78%
+Ultra: Híbrido Ultra-Controlado (900d): MRR = 0.1645 | Mejora: -68.90%
+Ultra: Específico por Documento (500d): MRR = 0.1644 | Mejora: -68.91%
+Extreme: Extremo Gaussiano Masivo (500d): MRR = 0.1629 | Mejora: -69.20%
+Extreme: Secuencial Extremo (800d) : MRR = 0.1556 | Mejora: -70.59%
+Ultra: Máxima Discriminación Semántica (1000d): MRR = 0.1541 | Mejora: -70.85%
+Ultra: Secuencial Inteligente (800d): MRR = 0.1496 | Mejora: -71.72%
+Extreme: Híbrido Extremo Complejo (750d): MRR = 0.1489 | Mejora: -71.85%
+Ultra: Adaptativo por Clusters (700d): MRR = 0.1337 | Mejora: -74.73%
+
+🎯 CONCLUSIONES FINALES:
+----------------------------------------
+🏆 MEJOR MÉTODO: Gaussiano Muy Agresivo (100d)
+   MRR: 0.5346
+   Top-1: 0.4271
+   Estrategia: Estrategia: Añadir Dimensiones Nuevas
+
+⚠️  PEOR MÉTODO: Ultra: Adaptativo por Clusters (700d)
+   MRR: 0.1337
+   Top-1: 0.0208
+   Estrategia: Estrategia: Añadir Dimensiones Nuevas
+
+💡 RECOMENDACIONES:
+----------------------------------------
+• Gaussiano Muy Agresivo (100d) es la mejor opción implementada
+• Considerar implementar Estrategia: Añadir Dimensiones Nuevas en producción
+• Evaluar si la mejora justifica la complejidad adicional
+
+🔄 COMPARACIÓN CON ESTRATEGIA ANTERIOR:
+----------------------------------------
+• Estrategia anterior: Creación de nuevas dimensiones con ruido controlado
+• Resultado: No fue productiva (según el usuario)
+• Estrategias evaluadas en este estudio:
+  - Estrategia 2: Augmentación Semántica (no mejora)
+  - Estrategia 4: Reducción de Dimensionalidad (no mejora)
+  - Estrategia: Añadir Dimensiones Nuevas (no mejora)
+• Conclusión: Ninguna de las estrategias implementadas supera el baseline
+
+🔍 ANÁLISIS ESPECÍFICO DE EXPANSIONES DIMENSIONALES:
+----------------------------------------
+• Total de configuraciones evaluadas: 25
+• Rango de dimensiones: 384 - 1384
+• Mejor expansión: Gaussiano Muy Agresivo (100d)
+• MRR de mejor expansión: 0.5346
+• MRR promedio de expansiones: 0.3028
+• Observaciones:
+  - Las expansiones dimensionales no mejoran el rendimiento del baseline
+  - Mayor dimensionalidad no implica mejor discriminación
+  - El ruido controlado añadido degrada la capacidad semántica

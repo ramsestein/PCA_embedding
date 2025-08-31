@@ -1,0 +1,93 @@
+================================================================================
+REPORTE DE EXPERIMENTOS CON DIFERENTES TIPOS DE RUIDO
+MODELO: all-MiniLM-L6-v2
+================================================================================
+
+RESUMEN EJECUTIVO:
+-------------------------
+Total de experimentos: 12
+Dimensiones originales: 384
+Dimensiones adicionales por experimento: 50
+
+RESULTADOS DETALLADOS:
+------------------------------
+ID | Tipo      | Escala | Descripción                    | Ratio | Controlado
+--------------------------------------------------------------------------------
+ 1 | gaussian  |   0.05 | Gaussiano Conservador          |  1.13 | Sí       
+ 2 | gaussian  |   0.10 | Gaussiano Moderado             |  1.13 | Sí       
+ 3 | gaussian  |   0.15 | Gaussiano Agresivo             |  1.13 | Sí       
+ 4 | gaussian  |   0.20 | Gaussiano Muy Agresivo         |  1.13 | Sí       
+ 5 | uniform   |   0.05 | Uniforme Conservador           |  1.13 | Sí       
+ 6 | uniform   |   0.10 | Uniforme Moderado              |  1.13 | Sí       
+ 7 | uniform   |   0.15 | Uniforme Agresivo              |  1.13 | Sí       
+ 8 | uniform   |   0.20 | Uniforme Muy Agresivo          |  1.13 | Sí       
+ 9 | exponential |   0.05 | Exponencial Conservador        |  1.13 | Sí       
+10 | exponential |   0.10 | Exponencial Moderado           |  1.13 | Sí       
+11 | exponential |   0.15 | Exponencial Agresivo           |  1.13 | Sí       
+12 | exponential |   0.20 | Exponencial Muy Agresivo       |  1.13 | Sí       
+
+ANÁLISIS POR TIPO DE RUIDO:
+------------------------------
+
+GAUSSIAN:
+  Escala 0.05: Ratio 1.13x, Controlado: Sí
+  Escala 0.10: Ratio 1.13x, Controlado: Sí
+  Escala 0.15: Ratio 1.13x, Controlado: Sí
+  Escala 0.20: Ratio 1.13x, Controlado: Sí
+
+UNIFORM:
+  Escala 0.05: Ratio 1.13x, Controlado: Sí
+  Escala 0.10: Ratio 1.13x, Controlado: Sí
+  Escala 0.15: Ratio 1.13x, Controlado: Sí
+  Escala 0.20: Ratio 1.13x, Controlado: Sí
+
+EXPONENTIAL:
+  Escala 0.05: Ratio 1.13x, Controlado: Sí
+  Escala 0.10: Ratio 1.13x, Controlado: Sí
+  Escala 0.15: Ratio 1.13x, Controlado: Sí
+  Escala 0.20: Ratio 1.13x, Controlado: Sí
+
+ANÁLISIS POR ESCALA DE RUIDO:
+------------------------------
+
+Escala 0.05:
+  Gaussian: Ratio 1.13x, Controlado: Sí
+  Uniform: Ratio 1.13x, Controlado: Sí
+  Exponential: Ratio 1.13x, Controlado: Sí
+
+Escala 0.10:
+  Gaussian: Ratio 1.13x, Controlado: Sí
+  Uniform: Ratio 1.13x, Controlado: Sí
+  Exponential: Ratio 1.13x, Controlado: Sí
+
+Escala 0.15:
+  Gaussian: Ratio 1.13x, Controlado: Sí
+  Uniform: Ratio 1.13x, Controlado: Sí
+  Exponential: Ratio 1.13x, Controlado: Sí
+
+Escala 0.20:
+  Gaussian: Ratio 1.13x, Controlado: Sí
+  Uniform: Ratio 1.13x, Controlado: Sí
+  Exponential: Ratio 1.13x, Controlado: Sí
+
+RECOMENDACIONES:
+--------------------
+Mejor control de ruido: Uniforme Muy Agresivo
+  • Tipo: uniform
+  • Escala: 0.2
+  • Ratio de varianza: 0.4674
+
+Configuraciones con ruido controlado: 12/12
+Configuraciones recomendadas para uso:
+  • Gaussiano Conservador (Ratio varianza: 0.4893)
+  • Gaussiano Moderado (Ratio varianza: 0.4737)
+  • Gaussiano Agresivo (Ratio varianza: 0.4805)
+  • Gaussiano Muy Agresivo (Ratio varianza: 0.4712)
+  • Uniforme Conservador (Ratio varianza: 0.4986)
+  • Uniforme Moderado (Ratio varianza: 0.4721)
+  • Uniforme Agresivo (Ratio varianza: 0.4718)
+  • Uniforme Muy Agresivo (Ratio varianza: 0.4674)
+  • Exponencial Conservador (Ratio varianza: 0.6037)
+  • Exponencial Moderado (Ratio varianza: 0.5119)
+  • Exponencial Agresivo (Ratio varianza: 0.5079)
+  • Exponencial Muy Agresivo (Ratio varianza: 0.4798)

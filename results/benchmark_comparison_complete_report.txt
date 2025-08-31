@@ -1,0 +1,63 @@
+================================================================================
+REPORTE COMPARATIVO COMPLETO: BASELINE vs EMBEDDINGS EXPANDIDOS
+MODELO: all-MiniLM-L6-v2
+================================================================================
+
+CONFIGURACIÓN DE EXPANSIÓN:
+-----------------------------------
+Dimensiones originales: 384
+Dimensiones adicionales: 50
+Total dimensiones: 434
+Tipo de ruido: gaussian
+Escala de ruido: 0.1
+Ratio de expansión: 1.13x
+
+COMPARACIÓN EN CATALÁN:
+------------------------------
+Métrica                    Baseline    Expandido    Diferencia    Mejora
+----------------------------------------------------------------------
+Top-1 Accuracy             47.92%       47.92%      +0.00pp    ❌
+Top-3 Accuracy             64.58%       64.58%      +0.00pp    ❌
+MRR Score                 0.5860      0.5869    +0.0009    ✅
+Posición promedio           5.15        5.15      +0.00    ❌
+
+COMPARACIÓN EN ESPAÑOL:
+------------------------------
+Métrica                    Baseline    Expandido    Diferencia    Mejora
+----------------------------------------------------------------------
+Top-1 Accuracy             35.42%       35.42%      +0.00pp    ❌
+Top-3 Accuracy             50.00%       50.00%      +0.00pp    ❌
+MRR Score                 0.4719      0.4721    +0.0002    ✅
+Posición promedio           7.02        6.98      +0.04    ✅
+
+ANÁLISIS DETALLADO DE MEJORAS:
+-----------------------------------
+Mejoras en Catalán:
+  ❌ Top-1: 0.00 puntos porcentuales
+  ❌ Top-3: 0.00 puntos porcentuales
+  ✅ MRR: +0.0009
+  ❌ Posición promedio: +0.00 posiciones (peor)
+
+Mejoras en Español:
+  ❌ Top-1: 0.00 puntos porcentuales
+  ❌ Top-3: 0.00 puntos porcentuales
+  ✅ MRR: +0.0002
+  ✅ Posición promedio: -0.04 posiciones (mejor)
+
+RESUMEN DE MEJORAS:
+-------------------------
+Mejoras totales: 3/8 métricas
+Porcentaje de mejora: 37.5%
+❌ La expansión dimensional no ha mejorado significativamente el rendimiento
+
+RECOMENDACIONES:
+--------------------
+❌ La expansión dimensional actual no ha sido efectiva
+💡 Considerar diferentes tipos de ruido o escalas
+🔧 Revisar la configuración de expansión
+
+📊 Próximos pasos recomendados:
+   1. Analizar casos específicos donde falla el sistema
+   2. Probar con diferentes configuraciones de ruido
+   3. Considerar expansión a +100 dimensiones
+   4. Validar clínicamente los resultados

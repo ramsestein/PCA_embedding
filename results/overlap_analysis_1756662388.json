@@ -1,0 +1,86 @@
+{
+  "total_queries": 48,
+  "top1": {
+    "sapbert_correct": 34,
+    "allmini_correct": 18,
+    "overlap": 17,
+    "sapbert_only": 17,
+    "allmini_only": 1,
+    "overlap_percentage": 35.41666666666667,
+    "sapbert_unique_percentage": 35.41666666666667,
+    "allmini_unique_percentage": 2.083333333333333
+  },
+  "top5": {
+    "sapbert_correct": 6,
+    "allmini_correct": 11,
+    "overlap": 1,
+    "sapbert_only": 5,
+    "allmini_only": 10,
+    "overlap_percentage": 2.083333333333333,
+    "sapbert_unique_percentage": 10.416666666666668,
+    "allmini_unique_percentage": 20.833333333333336
+  },
+  "overlap_top1_queries": [
+    "Como se administra un fármaco en bolus?",
+    "Cómo alto a un paciente paliativo con hospitalización a domicilio?",
+    "Quien da la magnetoterapia?",
+    "Que puedo prescribir como enfermera al alta?",
+    "Efectos secundarios de la insulina",
+    "Quien gestiona el ingreso al centro de atención intermedia en situación de final de vida?",
+    "Nebulizo la medicación con oxigeno o con aire?",
+    "Cual es el número de emergencia en la sede de maternidad?",
+    "Como se que he administrado un fármaco intradérmico de forma correcta?",
+    "Como cargo medicación para administración intramuscular?",
+    "Que volumen máximo puedo administrar de forma intramuscular?",
+    "Como administro un fármaco via oral en un paciente con disfagia?",
+    "Que podemos administrar por vía  intradérmica?",
+    "Que puedo nebulizar de antibiótico?",
+    "Que debo hacer en caso de tener un paciente en aislamiento social no deseado?",
+    "Puedo dar magnetoterapia en un paciente con audífonos?",
+    "Como identifico una pluma de insulina de un paciente?"
+  ],
+  "overlap_top5_queries": [
+    "Dame el link de acceso al CASCIPE"
+  ],
+  "sapbert_only_top1_queries": [
+    "Que escalas debo pasar en la valoración integral de una paciente con patología oncológica ginecologica?",
+    "A quien debo hacer interconsulta en caso de paciente de onco gine?",
+    "En paciente con DAI en radiología, hay que llevar el desfribilador?",
+    "Quien realiza la acogida en situación de pandemia?",
+    "Cuales son los efectos secundarios más importantes del hierro iv?",
+    "Que debo revisar al alta de un paciente de enfermería",
+    "Que variables clínicas se cogen en caso de acogida de paciente en pandemia?",
+    "Donde preparo la medicación iv de un paciente domiciliario?",
+    "A cuantos litros se debe poner el aire en la nebulización de medicación?",
+    "Que tipos de medicación via oftálmica hay?",
+    "A que temperatura se debe guardar el levosimendam?",
+    "A quien se interconsulta si tengo un paciente aislado?",
+    "Que debo hacer en una crisis tonico-clónica?",
+    "Se puede quedar un familiar por la noche?",
+    "Número de busca del equipo de HDOM",
+    "Que puedo hacer para favorecer el descanso nocturno de un paciente?",
+    "Durante cuanto tiempo puedo guardar un colirio para reutilizarlo?"
+  ],
+  "allmini_only_top1_queries": [
+    "Quien debe aprobar que se de una prestación fuera del siscat, de carácter excepcional?"
+  ],
+  "sapbert_only_top5_queries": [
+    "Que medicamentos se nebulizan en forma de polvo seco?",
+    "Busca de la matrona senior de la mater",
+    "Cuando debería usar cámara espaciadora para nebulizar?",
+    "En cuanto puedo diluir el ferinject?",
+    "Quien debe aprobar que se de una prestación fuera del siscat, de carácter excepcional?"
+  ],
+  "allmini_only_top5_queries": [
+    "Que escalas debo pasar en la valoración integral de una paciente con patología oncológica ginecologica?",
+    "A quien debo hacer interconsulta en caso de paciente de onco gine?",
+    "Que variables clínicas se cogen en caso de acogida de paciente en pandemia?",
+    "Que debo revisar al alta de un paciente de enfermería",
+    "Quien realiza la acogida en situación de pandemia?",
+    "Que tipos de medicación via oftálmica hay?",
+    "Como se si un fármaco está en buen estado?",
+    "A quien se interconsulta si tengo un paciente aislado?",
+    "Se puede quedar un familiar por la noche?",
+    "Como nubulizo un atb en un paciente con canula de plata?"
+  ]
+}

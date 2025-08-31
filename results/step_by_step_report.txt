@@ -1,0 +1,111 @@
+================================================================================
+REPORTE PASO A PASO - SISTEMA INTELIGENTE
+Estrategias 4 y 5 Implementadas Exitosamente
+================================================================================
+
+ESTRATEGIA 4: REDUCCIÓN DE DIMENSIONALIDAD INTELIGENTE
+--------------------------------------------------
+
+PCA_2D:
+  • Forma: (24, 2)
+  • Varianza explicada: 22.49%
+
+PCA_5D:
+  • Forma: (24, 5)
+  • Varianza explicada: 44.34%
+
+PCA_10D:
+  • Forma: (24, 10)
+  • Varianza explicada: 68.75%
+
+PCA_15D:
+  • Forma: (24, 15)
+  • Varianza explicada: 85.52%
+
+TSNE_Optimized:
+  • Forma: (24, 2)
+
+ESTRATEGIA 5: MÉTRICAS DE SIMILITUD AVANZADAS
+--------------------------------------------------
+
+Original_Metrics:
+  • Distancia mínima promedio: 0.7777
+  • Distancia máxima: inf
+  • Ratio de varianza: 1.0000
+  • Silhouette score: 0.0671
+
+PCA_2D_Metrics:
+  • Distancia mínima promedio: 2.9792
+  • Distancia máxima: inf
+  • Ratio de varianza: 1.0000
+  • Silhouette score: 0.3270
+
+PCA_5D_Metrics:
+  • Distancia mínima promedio: 8.2680
+  • Distancia máxima: inf
+  • Ratio de varianza: 1.0000
+  • Silhouette score: 0.2387
+
+PCA_10D_Metrics:
+  • Distancia mínima promedio: 14.0413
+  • Distancia máxima: inf
+  • Ratio de varianza: 1.0000
+  • Silhouette score: 0.1317
+
+PCA_15D_Metrics:
+  • Distancia mínima promedio: 18.3746
+  • Distancia máxima: inf
+  • Ratio de varianza: 1.0000
+  • Silhouette score: 0.0558
+
+TSNE_Optimized_Metrics:
+  • Distancia mínima promedio: 6.5547
+  • Distancia máxima: inf
+  • Ratio de varianza: 1.0000
+  • Silhouette score: 0.2643
+
+EVALUACIÓN COMPARATIVA:
+------------------------------
+
+Original_Embeddings:
+  • Distancia mínima promedio: 0.7777
+  • Ratio de varianza: 1.0000
+  • Silhouette score: 0.0671
+  • Forma: (24, 384)
+
+PCA_2D:
+  • Distancia mínima promedio: 2.9792
+  • Ratio de varianza: 1.0000
+  • Silhouette score: 0.3270
+  • Forma: (24, 2)
+
+PCA_5D:
+  • Distancia mínima promedio: 8.2680
+  • Ratio de varianza: 1.0000
+  • Silhouette score: 0.2387
+  • Forma: (24, 5)
+
+PCA_10D:
+  • Distancia mínima promedio: 14.0413
+  • Ratio de varianza: 1.0000
+  • Silhouette score: 0.1317
+  • Forma: (24, 10)
+
+PCA_15D:
+  • Distancia mínima promedio: 18.3746
+  • Ratio de varianza: 1.0000
+  • Silhouette score: 0.0558
+  • Forma: (24, 15)
+
+TSNE_Optimized:
+  • Distancia mínima promedio: 6.5547
+  • Ratio de varianza: 1.0000
+  • Silhouette score: 0.2643
+  • Forma: (24, 2)
+
+RECOMENDACIONES:
+--------------------
+1. Usar método con mayor silhouette score para discriminación
+2. Considerar PCA 2D para visualización rápida
+3. Usar t-SNE para visualización 2D de alta calidad
+4. Evaluar métricas híbridas para mejor rendimiento

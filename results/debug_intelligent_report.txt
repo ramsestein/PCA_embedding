@@ -1,0 +1,16 @@
+================================================================================
+REPORTE DE DEBUG - ESTRATEGIAS 4 Y 5
+================================================================================
+
+RESUMEN DE RESULTADOS:
+------------------------------
+• Embeddings originales: (24, 384)
+• PCA (10 componentes): (24, 10)
+• t-SNE (2 componentes): (24, 2)
+• Varianza explicada PCA: 68.75%
+
+EVALUACIÓN DE CALIDAD:
+------------------------------
+PCA: Dist_Min=14.0413, Var_Ratio=10181.7891
+t-SNE: Dist_Min=6.5547, Var_Ratio=46740.4492
+Original: Dist_Min=0.7777, Var_Ratio=1.0000

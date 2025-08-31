@@ -1,0 +1,90 @@
+🚀 REPORTE COMPARATIVO EXTREMO - BUSCANDO TOP-1 DEL 100%
+================================================================================
+Fecha: 2025
+Modelo base: all-mini-base
+Expansiones evaluadas: 8
+
+🎯 OBJETIVO: DISCRIMINACIÓN ABSOLUTA (Top-1 del 100%)
+
+📊 RESULTADOS POR EXPANSIÓN EXTREMA:
+------------------------------------------------------------
+
+🏆 #1 - Adaptativo Extremo (900d)
+   📏 +900d | 🎲 adaptive_extreme | 📊 0.95
+   🎯 Estado: 📊 Progreso: 9.38%
+   🇨🇦 Catalán: Top-1: 12.50% | Top-3: 18.75% | MRR: 0.2306
+   🇪🇸 Español: Top-1: 6.25% | Top-3: 12.50% | MRR: 0.1703
+   📊 Promedio: Top-1: 9.38%
+   🎯 Separación: 0.9470 | 🚀 Potencial: 0.0196
+
+🏆 #2 - Extremo Uniforme Ultra Masivo (1000d)
+   📏 +1000d | 🎲 extreme_uniform | 📊 1.0
+   🎯 Estado: 📊 Progreso: 7.29%
+   🇨🇦 Catalán: Top-1: 4.17% | Top-3: 12.50% | MRR: 0.1701
+   🇪🇸 Español: Top-1: 10.42% | Top-3: 20.83% | MRR: 0.2259
+   📊 Promedio: Top-1: 7.29%
+   🎯 Separación: 0.9428 | 🚀 Potencial: 0.0202
+
+🏆 #3 - Extremo Uniforme Masivo (500d)
+   📏 +500d | 🎲 extreme_uniform | 📊 0.8
+   🎯 Estado: 📊 Progreso: 7.29%
+   🇨🇦 Catalán: Top-1: 8.33% | Top-3: 12.50% | MRR: 0.2002
+   🇪🇸 Español: Top-1: 6.25% | Top-3: 20.83% | MRR: 0.1817
+   📊 Promedio: Top-1: 7.29%
+   🎯 Separación: 0.9045 | 🚀 Potencial: 0.0333
+
+🏆 #4 - Extremo Gaussiano Masivo (500d)
+   📏 +500d | 🎲 extreme_gaussian | 📊 0.7
+   🎯 Estado: 📊 Progreso: 6.25%
+   🇨🇦 Catalán: Top-1: 6.25% | Top-3: 10.42% | MRR: 0.1728
+   🇪🇸 Español: Top-1: 6.25% | Top-3: 8.33% | MRR: 0.1531
+   📊 Promedio: Top-1: 6.25%
+   🎯 Separación: 0.9273 | 🚀 Potencial: 0.0307
+
+🏆 #5 - Extremo Gaussiano Ultra Masivo (1000d)
+   📏 +1000d | 🎲 extreme_gaussian | 📊 0.9
+   🎯 Estado: 📊 Progreso: 6.25%
+   🇨🇦 Catalán: Top-1: 4.17% | Top-3: 8.33% | MRR: 0.1504
+   🇪🇸 Español: Top-1: 8.33% | Top-3: 20.83% | MRR: 0.1904
+   📊 Promedio: Top-1: 6.25%
+   🎯 Separación: 0.9374 | 🚀 Potencial: 0.0222
+
+🏆 #6 - Basado en Clusters (600d)
+   📏 +600d | 🎲 cluster_based | 📊 0.9
+   🎯 Estado: 📊 Progreso: 6.25%
+   🇨🇦 Catalán: Top-1: 4.17% | Top-3: 10.42% | MRR: 0.1595
+   🇪🇸 Español: Top-1: 8.33% | Top-3: 18.75% | MRR: 0.2104
+   📊 Promedio: Top-1: 6.25%
+   🎯 Separación: 0.9212 | 🚀 Potencial: 0.0259
+
+🏆 #7 - Híbrido Extremo Complejo (750d)
+   📏 +750d | 🎲 hybrid_extreme | 📊 0.8
+   🎯 Estado: 📊 Progreso: 5.21%
+   🇨🇦 Catalán: Top-1: 6.25% | Top-3: 10.42% | MRR: 0.1565
+   🇪🇸 Español: Top-1: 4.17% | Top-3: 10.42% | MRR: 0.1413
+   📊 Promedio: Top-1: 5.21%
+   🎯 Separación: 0.9122 | 🚀 Potencial: 0.0368
+
+🏆 #8 - Secuencial Extremo (800d)
+   📏 +800d | 🎲 sequential_extreme | 📊 0.85
+   🎯 Estado: 📊 Progreso: 4.17%
+   🇨🇦 Catalán: Top-1: 6.25% | Top-3: 16.67% | MRR: 0.1943
+   🇪🇸 Español: Top-1: 2.08% | Top-3: 6.25% | MRR: 0.1168
+   📊 Promedio: Top-1: 4.17%
+   🎯 Separación: 0.9291 | 🚀 Potencial: 0.0272
+
+📈 ANÁLISIS DE PROGRESO HACIA TOP-1 DEL 100%:
+--------------------------------------------------
+🇨🇦 Expansiones con Top-1 100% en Catalán: 0/8 (0.0%)
+🇪🇸 Expansiones con Top-1 100% en Español: 0/8 (0.0%)
+🎉 Expansiones con Top-1 100% en AMBOS: 0/8 (0.0%)
+
+💡 RECOMENDACIONES:
+📊 ¡PROGRESO DETECTADO! Las expansiones extremas mejoran el baseline
+🚀 Continuar con estrategias más agresivas:
+   - Aumentar dimensiones adicionales (1500-2000)
+   - Escalas de ruido más extremas (1.0-2.0)
+   - Combinaciones de ruido más complejas
+   - Ruido específico por documento
+
+================================================================================

@@ -1,0 +1,41 @@
+REPORTE DE OPTIMIZACIÓN DE HIPERPARÁMETROS - ESTRATEGIA 8 (CORREGIDA)
+================================================================================
+
+Fecha: 2025-08-27 23:37:06
+Total combinaciones evaluadas: 9
+Mejor MRR obtenido: 0.5289
+
+🏆 MEJOR CONFIGURACIÓN ENCONTRADA:
+----------------------------------------
+  batch_size: 8
+  convert_to_numpy: True
+  normalize_embeddings: True
+  show_progress_bar: False
+
+Rendimiento: MRR = 0.5289
+
+RANKING COMPLETO DE CONFIGURACIONES:
+----------------------------------------
+ Combinación  Normalizar  Batch Size  Top-1  Top-3  Top-5    MRR  Ranking
+           1        True           8 0.4167 0.5729 0.6250 0.5289        1
+           2       False           8 0.4167 0.5729 0.6250 0.5289        2
+           3        True           8 0.4167 0.5729 0.6250 0.5289        3
+           5        True          16 0.4167 0.5729 0.6250 0.5289        4
+           6       False          16 0.4167 0.5729 0.6250 0.5289        5
+           7        True          16 0.4167 0.5729 0.6250 0.5289        6
+           9        True          32 0.4167 0.5729 0.6250 0.5289        7
+          10       False          32 0.4167 0.5729 0.6250 0.5289        8
+          11        True          32 0.4167 0.5729 0.6250 0.5289        9
+
+ANÁLISIS DE PARÁMETROS MÁS INFLUYENTES:
+----------------------------------------
+Impacto de parámetros en MRR:
+  normalize_embeddings: +0.0000
+  convert_to_numpy: +0.0000
+  batch_size: +0.0000
+
+💡 RECOMENDACIONES:
+----------------------------------------
+• Implementar la configuración ganadora en producción
+• Los parámetros más críticos son: normalize_embeddings, convert_to_numpy, batch_size
+• Considerar fine-tuning adicional con estos hiperparámetros

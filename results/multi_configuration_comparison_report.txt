@@ -1,0 +1,64 @@
+================================================================================
+REPORTE COMPARATIVO: MÚLTIPLES CONFIGURACIONES DE RUIDO
+MODELO: all-MiniLM-L6-v2
+OBJETIVO: Maximizar diferenciación de documentos
+================================================================================
+
+BASELINE (384 dimensiones):
+------------------------------
+Catalán - Top-1: 47.92%, Top-3: 64.58%, MRR: 0.5860, Pos: 5.15
+Español  - Top-1: 35.42%, Top-3: 50.00%, MRR: 0.4719, Pos: 7.02
+
+COMPARACIÓN DE CONFIGURACIONES:
+----------------------------------------
+Configuración                    | Top-1 Cat | Top-3 Cat | MRR Cat | Pos Cat | Top-1 Esp | Top-3 Esp | MRR Esp | Pos Esp | Mejora
+------------------------------------------------------------------------------------------------------------------------
+Uniforme Muy Agresivo (0.2)         |   45.83% |   62.50% | 0.5731 |   5.23 |    35.42% |    50.00% |  0.4710 |    7.04 |   0.0%
+Uniforme Agresivo (0.15)            |   45.83% |   64.58% | 0.5764 |   5.15 |    35.42% |    52.08% |  0.4747 |    6.88 |  37.5%
+Gaussiano Muy Agresivo (0.2)        |   47.92% |   62.50% | 0.5834 |   5.25 |    39.58% |    50.00% |  0.4957 |    7.02 |  25.0%
+
+ANÁLISIS DE MEJORAS:
+-------------------------
+Uniforme Muy Agresivo (0.2):
+  • Mejoras: 0/8 métricas (0.0%)
+  • Top-1 Cat: 45.83% (baseline: 47.92%)
+  • Top-3 Cat: 62.50% (baseline: 64.58%)
+  • MRR Cat: 0.5731 (baseline: 0.5860)
+  • Pos Cat: 5.23 (baseline: 5.15)
+  • Top-1 Esp: 35.42% (baseline: 35.42%)
+  • Top-3 Esp: 50.00% (baseline: 50.00%)
+  • MRR Esp: 0.4710 (baseline: 0.4719)
+  • Pos Esp: 7.04 (baseline: 7.02)
+
+Uniforme Agresivo (0.15):
+  • Mejoras: 3/8 métricas (37.5%)
+  • Top-1 Cat: 45.83% (baseline: 47.92%)
+  • Top-3 Cat: 64.58% (baseline: 64.58%)
+  • MRR Cat: 0.5764 (baseline: 0.5860)
+  • Pos Cat: 5.15 (baseline: 5.15)
+  • Top-1 Esp: 35.42% (baseline: 35.42%)
+  • Top-3 Esp: 52.08% (baseline: 50.00%)
+  • MRR Esp: 0.4747 (baseline: 0.4719)
+  • Pos Esp: 6.88 (baseline: 7.02)
+
+Gaussiano Muy Agresivo (0.2):
+  • Mejoras: 2/8 métricas (25.0%)
+  • Top-1 Cat: 47.92% (baseline: 47.92%)
+  • Top-3 Cat: 62.50% (baseline: 64.58%)
+  • MRR Cat: 0.5834 (baseline: 0.5860)
+  • Pos Cat: 5.25 (baseline: 5.15)
+  • Top-1 Esp: 39.58% (baseline: 35.42%)
+  • Top-3 Esp: 50.00% (baseline: 50.00%)
+  • MRR Esp: 0.4957 (baseline: 0.4719)
+  • Pos Esp: 7.02 (baseline: 7.02)
+
+RECOMENDACIÓN FINAL:
+-------------------------
+🏆 MEJOR CONFIGURACIÓN: Uniforme Agresivo (0.15)
+   • Mejora total: 37.5% de las métricas
+   • Tipo de ruido: uniform
+   • Escala: 0.15
+   • ID del experimento: 7
+
+💡 Esta configuración produce la mejor diferenciación de documentos
+   según el benchmark de preguntas y respuestas.

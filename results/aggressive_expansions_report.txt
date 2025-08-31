@@ -1,0 +1,95 @@
+================================================================================
+REPORTE DE EXPANSIONES DIMENSIONALES AGRESIVAS
+OBJETIVO: Hiper-especialización para benchmark PNTs
+================================================================================
+
+CONFIGURACIONES DE EXPANSIÓN:
+----------------------------------------
+
+Uniforme Muy Agresivo (100d):
+  • Dimensiones adicionales: 100
+  • Tipo de ruido: uniform
+  • Escala de ruido: 0.3
+  • Dimensiones totales: 484
+  • Ratio de varianza: 0.7997
+  • Distancia promedio: 0.9284
+  • Distancia mínima: 0.6440
+  • Distancia máxima: 1.2397
+
+Uniforme Ultra Agresivo (150d):
+  • Dimensiones adicionales: 150
+  • Tipo de ruido: uniform
+  • Escala de ruido: 0.4
+  • Dimensiones totales: 534
+  • Ratio de varianza: 0.7344
+  • Distancia promedio: 0.9416
+  • Distancia mínima: 0.6670
+  • Distancia máxima: 1.2495
+
+Uniforme Extremo (200d):
+  • Dimensiones adicionales: 200
+  • Tipo de ruido: uniform
+  • Escala de ruido: 0.5
+  • Dimensiones totales: 584
+  • Ratio de varianza: 0.6864
+  • Distancia promedio: 0.9637
+  • Distancia mínima: 0.7025
+  • Distancia máxima: 1.2709
+
+Gaussiano Muy Agresivo (100d):
+  • Dimensiones adicionales: 100
+  • Tipo de ruido: gaussian
+  • Escala de ruido: 0.25
+  • Dimensiones totales: 484
+  • Ratio de varianza: 0.8063
+  • Distancia promedio: 0.9365
+  • Distancia mínima: 0.6574
+  • Distancia máxima: 1.2448
+
+Gaussiano Ultra Agresivo (150d):
+  • Dimensiones adicionales: 150
+  • Tipo de ruido: gaussian
+  • Escala de ruido: 0.35
+  • Dimensiones totales: 534
+  • Ratio de varianza: 0.7536
+  • Distancia promedio: 0.9676
+  • Distancia mínima: 0.6991
+  • Distancia máxima: 1.2805
+
+Gaussiano Extremo (200d):
+  • Dimensiones adicionales: 200
+  • Tipo de ruido: gaussian
+  • Escala de ruido: 0.45
+  • Dimensiones totales: 584
+  • Ratio de varianza: 0.7272
+  • Distancia promedio: 1.0213
+  • Distancia mínima: 0.7945
+  • Distancia máxima: 1.3081
+
+Mixto Agresivo (150d):
+  • Dimensiones adicionales: 150
+  • Tipo de ruido: mixed
+  • Escala de ruido: 0.3
+  • Dimensiones totales: 534
+  • Ratio de varianza: 0.7362
+  • Distancia promedio: 0.9442
+  • Distancia mínima: 0.6719
+  • Distancia máxima: 1.2505
+
+Mixto Ultra Agresivo (200d):
+  • Dimensiones adicionales: 200
+  • Tipo de ruido: mixed
+  • Escala de ruido: 0.4
+  • Dimensiones totales: 584
+  • Ratio de varianza: 0.6939
+  • Distancia promedio: 0.9747
+  • Distancia mínima: 0.7198
+  • Distancia máxima: 1.2754
+
+================================================================================
+RECOMENDACIONES PARA HIPER-ESPECIALIZACIÓN:
+--------------------------------------------------
+1. Usar expansiones con mayor ratio de varianza
+2. Priorizar configuraciones con mayor distancia promedio
+3. Evaluar con benchmark para confirmar mejoras
+4. Considerar expansiones de 150-200 dimensiones

@@ -1,0 +1,44 @@
+REPORTE COMPREHENSIVO DE BENCHMARK
+================================================================================
+
+Fecha: 2025-08-27 23:37:23
+Total consultas evaluadas: 96
+Total documentos PNTs: 24
+
+RESULTADOS DE EVALUACIÓN:
+----------------------------------------
+             Método  Dimensiones Top-1 Accuracy Top-3 Accuracy Top-5 Accuracy    MRR Varianza Explicada
+Baseline (Original)          384         0.4167         0.5729         0.6250 0.5289                N/A
+             PCA_2D            2         0.0521         0.2500         0.3750 0.2152             0.2546
+             PCA_5D            5         0.2083         0.3333         0.4792 0.3390             0.4729
+            PCA_10D           10         0.2188         0.4583         0.5312 0.3829             0.7113
+            PCA_15D           15         0.2917         0.4688         0.5312 0.4284             0.8660
+           t-SNE 2D            2         0.0208         0.0833         0.1667 0.1220                N/A
+
+ANÁLISIS DETALLADO:
+----------------------------------------
+🏆 MEJOR MÉTODO: Baseline (Original)
+   MRR: 0.5289
+   Top-1: 0.4167
+   Top-3: 0.5729
+
+📊 PCA_2D vs Baseline:
+   Mejora MRR: -59.31%
+   Top-1: 0.0521 vs 0.4167
+
+📊 PCA_5D vs Baseline:
+   Mejora MRR: -35.90%
+   Top-1: 0.2083 vs 0.4167
+
+📊 PCA_10D vs Baseline:
+   Mejora MRR: -27.60%
+   Top-1: 0.2188 vs 0.4167
+
+📊 PCA_15D vs Baseline:
+   Mejora MRR: -19.00%
+   Top-1: 0.2917 vs 0.4167
+
+📊 t-SNE 2D vs Baseline:
+   Mejora MRR: -76.93%
+   Top-1: 0.0208 vs 0.4167
+
