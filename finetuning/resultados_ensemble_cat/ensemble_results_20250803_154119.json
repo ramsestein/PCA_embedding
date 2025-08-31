@@ -1,0 +1,147 @@
+{
+  "configuration": {
+    "models": [
+      {
+        "path": "models/sapbert-umls/model-0_0183",
+        "name": "sapbert-umls",
+        "pooling": "mean"
+      },
+      {
+        "path": "models/pubmedbert-marco/model-0_3372",
+        "name": "pudmedbert-marco",
+        "pooling": "mean"
+      },
+      {
+        "path": "models/paraphrase-agressive/model-0_0113",
+        "name": "paraphrase",
+        "pooling": "mean"
+      }
+    ],
+    "initial_weights": [
+      0.7,
+      0.2,
+      0.1
+    ]
+  },
+  "results": {
+    "individual_models": {
+      "sapbert-umls": {
+        "metrics": {
+          "accuracy_at_1": 0.7083333333333334,
+          "accuracy_at_5": 0.8333333333333334,
+          "mrr": 0.7524305555555556,
+          "map": 0.7524305555555556,
+          "ndcg_at_5": 0.7724872681760594,
+          "avg_similarity": 52.87926483154297,
+          "not_found": 8,
+          "total_queries": 48
+        }
+      },
+      "pudmedbert-marco": {
+        "metrics": {
+          "accuracy_at_1": 0.6666666666666666,
+          "accuracy_at_5": 0.875,
+          "mrr": 0.7305555555555556,
+          "map": 0.7305555555555555,
+          "ndcg_at_5": 0.7659580934205693,
+          "avg_similarity": 46.28009796142578,
+          "not_found": 6,
+          "total_queries": 48
+        }
+      },
+      "paraphrase": {
+        "metrics": {
+          "accuracy_at_1": 0.5833333333333334,
+          "accuracy_at_5": 0.75,
+          "mrr": 0.6527777777777778,
+          "map": 0.6527777777777778,
+          "ndcg_at_5": 0.6774167059167516,
+          "avg_similarity": 64.88987731933594,
+          "not_found": 12,
+          "total_queries": 48
+        }
+      }
+    },
+    "weighted_average": {
+      "initial": {
+        "weights": [
+          0.7,
+          0.2,
+          0.1
+        ],
+        "metrics": {
+          "accuracy_at_1": 0.6875,
+          "accuracy_at_5": 0.875,
+          "mrr": 0.7576388888888889,
+          "map": 0.7576388888888889,
+          "ndcg_at_5": 0.7869151028680658,
+          "avg_similarity": 50.394020080566406,
+          "not_found": 6,
+          "total_queries": 48
+        }
+      },
+      "optimal": {
+        "weights": [
+          0.5537974683544303,
+          0.2088607594936709,
+          0.23734177215189878
+        ],
+        "metrics": {
+          "accuracy_at_1": 0.6875,
+          "accuracy_at_5": 0.9375,
+          "mrr": 0.7774305555555556,
+          "map": 0.7774305555555555,
+          "ndcg_at_5": 0.8170913345113865,
+          "avg_similarity": 49.34218215942383,
+          "not_found": 3,
+          "total_queries": 48
+        }
+      }
+    },
+    "rank_fusion": {
+      "initial": {
+        "weights": [
+          0.7,
+          0.2,
+          0.1
+        ],
+        "metrics": {
+          "accuracy_at_1": 0.5625,
+          "accuracy_at_5": 0.8958333333333334,
+          "mrr": 0.6947916666666667,
+          "map": 0.6947916666666667,
+          "ndcg_at_5": 0.745200057540003,
+          "avg_similarity": 51.47641372680664,
+          "not_found": 5,
+          "total_queries": 48
+        }
+      },
+      "optimal": {
+        "weights": [
+          0.6172839506172839,
+          0.23280423280423285,
+          0.14991181657848326
+        ],
+        "metrics": {
+          "accuracy_at_1": 0.5416666666666666,
+          "accuracy_at_5": 0.9166666666666666,
+          "mrr": 0.6913194444444444,
+          "map": 0.6913194444444445,
+          "ndcg_at_5": 0.7479277607394081,
+          "avg_similarity": 50.99444580078125,
+          "not_found": 4,
+          "total_queries": 48
+        }
+      }
+    },
+    "diversity_analysis": {
+      "pairwise_overlap": {
+        "sapbert-umls vs pudmedbert-marco": 0.19583333333333333,
+        "sapbert-umls vs paraphrase": 0.1625,
+        "pudmedbert-marco vs paraphrase": 0.17916666666666667
+      },
+      "average_agreement": 0.7118055555555555,
+      "ensemble_unique_wins": 0
+    }
+  }
+}

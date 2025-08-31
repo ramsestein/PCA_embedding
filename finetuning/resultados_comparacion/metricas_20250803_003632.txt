@@ -1,0 +1,25 @@
+COMPARACIÓN DE EMBEDDINGS - MÉTRICAS
+============================================================
+
+Modelo: all-MiniLM-L6-v2
+Dimensión: 384
+----------------------------------------
+accuracy_at_1: 31.2%
+accuracy_at_5: 50.0%
+mrr: 0.389
+avg_similarity: 53.95628356933594
+not_found: 24
+total_queries: 48
+avg_query_time: 0.003
+
+Modelo: RoBERTa-0.1887
+Dimensión: 768
+----------------------------------------
+accuracy_at_1: 18.8%
+accuracy_at_5: 45.8%
+mrr: 0.277
+avg_similarity: 77.11709594726562
+not_found: 26
+total_queries: 48
+avg_query_time: 0.005
+

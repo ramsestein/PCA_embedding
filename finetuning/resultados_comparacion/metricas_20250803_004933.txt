@@ -1,0 +1,25 @@
+COMPARACIÓN DE EMBEDDINGS - MÉTRICAS
+============================================================
+
+Modelo: all-MiniLM-base
+Dimensión: 384
+----------------------------------------
+accuracy_at_1: 31.2%
+accuracy_at_5: 50.0%
+mrr: 0.389
+avg_similarity: 53.95628356933594
+not_found: 24
+total_queries: 48
+avg_query_time: 0.004
+
+Modelo: all-MiniLM-fine-0.1619
+Dimensión: 384
+----------------------------------------
+accuracy_at_1: 35.4%
+accuracy_at_5: 58.3%
+mrr: 0.447
+avg_similarity: 50.18095016479492
+not_found: 20
+total_queries: 48
+avg_query_time: 0.004
+

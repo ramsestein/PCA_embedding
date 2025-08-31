@@ -1,0 +1,113 @@
+
+================================================================================
+REPORTE DE RESULTADOS - ENSEMBLE DE EMBEDDINGS
+================================================================================
+
+🎯 Métrica optimizada: accuracy_at_5
+
+📊 RENDIMIENTO DE MODELOS INDIVIDUALES
+--------------------------------------------------------------------------------
+Modelo                    Acc@1      Acc@5      MRR        MAP        NDCG@5    
+--------------------------------------------------------------------------------
+sapbert-umls              70.8%      81.2%      0.750      0.750      0.766     
+sapbert-umls-2            70.8%      83.3%      0.752      0.752      0.772     
+
+
+📊 MÉTODO 1: PROMEDIO PONDERADO DE EMBEDDINGS
+--------------------------------------------------------------------------------
+
+🔸 Con pesos iniciales:
+   sapbert-umls: 0.500
+   sapbert-umls-2: 0.500
+
+   Métricas:
+   • Accuracy@1: 70.8%
+   • Accuracy@5: 81.2%
+   • MRR: 0.748
+   • MAP: 0.748
+   • NDCG@5: 0.764
+
+🔸 Con pesos óptimos:
+   sapbert-umls: 0.303
+   sapbert-umls-2: 0.697
+
+   Métricas:
+   • Accuracy@1: 70.8% (+0.0 pp)
+   • Accuracy@5: 83.3% (+2.1 pp)
+   • MRR: 0.752 (+0.004)
+   • MAP: 0.752 (+0.004)
+   • NDCG@5: 0.772 (+0.008)
+
+
+📊 MÉTODO 2: FUSIÓN DE RANKINGS (RRF PONDERADO)
+--------------------------------------------------------------------------------
+
+🔸 Con pesos iniciales:
+   sapbert-umls: 0.500
+   sapbert-umls-2: 0.500
+
+   Métricas:
+   • Accuracy@1: 43.8%
+   • Accuracy@5: 81.2%
+   • MRR: 0.616
+   • MAP: 0.616
+   • NDCG@5: 0.667
+
+🔸 Con pesos óptimos:
+   sapbert-umls: 0.500
+   sapbert-umls-2: 0.500
+
+   Métricas:
+   • Accuracy@1: 43.8% (+0.0 pp)
+   • Accuracy@5: 81.2% (+0.0 pp)
+   • MRR: 0.616 (+0.000)
+   • MAP: 0.616 (+0.000)
+   • NDCG@5: 0.667 (+0.000)
+
+
+📊 COMPARACIÓN DE MÉTODOS (CON PESOS ÓPTIMOS)
+--------------------------------------------------------------------------------
+Método                    Acc@1      Acc@5      MRR        MAP        NDCG@5    
+--------------------------------------------------------------------------------
+Promedio Ponderado        70.8%      83.3%      0.752      0.752      0.772     
+Fusión de Rankings        43.8%      81.2%      0.616      0.616      0.667     
+
+💡 Mejora del mejor ensemble sobre mejor modelo individual: 0.0 pp
+
+
+🔬 ANÁLISIS DE DIVERSIDAD DEL ENSEMBLE
+================================================================================
+
+📊 Overlap promedio entre pares de modelos (en top-5):
+   • sapbert-umls vs sapbert-umls-2: 33.8%
+
+📊 Agreement promedio en predicciones: 99.0%
+   (1.0 = todos predicen lo mismo, 0.0 = todos predicen diferente)
+
+📊 Contribuciones únicas por modelo (veces que solo ese modelo acertó):
+   • sapbert-umls: 34 queries (70.8%)
+   • sapbert-umls-2: 34 queries (70.8%)
+
+📊 Queries donde el ensemble acertó pero ningún modelo individual: 0 (0.0%)
+
+📊 Top 5 queries con mayor desacuerdo entre modelos:
+
+   1. Query: Número del cercapersones de l'equip d'HDOM...
+      Agreement score: 0.50
+      Predicciones únicas: 2
+
+   2. Query: Com dono alta a un pacient pal·liatiu amb hospital...
+      Agreement score: 1.00
+      Predicciones únicas: 1
+
+   3. Query: Qui gestiona l'ingrés al centre d'atenció intermèd...
+      Agreement score: 1.00
+      Predicciones únicas: 1
+
+   4. Query: Quines escales haig de passar en la valoració inte...
+      Agreement score: 1.00
+      Predicciones únicas: 1
+
+   5. Query: A qui haig de fer interconsulta en cas de pacient ...
+      Agreement score: 1.00
+      Predicciones únicas: 1

@@ -1,0 +1,111 @@
+
+================================================================================
+REPORTE DE RESULTADOS - ENSEMBLE DE EMBEDDINGS
+================================================================================
+
+📊 RENDIMIENTO DE MODELOS INDIVIDUALES
+--------------------------------------------------------------------------------
+Modelo                    Acc@1      Acc@5      MRR        MAP        NDCG@5    
+--------------------------------------------------------------------------------
+roberta-catalan           54.2%      62.5%      0.573      0.573      0.586     
+sapbert-umls              70.8%      83.3%      0.752      0.752      0.772     
+
+
+📊 MÉTODO 1: PROMEDIO PONDERADO DE EMBEDDINGS
+--------------------------------------------------------------------------------
+
+🔸 Con pesos iniciales:
+   roberta-catalan: 0.300
+   sapbert-umls: 0.700
+
+   Métricas:
+   • Accuracy@1: 64.6%
+   • Accuracy@5: 79.2%
+   • MRR: 0.703
+   • MAP: 0.703
+   • NDCG@5: 0.725
+
+🔸 Con pesos óptimos:
+   roberta-catalan: 0.125
+   sapbert-umls: 0.875
+
+   Métricas:
+   • Accuracy@1: 68.8% (+4.2 pp)
+   • Accuracy@5: 83.3% (+4.2 pp)
+   • MRR: 0.742 (+0.039)
+   • MAP: 0.742 (+0.039)
+   • NDCG@5: 0.765 (+0.039)
+
+
+📊 MÉTODO 2: FUSIÓN DE RANKINGS (RRF PONDERADO)
+--------------------------------------------------------------------------------
+
+🔸 Con pesos iniciales:
+   roberta-catalan: 0.300
+   sapbert-umls: 0.700
+
+   Métricas:
+   • Accuracy@1: 50.0%
+   • Accuracy@5: 81.2%
+   • MRR: 0.637
+   • MAP: 0.637
+   • NDCG@5: 0.682
+
+🔸 Con pesos óptimos:
+   roberta-catalan: 0.391
+   sapbert-umls: 0.609
+
+   Métricas:
+   • Accuracy@1: 56.2% (+6.2 pp)
+   • Accuracy@5: 81.2% (+0.0 pp)
+   • MRR: 0.669 (+0.032)
+   • MAP: 0.669 (+0.032)
+   • NDCG@5: 0.706 (+0.023)
+
+
+📊 COMPARACIÓN DE MÉTODOS (CON PESOS ÓPTIMOS)
+--------------------------------------------------------------------------------
+Método                    Acc@1      Acc@5      MRR        MAP        NDCG@5    
+--------------------------------------------------------------------------------
+Promedio Ponderado        68.8%      83.3%      0.742      0.742      0.765     
+Fusión de Rankings        56.2%      81.2%      0.669      0.669      0.706     
+
+💡 Mejora del mejor ensemble sobre mejor modelo individual: -2.1 pp
+
+
+🔬 ANÁLISIS DE DIVERSIDAD DEL ENSEMBLE
+================================================================================
+
+📊 Overlap promedio entre pares de modelos (en top-5):
+   • roberta-catalan vs sapbert-umls: 20.0%
+
+📊 Agreement promedio en predicciones: 83.3%
+   (1.0 = todos predicen lo mismo, 0.0 = todos predicen diferente)
+
+📊 Contribuciones únicas por modelo (veces que solo ese modelo acertó):
+   • roberta-catalan: 26 queries (54.2%)
+   • sapbert-umls: 34 queries (70.8%)
+
+📊 Queries donde el ensemble acertó pero ningún modelo individual: 0 (0.0%)
+
+📊 Top 5 queries con mayor desacuerdo entre modelos:
+
+   1. Query: Qui ha d'aprovar que es doni una prestació fora de...
+      Agreement score: 0.50
+      Predicciones únicas: 2
+
+   2. Query: Dona'm l'enllaç d'accés al CASCIPE...
+      Agreement score: 0.50
+      Predicciones únicas: 2
+
+   3. Query: Amb qui haig de coordinar la medicació a administr...
+      Agreement score: 0.50
+      Predicciones únicas: 2
+
+   4. Query: Què he de fer en una crisi tonicoclònica?...
+      Agreement score: 0.50
+      Predicciones únicas: 2
+
+   5. Query: Quant de temps ha d'estar monitoritzat després d'u...
+      Agreement score: 0.50
+      Predicciones únicas: 2

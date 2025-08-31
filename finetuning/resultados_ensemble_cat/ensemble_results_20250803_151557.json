@@ -1,0 +1,123 @@
+{
+  "configuration": {
+    "models": [
+      {
+        "path": "models/all-mini-fine/model-0_0000",
+        "name": "all-mini-fine",
+        "pooling": "mean"
+      },
+      {
+        "path": "models/sapbert-umls/model-0_0183",
+        "name": "sapbert-umls",
+        "pooling": "mean"
+      }
+    ],
+    "initial_weights": [
+      0.4,
+      0.6
+    ]
+  },
+  "results": {
+    "individual_models": {
+      "all-mini-fine": {
+        "metrics": {
+          "accuracy_at_1": 0.6666666666666666,
+          "accuracy_at_5": 0.7291666666666666,
+          "mrr": 0.6881944444444444,
+          "map": 0.6881944444444444,
+          "ndcg_at_5": 0.6982871366834583,
+          "avg_similarity": 53.71832275390625,
+          "not_found": 13,
+          "total_queries": 48
+        }
+      },
+      "sapbert-umls": {
+        "metrics": {
+          "accuracy_at_1": 0.7083333333333334,
+          "accuracy_at_5": 0.8333333333333334,
+          "mrr": 0.7524305555555556,
+          "map": 0.7524305555555556,
+          "ndcg_at_5": 0.7724872681760594,
+          "avg_similarity": 52.87926483154297,
+          "not_found": 8,
+          "total_queries": 48
+        }
+      }
+    },
+    "weighted_average": {
+      "initial": {
+        "weights": [
+          0.4,
+          0.6
+        ],
+        "metrics": {
+          "accuracy_at_1": 0.6666666666666666,
+          "accuracy_at_5": 0.8541666666666666,
+          "mrr": 0.728125,
+          "map": 0.728125,
+          "ndcg_at_5": 0.7591821247624507,
+          "avg_similarity": 50.78618621826172,
+          "not_found": 7,
+          "total_queries": 48
+        }
+      },
+      "optimal": {
+        "weights": [
+          0.3355704697986577,
+          0.6644295302013422
+        ],
+        "metrics": {
+          "accuracy_at_1": 0.7083333333333334,
+          "accuracy_at_5": 0.8333333333333334,
+          "mrr": 0.7534722222222222,
+          "map": 0.7534722222222223,
+          "ndcg_at_5": 0.7734002629852021,
+          "avg_similarity": 51.640380859375,
+          "not_found": 8,
+          "total_queries": 48
+        }
+      }
+    },
+    "rank_fusion": {
+      "initial": {
+        "weights": [
+          0.4,
+          0.6
+        ],
+        "metrics": {
+          "accuracy_at_1": 0.4791666666666667,
+          "accuracy_at_5": 0.8541666666666666,
+          "mrr": 0.6298611111111111,
+          "map": 0.6298611111111111,
+          "ndcg_at_5": 0.6863407555485509,
+          "avg_similarity": 50.6428337097168,
+          "not_found": 7,
+          "total_queries": 48
+        }
+      },
+      "optimal": {
+        "weights": [
+          0.18181818181818185,
+          0.8181818181818182
+        ],
+        "metrics": {
+          "accuracy_at_1": 0.5,
+          "accuracy_at_5": 0.8125,
+          "mrr": 0.642361111111111,
+          "map": 0.642361111111111,
+          "ndcg_at_5": 0.686254735193459,
+          "avg_similarity": 51.46361541748047,
+          "not_found": 9,
+          "total_queries": 48
+        }
+      }
+    },
+    "diversity_analysis": {
+      "pairwise_overlap": {
+        "all-mini-fine vs sapbert-umls": 0.19166666666666665
+      },
+      "average_agreement": 0.8333333333333334,
+      "ensemble_unique_wins": 0
+    }
+  }
+}

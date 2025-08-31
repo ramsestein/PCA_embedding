@@ -1,0 +1,121 @@
+
+================================================================================
+REPORTE DE RESULTADOS - ENSEMBLE DE EMBEDDINGS
+================================================================================
+
+🎯 Métrica optimizada: accuracy_at_5
+
+📊 RENDIMIENTO DE MODELOS INDIVIDUALES
+--------------------------------------------------------------------------------
+Modelo                    Acc@1      Acc@5      MRR        MAP        NDCG@5    
+--------------------------------------------------------------------------------
+sapbert-umls              70.8%      83.3%      0.752      0.752      0.772     
+pudmedbert-marco          66.7%      87.5%      0.731      0.731      0.766     
+paraphrase                58.3%      75.0%      0.653      0.653      0.677     
+
+
+📊 MÉTODO 1: PROMEDIO PONDERADO DE EMBEDDINGS
+--------------------------------------------------------------------------------
+
+🔸 Con pesos iniciales:
+   sapbert-umls: 0.700
+   pudmedbert-marco: 0.200
+   paraphrase: 0.100
+
+   Métricas:
+   • Accuracy@1: 68.8%
+   • Accuracy@5: 87.5%
+   • MRR: 0.758
+   • MAP: 0.758
+   • NDCG@5: 0.787
+
+🔸 Con pesos óptimos:
+   sapbert-umls: 0.554
+   pudmedbert-marco: 0.209
+   paraphrase: 0.237
+
+   Métricas:
+   • Accuracy@1: 68.8% (+0.0 pp)
+   • Accuracy@5: 93.8% (+6.2 pp)
+   • MRR: 0.777 (+0.020)
+   • MAP: 0.777 (+0.020)
+   • NDCG@5: 0.817 (+0.030)
+
+
+📊 MÉTODO 2: FUSIÓN DE RANKINGS (RRF PONDERADO)
+--------------------------------------------------------------------------------
+
+🔸 Con pesos iniciales:
+   sapbert-umls: 0.700
+   pudmedbert-marco: 0.200
+   paraphrase: 0.100
+
+   Métricas:
+   • Accuracy@1: 56.2%
+   • Accuracy@5: 89.6%
+   • MRR: 0.695
+   • MAP: 0.695
+   • NDCG@5: 0.745
+
+🔸 Con pesos óptimos:
+   sapbert-umls: 0.617
+   pudmedbert-marco: 0.233
+   paraphrase: 0.150
+
+   Métricas:
+   • Accuracy@1: 54.2% (+-2.1 pp)
+   • Accuracy@5: 91.7% (+2.1 pp)
+   • MRR: 0.691 (+-0.003)
+   • MAP: 0.691 (+-0.003)
+   • NDCG@5: 0.748 (+0.003)
+
+
+📊 COMPARACIÓN DE MÉTODOS (CON PESOS ÓPTIMOS)
+--------------------------------------------------------------------------------
+Método                    Acc@1      Acc@5      MRR        MAP        NDCG@5    
+--------------------------------------------------------------------------------
+Promedio Ponderado        68.8%      93.8%      0.777      0.777      0.817     
+Fusión de Rankings        54.2%      91.7%      0.691      0.691      0.748     
+
+💡 Mejora del mejor ensemble sobre mejor modelo individual: -2.1 pp
+
+
+🔬 ANÁLISIS DE DIVERSIDAD DEL ENSEMBLE
+================================================================================
+
+📊 Overlap promedio entre pares de modelos (en top-5):
+   • sapbert-umls vs pudmedbert-marco: 19.6%
+   • sapbert-umls vs paraphrase: 16.2%
+   • pudmedbert-marco vs paraphrase: 17.9%
+
+📊 Agreement promedio en predicciones: 71.2%
+   (1.0 = todos predicen lo mismo, 0.0 = todos predicen diferente)
+
+📊 Contribuciones únicas por modelo (veces que solo ese modelo acertó):
+   • sapbert-umls: 34 queries (70.8%)
+   • pudmedbert-marco: 32 queries (66.7%)
+   • paraphrase: 28 queries (58.3%)
+
+📊 Queries donde el ensemble acertó pero ningún modelo individual: 0 (0.0%)
+
+📊 Top 5 queries con mayor desacuerdo entre modelos:
+
+   1. Query: Com dono alta a un pacient pal·liatiu amb hospital...
+      Agreement score: 0.33
+      Predicciones únicas: 3
+
+   2. Query: Quant de temps ha d'estar monitoritzat després d'u...
+      Agreement score: 0.33
+      Predicciones únicas: 3
+
+   3. Query: Cercapersones de la llevadora sènior de la mater...
+      Agreement score: 0.33
+      Predicciones únicas: 3
+
+   4. Query: Quins medicaments es nebulitzen en forma de pols s...
+      Agreement score: 0.33
+      Predicciones únicas: 3
+
+   5. Query: Com sé que he administrat un fàrmac intradèrmic co...
+      Agreement score: 0.33
+      Predicciones únicas: 3

@@ -1,0 +1,17 @@
+{
+  "total_chunks": 194,
+  "total_documents": 24,
+  "chunk_size": 384,
+  "overlap": 128,
+  "min_chunk_words": 20,
+  "splits": {
+    "train": 1056,
+    "val": 159,
+    "test": 129
+  },
+  "pair_types": {
+    "semi-hard": 672,
+    "easy": 120,
+    "hard": 264
+  }
+}

@@ -4,9 +4,6 @@ sapbert-umls/
 # Excluir carpeta de modelo all-mini-base
 all-mini-base/
 
-# Excluir carpeta de fine-tuning
-finetuning/
-
 # Excluir archivos de Python compilados
 __pycache__/
 *.py[cod]

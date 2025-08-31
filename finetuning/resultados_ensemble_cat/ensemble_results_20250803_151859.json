@@ -1,0 +1,123 @@
+{
+  "configuration": {
+    "models": [
+      {
+        "path": "models/sapbert-umls/model-0_0183",
+        "name": "sapbert-umls",
+        "pooling": "mean"
+      },
+      {
+        "path": "models/medcpt/model-0_0000_1",
+        "name": "medcpt",
+        "pooling": "mean"
+      }
+    ],
+    "initial_weights": [
+      0.7,
+      0.3
+    ]
+  },
+  "results": {
+    "individual_models": {
+      "sapbert-umls": {
+        "metrics": {
+          "accuracy_at_1": 0.7083333333333334,
+          "accuracy_at_5": 0.8333333333333334,
+          "mrr": 0.7524305555555556,
+          "map": 0.7524305555555556,
+          "ndcg_at_5": 0.7724872681760594,
+          "avg_similarity": 52.87926483154297,
+          "not_found": 8,
+          "total_queries": 48
+        }
+      },
+      "medcpt": {
+        "metrics": {
+          "accuracy_at_1": 0.5625,
+          "accuracy_at_5": 0.8125,
+          "mrr": 0.6621527777777778,
+          "map": 0.6621527777777778,
+          "ndcg_at_5": 0.6999039740928109,
+          "avg_similarity": 66.42346954345703,
+          "not_found": 9,
+          "total_queries": 48
+        }
+      }
+    },
+    "weighted_average": {
+      "initial": {
+        "weights": [
+          0.7,
+          0.3
+        ],
+        "metrics": {
+          "accuracy_at_1": 0.6666666666666666,
+          "accuracy_at_5": 0.875,
+          "mrr": 0.7461805555555556,
+          "map": 0.7461805555555555,
+          "ndcg_at_5": 0.7783131445916617,
+          "avg_similarity": 54.86368942260742,
+          "not_found": 6,
+          "total_queries": 48
+        }
+      },
+      "optimal": {
+        "weights": [
+          0.8235294117647058,
+          0.17647058823529413
+        ],
+        "metrics": {
+          "accuracy_at_1": 0.7083333333333334,
+          "accuracy_at_5": 0.8541666666666666,
+          "mrr": 0.7604166666666666,
+          "map": 0.7604166666666666,
+          "ndcg_at_5": 0.7838169296518688,
+          "avg_similarity": 54.04635238647461,
+          "not_found": 7,
+          "total_queries": 48
+        }
+      }
+    },
+    "rank_fusion": {
+      "initial": {
+        "weights": [
+          0.7,
+          0.3
+        ],
+        "metrics": {
+          "accuracy_at_1": 0.4791666666666667,
+          "accuracy_at_5": 0.875,
+          "mrr": 0.6506944444444445,
+          "map": 0.6506944444444445,
+          "ndcg_at_5": 0.7078290085603757,
+          "avg_similarity": 53.01058578491211,
+          "not_found": 6,
+          "total_queries": 48
+        }
+      },
+      "optimal": {
+        "weights": [
+          0.8235294117647058,
+          0.17647058823529413
+        ],
+        "metrics": {
+          "accuracy_at_1": 0.5208333333333334,
+          "accuracy_at_5": 0.8541666666666666,
+          "mrr": 0.6690972222222222,
+          "map": 0.6690972222222222,
+          "ndcg_at_5": 0.7164309668367798,
+          "avg_similarity": 52.03691864013672,
+          "not_found": 7,
+          "total_queries": 48
+        }
+      }
+    },
+    "diversity_analysis": {
+      "pairwise_overlap": {
+        "sapbert-umls vs medcpt": 0.22083333333333333
+      },
+      "average_agreement": 0.84375,
+      "ensemble_unique_wins": 0
+    }
+  }
+}

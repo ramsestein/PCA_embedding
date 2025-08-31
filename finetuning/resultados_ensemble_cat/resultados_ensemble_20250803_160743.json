@@ -1,0 +1,49 @@
+{
+  "method": "weighted_average",
+  "ensemble_config": {
+    "models": [
+      {
+        "name": "pubmedbert-marco"
+      },
+      {
+        "name": "sapbert-umls"
+      }
+    ],
+    "weights": [
+      0.571,
+      0.429
+    ]
+  },
+  "base_model": "all-MiniLM-base",
+  "metrics": {
+    "base": {
+      "accuracy_at_1": 0.3958333333333333,
+      "accuracy_at_5": 0.6458333333333334,
+      "mrr": 0.4920138888888889,
+      "map": 0.4920138888888889,
+      "ndcg_at_5": 0.5305096042267389,
+      "avg_similarity": 50.878047943115234,
+      "not_found": 17,
+      "total_queries": 48,
+      "avg_query_time": 0.0029038439194361367
+    },
+    "ensemble": {
+      "accuracy_at_1": 0.7708333333333334,
+      "accuracy_at_5": 0.9166666666666666,
+      "mrr": 0.8225694444444445,
+      "map": 0.8225694444444445,
+      "ndcg_at_5": 0.8457744048595176,
+      "avg_similarity": 47.12821960449219,
+      "not_found": 4,
+      "total_queries": 48,
+      "avg_query_time": 0.00881825884183248
+    }
+  },
+  "improvements": {
+    "accuracy_at_1_pp": 37.50000000000001,
+    "accuracy_at_5_pp": 27.083333333333325,
+    "mrr_diff": 0.33055555555555555,
+    "map_diff": 0.33055555555555555,
+    "ndcg_at_5_diff": 0.31526480063277873
+  }
+}

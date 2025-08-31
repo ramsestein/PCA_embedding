@@ -1,0 +1,111 @@
+
+================================================================================
+REPORTE DE RESULTADOS - ENSEMBLE DE EMBEDDINGS
+================================================================================
+
+📊 RENDIMIENTO DE MODELOS INDIVIDUALES
+--------------------------------------------------------------------------------
+Modelo                    Acc@1      Acc@5      MRR        MAP        NDCG@5    
+--------------------------------------------------------------------------------
+all-mini-fine             66.7%      72.9%      0.688      0.688      0.698     
+sapbert-umls              70.8%      83.3%      0.752      0.752      0.772     
+
+
+📊 MÉTODO 1: PROMEDIO PONDERADO DE EMBEDDINGS
+--------------------------------------------------------------------------------
+
+🔸 Con pesos iniciales:
+   all-mini-fine: 0.400
+   sapbert-umls: 0.600
+
+   Métricas:
+   • Accuracy@1: 66.7%
+   • Accuracy@5: 85.4%
+   • MRR: 0.728
+   • MAP: 0.728
+   • NDCG@5: 0.759
+
+🔸 Con pesos óptimos:
+   all-mini-fine: 0.336
+   sapbert-umls: 0.664
+
+   Métricas:
+   • Accuracy@1: 70.8% (+4.2 pp)
+   • Accuracy@5: 83.3% (+-2.1 pp)
+   • MRR: 0.753 (+0.025)
+   • MAP: 0.753 (+0.025)
+   • NDCG@5: 0.773 (+0.014)
+
+
+📊 MÉTODO 2: FUSIÓN DE RANKINGS (RRF PONDERADO)
+--------------------------------------------------------------------------------
+
+🔸 Con pesos iniciales:
+   all-mini-fine: 0.400
+   sapbert-umls: 0.600
+
+   Métricas:
+   • Accuracy@1: 47.9%
+   • Accuracy@5: 85.4%
+   • MRR: 0.630
+   • MAP: 0.630
+   • NDCG@5: 0.686
+
+🔸 Con pesos óptimos:
+   all-mini-fine: 0.182
+   sapbert-umls: 0.818
+
+   Métricas:
+   • Accuracy@1: 50.0% (+2.1 pp)
+   • Accuracy@5: 81.2% (+-4.2 pp)
+   • MRR: 0.642 (+0.012)
+   • MAP: 0.642 (+0.012)
+   • NDCG@5: 0.686 (+-0.000)
+
+
+📊 COMPARACIÓN DE MÉTODOS (CON PESOS ÓPTIMOS)
+--------------------------------------------------------------------------------
+Método                    Acc@1      Acc@5      MRR        MAP        NDCG@5    
+--------------------------------------------------------------------------------
+Promedio Ponderado        70.8%      83.3%      0.753      0.753      0.773     
+Fusión de Rankings        50.0%      81.2%      0.642      0.642      0.686     
+
+💡 Mejora del mejor ensemble sobre mejor modelo individual: 0.0 pp
+
+
+🔬 ANÁLISIS DE DIVERSIDAD DEL ENSEMBLE
+================================================================================
+
+📊 Overlap promedio entre pares de modelos (en top-5):
+   • all-mini-fine vs sapbert-umls: 19.2%
+
+📊 Agreement promedio en predicciones: 83.3%
+   (1.0 = todos predicen lo mismo, 0.0 = todos predicen diferente)
+
+📊 Contribuciones únicas por modelo (veces que solo ese modelo acertó):
+   • sapbert-umls: 34 queries (70.8%)
+   • all-mini-fine: 32 queries (66.7%)
+
+📊 Queries donde el ensemble acertó pero ningún modelo individual: 0 (0.0%)
+
+📊 Top 5 queries con mayor desacuerdo entre modelos:
+
+   1. Query: Com dono alta a un pacient pal·liatiu amb hospital...
+      Agreement score: 0.50
+      Predicciones únicas: 2
+
+   2. Query: Qui ha d'aprovar que es doni una prestació fora de...
+      Agreement score: 0.50
+      Predicciones únicas: 2
+
+   3. Query: Dona'm l'enllaç d'accés al CASCIPE...
+      Agreement score: 0.50
+      Predicciones únicas: 2
+
+   4. Query: Amb qui haig de coordinar la medicació a administr...
+      Agreement score: 0.50
+      Predicciones únicas: 2
+
+   5. Query: Què he de fer en una crisi tonicoclònica?...
+      Agreement score: 0.50
+      Predicciones únicas: 2
