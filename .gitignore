@@ -1,8 +1,22 @@
-# Python
+# Excluir carpeta de modelos SAPBERT
+sapbert-umls/
+
+# Excluir carpeta de modelo all-mini-base
+all-mini-base/
+
+# Excluir resultados de experimentos
+results/
+
+# Excluir carpeta de fine-tuning
+finetuning/
+
+# Excluir archivos de Python compilados
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
+
+# Excluir archivos de distribución
 .Python
 build/
 develop-eggs/
@@ -19,64 +33,26 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-MANIFEST
 
-# Virtual Environment
+# Excluir archivos de entorno virtual
 venv/
 env/
 ENV/
-env.bak/
-venv.bak/
 
-# IDE
+# Excluir archivos de IDE
 .vscode/
 .idea/
 *.swp
 *.swo
 *~
 
-# OS
+# Excluir archivos de sistema
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
 Thumbs.db
 
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# Environment variables
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# Logs
+# Excluir archivos de logs
 *.log
-logs/
 
-# Temporary files
+# Excluir archivos temporales
 *.tmp
 *.temp
-temp/
-tmp/
-
-# Model files (too large for git)
-*.bin
-*.safetensors
-*.onnx
-*.xml
-*.ot
-*.h5
-
-# Results (can be regenerated)
-results/*.csv
-results/*.txt
-results/*.png
-results/*.npz
-
-# Keep only README and config files in results
-!results/README.md
