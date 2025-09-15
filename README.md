@@ -1,7 +1,3 @@
-# Re-Ranker Híbrido Markov - Documentación Completa de Experimentos
-
-Un re-ranker híbrido avanzado que combina múltiples señales para mejorar la recuperación de información en sistemas RAG (Retrieval-Augmented Generation). Este README documenta la evolución completa del proyecto a través de múltiples experimentos y optimizaciones.
-
 ## 🚀 Características del Sistema
 
 - **Personalized PageRank (PPR)**: Random walk con reinicio sobre grafo de chunks
