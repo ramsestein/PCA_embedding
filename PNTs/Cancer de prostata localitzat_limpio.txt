@@ -1,0 +1,216 @@
+Implantació de les guies de l'Associació Europea d'Urologia (EAU), l'Associació Europea de
+Medicina Nuclear (EANM), la Societat Europea de Radioteràpia i Oncologia (ESTRO), la
+Societat Europea de Radiologia Urogenital (ESUR), la Societat Internacional de Patologia
+Urològica (ISUP) i la Societat Internacional d'Oncologia Geriàtrica (SIOG) per a la detecció,
+diagnòstic i tractament local amb intenció curativa del càncer de pròstata clínicament localitzat.
+Aquestes guies ofereixen recomanacions basades en l'evidència per a la gestió del càncer de
+pròstata, incloent-hi estratègies de detecció, diagnòstic amb ressonància magnètica
+multiparamètrica i biòpsies dirigides, així com opcions de tractament com la vigilància activa, la
+prostatectomia radical, i la radioteràpia.
+Tots els pacients seran tractats seguint les indicacions de les guies clíniques europees de
+l'Associació Europea d'Urologia (EAU). Aquestes guies ofereixen recomanacions basades en
+l'evidència més recent per a la diagnosi, tractament i seguiment de les malalties urològiques. Les
+
+
+Càncer de pròstata localitzat
+guies clíniques es revisen i actualitzen anualment per assegurar que es mantinguin al dia amb els
+darrers avenços científics i pràctiques clíniques.
+Els documents complets de les guies es poden trobar a la nostra intranet a la carpeta de
+SharePoint específica per a les guies clíniques [enllaç intern a SharePoint] i també estan
+disponibles públicament a la web de les EAU  EAU Guidelines . Es garantirà que tots els
+tractaments es realitzin conforme a aquestes guies, assegurant la millor pràctica basada en
+l'evidència. En els casos en què es considerin situacions especials, com pacients que no
+compleixin individualment amb les característiques de les guies, o en situacions de malaltia
+avançada, els pacients seran presentats en el Comitè de Tumors per a una discussió
+multidisciplinària. Aquest comitè està format per especialistes en urologia, oncologia mèdica,
+oncologia radioteràpica, anatomia patològica, radiologia, medicina nuclear, infermeria de gestió
+de casos, i altres professionals segons les necessitats del pacient. La presentació en el comitè
+permet una presa de decisions individualitzada i adaptada a les necessitats específiques de cada
+pacient, assegurant una atenció òptima i personalitzada.
+Objectiu
+Proporcionar un protocol detallat i basada en l'evidència per a la detecció precoç, diagnòstic
+acurat i tractament eficient del càncer de pròstata localitzat amb intenció curativa, millorant així
+els resultats clínics i la qualitat de vida dels pacients.
+Responsabilitats
+Administratius/ves
+Altres
+Equip assistencial
+Farmacèutics/ques
+Infermers/es
+Metges/esses
+Procediment
+
+
+Càncer de pròstata localitzat
+Procedència: els pacients poden arribar derivats d'altres serveis mèdics o hospitals amb
+simptomatologia suggestiva de càncer de pròstata. Això pot incloure derivacions des d'atenció
+primària, altres especialitats mèdiques, o presentacions d'urgències, així com derivacions des de
+la xarxa assistencial C-17.
+SEQÜÈNCIA D'INTERVENCIONS
+Recepció i Registre
+En arribar al nostre centre, els pacients són rebuts a la unitat d'uro-oncologia (consultes de
+urología, oncología medica o oncología radioterápica) on es registra la seva informació clínica
+en el sistema de gestió (SAP). Es recull la història clínica (HC) completa de cada pacient,
+incloent informació sobre símptomes, antecedents mèdics, i exploració física inicial. Aquesta
+informació s’ha de recollir el mateix dia de la primera visita
+Diagnòstic Inicial
+Avaluació Clínica i Diagnòstica: Els pacients passen per una avaluació clínica completa
+que inclou una exploració física detallada per un dels professionals anomentats
+pràviament. Es realitzen anàlisis de sang per avaluar el PSA i altres paràmetres clínics.
+També es programen proves d'imatge com ecografia transrectal, TC, RM, i PET/CT
+segons el tipus de càncer sospitat. Aquestes proves han de programar-se i completar-se en
+un termini de 3 mesos després de la primera visita. La coordinació amb el servei de
+radiologia i medicina nuclear és clau per a assegurar la disponibilitat i la ràpida execució
+d'aquestes proves. Es mantenen registres detallats de totes les proves i resultats en el
+sistema SAP.
+Biòpsia: En cas que es consideri necessari per confirmar la diagnosi i establir l'estadiatge
+patològic, es realitza una biòpsia trasnperineal de la pròstata. Els resultats de la biòpsia es
+revisen per l'equip d'anatomia patològica. Els resultats haurien d'estar disponibles en 15
+dies. 
+Estadificació i Decisió Terapèutica
+Comitè de Tumors
+
+
+Càncer de pròstata localitzat
+Els casos diagnosticats es presenten en el Comitè de Tumors, que inclou especialistes
+d'urologia, oncologia mèdica, oncologia radioteràpica, anatomia patològica,
+radiologia, medicina nuclear i infermeria de gestió de casos. Aquest comitè revisa els
+resultats diagnòstics, discuteix el cas i estableix l'estadiatge del tumor. La reunió del
+comitè es realitza setmanalment, i el cas del pacient hauria de ser presentat en la
+primera reunió disponible després de tenir tots els resultats diagnòstics. El Comitè de
+Tumors utilitza un enfocament multidisciplinari per assegurar que tots els aspectes
+del tractament del pacient són considerats. Els pacients són informats sobre la
+presentació del seu cas al comitè i es garanteix que es responguin totes les seves
+preguntes.
+Pla de Tractament
+Basat en l'estadiatge i les guies de la EAU, el comitè decideix el millor pla de
+tractament per al pacient. Les opcions de tractament poden incloure teràpia
+farmacològica (quimioteràpia, immunoteràpia, teràpies dirigides), quirúrgica
+(prostatectomia radical, resecció transuretral de la pròstata), radioteràpica
+(radioteràpia externa, braquiteràpia), així com suport nutricional, psico-oncològic i
+social. Es garanteix que el pla de tractament sigui personalitzat segons les necessitats
+i condicions del pacient. Aquest pla es comunica al pacient en un termini de 2-3 dies
+després de la reunió del comitè, i es proporciona una còpia escrita del pla de
+tractament. També s’ofereix una sessió d’assessorament per revisar el pla i discutir
+els possibles efectes secundaris i el seguiment necessari.
+Tractament
+Tractament Quirúrgic
+Segons el tipus i l'estadi del càncer, es poden realitzar diferents procediments
+quirúrgics. Per exemple, en el càncer de pròstata localitzat es pot realitzar una
+prostatectomia radical, mentre que en el càncer de pròstata avançat es pot considerar
+una resecció transuretral de la pròstata (TURP) per alleujar els símptomes. La decisió
+es pren tenint en compte les guies de la EAU i les característiques individuals del
+pacient. Els pacients són informats detalladament sobre el procediment quirúrgic, el
+temps de recuperació esperat i qualsevol precaució postoperatòria.
+Tractament Radioteràpic
+En pacients seleccionats, es pot administrar radioteràpia externa o braquiteràpia. La
+radioteràpia externa pot incloure tècniques avançades com la radioteràpia
+
+
+Càncer de pròstata localitzat
+conformada tridimensional (3D-CRT) o la radioteràpia d'intensitat modulada
+(IMRT). La braquiteràpia pot ser utilitzada per tractar el càncer de pròstata en estadi
+inicial. El tractament es planifica i s'administra segons els protocols establerts.. Els
+pacients reben una explicació detallada del procés de radioteràpia, incloent-hi la
+durada del tractament i els possibles efectes secundaris.
+Tractament Sistèmic
+Inclou quimioteràpia, immunoteràpia o teràpies dirigides segons les indicacions
+específiques per a cada tipus de càncer. Els tractaments sistèmics es poden
+administrar en règim ambulatori o hospitalari, depenent del protocol específic i de les
+necessitats del pacient. Els pacients reben informació detallada sobre la durada del
+tractament, els efectes secundaris esperats i les mesures per gestionar-los.
+Suport Addicional
+Durant el tractament, els pacients reben suport addicional de nutricionistes, psicòlegs
+i treballadors socials per ajudar a gestionar els efectes secundaris i mantenir la
+qualitat de vida. El suport nutricional pot incloure dietes especials per ajudar a
+mantenir el pes i la força del pacient durant el tractament. El suport psicològic inclou
+teràpia individual o grupal per ajudar els pacients a gestionar l'estrès i l'ansietat
+associats al càncer. Els treballadors socials ajuden els pacients a accedir a recursos i
+serveis comunitaris, així com a gestionar qüestions pràctiques com el transport i
+l'accés a l'atenció mèdica. Es programa una sessió setmanal amb els pacients per
+revisar el seu estat general i ajustar les intervencions de suport segons sigui
+necessari.
+Seguiment i Sortida del Pacient
+Monitoratge Posttractament
+Després del tractament, els pacients segueixen un programa de seguiment que inclou
+TC, RM, i proves de laboratori periòdiques per a la detecció precoç de recidives.
+Aquestes proves es realitzen inicialment cada 3 mesos durant els primers dos anys,
+després cada 6 mesos fins al cinquè any, i anualment després. El seguiment inclou
+avaluacions clíniques regulars per detectar qualsevol signe de recurrència o
+complicació del tractament. També es realitzen visites periòdiques amb l'oncòleg
+mèdic, el nutricionista, el psicòleg i el treballador social per assegurar un seguiment
+integral. Els pacients reben un calendari detallat de les seves visites de seguiment i
+proves, així com informació de contacte per a qualsevol consulta entre visites.
+Conclusions i Recomanacions
+
+
+Càncer de pròstata localitzat
+Els resultats del seguiment i les recomanacions es comuniquen al pacient en cada
+visita de seguiment i es documenten en el sistema (SAP i SharePoint). Aquestes
+conclusions inclouen l'avaluació de la resposta al tractament, la detecció de recidives
+i la gestió dels efectes secundaris a llarg termini. Es fa una revisió completa cada
+vegada que es realitza una prova de seguiment important, i s'ajusta el pla de
+seguiment segons sigui necessari. Els pacients reben una còpia escrita de cada
+informe de seguiment i recomanació.
+Alta o Seguiment a Llarg Termini
+En funció dels resultats del tractament, els pacients poden ser donats d'alta,
+transferits a altres serveis per a cures addicionals o inclosos en programes de
+seguiment a llarg termini. Els pacients que han completat el tractament amb èxit i no
+presenten signes de recidiva poden ser donats d'alta després d'un seguiment adequat.
+Es planifica una visita de sortida amb el pacient per discutir els següents passos,
+incloent-hi qualsevol cura de suport necessària i instruccions sobre signes i
+símptomes que haurien de motivar una consulta immediata. Els pacients reben
+informació sobre programes de suport per a supervivents de càncer i recursos
+comunitaris per a la seva recuperació a llarg termini.
+Material
+Ressonància magnètica: equip de ressonància magnètica per a la realització de mpMRI.
+Biòpsies: agulles de biòpsia, ecògraf per a la guia transrectal.
+Radioteràpia: Equip de radioteràpia conformada per IMRT o VMAT.
+Aspectes a remarcar
+La importància de la personalització del tractament segons les característiques del pacient i
+el risc de progressió del càncer.
+La necessitat de discutir amb els pacients els beneficis i riscos de cada opció de tractament
+per a una decisió compartida.
+Problemes relacionats amb el procediment
+Progressió del càncer durant la vigilància activa.
+
+
+Càncer de pròstata localitzat
+Efectes secundaris de la cirurgia (incontinència, disfunció erèctil) o de la radioteràpia
+(toxicitat gastrointestinal i genitourinària).
+Intervencions:
+Monitoratge regular: Inclou PSA, DRE i imatges. En cas de progressió, considerar
+biòpsies addicionals i/o canvi de tractament.
+Gestió dels efectes secundaris: Teràpies de suport per a la gestió de la incontinència, la
+disfunció erèctil i altres efectes secundaris de la radioteràpia.
+Riscos Laborals
+Protecció Radiològica
+Riscos Laborals
+Riscos associats a l'exposició a radiacions: Professionals que administren radioteràpia.
+Mesures de prevenció: Ús d'equip de protecció personal, formació en seguretat radiològica
+Indicadors d'Avaluació
+Criteris de procés:
+Percentatge de detecció de càncer clínicament significatiu mitjançant mpMRI i
+biòpsia dirigida
+Temps transcorregut des la derivació del pacient fins la primera visita
+Temps transcorregut des la primera visita fins el diagnòstic
+Temps transcorregut des el diagnòstic fins l'inici de tractament
+Criteris de resultats:
+Supervivència global i específica per càncer de pròstata
+Qualitat de vida posttractament, avaluada mitjançant qüestionaris validats
+Registres
+Portal professional
+
+
+Càncer de pròstata localitzat
+Registres clínics
+Registres
+Els documents annexos, registres, algoritmes de decisió, i altres materials estan inclosos a
+les guies de la Associació Europea d'Urologia (EAU) que es revisen i actualitzen
+anualment. La metodologia d'actualització inclou la identificació i revisió estructurada de
+la literatura recent, amb l'objectiu de mantenir les recomanacions basades en l'evidència
+més recent. La bibliografia utilitzada es basa en aquestes revisions i publicacions de la
+EAU.
+Aquest itinerari garanteix una atenció coordinada i integral per als pacients amb tumors
+urològics, assegurant que tots els passos segueixen les millors pràctiques basades en l'evidència
+i adaptades a les necessitats individuals de cada pacient.

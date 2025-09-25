@@ -1,0 +1,155 @@
+Estudi molecular a realitzar en pacients amb un diagnòstic de càncer de pulmó de cèl·lula no
+petita (CPCNP).
+Objectiu
+Definir a quins pacients amb un diagnòstic de CPCNP se’ls ha de realitzar un estudi molecular,
+així com especificar quins biomarcadors són rellevants a  estudiar.
+Responsabilitats
+Metges/esses
+Procediment
+La caracterització molecular del CPCNP és transcendental per a la identificació de múltiples
+drivers oncogènics tributaris de tractaments dirigits, així com de biomarcadors de resposta al
+
+
+Estudi Molecular en Càncer de Pulmó de cèl·lula no petita
+tractament amb immunoteràpia. Aproximadament el 61% dels adenocarcinomes de pulmó són
+portadors d'un driver molecular. Entre els més freqüents es troben: EGFR, KRAS, NRAS,
+BRAF, ERBB2, PIK3CA, ALK, ROS1, RET i METex14. Aquestes alteracions oncogèniques
+són, en general, excloents i s'associen a fenotips característics: raça asiàtica (mutacions
+d'EGFR), no fumadors, pacients joves i adenocarcinomes. Nombroses guies moleculars
+nacionals i internacionals recomanen l'avaluació molecular del CPCNP en tots els pacients amb
+subtipus no escamosos (majoritàriament adenocarcinoma) amb independència de les
+característiques clíniques associades i en carcinomes escamosos només quan les característiques
+clíniques siguin atípiques i/o suggestives de la presència d'un driver molecular (edat jove i
+absència d'exposició al tabac). Actualment, no hi ha evidència del benefici de l'anàlisi molecular
+en el càncer de pulmó de cèl·lula petita.
+La biòpsia líquida o determinació d'ADN tumoral circulant és una alternativa a la caracterització
+molecular en teixit en el CPCNP. Existeixen nombroses tècniques (des de PCR a temps real
+(RT-PCR), Beaming, PCR-digital o seqüenciació massiva (NGS)) amb sensibilitat i cobertura
+molecular variable. Es considera una opció alternativa de cribratge en situacions en què
+l'obtenció de material és difícil o inexistent en pacients diagnosticats de CPCNP metastàtic, i en
+la monitorització e identificació de resistències a tractaments dirigits  
+Indicacions per a la determinació de drivers oncogènics en CPCNP:
+Pacients adults amb càncer de pulmó no microcític estadis IB-IIIA amb resecció completa
+del tumor.
+Malaltia avançada/metastàtica de novo o recaiguda després de malaltia locoregional:
+Histologia cèl·lula no petita, no escamós. 
+Escamós en pacients amb alguna d’aquestes categories: 
+Menys de 50 anys. 
+No fumadors. 
+Fumadors de < 15 paquets/any. 
+Candidat a tractament oncològic actiu dirigit pel resultat NGS.
+El nostre mètode estàndard per la determinació d’alteracions moleculars és la NGS en teixit
+parafinat o material citològic (Vegeu Imatge 1, Annexe 1,  Annexe 2 ).
+Quan no hi hagi suficient material  en teixit parafinat o en material citològic, o no es disposi
+dels requeriments mínims de la tècnica de NGS es realitzarà:
+
+
+Estudi Molecular en Càncer de Pulmó de cèl·lula no petita
+Tècniques de determinacions úniques per avaluar els gens més rellevants amb tractaments
+dirigits associats (EGFR, ALK, ROS1, RET, NTRK, MET) mitjançant tècniques
+d’immunohistoquímica (IHQ), hibridació in situ fluorescent (FISH) o RT-PCR, en teixit
+parafinat o citologia (Vegeu Material). Davant de qualsevol dubte, es contactarà amb
+l’oncòleg o metge de referència, per determinar les prioritats de diagnòstic molecular.
+La biòpsia líquida (COBAS) està indicada en pacients amb adenocarcinoma pulmonar
+avançat, amb fenotip favorable, com a tècnica de cribratge ràpid per a la detecció de la
+mutació de sensibilitat EGFR al diagnòstic.
+El test de Guardant (NGS en biòpsia líquida) estarà disponible de forma assistencial en
+pacients naïve de tractament amb CPCNP que no disposin de teixit per fer NGS amb
+malaltia avançada /metastàtica de novo o recaiguda després de malaltia locoregional
+(pendent de rebre notificació per part CatSalut; les mostres s’enviaran al VHIO).
+Indicacions per a la determinació de PD-L1 mitjançant IHQ:
+Pacients adults amb càncer de pulmó no microcític estadis IB-IIIA amb resecció completa
+del tumor, histologia cèl·lula no petita.
+Malaltia avançada/metastàtica de novo o recaiguda després de malaltia locoregional,
+histologia cèl·lula no petita.
+Material
+Tècniques Moleculars Hospitalàries
+Tècnica de Seqüenciació Massiva (NGS)
+Panell: Oncomine Precision Assay (OPA)(Thermo Fisher Scientific)
+Gens diana: 50
+Cobertura de gens: mutaciones puntuales en hotspot (AKT1, AKT2, AKT3,
+ALK, AR, ARAF, BRAF, CDK4, CDKN2A, CHEK2, CTNNB1, EGFR,
+ERBB2, ERBB3, ERBB4, ESR1, FGFR1, FGFR2, FGFR3, FGFR4, FLT3,
+GNA11, GNAQ, GNAS, HRAS, IDH1, IDH2, KIT, KRAS, MAP2K1,
+MAP2K2, MET, MTOR, NRAS, NTRK1, NTRK2, NTRK3, PDGFRA,
+PIK3CA, PTEN, RAF1, RET, ROS1, SMO, TP53); CNVs (ALK, AR, CD274,
+CDKN2A, EGFR, ERBB2, ERBB3, FGFR1, FGFR2, FGFR3, KRAS, MET,
+PIK3CA, PTEN); drivers de fusiones intergénicas (ALK, BRAF, ESR1,
+FGFR1, FGFR2, FGFR3, MET, NRG1, NTRK1, NTRK2, NTRK3, NUTM1,
+
+
+Estudi Molecular en Càncer de Pulmó de cèl·lula no petita
+RET, ROS1, RSPO2, RSPO3) e intragénicas (AR, EGFR, MET).
+Mostra: teixit parafinat, extensions citològiques
+Quantitat de material: Requeriment d’un mínim del 20% d’infiltració tumoral,
+1mm2
+IT-P-CBM-002 Panel Oncomine Precision Assay para tumor sólido
+IT-I-CBM-046 Panells OCA, OPA i Mieloide a Genexus
+Panell: Guardant360 CDx
+Gens diana: 74
+Cobertura de gens: mutacions puntuals en hotspot (AKT1, CCND2, ESR1,
+HRAS, MET, NTRK3, ROS1, ALK, CCNE1, EZH2, IDH1, MLH1, PDGFRA,
+SMAD4, APC, CDH1, FBXW7, IDH2, MPL, PIK3CA, SMO, AR, CDK4,
+FGFR1, JAK2, MTOR, PTEN, STK11, ARAF, CDK6, FGFR2, JAK3, MYC,
+PTPN11, TERT, ARID1A, CDK12||, FGFR3, KIT, NF1, RAF1, TP53, ATM||,
+CDKN2A, GATA3, KRAS, NFE2L2, RB1, TSC1, BRAF, CTNNB1, GNA11,
+MAP2K1, NOTCH1, RET, VHL, BRCA1, DDR2, GNAQ, MAP2K2, NPM1,
+RHEB, BRCA2, EGFR, GNAS, MAPK1, NRAS, RHOA, CCND1, ERBB2,
+HNF1A, MAPK3, NTRK1, RIT1); CNVs (AR, CDK4, FGFR2, PDGFRA,
+BRAF, CDK6, KIT, PIK3CA, CCND1, EGFR, KRAS, RAF1, CCND2,
+ERBB2, MET, CCNE1, FGFR1, MYC); drivers de fusions (ALK, FGFR2,
+FGFR3, NTRK1 RET).
+Mostra: sang
+FISH
+Sondes: ALK fusió (BA) (Metasystems), ROS1 BA (Metasystems), RET BA
+(Zytovision), NTRK1 BA (Zytovision), NTRK3 BA (Zytovision), MET amplificació
+(Zytovision)
+Gens diana: 1 per sonda
+Cobertura gènica: ALK, ROS1, RET, NTRK1, NTRK3, MET 
+Mostra: teixit parafinat, extensions citològiques
+Quantitat de material necessari: Requeriment d’un mínim de 100 cèl·lules tumorals
+IHQ
+Clona: PD-L1 22C3 (Dako), ALK D5F3 (Roche), NTRK EPR17341 (Roche)
+Gens diana: 1 per anticòs
+Cobertura gènica: PD-L1, ALK, ROS1, NTRK
+Mostra: teixit parafinat
+Quantitat de material necessari: Requeriment d’un mínim de 100 cèl·lules tumorals
+RT-PCR
+
+
+Estudi Molecular en Càncer de Pulmó de cèl·lula no petita
+Panell: COBAS EGFR v2 (Roche) 
+Gens diana: 42 mutacions EGFR 
+Cobertura gènica: EGFR exons 18–21 
+Material: sang
+Panell: IdyllaTM EGFR Mutation Test (Biocartis)
+Gens diana: 51 mutacions EGFR 
+Cobertura gènica: EGFR exons 18–21 
+Material: sang
+Aspectes a remarcar
+Es recomana sempre que sigui possible fer un estudi molecular complet (NGS amb un panell
+DNA+RNA) per afavorir que el pacient tingui les millors opcions terapèutiques.
+Problemes relacionats amb el procediment
+Sol·licitud molecular associada a una mostra de teixit parafinat o citologia amb insuficient
+material tumoral per a realitzar les tècniques moleculars sol·licitades.
+Identificar que la mostra és d’un pacient amb un diagnòstic no corresponent a CPCNP.
+En ambdós casos s’informarà que els estudis moleculars sol·licitats no es realitzaran:
+en el primer cas es recomanarà enviar una nova mostra per fer l’estudi molecular
+en el segon cas es comentarà que no procedeix fer un estudi molecular amb pacients
+amb un diagnòstic de NO CPCNP.
+Riscos Laborals
+Riscos laborals relacionats amb el lloc de treball: Coneix els riscos del teu lloc de
+treball
+Indicadors d'Avaluació
+Nombre de sol·licituds d’estudis moleculars en pacients adults amb càncer de pulmó no
+microcític estadis IB-IIIA amb resecció completa del tumor.
+Nombre de sol·licituds d’estudis moleculars en pacients adults amb malaltia
+avançada/metastàtica.
+
+
+Estudi Molecular en Càncer de Pulmó de cèl·lula no petita
+Percentatge d'estudis moleculars sol·licitats corresponents a NGS per nombre d'estudis
+moleculars sol·licitas per a pacients amb CPCNP.
+Registres
+Emissió dels resultats al LIS del Servei d’Anatomia Patològica.
+Emissió dels resultats al LIS del Servei de Bioquímica i Genètica Molecular.

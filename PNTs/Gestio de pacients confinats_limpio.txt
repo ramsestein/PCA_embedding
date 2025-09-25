@@ -1,0 +1,152 @@
+centres penitenciaris
+Objectiu
+Definir el circuit a seguir per gestionar tots els moviments dels pacients identificats com a
+confinats/presos als diferents àmbits assistencials de l'Hospital Clínic. 
+Responsabilitats
+Administratius/ves
+Auxiliars sanitaris
+Coordinadors/es
+Equip assistencial
+
+
+Gestió de pacients confinats
+Metges/esses
+Seguretat
+Tècnics/ques
+Treballadors/es socials
+Procediment
+La Gestió de Confinats (GC) depèn de l’Àrea d’Accessibilitat i CCEE,  que al mateix temps està
+integrada dintre de l’Àrea d’Atenció a la Ciutadania, ubicada a la CCEE de la Seu Villarroel, a
+l’espai de l’Àrea d’Atenció a la Ciutadania: C/ Rosselló 169 planta baixa, despatx 2. Extensió:
+2761. 
+RECEPCIÓ DE SOL·LICITUDS 
+El CP sol·licita la visita o la prova per correu electrònic a l’Hospital Clínic a GC, a la bústia de
+correu genèrica: confinats_hcpb@clinic.cat . Flux sol·licitud assistència (vegeu annex1) 
+L’administratiu de l’GC imprimirà la sol·licitud de derivació,  posarà un segell amb la data de
+recepció i revisarà les dades administratives. A la sol·licitud s’afegirà una nota perquè el servei
+receptor, abans de planificar la cita, canviï la UO Trat CONCE per la UO Trat pròpia del Servei.
+Transacció SAP: NWP1 - IS-H: Pto.tbjo.clínico (vegeu annex2). L’adreça que apareix en la
+derivació es guixarà per evitar confusions i s’anotarà que és un confinat. 
+Abans d’enviar les sol·licituds s’obre un episodi “previa prueba”al SAP. 
+L’original de la sol·licitud s’envia a l’Institut responsable de l’assistència seguint el circuit de la
+resta de sol·licituds de derivacions (PNT sol·licituds d’assistència HCB_DMED_GP_03_02). És
+a dir, per via mail  o per correu intern, per tal que sigui valorat i citat. Planificada la cita
+s’enviarà a la impressora de la GC (PR60321).  
+CITACIÓ 
+L'Institut receptor valorarà i decidirà si s’accepta o es rebutja la sol·licitud. Si s’accepta, es
+citarà al pacient i s’enviarà la cita a la impressora (PR60321) de la GC.  Alguns serveis poden
+
+
+Gestió de pacients confinats
+tenir dissenyada una agenda específica per aquests malalts, altres tenen una franja horària
+reservada a l’agenda. 
+La GC, un cop citat pel servei a la seva agenda, ho introduirà a l’agenda CONCE.  
+COORDINACIÓ AMB ELS CENTRES PENITENCIARIS  
+Setmanalment, els dilluns la GC es posarà en contacte per correu electrònic amb cada CP per
+recordar les visites programades i  s’enviarà un llistat amb  les visites per la setmana següent.
+(vegeu annex3) Si un pacient intern canvia de CP, ens ho comunicaran i haurem de modificar la
+informació a les dades mestres de SAP.  
+Finalitzada l’activitat de CCEE, la GC revisarà la Història Clínica o contactarà amb el servei, si
+s’escau, per detectar qualsevol incidència en la programació dels pacients confinats (no
+presentats, anul·lació d’ una prova o intervenció quirúrgica per una preparació incorrecta, etc). 
+La GC revisarà els episodis per tal que les dades administratives siguin les correctes. Important
+verificar que el malalt tingui  CIP i si en te, però no consta a les dades mestres s’haurà
+d’introduir. Si encara no te CIP, a la seva qualificació econòmica farem constar E04 INTERNS
+(Tip. Reg. CatSalut: E04 INTERNS PENITENCIARIS_CONFINATS). 
+El dia de la visita, en arribar a l’HCB, el pacient confinat esperarà al cotxe custodiat pel Mossos.
+Un dels Mossos acudirà a la GC, comunicarà les dades de l’intern i li serà lliurat el full de
+citació i/o la sol·licitud de la prova. La GC trucarà al punt de suport administratiu corresponent
+(per minimitzar el temps de presència física del pres i dels Mossos a la Sala d’espera del Servei)
+i, quan el puguin atendre, es desplaçaran a la planta de l’especialitat per a que sigui visitat. Si la
+cita és a l’edifici de l’Hospital, s’haurà d’indicar als Mossos on han d’acudir.  
+En el cas que l’assistència programada o urgent es dugui a terme a la Seu Maternitat, els
+administratius dels punts de suport rebran als Mossos.  
+La GC gestionarà i coordinarà les programacions futures de segones visites, interconsultes,
+proves complementàries d’acord amb el que estigui establert amb cada Institut. Finalitzades les
+visites, revisarà el POOL per controlar les cites pendents. Si hi ha sol·licituds de futures cites, en
+la Nota Administrativa, indicarà que les programacions s’enviïn a la impressora de GC (PR
+60321) 
+
+
+Gestió de pacients confinats
+Si el CP necessita còpia o informe seguirà el mateix circuit entre:  
+                                   CENTRE PENITENCIARI _ GC _ INSTITUT 
+ÀREA QUIRÚGICA 
+L’ assistència del malalts confinats que requereixen dels serveis/espais de l’Àrea Quirúrgica
+(Anestèsia, Bloc Quirúrgic, CMA, etc) es centralitzarà a la Seu Villarroel. 
+URGÈNCIES 
+La GC revisarà mitjançant la transacció SAP Y_TST_67000022 - Informe URGENCIES-
+(vegeu annex4)  si al Servei d’Urgències han atès a malalts confinats i si se’ls ha sol·licitat
+proves o visites. El Servei d’Urgències remetrà els Oficis a l’Àrea d’atenció a la Ciutadania i
+s’arxivaran.  
+També es custodien les ordres judicials que sol·liciten edat òssia (arriben a urgències,
+demanades per a la DGAIA i es fan a Urgències del Centre de Diagnòstic per a la Imatge). 
+En el cas que un pacient sigui atès a la Seu Maternitat envien un mail a GC amb les seves
+dades. 
+HOSPITALITZATS 
+Les Unitats de Gestió de Pacients dels Instituts comunicaran a la GC els ingressos amb les
+instruccions i recomanacions a seguir, i també les altes dels pacients confinats. La GC informarà
+al CP de la planificació de l’ingrés i de les instruccions i recomanacions que es requereixin. El
+CP haurà de gestionar l’acompanyament dels Mossos i qualsevol necessitat específica.  
+Si a l’alta mèdica el pacient necessités una convalescència, el metge referent a la planta
+d’hospitalització haurà de contactar amb l’Hospital Penitenciari i sol·licitar-ho.  
+A l’alta, des de la GC es gestionaran les següents cites segons l’informe mèdic. 
+En cas que l’alta es produeixi per defunció la GC controlarà que s’hagi fet la tramitació de
+l’ofici al Jutjat de Guàrdia i ho comunicarà al CP que correspongui.  
+
+
+Gestió de pacients confinats
+CONTÍNUUM ASSISTENCIAL 
+El model assistencial de salut penitenciari preveu un professional d’infermeria d’enllaç entre els
+CP i la xarxa sanitària pública,  per a garantir l’atenció sanitària de persones privades de llibertat
+que passen a rebre l’atenció sanitària de forma ordinària. La Infermera d’enllaç realitzaria les
+gestions amb la GC pels interns que pertanyen a l’àrea d’influència de l’HCB.   
+Entre les funcions de la Infermera d’enllaç estan: 
+La detecció de necessitats de seguiment per patologies rellevants i programar seguiment de
+visites o acollida a: Salut Mental, Centres de drogodependències, Consultes externes
+hospitalàries i Àrees Bàsiques de Salut pels interns que pertanyen a l’àrea d’influència de
+l’HCB.   
+Garantir la continuïtat de tractaments actius dels malalts que surten del medi penitenciari:
+Revisió de tractaments actius, Comanda a la unitat de farmàcia de la medicació de
+continuïtat i garantir l’entrega del pla de medicació, instruccions d’administració i entrega
+de la medicació al sortir del CP. 
+CONFINATS EN RÈGIM OBERT 
+La GC informarà al professional de contacte del centre de règim obert de les visites i/o proves
+programades al confinat. El dia de la visita o prova es presentaran directament al servei on té
+programada la visita o prova.  
+Aspectes a remarcar
+La Gestió de Confinats és l’interlocutor de l’Hospital Clínic amb els Referents Mèdics i
+Administratius de cada CP. 
+
+
+Gestió de pacients confinats
+S’haurà d’informar al CP de les instruccions i recomanacions que haurà de realitzar un
+confinat per una prova/intervenció quirúrgica o visita. 
+Des de la GC o qualsevol Servei/Departament s’adreçarà a les famílies que sol·licitin
+informació mèdica d’un confinat als Serveis Mèdics dels CP.  
+En cas de realització de proves radiològiques sol·licitades directament des del CP; la GC
+gestionarà la sol·licitud dels CD amb les imatges amb el Departament de Documentació
+Clínica i les lliurarà als Mossos d’Esquadra. 
+En cas que els CP o els Jutjats sol·licitin Informes de visites mèdiques o proves
+realitzades, la GC realitzarà les gestions corresponents amb els Instituts/Centres.  
+La UO trat. CONCE és una agenda paral·lela per comptabilitzar el registre, però no és una
+agenda d’activitat assistencial. Al camp Observación de Cita es recull: el dia, l’hora i la
+preparació necessària per informar als CP quan i com han d’acudir als interns.  
+Indicadors d'Avaluació
+Nombre d’incidències en el circuit de pacients confinats. 
+Tipus d'incidències en el circuit d'atenció a pacients confinats
+Percentatge de reprogramacions de cites o proves en pacients confinats. 
+ 
+Registres
+
+
+Gestió de pacients confinats
+ESTADÍSTIQUES I CONTROLS
+1.Arxiu Excel que reculli la informació de les derivacions: nom i cognoms, centre del qual
+procedeix, activitat demanada, Servei, data de recepció, data de prestació i comentaris. Per
+l’extracció de les dades s’utilitzarà la Transacció de SAP: Puesto de Trabajo. Annex...... 
+2.Arxiu Excel amb l’estadística d’activitat trimestral 
+3.Revisió periòdica del POOL. Transacció SAP: ZN_POOL_CEX - Pool de prestacions
+CEX 
+4.Revisió periòdica de l’assistència a Urgències malalts confinats. Transacció SAP:
+Y_TST_67000022

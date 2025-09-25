@@ -1,0 +1,813 @@
+La mort és una experiència vital individual i inevitable, que fa necessària als professionals
+sanitaris estar preparats per acompanyar a les persones que atenem en aquest procés, assegurant
+un procés de final de vida i mort el més dignes possible, i atenent a tots els aspectes rellevants
+per la persona i el seu entorn.
+La fase de final de vida és la situació que precedeix a la mort. Sol esdevenir de manera gradual i
+es manifesta per un deteriorament físic, emocional i de la consciència, lligat a un pronòstic de
+vida d’hores o de pocs dies. Conèixer aquesta etapa permet una implementació oportuna de les
+cures adequades a cada persona, a més de donar el suport necessari a les famílies/cuidadors, tant
+en el procés de fi de vida com en el dol.
+En aquest document, dirigit a l’equip assistencial, es descriuen les cures adreçades a les
+persones ateses que es troben en situació d'últims dies (SUD) de vida, tenint en compte que es
+tracta de l'etapa final de moltes malalties avançades i/o terminals, i també, el suport a les
+famílies i el dol.
+Índex de continguts:
+
+
+Atenció a les persones en situació d'últims dies de vida
+1.Atenció al pacient/entorn.
+2.Mesures ambientals.
+3.Mesures físiques.
+4.Mesures farmacològiques:
+1.Tractament simptomàtic.
+2.Sedació pal·liativa.
+5.Aspectes psicològics.
+6.Aspectes espirituals.
+7.Atenció a la família i dol.
+Definicions:
+Confort: percepció subjectiva de benestar.
+Situació d’últims dies (SUD): és un període que pot durar diversos dies o fins i tot una
+setmana, en el qual el pacient mostra un deteriorament progressiu i irreversible. Durant
+aquest temps, el pacient pot estar encara conscient o semi -conscient, tot i que amb una
+capacitat limitada per interactuar. Els símptomes més freqüents inclouen una disminució
+de la mobilitat, menys capacitat per menjar i beure, i canvis en la respiració. Les cures
+pal·liatives en aquest moment se centren a controlar els símptomes i proporcionar confort,
+i donar suport a la família.
+Agonia: és un procés molt més breu, que dura habitualment unes hores o, com a màxim,
+uns pocs dies. És l’etapa immediatament anterior a la mort, caracteritzada per la pèrdua de
+la consciència, respiració irregular (com la respiració de Cheyne-Stokes) i altres signes
+fisiològics terminals, com extremitats fredes o disminució del ritme cardíac. En aquest
+punt, el cos del pacient ja està en fallida irreversible. Les intervencions es limiten a
+proporcionar confort i controlar el dolor i altres símptomes, sense aplicar mesures
+invasives. 
+Signes de l’agonia:
+Pèrdua de to muscular, augment de la debilitat, postració, nas afinat.
+A nivell neuro-sensorial: disminució del nivell de consciència, deliri, agitació,
+dolor, mioclònies, convulsions.
+Variables clíniques: hipotensió, bradicàrdia / taquicàrdia, febre.
+A nivell respiratori: dispnea, ranera, respiració per boca, bradipnea / taquipnea,
+apnees.
+A nivell circulatori: fredor, pal·lidesa, livideses, cianosi distal.
+
+
+Atenció a les persones en situació d'últims dies de vida
+A nivell digestiu: disminució de la ingesta, disfàgia, xerostomia, nàusees i
+vòmits.
+Eliminació: incontinència, retenció urinària, oligúria, anúria, retenció fecal,
+sudoració.
+Ulls: semioberts, mirada fixa, apagada i inexpressiva.
+A nivell emocional: resignació, silenci, depressió, crisi d’ansietat, por.
+Símptoma refractari: símptoma per al qual les opcions terapèutiques existents han
+fracassat o no són les apropiades en el context del pacient i que compta amb el consens de
+l’equip per determinar la seva refractarietat.
+Sedació pal·liativa: és una maniobra terapèutica indicada per un professional mèdic, que
+consisteix en l’administració de medicació per tal de disminuir el nivell de consciència del
+pacient, per tal de tractar un símptoma físic o psicològic refractari a altres tractaments,
+amb la intenció d’evitar el sofriment del pacient.
+Dol: és la resposta emocional i psicològica davant la pèrdua d'una persona o situació
+significativa, caracteritzada per sentiments de tristesa, enyorança i desorientació. És un
+procés natural que varia per a cada individu. Quan el dol s'allarga excessivament o
+interfereix greument en la vida diària, es pot considerar dol patològic, requerint suport
+professional per a la seva gestió.
+Aquest procediment conté aspectes específics que cal tenir en compte a l’Hospitalització a
+Domicili (HDOM).
+Objectiu
+Conèixer el maneig terapèutic en la situació d’últims dies i dels símptomes associats. 
+Proporcionar confort, donant prioritat al control de símptomes i alleujament del patiment
+psicològic, espiritual i emocional del pacient i seva la família.
+Responsabilitats
+Equip assistencial
+Procediment
+
+
+Atenció a les persones en situació d'últims dies de vida
+1. ATENCIÓ AL PACIENT I ENTORN:
+Reconèixer l'aparició d’un/s símptoma/es refractari/s, o situació d’últims dies per part de
+tot l’equip interdisciplinari.
+Es poden utilitzar escales per valorar la situació del pacient:
+Escala de Karnofsky Performance Status (KPS), un valor <40% indica probable
+situació d’últims dies.
+Escala PPS (Palliative Perfomance Scale), un valor de <30% suggereix una situació
+de final de vida.
+Escala PPI (Palliative Prognostic Índex), valors >6 indica una supervivència inferior
+a 3 setmanes.
+Assegurar que la família o acompanyants coneguin la situació d'últims dies que portaran a
+la mort del pacient en un període curt de temps.
+Verificar l’existència d’indicació de limitació de l’esforç terapèutic (LET) o adequació de
+la intensitat de la intervenció.
+Seguirem les indicacions del pacient/representant en cas de tenir realitzat un Document de
+Voluntats Anticipades (DVA).
+En cas que el pacient estigui ingressat en règim d'Hospitalització a domicili (HDOM),
+assegurarem que al domicili hi ha el suport familiar i/o de cuidador formal suficient i
+adequat per poder assumir el procés de mort del pacient, si era la seva voluntat i la de la
+seva família.
+Deixarem constància a la història clínica del pacient que es troba en SUD, i en cas de
+necessitar sedació pal·liativa, deixarem constància del motiu pel quan s'inicia, i que
+existeix el consentiment per part del pacient/representant/família.
+Assegurarem el màxim confort possible per al pacient/família i facilitarem que disposi
+d'habitació individual per afavorir l'acompanyament familiar i la intimitat del procés.
+Acompanyarem al pacient i la seva família perquè el final de la seva vida sigui un procés
+digne i seguirem les seves creences i valors sempre que sigui possible, en un ambient de
+respecte i intimitat.
+Donada la situació canviant dels símptomes a l’apropar-nos al moment de la mort,
+avaluarem i monitorarem la situació del pacient de forma continuada amb l’objectiu de
+reduir els símptomes emergents i garantir el confort de la persona/entorn durant tot el
+procés.
+
+
+Atenció a les persones en situació d'últims dies de vida
+En el cas de sedació pal·liativa, hem de considerar que poden aparèixer símptomes que
+poden generar malestar en la persona i/o impacte en l’entorn. Intentarem la prevenció o
+tractament precoç. L'objectiu a assolir serà controlar el nivell de sedació adequat per
+garantir el confort de la persona/entorn durant tot el procés. En cas d'iniciar sedació
+pal·liativa, l'objectiu serà arribar a un valor 5 en l'Escala Ramsay. 
+2. MESURES AMBIENTALS:
+En la mesura del possible, individualitzarem al pacient.
+Facilitarem l’acompanyament per part dels familiars/acompanyants i la seva estada amb el
+pacient.
+Afavorirem un entorn confortable i íntim. 
+Adequarem el llit, evitant les arrugues i el pes excessiu de la roba (llençols, flassades...).
+Procurarem un ambient tranquil, sense sorolls, evitant les llums directes, i amb una
+temperatura adequada de l'habitació.
+Adequarem l’ambient per als familiars/acompanyants intentant limitar factors estressants
+per ells, si és possible.
+HDOM: el pacient es troba al seu entorn. Demanarem als familiars que organitzin les
+visites per tal d’assegurar la tranquil·litat del pacient.
+3. MESURES FÍSIQUES: 
+Recordarem que la prioritat és assegurar el confort del pacient en tot moment.
+Cures de la pell:
+Realitzarem una higiene i hidratació adequada a les necessitats del pacient.
+Evitarem canvis posturals innecessaris. Si el pacient està confortable, facilitarem la
+posició natural del pacient durant la son. Utilitzarem els coixins per obtenir postures
+antiàlgiques o com a prevenció d’eritemes o lesions per pressió. Vigilarem si el
+pacient té fractures o lesions òssies i assegurarem una correcta posició per afavorir la
+ventilació pulmonar.
+Si existeixen lesions a la pell, practicarem cures de confort que siguin fàcils,
+còmodes i ràpides, evitant el dolor, mal olor i sagnat.
+Cures de la boca, nas i llavis:
+Netejarem diàriament la boca amb un raspall dental suau o una gasa humida amb
+aigua, segons l'estat de consciència del pacient.
+
+
+Atenció a les persones en situació d'últims dies de vida
+Si el pacient està conscient, hidratarem la boca amb aigua o infusions (administrats
+amb cullereta, xeringa, tampó o gases impregnades).
+Evitarem la clorhexidina pel seu contingut en alcohol.
+Hidratarem els llavis amb barra o crema de llavis. No és recomanable la vaselina per
+ser hidròfuga, repel·leix l’aigua i no millora la hidratació.
+Retirarem pròtesis dentals mal ajustades.
+Netejarem les fosses nassals amb sèrum fisiològic.
+No està demostrat que la hidratació per via intravenosa o subcutània pugui millorar
+la sequedat de boca.
+Cura dels ulls:
+Instaurarem llàgrimes artificials o humidificarem amb sèrum fisiològic de manera
+regular, en cas que els ulls quedin oberts.
+Restrenyiment:
+No incomodarem amb tactes, ènemes, etc.
+Incontinència d’esfínters:
+Valorarem la col·locació de col·lector, bolquers, sondatge vesical per millorar el
+confort del pacient.
+Retenció aguda d’orina (RAO): 
+La RAO pot ser causa d’agitació, si es produeix, haurem de sondar al pacient tot i la
+situació de final de vida, per tal de millorar el seu confort.
+Nutrició:
+Deixa d’ésser un objectiu per si mateix, si genera desconfort per al pacient.
+Administrarem una dieta compassiva o de confort segons tolerància i estat
+cognitiu/neurològic.
+El pacient no necessita menjar ni beure, a menys que ho sol·liciti. No el forçarem a la
+ingesta.
+En aquesta fase el risc, de broncoaspiració és elevat, adaptarem la dieta al nivell de
+consciència del pacient.
+Evitarem mesures agressives, com sondes nasogàstriques o gastrostomies. 
+No iniciarem nutrició enteral ni parenteral, encara que la família ho sol·liciti.
+Hidratació:
+Valorarem la necessitat de manteniment de seroteràpia.
+Valorarem la hidratació oral en funció de l’estat de consciència del pacient, les
+dificultats per empassar i el risc de broncoaspiració.
+Ranera:
+
+
+Atenció a les persones en situació d'últims dies de vida
+Acomodarem al pacient en decúbit lateral, cames flexionades i el coll lleugerament
+flexionat. Evitarem l’extensió del coll.
+Informarem la família i explicarem el significat (acumulació d'excés de secrecions al
+tracte respiratori, vies altes i baixes).
+Realitzarem aspiració traqueal només en cas d’acumulació de secrecions a la cavitat
+oral o vies altes i només si és imprescindible. Evitarem aspirar de manera sistemàtica
+per assegurar el confort del pacient.
+Considerarem amb la resta de l’equip l'aplicació precoç de mesures farmacològiques,
+abans que la ranera sigui audible (escopolamina, buscapina...).
+Febre:
+Retirarem la roba d’abric.
+Valorarem aplicar mesures físiques (tovalloles humides,...).
+La tractarem farmacològicament per millorar el seu confort si genera malestar
+(inquietud, calfreds...) o si presenta una febre molt alta (per evitar convulsions).
+Dispnea:
+Promourem l’ús de lents nasals sempre que la mascareta generi un disconfort pel
+pacient. 
+En cas de sedació pal·liativa i assoliment de Ramsay V-VI, es poden retirar els
+equips d'oxigenoteràpia. 
+Considerarem amb la resta de l’equip la necessitat d’administrar mesures
+farmacològiques (clorur mòrfic...) per disminuir la sensació dispneica.
+Dolor:
+Mantindrem el tractament analgèsic. No l'hem d’interrompre.
+Adequarem l’ús de les escales de valoració del dolor a la situació cognitiva del
+pacient per avaluar-lo (Wong Baker, Painad, etc.).
+No esperarem que el pacient manifesti dolor.
+Assegurarem les postures antiàlgiques i la prevenció del dolor.
+Agitació psicomotriu / Delirium:
+Hem de descartar sempre l’existència de dolor, globus vesical, febre, impactació
+fecal, deprivació de benzodiazepines que puguin generar aquest estat.
+Considerarem amb la resta de l’equip la necessitat d’aplicar mesures
+farmacològiques.
+Evitarem les contencions físiques.
+Nàusees i vòmits:
+Afavorirem la postura en decúbit lateral per evitar la broncoaspiració.
+
+
+Atenció a les persones en situació d'últims dies de vida
+Considerarem amb la resta de l’equip l’aplicació de mesures farmacològiques per
+controlar-les.
+Hemorràgies:
+En cas d’hemorràgia massiva, intentarem que els acompanyants restin fora de
+l’habitació per evitar l’impacte.
+Afavorirem la postura en decúbit lateral.
+Considerarem amb la resta de l’equip l’aplicació de mesures farmacològiques
+imminents via endovenosa.
+En cas d’alt risc d’hemorràgia massiva, cal tenir la medicació prescrita (bolus de
+Midazolam) carregada en una xeringa i roba preparada, si és possible que no sigui
+blanca (talles verdes).
+HDOM:
+Intentarem treballar amb un entorn preparat prèviament.
+Realitzarem totes les mesures físiques que precisi el pacient durant la visita.
+Ensenyarem a la família a realitzar les mesures físiques de confort segons les
+necessitats del pacient.
+Valorarem durant la visita l’aparició de nous símptomes per tal de controlar-
+los. 
+Si el pacient continua en hospitalització domiciliària, el control de SUD el
+realitzarà l'equip de l'HDOM. 
+En cas d'alta d'HDOM, contactarem amb l’equip del PADES.
+4. MESURES FARMACOLÒGIQUES:
+Tractament simptomàtic:
+Quan l’administració oral ja no sigui possible, és necessari un canvi de via i l’ajust
+del tractament farmacològic. Haurem de prescriure fàrmacs en pauta fixa i també, en
+dosis de rescat que tinguin una eficàcia immediata.
+Promourem l’ús de la via subcutània en el cas de no disposar de via venosa
+permeable.
+Informarem sempre prèviament al pacient i família dels canvis en la prescripció,
+especialment de la medicació habitual.
+És primordial que l’equip estigui d’acord en limitar les proves i intervencions que es
+considerin innecessàries o un sobreesforç terapèutic (analítiques, presa de signes
+vitals, radiografies o d’altres proves invasives). Es deixarà constància a la història
+
+
+Atenció a les persones en situació d'últims dies de vida
+clínica per tal que sigui conegut per tots els professionals que participen en les cures
+del pacient.
+Adequarem la pauta farmacològica en funció dels símptomes que presenti cada
+pacient. Titularem amb la medicació de rescat per, en cas de dificultat de maneig
+simptomàtic, poder canviar a perfusió continua amb les dosis ajustades. 
+Cures de la pell:
+Si dolor: aplicació tòpica d’anestèsics locals cada 4-6h.
+Si olor desagradable: gel de metronidazol 2% tòpic/apòsits de carbó
+activat.
+Si sagnat: adrenalina tòpica/compressió amb gases.
+Ranera:
+Clorhidrat d’escopolamina 0.5-1mg/4-6h sc o ev o en infusió continua
+endovenosa (ICEV) o infusió continua subcutània (ICSC).
+N-butil-bromur d’hioscina 20mg/4-6h/sc o ev.
+Un cop iniciades les mesures farmacològiques no es suspendran encara
+que desapareguin els estertors.
+Febre: només tractarem en cas que provoqui desconfort en el pacient.
+Ketorolac 30mg sc o ev.
+Metamizol 2g ev.
+Paracetamol 500mg rectal o 1 g ev.
+Dispnea:
+Si el pacient feia un ús previ d’opioides, valorarem la necessitat
+d’incrementar la dosi segons necessitats, així com la dosi de rescat de les
+crisis per controlar la dispnea.
+Si el pacient no feia ús previ d’opioides, iniciarem amb morfina 2.5mg/4-
+6h sc o ev. La dosi de rescat de la morfina per control de la dispnea és
+d'1/6 part de la dosi diària total. 
+Utilitzarem benzodiazepines per l’ansietat associada.
+Ajustarem la dosi basal de tractament en funció de les dosis de rescat
+requerides.
+En cas de dispnea refractària a opioides, associarem midazolam 2.5-5mg
+sc o ev o diazepam 5-10mg rectal.
+Si hipoxèmia valorarem l’administració d’oxigenoteràpia per optimitzar
+el confort del pacient, i prioritzarem l’ús de lents nasals.
+Dolor: 
+
+
+Atenció a les persones en situació d'últims dies de vida
+Si el pacient feia ús previ d’opioides:
+Suspendrem els coanalgèsics si el pacient perd la via oral.
+Mantindrem l’opioide previ (dolor per immobilitat i retirada de
+conanalgèsia).
+Mantindrem l’opiaci previ i valorarem el canvi de via
+d’administració.
+Incrementarem la dosi en funció de requeriments o un 33% de la
+dosi total.
+Si el pacient no feia ús d’opioides previ:
+Valorarem el seu inici. La morfina és l’opioide d’elecció per al
+maneig del dolor.
+La dosi d’inici parenteral serà: morfina 15-30mg/24h sc o 10-20
+mg/24h ev.
+La dosi de rescats serà 1/6 de la dosi total o la necessària per
+controlar les crisis de dolor.
+Delirium: és el símptoma que requereix de sedació pal·liativa amb més
+freqüència. 
+Hiperactiu:
+Haloperidol 2.5-5mg / 8h sc o ev o en infusió contínua. Rescats de
+2.5 o 5 mg.
+Levomepromazina 12.5-25mg / 8h sc o ev. Rescats de 12.5 o 25mg.
+Midazolam 2.5-5mg sc o ev si neurolèptic no efectiu.
+Nàusees i vòmits:
+Suspendrem els antiemètics orals i iniciarem parenterals.
+Si hipertensió intra-cranial: dexametasona 4mg /6-8h sc/ ev.
+Si oclusió intestinal: haloperidol 2.5-5mg/8h sc/ev. 
+Si és per estasi gàstrica o dismotilitat: metoclopramida 10-20mg cada 6-
+8h. 
+Si són d'origen central o per quimioteràpia: ondansetron 4-8mg cada
+hores.  
+Si altre etiologia: individualitzarem la pauta.
+Hemorràgia:
+Si risc d’hemorràgia, deixarem via endovenosa permeable.
+Si hemorràgia massiva: midazolam 10-15mg sc o ev administrat en bolus
+de 5mg fins a sedació.
+
+
+Atenció a les persones en situació d'últims dies de vida
+Mioclònies:
+Tractarem amb benzodiazepines.
+No realitzarem rotació opioide encara que es sospiti neurotoxicitat
+opioide.
+Convulsions: 
+Preveurem les crisis si existeixen metàstasis cerebrals o tumor cerebral.
+Suspendrem anticomicial segons nivell de consciència i substituirem per
+benzodiazepines.
+Iniciarem midazolam 2.5-5mg/4h sc o ev o en infusió contínua, o
+diazepam 5-10mg/12-24h rectal.
+Sedació pal·liativa:
+S’entén per sedació pal·liativa l’administració deliberada de fàrmacs, en la dosi i
+combinacions requerides, per reduir la consciència d’un pacient amb malaltia
+avançada o terminal, tant com sigui precís per alleujar adequadament un o més
+símptomes refractaris i amb el seu consentiment explícit, implícit o delegat.
+En cas d’iniciar la sedació pal·liativa:
+És important que la família estigui adequadament informada i permetre, en la
+mesura del possible i amb els elements de protecció necessaris, poder
+acomiadar-se del familiar pacient un cop donat el seu consentiment. ( Vegeu
+apartat “Atenció a la família” ).
+Considerarem l’atenció psicològica de la família ( Vegeu apartat “Atenció
+psicològica” ).
+Registrarem a la història clínica del pacient el motiu de sedació i el
+consentiment verbal per part del pacient o família.
+Proporcionarem atenció a les necessitats espirituals si el pacient ho sol·licita (
+Vegeu apartat “Atenció espiritual” ).
+Per a qualsevol consulta de tipus ètic consultarem al Comitè d’Ètica
+Assistencial (CEA), (cercapersones 381286).
+Tractament farmacològic per la sedació pal·liativa:  
+Durant la sedació pal·liativa haurem de mantenir l'analgèsia. Els opioides i en
+concret la morfina, poden ser necessaris tot i que la seva indicació no és la
+sedació si no el control del símptoma (dolor, dispnea...). Existeixen altres
+fàrmacs útils per a la correcta atenció a l’agonia que haurem de mantenir fins al
+final (bromur de butilescopolamina per a la ranera pre-mortem, haloperidol
+com antiemètic i fàrmacs propis de la sedació).
+
+
+Atenció a les persones en situació d'últims dies de vida
+Inducció: 
+És la dosi total en la que arribem a un nivell de sedació adequat segons
+escala de Ramsay ( Vegeu Annexes), i la dosi de rescat és aquella dosi
+extra que hem d'utilitzar en cas de crisis d'agitació o re-agudització del
+símptoma refractari que motiva la sedació. Aquesta dosi sol ser igual a la
+inducció.
+Existeix un punt a partir del qual la dosi d’una benzodiazepina produeix
+un efecte màxim possible i a partir d’aquell punt, l’increment de la dosi és
+inútil. Existeix un risc d’agitació paradoxal inherent a totes les
+benzodiazepines. Els neurolèptics sedatius són una alternativa eficaç en
+aquests casos i són de primera elecció davant la presència de delirium
+refractari.
+Fàrmacs utilitzats: 
+Midazolam:
+Primera línia en la sedació per dispnea refractaria, hemorràgia
+massiva, dolor, ansietat o pànic.
+Segona opció després de la levomepromazina al delirium
+refractari.
+És una benzodiacepina hidrosoluble, pel que es pot administrar
+per via subcutània. És de 2 a 3 cops més potent que el
+diazepam.
+Inici d’acció per via ev és de 3-5 minuts i via subcutània de
+10-15 minuts. La vida mitja plasmàtica és de 2-5 hores. Dosi
+màxima recomanada via parenteral: 160-200 mg/dia.
+Via endovenosa:
+Administrarem bolus d’inducció (afegirem 7 ml de
+sèrum fisiològic a una ampolla de 15 mg/3ml en
+una xeringa de 10 ml amb el que obtindrem una
+dilució d'1.5 mg/ml).
+Per a la inducció administrarem bolus d'1.5-3.5 mg
+cada 5 minuts fins arribar al nivell de sedació
+Ramsay II o III. La dosi usada (necessària) es
+denomina dosi d’inducció i serà també la dosi de
+rescat. Administrarem lentament (en especial en
+gent gran i en pacients debilitats pel major risc
+
+
+Atenció a les persones en situació d'últims dies de vida
+d’hipoventilació i apnea).
+Si s’indica en sedació continua o a ritme variable,
+iniciarem una sedació continua endovenosa “ICEV”
+i s’indicarà la dosi de rescat (ICEV= dosi
+d’inducció x 6 ; dosi de rescat = dosi d’inducció).
+Pacients que no prenien benzodiacepines
+prèviament o molt debilitats:
+Dosi d’inducció: en bolus 1.5 mg cada 5
+minuts.
+Pacients amb benzodiacepines prèvies:
+Dosi d’inducció: en bolus 3.5 mg cada 5
+minuts.
+Via subcutània:
+Administrarem un bolus d’inducció. Si es pensa en
+sedació intermitent, administrarem només la dosi de
+rescat. Si es pensa en sedació continua o a ritme
+variable, iniciarem una infusió continua subcutània
+(ICSC), i indicarem la dosi de rescat.
+Pacients que no prenien benzodiacepines
+prèviament o molt debilitats:
+Dosi d’inducció en bolus: 2.5-5 mg.
+Dosi de rescat: 2.5-5 mg.
+Dosi inicial en ICSC en 24 hores: 15-30 mg.
+Pacients amb benzodiacepines prèvies:
+Dosi d’inducció en bolus: 5-10 mg.
+Dosi de rescat: 5-10 mg.
+Dosi inicial en ICSC en 24 hores: 30-60 mg.
+En cas de requerir una sedació ràpida i profunda (Ramsay V o
+VI), doblarem la dosi recomanada (dosi màxima 240 mg/dia).
+ Levomepromazina:
+Primera opció en casos de delirium refractari en el que es
+requereixi sedació pal·liativa.
+Indicada en cas d'ineficàcia del midazolam en els pacients que
+requereixen sedació per altres causes que no són delirium.
+També quan estan contraindicades les benzodiazepines.
+
+
+Atenció a les persones en situació d'últims dies de vida
+El seu potent efecte anticolinèrgic pot ser útil per disminuir les
+secrecions intestinals en el pacient que presenta oclusió
+intestinal.
+És una fenotiazina amb acció antipsicòtica, antiemètica i
+sedant. És un potent antagonista adrenèrgic ?1, dopaminèrgic
+D2 i serotoninèrtic 5HT2. Pot produir hipotensió intensa que
+és dosi-depenent. Té una vida mitja plasmàtica de 15-30 hores.
+La dosi diària màxima recomanada parenteral és de 300
+mg/dia. 
+En els casos on el midazolam no sigui efectiu, abans d’iniciar
+la levomepromacina, reduirem a la meitat la dosi de
+midazolam durant les primeres 24 hores per prevenir
+símptomes de deprivació. En els següents dies, reduirem el
+midazolam un 33% de la dosi total diària segons l’evolució
+clínica.
+Via subcutània:
+Dosi d’inducció: administrarem bolus lent de
+Levomepromacina 12.5-25 mg sc. Repetir cada 10
+minuts fins a aconseguir Ramsay IV, V o VI.
+Les dosis de rescat són en bolus de 12.5 mg.
+Dosi inicial en ICSC és de 100 mg/24h (dosi
+màxima 300 mg/dia).
+Via endovenosa: la meitat de dosi de la subcutània.
+També podem utilitzar Clorpromazina 12.5-25 mg iv o sc en
+bolus lent i repetir cada 10 minuts fins aconseguir Ramsay IV,
+V o VI.
+Fenobarbital:
+Indicat en pacients que no responguin a la inducció amb
+midazolam i levomepromazina o amb via intravenosa no
+practicable. Abans d’iniciar la perfusió, retirarem les
+benzodiazepines i els neurolèptics i, reduirem els opiacis a la
+meitat.
+També indicat quan es requereix una sedació ràpida davant
+d’un símptoma refractari agut (hemorràgia massiva, estridor).
+Considerarem en pacients amb antecedents d'epilèpsia.
+
+
+Atenció a les persones en situació d'últims dies de vida
+Al·lèrgia a les benzodiacepines / levomepromazina / propofol.
+És un barbitúric d’acció perllongada. La seva vida mitja
+plasmàtica és de 50-150 hores. Després de l’administració im
+s’aconsegueix el pic plasmàtic en 2 hores. És d’ús hospitalari.
+Es poden administrar sense diluir només per via im. Per via ev
+o sc es requereixen dilucions prèvies amb almenys 10 vegades
+el seu volum d’aigua per injecció.
+Via subcutània/intramuscular:
+Dosi d’inducció: administrarem bolus de 100-200
+mg im.
+Dosi de rescat és de 100-200 mg im.
+Dosi inicial en ICSC de 600-800 mg/24h.
+Via intravenosa:
+La dosi d’inducció serà de 2 mg/Kg lenta.
+Dosis inicials en infusió continua ev (ICEV) 1
+mg/Kg/h i ajustarem segons la resposta.
+La dosi màxima és de 1600 mg/dia (dosis intermitges 1200
+mg/dia).
+Propofol: 
+Indicat en sedació amb símptomes refractaris a midazolam i
+levomepromazina.
+Sedació intermitent amb necessitats de recuperació ràpida.
+Al·lèrgia a les benzodiacepines i barbitúrics.
+És un anestèsic general d’acció ultracurta. Redueix el flux
+cerebral, disminueix la pressió intracranial i té un efecte
+antiemètic.
+L’inici d’acció és de 30 segons, dura uns 5 minuts i la vida
+mitja plasmàtica és de 40 minuts. 
+Només s'administra via ev. No s’ha de mesclar amb altres
+fàrmacs. 
+Augmenta el risc de convulsions en pacients epilèptics, i pot
+produir les mioclònies. 
+Abans d’iniciar la perfusió s’han de reduir els opioides a la
+meitat.
+
+
+Atenció a les persones en situació d'últims dies de vida
+Dosi d’inducció: bolus de Propofol d’1-1.5 mg/Kg ev a
+administrar en 1 a 3 minuts.
+Dosi de rescat: 50% de la dosi d’inducció. Posteriorment
+a l’administració de la dosi de rescat, incrementarem la
+velocitat d’infusió un 33% cada 5 minuts fins a obtenir el
+nivell de sedació requerit.
+Dosis inicials en ICEV: 2 mg/Kg/h.
+En termes generals, les benzodiacepines d’acció ràpida com el
+midazolam, són els fàrmacs més adequats per iniciar la sedació i són la
+primera opció per inciar la sedació pal·liativa. Si la indicació de la sedació
+és per delirium refractari, els fàrmacs de primera línia són els neurolèptics
+i d’ells, la levomepromazina. 
+Només en cas de refractarietat al midazolam o levomepromazina, i com a
+tercera opció, i sempre que es disposi d'un accés intravenós, prescriurem
+el propofol.
+Tractament de manteniment:
+Prescriurem i administrarem a través de bomba d’infusió (BI) intravenosa
+o subcutània amb 100-250ml de sèrum fisiològic (SF) a passar en 24
+hores (a 12,5ml/ si utilitzem SF 250ml) amb la següent medicació:
+Midazolam 5-15 mg c/24h (dosi d’inducció x 6) i ajustarem segons
+els requeriments
+Morfina 1% entre 10-30mg c/24 h en funció de la gravetat de la
+dispnea o la dosi equianalgèsica subcutània en 24 hores d'opioides
+potents utilitzats prèviament per al control del dolor o per un altre
+motiu.
+Bromur de butilescopolamina 20mg c/24h, opcionalment segons
+necessitats del pacient (dosi màxima 80 mg/dia).
+Haloperidol 2.5-5mg c/24h, opcionalment segons necessitats del
+pacient (dosi màxima 15 mg/dia).
+En cas d’inducció amb levomepromazina, la dosi de manteniment
+serà 50-70mg c/24h. Si inducció amb Clorpromazina, la dosi de
+manteniment serà 37.5-150mg c/24h. Si induccions amb
+Fenobarbital, la dosi de manteniment serà a 1 mg/Kg/hora.
+Medicació de rescat:
+
+
+Atenció a les persones en situació d'últims dies de vida
+Prescriurem i administrarem els mateixos fàrmacs i les mateixes dosis que
+els de la inducció pautada segons necessitat (PRN) cada 1-2 hores.
+Calcularem les necessitats en 24 hores per optimitzar les dosis en cas de
+requeriment.
+Si es requereix un gran augment de dosis de benzodiazepines per al
+control del distrès respiratori o delirium, considerarem afegir:
+Levomepromazina 6.25-12.5mg ev o sc c/2h PRN, i titularem
+l‘efecte.
+Levomepromazina 12.5 mg ev o sc en 24 hores, i incrementarem en
+12.5mg segons necessitat.
+Si es produeix manca de resposta al midazolam abans d‘iniciar la
+levomepromazina, reduirem a la meitat la dosi de midazolam per prevenir
+símptomes de deprivació. Els següents dies reduirem el midazolam un
+33% de la dosi total diària, segons l’evolució clínica del pacient.
+Altres mesures en relació al tractament farmacològic durant la sedació
+pal·liativa:
+Retirarem la resta de la medicació pautada com:
+Antibioteràpia.
+Transfusions.
+Heparina de baix pes molecular.
+Hidratació.
+Medicació antiviral específica.
+Aerosols.
+Reservori d'O2. Es pot canviar per unes lents nasals amb O2 entre 1-
+3lpm fins a nivell IV-V d'escala Ramsay, després es poden retirar.
+Controls de glicèmia capil·lar.
+Vigilància del pacient amb sedació pal·liativa:
+El benestar del pacient el valorarem principalment per l’expressió facial.
+Els músculs de la cara necessiten tan poca energia que permeten observar
+el desconfort en la cara del pacient. No es valorarà per altres aspectes com
+els sorolls, el tipus de respiració o el color de la pell i/o mucoses. 
+Revisarem periòdicament el nivell de sedació segons l'escala de Ramsay
+(Vegeu Annexes ).
+Evolució i seguiment del pacient amb sedació pal·liativa:
+Després de l’inici de la sedació, les recomanacions a seguir són:
+
+
+Atenció a les persones en situació d'últims dies de vida
+Revisarem periòdicament el nivell de sedació segons l'escala
+Ramsay.
+Avaluarem i deixarem constància de l’evolució a la història clínica
+del pacient.
+Transmetrem la informació sobre el pla terapèutic i l’estat del
+pacient amb tot l’equip assistencial que atén al pacient.
+Evitarem la presa de signes vitals del pacient ja que solen produir
+ansietat en la família. Ens centrarem en la valoració del Ramsay, del
+dolor i de l'agitació.
+Mantindrem informada a la família del pacient. Proporcionarem
+presència, comprensió, disponibilitat i privacitat en la mesura del
+possible. Afavorirem l’acompanyament familiar sempre que sigui
+possible.
+5. ASPECTES PSICOLÒGICS: 
+Davant la percepció o intuïció de mort, el pacient pot presentar diferents manifestacions
+psicològiques com: crisi d’ansietat, agitació, resignació, silenci, desesperança, etc.
+Facilitarem l’expressió de les seves emocions, temors i desitjos. Permetrem que verbalitzi
+la seva tristesa i ansietat.
+Informarem al pacient/familiars respecte al tractament dels símptomes per evitar el seu
+patiment.
+Mantindrem una actitud sempre de presència activa amb el pacient/acompanyants.
+L'hospital disposa de 2 psicòlegs per l'atenció pal·liativa pels pacients en final de vida
+(programa EAPs La Caixa ): pel pacient pal·liatiu no oncològic (cercapersones 382303) i
+pel pal·liatiu oncològic (cercapersones 380851).
+Estarem atents a demandes d’eutanàsia per abordar-les amb respecte i comprensió.
+Facilitarem el clima adequat per resoldre temes pendents.
+HDOM: confirmarem que el desig del pacient i de la família és passar el procés de final de
+vida al domicili, i valorarem si realment es podrà garantir el màxim confort del pacient. En
+cas contrari, es traslladarà a l'hospital on es valorarà si s'activa el trasllat a un centre
+sociosanitari pal·liatiu o s'assumeix el SUD a l’hospital.
+6. ASPECTES ESPIRITUALS:
+
+
+Atenció a les persones en situació d'últims dies de vida
+L’espiritualitat de les persones és un tema íntim i confidencial. Donarem l'oportunitat que
+el pacient confiï en l’equip per atendre aquesta necessitat.
+Oferirem la possibilitat de rebre recolzament espiritual i religiós per part dels serveis
+religiosos de l’hospital (cercapersones 382580).
+Coneixerem les característiques de l’atenció del pacient segons la seva cultura religiosa
+(cristiana, budista, musulmana,...), respectarem el seu ritual i facilitarem que el pugui dur a
+terme.
+7. ATENCIÓ A LA FAMÍLIA:
+Revisarem el procés i compartirem objectius:
+Ens assegurarem que els familiars i/o acompanyants coneguin la situació de final de
+vida del pacient i la possibilitat d’aparició de nous símptomes (dispnea, delirium,
+apnees, ranera, etc.).
+En cas de dubte o abans d’iniciar la conversació sobre la situació de final de vida,
+especialment si el cuidador principal està sol, preguntarem al pacient/familiar si
+consideren necessari la presència d’alguna altra persona.
+Informarem sobre l’estratègia terapèutica i els objectius de l’atenció dirigida
+exclusivament al control de símptomes per pal·liar el patiment.
+Explicarem (amb major èmfasi a la família) els efectes esperats de la disminució de
+la consciència: una disminució/pèrdua de la ingesta i de la comunicació verbal,
+transitòria o permanent, però també la milloria del destrés. Es recomana utilitzar un
+to de dubte raonable respecte a l’efecte de la sedació, ja que no sabem tampoc a
+priori quin nivell de consciència serà precís per a controlar el destrés del pacient.
+El coneixement de l’estat actual del pacient, facilitarà a la família que iniciïn una
+sèrie d’accions com alertar a la resta de la família, reorganització de rols, tràmits
+burocràtics, etc.
+Estarem atents a les demandes d’acabar el procés d’agonia l’abans possible que ens
+pugui fer la família i proporcionarem suport emocional.
+Utilitzarem un llenguatge clar, sense ambigüitats. No donarem per suposat el
+coneixement de la situació d’agonia. 
+Proporcionarem el suport i l’ajuda necessària per tal d'acompanyar a la família en
+l'afrontament del dol.
+HDOM: valorarem que la família sigui capaç de seguir el procés de final de vida al
+domicili.
+Augmentarem la disponibilitat de l’equip:
+
+
+Atenció a les persones en situació d'últims dies de vida
+És important mantenir la comunicació i la informació amb el pacient i la
+família/acompanyants per part de tot l’equip, per aconseguir un bon control
+simptomàtic i preveure l’aparició de nous problemes, i d’altra banda, per promoure el
+suport emocional.
+En el moment de l’obtenció del consentiment per a la sedació (tant del pacient com
+de la família) és altament recomanable que estiguin presents com a mínim, el metge i
+la infermera responsables del pacient.
+Disposarem de l’espai i el temps necessari per donar aquesta informació i suport.
+Ens assegurarem que la informació arriba a la persona de referència del pacient.
+Respondrem als dubtes que puguin aparèixer i mantindrem una postura propera amb
+ells.
+Assegurarem la nostra disponibilitat davant la família i els acompanyarem durant el
+procés.
+HDOM: recordarem el telèfon de contacte del centre de trucades per qualsevol
+necessitat i la disponibilitat si cal fer visites addicionals.
+Afavorirem l’expressió dels sentiments:
+Evitarem fer interpretacions i judicis de valor.
+Informarem de la possibilitat de mantenir la comunicació amb el pacient (parlar-li,
+donar-li la mà, tocar-lo...), considerant que el tacte i l’oïda són els últims sentits que
+es perden.
+Ressaltarem la conveniència d’evitar converses que puguin alterar al pacient.
+Intentarem evitar factors estressants que puguin afavorir el dol patològic i aplicarem
+mesures per prevenir-lo.
+Promourem la participació en l’atenció al pacient:
+Evitarem els sentiments d’inutilitat i de pèrdua de la funció cuidadora, per part de la
+família afavorint que participi en les cures del pacient.
+Inclourem a la família en la presa de decisions.
+HDOM: la família té la funció principal de cuidadora. La infermera durant la visita
+ha d’afavorir la comprensió de les cures que ha de realitzar la família i identificarà
+aquelles que els poden generar trastorns/impacte. Les cures han de ser senzilles i
+adaptades al pacient, al domicili i a l'entorn familiar.
+Tindrem en compte els nens i les persones grans:
+Suggerirem a la família de la idoneïtat que els nens i les persones grans de l'entorn
+del pacient siguin informats de la situació de final de vida i permetrem
+l’acompanyament per tal de facilitar el procés de comiat i dol.
+Documentació quan es produeixi la mort al domicili:
+
+
+Atenció a les persones en situació d'últims dies de vida
+Els ajudarem a preparar tota la documentació necessària per al tràmit.
+HDOM: informarem a la família i els proporcionarem documentació escrita dels
+passos a realitzar quan es produeixi la mort.
+Aspectes a remarcar
+La millor forma de promoure confort al pacient és esbrinar en la mesura del possible el
+que li genera desconfort. 
+Els objectius de l’atenció en la situació d’últims dies han de ser realistes i adaptats a la
+situació.
+Cal fer prevenció de les “crisis”: simptomatologia que pot aparèixer tant del pacient
+(convulsions, ranera, hemorràgia, etc.), com de la família o acompanyants (esgotament
+físic, angoixa, claudicació emocional, etc.).
+Cal fer prevenció del “record dolorós”: imatge, so, olor, comentari o un estímul instal·lat a
+la memòria de la família/acompanyant que pot evocar després de la mort del pacient,
+alteracions de l’estat d’ànim i portar a un dol patològic.
+Quan l’administració oral ja no sigui possible, és necessari un canvi de via i l’ajust del
+tractament farmacològic. S’hauran de prescriure aquells fàrmacs que tinguin una eficàcia
+immediata i els que s’utilitzin en cas de necessitat.
+És primordial que l’equip, el pacient i/o la família estiguin d’acord en adequar l’esforç
+terapèutic, i deixar constància d’aquest fet a la història clínica del pacient.
+En cas de no disposar d'un accés venós, la via subcutània serà la via d’elecció.
+Si no es pot garantir l’acompanyament dels familiars en aquest tram final del recorregut
+vital, utilitzarem les eines tecnològiques necessàries per garantir el comiat entre els
+pacients i les seves famílies.
+HDOM: és necessari que la família del pacient sigui capaç d’afrontar el procés a domicili i
+proporcionar-li les cures imprescindibles segons les necessitats. La infermera ha d’explicar a la
+família les cures a realitzar al pacient. Recordarem el telèfon de contacte del centre de trucades
+per poder contactar amb l’equip d'HDOM davant de qualsevol necessitat.
+Problemes relacionats amb el procediment
+Envers el pacient, família/acompanyants:
+
+
+Atenció a les persones en situació d'últims dies de vida
+Claudicació emocional de la família/acompanyants.
+Dol anticipat.
+Afrontament inefectiu.
+Desesperança, temor, ansietat davant la mort.
+Manca d’informació del procés.
+Conflicte de decisions.
+Conspiracions de silenci.
+Patiment espiritual:
+Afavorirem l’escolta activa, el contacte i la presència.
+Afavorirem l’expressió dels sentiments.
+Si es creu convenient, realitzarem una interconsulta al servei de Psicologia.
+És important mantenir la comunicació i la informació amb el pacient i la
+família/acompanyants per part de tot l’equip, per un control simptomàtic i preveure
+l’aparició de nous problemes i, d’altra banda, per promoure el suport emocional.
+Assegurarem la nostra disponibilitat i acompanyament a la família durant el procés.
+Informarem de la possibilitat de mantenir la comunicació amb el pacient (parlar-li, donar-
+li la mà, tocar-lo....), considerant que el tacte i l’oïda són els últims sentits que es perden.
+Evitarem els sentiments d’inutilitat i de pèrdua de la funció cuidadora, afavorint que la
+família participi en les cures del pacient.
+Els farem partícips en la presa de decisions.
+Ens assegurarem que la informació arriba a la persona de referència del pacient.
+Facilitarem l’assistència espiritual que el pacient demani (cercapersones 382580).
+HDOM: si no és possible seguir el procés de final de vida al domicili per qualsevol motiu es
+traslladarà a l’hospital.
+Envers el professional sanitari
+Falta de formació.
+Falta de recursos per afrontar l’estrès.
+Sobrecàrrega de treball.
+Fer front a les exigències dels familiars.
+Por a sobre implicar-se o implicar-se poc.
+Sentiments d’impotència.
+Por a parlar a nivell emocional.
+Dificultat per identificar una situació de final de vida i realitzar intervencions fútils.
+
+
+Atenció a les persones en situació d'últims dies de vida
+Patiment emocional.
+Rebre formació adient i continuada.
+Treballar el propi món emocional.
+Saber posar límits i acceptar les nostres limitacions.
+Verbalitzar la situació amb la resta de l’equip.
+Si cal, comunicar-ho al departament de riscos laborals.
+Riscos Laborals
+Implicació emocional vers la situació.
+Indicadors d'Avaluació
+Nombre de pacients en situació de final de vida identificats correctament a la història
+clínica.
+Nombre de pacients en situació de final de vida amb medicació per via subcutània.
+Nombre de pacients que el decés succeeix en una habitació individual.
+Nombre de pacients en situació de final de vida que tenen un ajust de tractament i
+adequació de via d’administració.
+Registres
+Portal professional
+PiA (Prescripció i administració)
+Valoració pacient
+Pla de cures
+Agenda de cures
+Registres
+Portal Professional: registrarem a cada torn l'avaluació continuada del pacient i deixarem
+constància al curs clínic de la realització de cures generals tant del pacient com de la
+família/acompanyants.
+Pla i Agenda de cures: afegirem el problema “desconfort”, intervenció “Cures fi de vida”, i
+adequarem el pla de cures a la situació del pacient. 
+
+
+Atenció a les persones en situació d'últims dies de vida
+Valoració de Final de Vida.

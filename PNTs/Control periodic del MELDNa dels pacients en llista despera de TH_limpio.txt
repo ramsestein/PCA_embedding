@@ -1,0 +1,177 @@
+Activitats realitzades per la Infermera de Pràctica Avançada de Pretrasplantament Hepàtic per
+gestionar la llista d’espera de trasplantament hepàtic, d’acord amb el MELDNa score. Aquest
+sistema ordena als pacients segons una major gravetat clínica i un major risc de mort
+pretrasplantament, considerant també el temps en llista d'espera.
+Objectiu
+Ordenar la llista d’espera de trasplantament hepàtic segons un sistema consensuat entre els
+diferents equips de trasplantament hepàtic de Catalunya.
+Calcular periòdicament el MELDNa dels pacients inclosos en llista d’espera de
+trasplantament hepàtic, d’acord amb el protocol de gestió de la OCATT.
+Responsabilitats
+
+
+Control periòdic del MELDNa dels pacients en llista d'espera de TH 
+Infermers/es
+Metges/esses
+Procediment
+SEQÜÈNCIA D’INTERVENCIONS
+Inici del procés: 
+Inclusió de pacients en llista d’espera de trasplantament hepàtic
+Activitats:
+Càlcul el MELDNa:
+El MELDNa (clínic i ponderat) es calcula segons els criteris de priorització de l’OCATT,
+sota la supervisió de l’hepatòleg responsable de la llista d’espera i/o Cap de Secció de
+Trasplantament. (Vegeu Annex 1)
+Hi ha diferents tipus de valor de MELD:
+MELD/MELDNa Clínic. Obtingut exclusivament amb els components de la fórmula
+matemàtica. S’utilitza l’analítica del laboratori central més recent que aparegui al
+SAP. El valor MELD/MELDNa es pot trobar a l’analítica, si s’ha sol·licitat a la
+petició de laboratori central (Vegeu Annex 2), o es pot calcular manualment, amb la
+calculadora de MELD/MELDNa (Vegeu Annex 3 i 4 ), a partir de les dades
+analítiques que es requereixen. Les dades requerides són: data de naixement del
+pacient, bilirubina sèrica (mg/dl), sodi sèric (m Eq/L), INR (valor absolut, creatinina
+sèrica (mg/dl) i si el pacient es dialitza o no . El valor de MELD/MELDNa pot
+incrementar o disminuir al llarg del seguiment del pacient. 
+MELD/MELDNa ponderat. És el valor de MELD que s’atorga mitjançant
+l’adjudicació de punts addicionals en els casos que es detallen tot seguit, segons les
+especificacions del protocol de consens de l’OCATT:
+Hepatocarcinomes
+Re-trasplantament per problemes tècnics-quirúrgics
+
+
+Control periòdic del MELDNa dels pacients en llista d'espera de TH 
+Síndrome hepatorenal 
+Poliquistosi hepàtica 
+Poliquistosi hepàtica i renal
+En aquests casos, el valor mínim de MELDNa ponderat és 19, i cada 3 mesos des de
+la data de ponderació, s’afegeix un punt per temps en llista.
+Dintre del MELD/MELDNa ponderat, hem de considerar altres casos individualitzats
+aprovats per la Comissió Assessora de l’OCATT. Es tracten de casos que, abans de
+l’adjudicació de punts addicionals, s’han de consensuar amb la Comissió Assessora i
+amb coneixement i acord dels altres centres trasplantadors de Catalunya: Hospital
+Universitari de Bellvitge, Vall d’Hebrón Barcelona Hospital Campus. Aquests casos
+són:
+Colangitis recurrents 
+Recanvis plasmàtics 
+Grup sanguini B/AB meld ? 25 
+Hipertensió portopulmonar 
+Síndrome hepatopulmonar 
+Colangitis recurrents 
+Mala evolució clínica 
+Hemangioendotelioma epiteloide 
+Adenomatosis hepàtica
+En qualsevol cas, el protocol de consens de l’OCATT és el document de referència
+per a realitzar l’assignació del MELDNa ponderat.
+Periodicitat de càlcul de MELDNa:
+Pacients hospitalitzats: controls setmanals
+Pacients amb MELDNa igual o superior a 25: controls c/14 dies
+Pacients amb MELDNa entre 17 i 24: controls mensuals (excepte si és ponderat). En
+el cas de MELDNa ponderat, el càlcul
+de meld es farà segons el MELDNa clínic.
+Pacients amb meld inferior a 17: controls cada 3 mesos
+
+
+Control periòdic del MELDNa dels pacients en llista d'espera de TH 
+Programació d'análitiques pel càlcul del MELDNa:
+Les analítiques per al càlcul del MELDNa, s’hauran de programar segons la periodicitat
+esmentada en el punt anterior. Sempre que sigui possible, es farà coincidir l’extracció per
+al control del MELDNa amb les analítiques programades pel seguiment habitual de la
+patologia de base de cada pacient. En cas contrari, s’hauran de crear les sol·licituds de
+Laboratori central, per programar-les en la data requerida. Les analítiques es cursaran al
+Laboratori Central.
+Crear una sol·licitud de Laboratori Central. S’han de seguir les següents passes:
+Seleccionar al pacient 
+Crear una sol·licitud de laboratori central (Lab. Prog. HCPB)
+Unitat Lab. Central Clínic 
+Labs HCPB 
+Protocols i seleccionar: protocol 119, protocol 161 MELD/MELDNa
+Periodicitat de la programació de les analítiques:
+Pacients ambulatoris: Les dates de les analítiques per l’actualització del MELDNa
+(cínic o ponderat) estan registrades al programa de gestió de llista SAP-UTH
+(pestanya d'actualització pacients) i cal actualitzar-la setmanalment. Cal revisar
+aquestes dates a l’agenda del pacient del SAP amb un mes d’antelació per assegurar-
+se que no s’hagin anul·lat o reprogramat. 
+Pacients ingressats: S’actualitza i es registra el MELDNa setmanalment al programa
+de gestió de la llista SAP-UTH. En aquest cas, es fan servir les analítiques que es
+cursen habitualment els dijous des de les unitats d’hospitalització. Quan els pacients
+marxen d’alta, el pròxim control de MELDNa es realitza segons la periodicitat
+establerta per als pacients ambulatoris. 
+Pacients amb criteris de priorització (MELD/MELDNa ponderat): Els criteris de
+priorització queden establerts en el Comitè de Trasplantament Hepàtic. Les
+analítiques de control de MELDNa, en aquests pacients, es fan coincidir amb la data
+de priorització per temps en llista d’espera. Si un pacient, mentre està en llista
+
+
+Control periòdic del MELDNa dels pacients en llista d'espera de TH 
+d’espera per l’evolució de la seva malaltia, compleix amb els criteris de priorització,
+es ponderarà el seu MELD. Els hepatòlegs de referència han d’indicar, via e-mail, el
+motiu de priorització de cada pacient. Aquests e-mails queden arxivats
+informàticament. 
+En cas que el MELDNa clínic sigui més alt que el MELDNa ponderat, prevaldrà el
+MELDNa clínic.
+Final del procés: Exclusió de pacients en llista d’espera de trasplantament hepàtic.
+L’exclusió del pacient pot ser:
+Definitiva: per trasplantament, per no compliment de criteris de trasplantament per
+progressió de malaltia, o aparició de nova patologia que contraindiqui el
+trasplantament.
+Temporal: mentre el pacient estigui de baixa temporal de la llista d’espera, no és
+necessari calcular el meld periòdicament. En aquest cas, només s’haurà d’actualitzar
+el MELDNa, quan el pacient es torni a incloure en la llista d’espera de
+trasplantament hepàtic.
+Material
+Consulta d'infermeria
+Material per extracció de sang i tubs d'analítica.
+Aspectes a remarcar
+Cal evitar discrepàncies entre el MELD-NA que figura a ala llista d’espera de
+Trasplantament Hepàtic de l’Hospital Clínic i el MELD/MELDNa que figura a la llista
+única de Trasplantament Hepàtic de l’OCATT, ja que aquesta discrepància pot generar un
+error en el moment d’assignació d’un òrgan.
+La infermera haurà de comentar amb el metge responsable de la llista d’espera i amb el
+metge referent de cada pacient, qualsevol alteració que es pogués detectar en el resultat de
+les analítiques, independentment del resultat del MELD/MELDNa. La comunicació amb
+els hepatòlegs serà via telefònica o via mail.
+
+
+Control periòdic del MELDNa dels pacients en llista d'espera de TH 
+Qualsevol intervenció que es derivi de la revisió de l’analítica, s’haurà de registrar a la
+història clínica del pacient.
+Disposició per millorar els coneixements
+Codi NANDA
+00161
+Codi Nic
+5602
+Intervenció
+Ensenyament del procés de malaltia
+Dificultats per fer front a la seva malaltia
+Activitat
+Reforçar la informació sobre la malaltia al pacient/família
+Ajudar el pacient/família a adaptar-se i acceptar la nova realitat
+Suport emocional
+Ansietat
+Codi NANDA
+00146
+Codi Nic
+4920
+Intervenció
+Escolta activa
+Problemes relacionats amb el procediment
+
+
+Control periòdic del MELDNa dels pacients en llista d'espera de TH 
+ 
+Riscos Laborals
+Actuació front punxada accidental
+Indicadors d'Avaluació
+Nombre de pacients que entren en llista d'inclusió.
+Percentatge de pacients que entren en llista d'inclusió respecte el nombre de pacients que
+s'exclouen.
+Avaluació externa per part de l'OCATT. 
+Registres
+SAP
+Portal professional
+Registres
+Documents específics de SAP-UTH 
+Diagrama de Flujo
+
+
+Control periòdic del MELDNa dels pacients en llista d'espera de TH 

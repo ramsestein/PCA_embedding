@@ -1,0 +1,115 @@
+Guia per emplenar correctament el registre evolutiu del pacient per part d’infermeria,
+identificant quins són els seus problemes i l’evolució dels mateixos.
+Objectiu
+Enregistrar l’evolució del pacient de manera organitzada, per tal de facilitar-nos-en el seguiment
+i permetre una millor comunicació interprofessional.
+Responsabilitats
+Infermers/es
+Procediment
+SEQÜÈNCIA D’INTERVENCIONS:
+
+
+Curs evolutiu d’infermeria
+Accedirem al mòdul Portal Professional a través de la icona corresponent  i procedirem a fer el
+registre evolutiu a través de la caixa de text lliure que trobarem a la capçalera de la pantalla (
+Vegeu imatge 1 ).
+El curs evolutiu d'infermeria es pot estructurar en cinc parts ben diferenciades:
+1. Ingrés del pacient:
+El primer comentari a l'ingrés se'ns generarà automàticament en complimentar i guardar la
+valoració a l'ingrés, amb tota la informació recollida (Perfil del pacient).
+Per tant, al curs evolutiu només caldrà anotar aquelles qüestions rellevants sobre el pacient
+que no s'hagin constatat a la valoració a l'ingrés.
+El pla de cures i el registre dels dispositius invasius i/o ferides es realitzarà als
+corresponents mòduls de l'IPA Pacient (Pla de Cures i Registres Especials).
+El resultat de les escales complimentades a la valoració també es visualitzaran al perfil del
+pacient.
+2. Registres evolutius durant el procés assistencial:
+Informació que la infermera transmetrà al personal de l’equip que continuarà tenint cura del
+pacient al següent torn.
+Tolerància a la ingesta, proves programades, interconsultes pendents, previsió d'alta,
+aïllament, etc.).
+Quan una variable clínica, un control d'eliminació (orina o femta), dolor, ingesta,
+mobilització etc., queda fora dels paràmetres normals, s'haurà de considerar com un
+problema i enregistra-ho en aquest apartat. En cas de paràmetres amb valors no
+remarcables, hauran de ser enregistrats a l’apartat corresponent del registre.
+Valoració general del pacient quan arribi a la unitat després d'una intervenció quirúrgica o
+prova invasiva?.
+Problemes: cal fer un seguiment dels problemes existents, plantejar-ne de nous o reprendre
+novament els antics si fos necessari i tancar els problemes un cop resolts, deixant
+constància de “Problema resolt” en comentaris.
+Quan enregistrem a l’evolutiu un problema, explicarem els símptomes relacionats que presenta
+el pacient i les intervencions realitzades. Es revisarà el pla de cures a cada torn i sempre que hi
+
+
+Curs evolutiu d’infermeria
+hagi qualsevol canvi a l'estat del pacient. Al curs evolutiu descriurem tot allò rellevant i
+relacionat amb els problemes actius del pacient i que no queden registrats a l’agenda de cures.
+El tractament dels diferents problemes, tindrà entitat pròpia i els tractarem un a un, no emprant
+una narrativa contínua.
+3. Trasllat del pacient
+Té la finalitat d’enregistrar l’estat i evolució del pacient de forma organitzada, en el moment de
+ser traslladat a una altra unitat, per tal de facilitar la comunicació interprofessional i afavorir el
+seguiment dels seus problemes i tractament.
+Serà necessari efectuar una valoració general del pacient; malgrat que aquesta informació figuri
+en cadascun dels documents específics, 
+caldrà enregistrar-ho per tal de facilitar una ràpida informació al professional que consulti la
+història.
+Haurà de constar:
+Controls qualitatius bàsics per a la continuïtat de les cures (vies invasives, tipus de líquid
+drenat, ostomies, tolerància a la mobilització i a la ingesta, eliminació, respiració, dolor,
+etc.).  Grau de dependència (índex de Barthel).  Seguiment per Fisioteràpia.
+Al·lèrgies / alertes: contencions, etc.
+Tractaments pendents o en curs.
+Situació familiar/social/cultural remarcable. Registre de la persona que fa de cuidador
+principal en cas de necessitat.
+Problemes/riscos del pacient en el moment del trasllat, així com les cures planificades per
+abordar-los.
+En pacients en procés d'educació sanitària, haurà de constar el grau de coneixements i
+habilitats assolits.
+4. Darrer comentari evolutiu:
+Deixa constància de l'estat del pacient en el moment de ser donat d'alta de la unitat/servei.
+Tancarem l'evolutiu:
+
+
+Curs evolutiu d’infermeria
+Estat del pacient a l'alta.
+Indicarem si pacient marxa sol o acompanyat.
+Amb quins mitjans de transport ha sigut donat d'alta (mitjans propis, ambulància, ...)
+Indicar si ha requerit alguna recomanació especial a l'alta.
+Caldrà revisar el Pla de Cures i els Registres Especials i tancar aquells que ja no estiguin actius
+al moment de l'alta.
+5. Èxitus del pacient
+En cas de decés del pacient, enregistrarem les dades de tancament del procés:
+Si s'han realitzat maniobres de reanimació, enregistrar hora d'inici i final.
+Deixar constància de si el pacient ha mort sol o acompanyat.
+Enregistrar si el pacient ha mort amb signes de confort.
+Deixar constància si s'ha fet suport a la família.
+Constància de lliurament d'objectes personals a la família.
+Tot allò que es consideri oportú.
+Material
+Plantilles: primer comentari evolutiu, comentaris durant el procés, trasllat intern pacient, darrer
+comentari evolutiu i plantilla d’èxitus.
+Aspectes a remarcar
+Els registres evolutius durant el procés, han de contemplar la pròpia evolució del pacient i
+els problemes que puguin sorgir.
+El tractament dels diferents problemes, tindrà entitat pròpia i els tractarem un a un, no
+emprant una narrativa contínua.
+Cal tenir en compte la importància de només utilitzar sigles estandarditzades en el registre
+evolutiu del pacient.
+Es pot crear un registre evolutiu com a esborrany sense que cap altre professional el
+visualitzi. Aquest esborrany no impedeix que qualsevol altre professional pugui inserir un
+registre evolutiu del mateix pacient.
+Indicadors d'Avaluació
+
+
+Curs evolutiu d’infermeria
+Nombre de registres evolutius que presenten l’evolució continua del pacient seguint els
+criteris definits respecte total de registres evolutius redactats.
+Nombre de registres evolutius que presenten el darrer comentari evolutiu complet seguint
+els criteris definits  respecte total de registres evolutius redactats.
+Nombre de registres evolutius que presenten el darrer comentari evolutiu en cas d’èxitus
+complet seguint els criteris definits respecte total de registres evolutius redactats.
+Nombre de registres evolutius de trasllat complets seguint els criteris definits respecte total
+de registres evolutius redactats.
+Registres
+Portal professional

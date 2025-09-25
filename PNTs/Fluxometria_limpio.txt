@@ -1,0 +1,202 @@
+La fluxometria és una prova diagnòstica innòcua que només requereix que el pacient orini i les
+dades obtingudes poden indicar l'existència o no d'alteració funcional de la micció. És barata i
+aporta informació quantitativa i objectiva. La tècnica es realitza amb un aparell anomenat
+fluxòmetre, sent aconsellable la determinació de l'RPM  (volum residual) mitjançant una tècnica
+ecogràfica. En el cas que el RPM fos important, és obligat fer una ecografia renal per descartar
+una dilatació de la via urinària superior.
+No obstant això, està exposada a molts artefactes, com ara que el pacient es trobi en un medi no
+familiar, amb la consegüent inhibició ambiental, que retingui el desig miccional en excés. En
+aquest cas, no estarem davant l'estudi d'una micció "normal" per al pacient o que orini quan tot
+just tingui volum a la bufeta, amb el que no es podran extreure dades de l'estudi. Altres
+possibles artefactes venen constituïts per cops involuntaris del sistema de mesurament en forma
+de cop de peu, o les interferències que diversos sistemes com telèfons mòbils poden ocasionar
+en la comunicació sense fils d'aquests equips. Les dades que obtenim amb aquesta prova són:
+la micció mesurant el pic de flux (o Qmax: volum màxim d'orina buidat per unitat de
+temps i expressat en mil·lilitres per segon, arrodonit a la unitat)
+
+
+
+el volum miccional total (en mil·lilitres arrodonits a la desena)
+el residu postmiccional (en mil·lilitres arrodonits a la desena)
+la descripció de la forma de la corba (micció uniforme, irregular, interrompuda) s'obtenen
+així tres nombres separats per dos guions.
+La interpretació d'aquestes dades ens dona informació sobre l'existència d'un cabal normal o
+baix, no podent diferenciar en el cas d'un cabal baix si el problema és degut a una obstrucció
+infravesical o a un detrusor mica contràctil durant la micció.
+Els paràmetres que valorem a la fluxometria la infermeria del nostre servei són:
+Flux màxim (Qmax) o valor màxim del flux urinari durant la micció (en ml / s arrodonint
+el valor a la unitat).
+Volum miccional (Vmicc) o quantitat total d'orina eliminada durant la micció (en ml,
+arrodonint el valor a la desena).
+Volum residual (RPM) o quantitat d'orina que queda a la bufeta després d'orinar (en ml,
+arrodonint el valor a la desena).
+La morfologia de la corba de flux (uniforme, irregular, interrompuda).
+Seguint les directrius de l’ICS, els nombres que defineixen a una fluxometria per exemple d'un
+home que hagi aconseguit un pic de flux de 14,6 ml / amb un volum miccional de 234 ml i un
+RPM de 125 ml seria: 14/230 / 130. En cas de no haver pogut mesurar el RPM, substituiríem el
+valor per guions (14/230 / ---). (El valor de Cabal mitjà i temps de flux no solen tenir
+aplicabilitat clínica).  (Vegeu Imatge 1)
+La fluxometria s'ha de fer en posició dret o assegut i en un entorn de privacitat, discreció i
+tranquil·litat. La micció convé que sigui el més semblant a l'habitual.
+Està determinat que per valorar una fluxometria, el volum miccional buidatge sigui superior a
+150 ml i inferior a 600 ml.
+En els homes el Flux màxim (Qmax):
+Valor igual o superior a 15: es considera normal
+Valors entre 10 i 15: es consideren dubtosos
+Valors inferiors a 10: són orientatius de "cabal baix"
+
+
+
+En les dones el Flux màxim (Qmax):
+Valor igual o superior a 20: es considera normal
+Valors inferiors a 20: es considera un cabal baix.
+Hi ha normogrames que ens permeten valorar els valors de normalitat. El més usat en l'home és
+el Normograma de Siroky per Qmax, en el qual podem apreciar, per a un volum miccional
+determinat si un estudi està a la zona denominada de "cabal baix" (zona ombrejada). Correspon
+aquesta a una variació de dues desviacions estàndard sobre la línia de normalitat (la corba
+superior). La zona compresa entre la zona enfosquida i la línia de normalitat, correspon a la
+zona dubtosa (entre les línies 0 i -2). Observant el normograma podem apreciar com les corbes
+de les desviacions estàndard s'ajunten per sota de volums miccionals inferiors a 150 ml.
+Una corba en forma de campana de Gaus és normal; una corba plana i allargada és orientativa
+de procés obstructiu infravesical, i una corba amb espícules indica l'ús de premsa abdominal. La
+presència d'una corba intermitent pot relacionar amb una disinergia vesicoesfinteriana
+(contracció simultània del detrusor i el sistema esfinterià, propi d'alguns quadres neurològics). 
+(Vegeu Imatge 2)
+Volums Residuals Postmiccionals superiors al 20% de la quantitat pixada es consideren
+patològics.  (Vegeu Imatge 3)
+Així mateix és molt important el reconeixement d'artefactes en la corba de flux, ocasionats per
+cops de peu o cops en el sistema, i saber "suavitzar" la corba de flux en el cas que l'equip no faci
+aquest "suavitzat de la corba" automàticament.
+Objectiu
+Obtenir el registre de la micció del pacient.
+Mesurar el volum d'orina eliminat en la micció i el volum postmiccional (RPM).
+Determinar el resultat final de la micció.
+Informar el pacient del procediment i aclarir els dubtes que plantegi.
+Garantir la seguretat del pacient durant tot el procés.
+Evitar i / o detectar de manera precoç l'aparició de possibles problemes relacionats amb el
+procediment.
+Transmetre tranquil·litat i donar suport emocional.
+Protegir la confidencialitat i la dignitat del pacient durant el procediment.
+
+
+
+Promoure el confort, la tranquil·litat i la privacitat durant la micció.
+Obtenir els següents resultats:
+NOC1909 Conducta de prevenció de caigudes
+NOC 3008 Satisfacció del pacient / usuari: protecció dels seus drets
+NOC 1211 Nivell d'Ansietat
+NOC 0502 Continència Urinària
+Responsabilitats
+Infermers/es
+Metges/esses
+Procediment
+SEQÜÈNCIA D'INTERVENCIONS
+Comprovarem que el fluxòmetre està ben muntat.
+Verifiquem que el fluxòmetre està interconnectat amb l'ordinador de registre, que el
+sistema bluetooth està actiu i no hi ha interferències ocasionades per telèfons mòbils, etc.
+Introduïm les dades del pacient a l'ordinador de registre.
+Sol·licitem al pacient que orini de la forma més natural possible i dins l’embut.
+En acabar la micció preguntaren al pacient si la micció és semblant a l'habitual.
+Realitzem el mesurament del volum d'orina residual postmiccional (RPM). En el nostre
+Servei es mesura sempre amb ecografia vesical, amb el mesurament d'una imatge que
+conté un tall transversal i longitudinal de la bufeta o bé mitjançant sistemes automàtics de
+mesura de residu miccional tipus Cubescan o Bladderscan.
+Confirmem el correcte registre de la gràfica i verifiquem que corresponen al pacient que
+ha orinat.
+Imprimim el registre gràfic.
+Adjuntem tots els valors seguint les directrius de la ICS, Qmax / Volum miccional / volum
+residual, de manera manual o mitjançant paper d'impressió, al registre gràfic.
+Registrem les dades en la història clínica del pacient.
+
+
+
+Lliurem una còpia en paper al pacient i li sol·licitem que la guardi per la seva visita amb el
+metge.
+Rentatge i desinfecció del fluxòmetre per a la prova següent.
+OBSERVACIONS
+Cal que el pacient verbalitzi les ganes d'orinar.
+És essencial oferir al pacient un ambient segur, tranquil, i privat perquè realitzi la micció.
+Per això, pot ser necessari comunicar-li al malalt que esperi una mica i ingereixi una mica
+de líquid fins que tingui ganes d'orinar. Com que cada pacient té un ritme miccional
+diferent, cal adequar la tècnica a les característiques de cada pacient.
+Si la micció realitzada no és semblant a l'habitual del pacient, es rebutja i s'espera fins que
+el pacient faci una nova micció.
+Sempre hem de verificar que la gràfica correspon al pacient al qual li realitzem l'estudi
+(correcta identificació el pacient i el seu corresponent gràfics).
+És aconsellable disposar d'un espai físic d'ús exclusiu per a situar el fluxòmetre.
+Material
+Fluxòmetre, integrat pels següents elements:
+Vàter-cadira portàtil
+Embut-col·lector (col·locat per sobre del recipient col·lector).
+Recipient per recollir orina.
+Sistema electrònic de registre (es tracta bàsicament d'un pes electrònic connectat
+sense fils amb l'ordinador de registre).
+Suport per al sistema electrònic de registre i l'embut
+Piles (bateria de sistema)
+Ordinador
+Impressora
+Ecògraf
+Aspectes a remarcar
+Cal que el pacient verbalitzi les ganes d'orinar.
+És essencial oferir al pacient un ambient segur, tranquil, i privat perquè realitzi la micció.
+
+
+
+Si la micció realitzada no és semblant a l'habitual del pacient, es rebutja i s'espera fins que
+el pacient orini de nou.
+El mesurament del volum residual postmiccional s'ha de fer immediatament després
+d'haver orinat (el retard en aquesta mesura pot determinar residus postmiccionals
+falsos per la presència d'orina a la bufeta provinent dels ronyons).
+Sempre hem de verificar que la gràfica correspon al pacient a què li realitzem l'estudi.
+Comprovar que l'Equipament està en òptimes condicions de neteja, ús i funcionament.
+Manipular l'Equipament amb cura.
+Risc de caigudes
+Codi NANDA
+00155
+Codi Nic
+6490
+Intervenció
+Prevenció de caigudes
+Risc de caigudes
+Codi NANDA
+00155
+Codi Nic
+6486
+Intervenció
+Maneig ambiental: seguretat
+Risc de compromís de la Dignitat Humana
+
+
+
+Codi NANDA
+00174
+Codi Nic
+7460
+Intervenció
+Protecció dels drets del pacient
+Ansietat
+Codi NANDA
+00146
+Codi Nic
+5820
+Intervenció
+Disminució de l'ansietat
+Ansietat
+Codi NANDA
+00146
+Codi Nic
+1804
+Intervenció
+Ajuda amb l'autocura: micció
+Riscos Laborals
+Contacte amb agents biològics
+Riscos de caigudes
+
+
+
+Indicadors d'Avaluació
+Percentatge d'estudis fluxomètrics no valorables.
+Percentatge d'estudis fluxomètrics amb artefactes.
+Registres
+Portal professional
+Registre/Informe gràfic del procediment amb comentaris sobre les incidències observades

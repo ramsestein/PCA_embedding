@@ -1,0 +1,174 @@
+Es defineix com a ferida tota lesió traumàtica de la pell i mucosa amb solució de continuïtat de
+les mateixes i afectació variable d’estructures adjacents, amb interrupció de la integritat tissular
+per traumatisme, intervenció quirúrgica o trastorn mèdic subjacent.
+La ferida quirúrgica és una pèrdua de continuïtat de la pell o mucosa  provocada pel cirurgià
+amb la finalitat d’ accedir a qualsevol territori de l’ organisme.
+Objectiu
+Proporcionar les cures necessàries per a una correcta cicatrització de la ferida per primera
+intenció. 
+Proporcionar al pacient intervingut i a la seva família els coneixements adequats per a una
+correcta cicatrització de la ferida.
+Monitoritzar les característiques de la ferida: dolor, tipus de teixit, exsudat
+Prevenir l’aparició de complicacions.
+Indicar les cures més adients.
+Detectar de manera primerenca signes i símptomes d’infecció.
+
+
+Cura de la ferida quirúrgica
+Maneig de la infecció.
+Control del dolor.
+NOC 1814 Coneixement del procediment terapèutic
+NOC 0802 Signes vitals
+NOC 1605 Control del dolor
+NOC 2100 Comoditat
+NOC 1908 Detecció dels riscos. Evitar i/o detectar de manera precoç l’aparició de
+problemes relacionats amb el procediment
+NOC 2303 Recuperació eficaç posterior al procediment
+NOC 1101 Integritat tissular: membranes cutànies i mucoses
+NOC 1102 Curació de ferides: intenció primària.
+Responsabilitats
+Infermers/es
+Metges/esses
+TCAIS
+Procediment
+PREPARACIÓ DEL MALALT ABANS DEL PROCEDIMENT
+Tranquil·litzar al pacient
+Explicar el procediment
+Procurar disminuir el dolor
+Donar instruccions clares i demanar la col·laboració del pacient
+SEQÜÈNCIA D’INTERVENCIONS
+Assegurar la correcta identificació del malalt.
+Informarem al malalt del procediment a realitzar i sol·licitarem la seva col·laboració
+sempre que sigui possible.
+
+
+Cura de la ferida quirúrgica
+Preguntarem les al·lèrgies relacionades amb els antisèptics i els productes de neteja de les
+ferides.
+Garantirem la intimitat del malalt
+Valoració del dolor, administració d’analgèsia si cal.
+Posarem al malalt en la posició adequada per fer la cura
+Adoptarem mesures de protecció en front de possibles contactes de fluïts biològics
+(mascaretes, ulleres,...)
+Posarem el carro de cures al costat del malalt amb tot el material necessari. 
+Protegirem el llit amb un xopador en cas necessari
+Rentat de mans.
+Ens posarem els guants.
+Retirada d’apòsit (podem mullar-lo amb sèrum si està molt adherit)
+Prepararem camp estèril o asèptic
+Valorarem la ferida (tipus, fase de cicatrització, signes d’infecció i dolor). Avisarem al
+metge en cas de, envermelliment, empastament, dehiscència, seroma, abscés.
+Netejarem la ferida amb, aigua i sabó o sèrum salí o Solució de Polihexanida al 0,1%
+(Grau B)
+Aplicarem antisèptic.
+Assecarem la ferida amb gases estèrils
+Taparem la ferida amb un apòsit oclusiu estèril i/o embenat adequat segons la localització i
+característiques de la mateixa, o la deixarem  a l’ aire si ho precisa.
+OBSERVACIONS:
+La valoració diària de la ferida i la detecció primerenca dels signes d’alerta son intervencions
+essencials per prevenir la infecció de les ferides quirúrgiques.
+Material
+Apòsits
+Apòsits de suport
+Hidrogels, pomades
+Solució salina o solució per a la neteja i descontaminació de ferides
+Antisèptics
+Anestèsic local
+Contenidor d’objectes tallants
+
+
+Cura de la ferida quirúrgica
+Carretó de cures
+Xopadors
+Talles estèrils
+Gases
+Guants
+Instrumental quirúrgic
+Mascareta
+Barret
+Bata
+Aspectes a remarcar
+Vigilància activa de la ferida.
+Valorarem la ferida (tipus, fase de cicatrització, signes d’infecció i dolor).
+Detecció precoç dels signes d’alerta: envermelliment, empastament, dehiscència, seroma,
+abscés.
+Dolor Agut
+Codi NANDA
+00132
+Codi Nic
+1400
+Intervenció
+Maneig del dolor
+Ansietat
+Codi NANDA
+00146
+
+
+Cura de la ferida quirúrgica
+Codi Nic
+5820
+Intervenció
+Disminució de l'ansietat
+Coneixements deficients
+Codi NANDA
+00126
+Codi Nic
+3660
+Intervenció
+Cura de les ferides
+Termoregulació ineficaç
+Codi NANDA
+00008
+Codi Nic
+3740
+Intervenció
+Tractament de la febre
+Risc d'infecció
+Codi NANDA
+00004
+Codi Nic
+6540
+
+
+Cura de la ferida quirúrgica
+Intervenció
+Control d'infeccions
+Deteriorament de la integritat tissular
+Codi NANDA
+00044
+Codi Nic
+3680
+Intervenció
+Irrigació de les ferides
+Deteriorament de la integritat tissular
+Codi NANDA
+00044
+Codi Nic
+3660
+Intervenció
+Cura de les ferides
+Deteriorament de la integritat tissular
+Codi NANDA
+00044
+Codi Nic
+3590
+Intervenció
+Vigilància de la pell
+
+
+Cura de la ferida quirúrgica
+Riscos Laborals
+Contacte amb agents biològics
+Mesures de prevenció postures forçades
+Indicadors d'Avaluació
+Nombre de malalts amb infecció de la ferida quirúrgica durant l’estada hospitalària.
+Nombre de malalts amb valoració diària o periòdica segons prescripció
+Nombre de malalts amb un registre acurat de les característiques i evolució de la ferida.
+Nombre de malalts amb registre del canvis en el tractament tòpic, sistèmic i de maneig del
+dolor.
+Nombre de malalts amb registre i seguiment de la temperatura corporal i cultius.
+Registres
+Registre de valoració de la ferida
+Portal professional
+Registres clínics
+Registres especials

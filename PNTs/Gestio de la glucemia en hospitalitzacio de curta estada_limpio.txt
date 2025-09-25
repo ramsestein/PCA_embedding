@@ -1,0 +1,128 @@
+Establiment de les pautes per a la gestió de la glucèmia en pacients hospitalitzats en unitats
+d'hospitalització de curta estada, incloent-hi hospital de dia i procediments intervencionistes
+sense anestèsia general.
+Objectiu
+Garantir un control adequat de la glucèmia durant l'estada hospitalària i prevenir episodis
+d'hipoglucèmia, assegurant una transició segura al domicili.
+Responsabilitats
+Infermers/es
+Metges/esses
+Procediment
+
+
+Gestió de la glucèmia en hospitalització de curta estada
+RECOMANCIONS PRÈVIES A LA CITACIÓ:
+Conèixer i documentar el tractament habitual del pacient, especialment tipus i dosis
+d’insulina. Sempre que sigui possible, mantenir la seva pauta habitual.
+Modificació del tractament en cas de dejú:
+Mantenir els hipoglucemiants no insulínics (HGNI) fins a la nit anterior. Retirar la
+metformina 24-48 hores abans si es requereixen procediments amb contrastos
+radiològics, especialment en pacients amb insuficiència renal (CKD-EPI 30-60
+ml/min).El dia previ a la visita, mantenir la mateixa pauta d’insulina, inclosa la
+insulina basal nocturna. En cas d’hipoglucèmies nocturnes o glicèmies inferiors a
+100 mg/dl en dejú, recomanar reduir la dosi de la insulina basal nocturna en un 20%
+aproximadament. Recomanar portar les insulines que utilitzen a casa.
+Monitoratge continu/intermitent de glucosa: es pot mantenir el dispositiu, però les
+decisions sobre insulina han de basar-se en la glicèmia capil·lar. Retirar el dispositiu
+si s’ha de fer una ressonància magnètica.
+Pacients amb bomba d’insulina (Humalog®, Novorapid®, Fiasp®):
+No cal desconnectar-la, es pot mantenir amb la dosi basal programada fins al box del
+procediment (ablació, hemodinàmica). Desconnectar-la durant el procediment i
+reconnectar-la al postoperatori immediat si és necessari. Si es preveu una
+desconnexió superior a 2 hores, passar anticipadament a insulina subcutània. Per a
+dubtes, consultar amb l’endocrinologia de guàrdia (382116, horari 9-21 h).
+DIA DEL PROCEDIMENT:
+Els pacients acudiran en dejú i sense haver-se administrat la insulina del matí (si la tenen
+indicada) ni els HGNI. En tots els pacients amb diabetis es realitzarà una determinació de
+la glicèmia capil·lar (GC) a l'arribada a la unitat, després del procediment i a l'alta. Si la
+durada de la intervenció és superior a 2 hores, es realitzaran també controls de GC cada 1-
+2 hores en funció dels valors inicials.
+Controlar la glicèmia a l'arribada, després del procediment i a l'alta.
+Administrar insulina segons l’estada prevista:
+*Pacients que se sotmetin a un procediment i la seva estada sigui < 6 hores:
+Es recomana administrar només la insulina basal (o lenta) si el pacient l’administra
+habitualment al matí i no ho ha fet al domicili. A més, segons la glicèmia en aquell moment, i
+
+
+Gestió de la glucèmia en hospitalització de curta estada
+cada 4 hores, es faran correccions (vegeu taula) amb insulina ràpida si és necessari. Sempre que
+el pacient no vagi a menjar, s’iniciarà sèrum glucosat al 10% (velocitat 500 ml cada 8 hores).
+Dosi insulina= dosi total insulina
+*Pacients que se sotmetin a un procediment i la seva estada sigui > 12 hores
+Si el pacient s’ha administrat la insulina basal abans d’arribar a l’Hospital, actuar com en
+el cas d’una estada < 12 hores utilitzant només la pauta correctora amb insulina ràpida
+segons la glicèmia capil·lar a l’ingrés i cada 4 hores.
+En pacients que s’hagin administrat insulina basal la nit prèvia o no l’hagin administrat al
+matí, es farà una glicèmia capil·lar a l’arribada:
+Si la GC < 180 mg/dl, s’administrarà sueroteràpia estàndard i no necessitarà insulina
+basal.
+Si la GC > 180, es calcularà la dosi d’insulina necessària segons l’esquema següent:
+
+
+Gestió de la glucèmia en hospitalització de curta estada
+Un cop calculada la dosi d’insulina diària total (DDT):
+Calcular el component basal  (50% de la DDT) i el component prandial d’insulina per
+als àpats (l’altre 50% DDT). Com a insulina basal, utilitzar Abasaglar, i com a insulina
+ràpida (prandial o correctora), Lispro (Humalog®).
+Administrar la insulina basal calculada (si el pacient no l’ha administrat al domicili pel
+matí).
+Si el pacient menja en aquell moment (per exemple, esmorzar), administrar la insulina
+ràpida Lispro calculada per a l’àpat més una correcció si cal segons la glicèmia capil·lar en
+aquell moment.
+Si el pacient no menja, a més de la insulina basal, utilitzar Lispro només com a correcció
+segons la glicèmia del moment (vegeu taula a continuació ).
+- Exemple 1:  Pacient que arriba al matí i pot esmorzar. La DDT és de 42 UI/dia i la glicèmia
+capil·lar és de 190 mg/dl. Administrar 21 unitats d’insulina basal (DDT * 50%) + 7 UI per a
+l’esmorzar (DDT * 50% / 3 = [42 * 50%] = 21, 21 / 3 = 7) + 1 UI de correcció (segons la taula).
+En total, 21 UI Abasaglar + 8 UI d’insulina ràpida. Infermeria decidirà si administrar tota la
+insulina ràpida segons la ingesta prevista del pacient.
+- Exemple 2 : Pacient que arriba al matí i no menjarà. La DDT és de 42 UI/dia i la glicèmia
+capil·lar és de 190 mg/dl. Administrar 21 unitats d’insulina basal (DDT * 50%) + 1 UI de
+correcció (segons la taula) .
+
+
+Gestió de la glucèmia en hospitalització de curta estada
+- Sempre que el pacient no menja, iniciar sèrum glucosat al 10% (velocitat 500 ml cada 8
+hores). 
+Ajust d’insulina prandial i pauta correctora (per a pacients que no mengen) amb insulina ràpida:
+POST-PROCEDIMENT
+Reiniciar la pauta habitual en iniciar ingesta oral.
+Controlar la glucèmia les primeres 24 hores postalta.
+Material
+Dispositius de mesura de glicèmia capil·lar.
+Insulina (basal i ràpida) i equipament per a la seva administració.
+Solució glucosada al 10%.
+Glucocemin® 50% i Glucagen Hypokit® per a hipoglucèmia severa.
+Aspectes a remarcar
+Sempre prioritzar la seguretat del pacient durant la gestió de la glucèmia.
+En cas de dubte, consultar amb el servei d’endocrinologia de guàrdia.
+Problemes relacionats amb el procediment
+
+
+Gestió de la glucèmia en hospitalització de curta estada
+Hipoglucèmia : administrar glucosa EV o glucagó segons el cas. Monitorar cada 15 minuts fins
+a estabilització.
+CORRECCIÓ DAVANT LA PRESÈNCIA D'HIPOGLUCÈMIA
+HIPOGLUCÈMIA :GC < 70 mg/dl + símptomes
+En cas de dejú: si el pacient té via perifèrica, administrar Glucocemin® 50% 30 ml. Si no
+té via perifèrica, injectar Glucagó 1 mg (Glucagen Hypokit®).
+En cas de poder realitzar ingesta: administrar 15 g d'hidrats de carboni d'absorció ràpida,
+com suc o sucre.
+Repetir la GC al cap de 15 minuts i repetir la dosi de glucosa EV o oral si és necessari.
+Hiperglucèmia: ajustar insulina segons pauta correctora establerta.
+Ajust d’insulina prandial i pauta correctora (per a pacients que no mengen) amb insulina ràpida:
+Riscos Laborals
+Actuació front punxada accidental
+Indicadors d'Avaluació
+Percentatge de pacients amb GC dins del rang objectiu durant l'estada.
+Incidència d'hipoglucèmies durant l'hospitalització.
+
+
+Gestió de la glucèmia en hospitalització de curta estada
+Registres
+Portal professional
+Registres
+Al portal IPA
+Historial de glicèmies capil·lars.
+Administració de medicaments (tipus, dosi i hora).
+Diagrama de Flujo

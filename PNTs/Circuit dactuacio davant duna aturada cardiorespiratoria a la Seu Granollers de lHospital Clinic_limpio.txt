@@ -1,0 +1,141 @@
+Procediment d’actuació de l’equip interdisciplinari per a l’atenció del pacient en situació
+d’aturada cardiorespiratòria (ACR) al Servei d’Oncologia Radioteràpica de la Seu Granollers de
+l’Hospital Clínic de Barcelona.
+Objectiu
+Establir l’activació del circuit d’actuació en cas d’ACR d’un pacient al Servei d’Oncologia
+Radioteràpica de la Seu Granollers de l’Hospital Clínic (HCB).
+Definir les funcions individuals dels integrants de l’equip interdisciplinari.
+Definir el circuit per estabilitzar i controlar al pacient fins al moment que arribi l’equip
+d’aturades de l’Hospital General de Granollers (HGG).
+Realitzar el trasllat corresponent del pacient, si escau.
+Assegurar la correcta realització del procediment identificant els diferents passos a seguir
+durant el mateix.
+Responsabilitats
+
+
+Circuit d’actuació davant d’una aturada cardiorespiratòria a la Seu
+Granollers de l’Hospital Clínic
+Administratius/ves
+Coordinadors/es
+Infermers/es
+Metges/esses
+Seguretat
+Tècnics/ques
+Procediment
+El professional que detecti l’ACR serà l’encarregat d’activar el circuit d’aturades. Per realitzar
+l’avís s’haurà de seguir les següents instruccions ( Vegeu Annex 1).
+1.Acudir al despatx mèdic 1 : Telèfon “Busca” de l’Hospital General de Granollers.
+2.Trucar al 555 555.
+3.Indicar el motiu: “ATURADA CARDÍACA ” i el lloc: “EDIFICI RADIOTERÀPIA
+SEU GRANOLLERS ”.
+4.Esperar a escoltar la locució  “REBUT, AJUDA EN CAMÍ”.
+SEQÜÈNCIA D’INTERVENCIONS DAVANT DEL PACIENT EN ACR, UN COP
+ACTIVAT EL “BUSCA”:
+Infermera consulta 4: sempre que hi hagi l’activació del circuit, serà l’encarregada de
+portar el carretó d’aturada amb el desfibril·lador i el tauló allà on estigui el pacient.
+Prepararà el material necessari per als diferents procediments (intubació, extracció
+d’analítiques, preparació i administració de medicació...). En cas que el pacient precisi
+RCP, iniciarà les maniobres fins que arribi l’equip d’aturada de l’HGG (en col·laboració
+amb el metge/metgessa). Si no es precisa RCP, farà monitoratge del pacient i col·locació
+d’accés venós.
+Tècnic en radioteràpia MONTSENY: es col·locarà al passadís intern del servei (entre
+l’ascensor i els despatxos mèdic/física) per tal de rebre a l’equip d’aturades de l’HGG, i
+guiar-los pel servei fins on s’hagi produït l’ACR.
+Tècnic en radioteràpia TAC:  acudirà a Seguretat per tal que el responsable de seguretat
+DESBLOQUEGI totes les portes automàtiques del servei i de l’ASCENSOR, per tal que
+
+
+Circuit d’actuació davant d’una aturada cardiorespiratòria a la Seu
+Granollers de l’Hospital Clínic
+restin totes obertes.
+Tècnic en radioteràpia BELLMUNT:  serà l’encarregat de portar la llitera de trasllat allà
+on s’hagi produït l’ACR.
+Se seguiran les maniobres de RCP si s’escau i l’atenció continuada al pacient fins a l’arribada de
+l’equip d’aturada de l’HGG. Un cop es facin càrrec de la situació, col·laborarem amb ells en
+l’atenció al pacient.
+Un cop el pacient s’estabilitza, es traslladarà a l’HGG i la coordinació del trasllat serà a càrrec
+de l’equip d’aturades de l’HGG. En cas de no estabilitzar el pacient, es contactarà amb el SEM
+per al trasllat a l’HGG. 
+Al finalitzar l’atenció al pacient, l’equip d’infermeria de radioteràpia de l’HCB-Seu Granollers,
+reposarà el carro d’aturades segons procediment establert ( Vegeu Annexes). 
+Material
+Carretó d’aturades
+Tauló de RCP
+Tamboret
+Aspirador manual
+Connector d’O2 a paret / ampolla portàtil O2.
+Desfibril·lador extern semi automàtic (DESA)
+Llitera per trasllat
+Telèfon “BUSCA” aturada
+Targetes d’accés per al personal d’aturades de l’HGG
+Aspectes a remarcar
+El procediment a l’atenció d’una ACR al Servei d’Oncologia Radioteràpica de la Seu
+Granollers de l’HCB, es farà de forma conjunta amb l’Hospital General de Granollers,
+essent els professionals de la Seu Granollers, els responsables de l’activació del circuit
+d’aturades de l’HGG.
+Mantindrem una senyalització dels espais interiors per tal de facilitar l’accés al personal de
+l’HGG.
+Disposarem sempre d’un aspirador manual muntat i d’una bombona d’oxigen preparada.
+
+
+Circuit d’actuació davant d’una aturada cardiorespiratòria a la Seu
+Granollers de l’Hospital Clínic
+Mantindrem el busca d’aturades sempre al mateix espai (despatx mèdic 1) per facilitar la
+comunicació en cas de necessitat.
+Risc de disminució del cabal cardíac
+Codi NANDA
+00240
+Codi Nic
+6680
+Intervenció
+Monitoratge dels signes vitals
+Disminució del cabal cardíac
+Codi NANDA
+00029
+Codi Nic
+4258
+Intervenció
+Signes vitals. Estat Cardiopulmonar
+Patró respiratori ineficaç
+Codi NANDA
+00032
+Codi Nic
+3140
+Intervenció
+
+
+Circuit d’actuació davant d’una aturada cardiorespiratòria a la Seu
+Granollers de l’Hospital Clínic
+Maneig de les vies aèries
+Patró respiratori ineficaç
+Codi NANDA
+00032
+Codi Nic
+3350
+Intervenció
+Monitorització respiratòria
+Patró respiratori ineficaç
+Codi NANDA
+00032
+Codi Nic
+3320
+Intervenció
+Oxigenoteràpia
+Riscos Laborals
+Estres derivat d’un entorn amb una elevada pressió emocional
+Contacte amb agents biològics
+Risc de transmissió d’infeccions via aèria
+Mesures de prevenció postures forçades
+Actuació front punxada accidental
+Protecció Radiològica
+Indicadors d'Avaluació
+
+
+Circuit d’actuació davant d’una aturada cardiorespiratòria a la Seu
+Granollers de l’Hospital Clínic
+Temps d’inici de les maniobres de RCP en cas d’ACR.
+Temps d’arribada de l’equip d’aturada de l’HGG des de que es realitza la trucada al
+busca. 
+Registres
+Portal professional
+Registres clínics

@@ -1,0 +1,359 @@
+El reservori venós subcutani (RVS) és un sistema d’accés vascular totalment implantat sota de
+la pell. (Vegeu Imatge 1)
+Aquest reservori està indicat en:
+Pacients amb dificultat d’accés venós perifèric que necessiten una via permeable amb un
+tractament endovenós d’una durada superior a 6 mesos (Vegeu algoritme de decisió) .
+Pacients amb tractaments prolongats per a quimioteràpia,
+trasplantaments, immunodeficiències, etc.
+Pacients amb perfusions contínues o intermitents a domicili, d’antibiòtics, morfina i altres.
+(Vegeu Annex 1: Taula 1)
+El catèter central tunelitzat amb reservori subcutani es col·loca al Servei d‘Angio-radiologia
+amb l’ajuda d’utillatge radiològic i es deixa implantat a la vena cava superior (VCS). Es col·loca
+de forma ambulatòria i amb anestèsia local. El lloc més freqüent d’implantació és la fosa
+infraclavicular dreta.
+
+
+Catèter tunelitzat amb reservori venós subcutani (RVS)
+Encara que el podem trobar implantat al braç, zona inguinal i zona abdominal en cert tipus de
+tractament. També poden ser d'un o dos ports.
+Objectiu
+Proporcionar accés al sistema vascular central per l’administració de
+medicaments, fluïdoteràpia, nutrició parenteral, hemoderivats i/o obtenir mostres de sang,
+així com administrar infusions a alt flux en els ports que ho permeten, per realitzar proves
+radiològiques.
+Assegurar la correcta realització del procediment identificant els diferents passos a seguir
+durant el mateix. 
+Garantir la seguretat del pacient durant tot el procediment. 
+Prevenir les complicacions associades a catèters venosos centrals.
+NOC 1807: control de les infeccions
+Responsabilitats
+Infermers/es
+Metges/esses
+Procediment
+INSERCIÓ
+El catèter central tunelitzat amb reservori subcutani es col·loca al Servei d'Angioradiologia de
+forma ambulatòria.
+En el moment que es conegui que se li col·locarà un RVS al pacient, caldrà lliurar-li l'imprès
+d'informació i el consentiment informat perquè el signi.  (Vegeu Annex 2)
+
+
+Catèter tunelitzat amb reservori venós subcutani (RVS)
+En cas de tractament amb anticoagulant contactar amb servei d'hemostàsia per a suspensió o
+canvi de medicació.
+UTILITZACIÓ I MANTENIMENT
+1. Consideracions a tenir en compte:
+Per accedir al reservori el procediment ha de ser sempre estèril per tal d'evitar infeccions i
+complicacions.
+Després d'utilitzar el RVS i abans de fer el segellat amb heparina, farem una bona irrigació
+del catèter amb una xeringa precarregada de 10 cc de sèrum fisiològic (SF)
+amb tècnica Push-Stop-Push (P-S-P) per evitar que quedin restes de productes administrats
+adherits a la paret del catèter i el puguin obstruir. Finalitzarem realitzant pressió positiva (
+Vegeu video com realitzar la tècnica de PSP i pressió positiva). Enllaç.
+https://intranet.clinic.cat/?q=ca/programa-terapia-intravenosa/pagina-basica/cura-i-
+manteniment-de-cateters
+No manipularem el RVS amb cap objecte esmolat ni cap agulla que no sigui específica per
+aquest tipus de catèter (agulla Huber), donat que el bisell d'aquestes és especial i impedeix
+que la silicona es trenqui i provoqui un èmbol. Utilitzarem una agulla Huber de la llargària
+suficient per arribar amb seguretat al port. Si és superficial agafarem la llargària petita (19
+mm) i si el port es troba més profund, escollirem l'agulla més llarga (25 mm).
+Emprarem xeringues de capacitat igual o superior a 10 cc donat que, com més petit és
+l'èmbol de la xeringa, major pressió exerceix sobre el catèter augmentant la
+possibilitat que el catèter es desenganxi del reservori o es trenqui.
+En cas que el pacient hagi de dur canalitzat el reservori durant un temps prolongat i de
+forma ambulatòria, la cura i canvi de l'apòsit es realitzarà cada 7 dies, aprofitant el
+moment de realitzar el canvi d'agulla, o sempre que l'apòsit estigui tacat, humit,
+desenganxat o si és necessari examinar la zona d'inserció, intentant punxar cada cop en un
+lloc diferent de la membrana i es col·locarà un bioconnector, tret que dugui perfusions
+contínues. Es registrarà qualsevol canvi observat al mòdul de Registres especials (en cas
+de disposar de l'IPA Pacient) i en cas de no disposar-hi al Portal Professional.
+Aquells ports que presenten tres petites protrusions a la seva membrana, poden utilitzar-se
+per administrar infusions a alt flux (com contrast intravenós IV). Actualment, totes les
+implantacions de RVS a l'Hospital Clínic permeten la infusió d'alt flux. En cas
+de RVS col·locat a altres centres, cal assegurar que es poden administrar infusions a alt
+
+
+Catèter tunelitzat amb reservori venós subcutani (RVS)
+flux.
+Mentre el RVS no s'està utilitzant: un cop finalitzat el tractament
+Si RVS tipus punta oberta: la bibliografia recomana heparinitzar-lo cada 12-15
+setmanes.
+Si RVS tipus punta tancada (Groshong®) no cal heparinitzar-lo, només salinitzar-lo
+cada 12- 15 setmanes amb sèrum fisiològic, ja que aquest sistema de vàlvula permet
+la infusió i l'aspiració de sang mentre es redueix el risc d'embolisme aeri, el reflux de
+sang i la formació de trombus.
+*En cas que no disposem d'informació en relació amb el tipus de RVS que es tracta,
+procedir com si es tractés un RVS de punta oberta.
+Quan el RVS estigui canalitzat i operatiu, hem de valorar el punt d'inserció sempre que:
+El pacient refereixi dolor a la zona d'inserció.
+La zona del voltant estigui edematosa, eritematosa.
+Si presenta l'apòsit humit, tacat o desenganxat.
+Sempre que utilitzem el RVS, i abans de retirar l'agulla, hem d'heparinitzar o salinitzar
+segons s'indica en aquest procediment, realitzant tècnica Push Stop Push (P-S-P) i pressió
+positiva.
+La utilització d'aquest tipus d'accés venós no està exempt de possibles efectes adversos
+com:
+Rebuig de l'implant
+Infecció
+Oclusió
+Desconnexió o trencament del catèter
+Trencament de la membrana
+Trombosi de la vena canalitzada
+Escardat, migració o extravasació/infiltració
+El reservori no es pot fer servir quan hi hagi infecció o sospita d'infecció, bacterièmia o
+septicèmia relacionada amb el RVS i/o la pell que el cobreix que no es troba en òptimes
+condicions.
+Tampoc es farà servir quan estigui segellat per prescripció mèdica amb antibiòtic. (Vegeu 
+Annex 3 o  PNT de segellat de PAC ) Sí que es pot fer servir encara que hi hagi hematoma
+si aquest està derivat de la implantació i no hi ha signes de sagnat actiu o encara presenta
+els punts de sutura derivats de la implantació. En cas que s'hagi de retirar el reservori (per
+què ja no es fa servir, està infectat, presenta trombosi, etc.) el metge o infermera
+responsable contactarà amb el Servei d'Angioradiologia. Es recomana lliurar al pacient
+
+
+Catèter tunelitzat amb reservori venós subcutani (RVS)
+l'imprès" informació al pacient per a la retirada d'un catèter amb reservori subcutani".
+(Vegeu Annex 4) o el PNT Retirada de Catèter amb Reservori PORT-A-CATH (PAC)  
+2. Canalització del reservori per l'extracció de mostres o administració de medicació
+Material necessari  (vegeu apartat material )
+Seqüència d'accions:
+1. Realitzarem identificació inequívoca del pacient ( Vegeu PNT Identificació Inequívoca ) i
+l'informarem de la tècnica a realitzar. Col·locarem al pacient mig incorporat i fent-lo mirar
+cap al costat contrari on té implantat el reservori. (Vegeu  Imatge 2 ).
+2. Realitzarem higiene de mans i ens col·locarem guants no estèrils. ( Vegeu PNT higiene
+de mans i PNT ús de guants ).
+3. Localitzarem el reservori palpant la zona per comprovar que estigui en posició correcta.
+Valorarem que no presenti signes d'infecció i que la pell estigui en bon estat. (Vegeu
+Imatge 3).
+4. Prepararem un camp estèril col·locant una talla damunt del pacient o en una tauleta
+auxiliar a prop del RVS. Deixarem tot el material estèril necessari a sobre de la talla
+mantenint l'esterilitat. (Vegeu Imatge 4), incloses les xeringues estèrils precarregades de
+10 cc de SF.
+5. Farem higiene de les mans. (Vegeu PNT Higiene de mans).
+6. Desinfectarem la zona del reservori amb gases impregnades amb el desinfectant escollit,
+fent un moviment d'arrossegament partint des del centre del RVS i fins a abastar una zona
+d'uns 15 cm. Farem aquesta operació tres cops amb gases diferents. (Vegeu Imatge 5) .
+7. Ens col·locarem els guants estèrils i agafarem la xeringa precarregada de SF i purgarem
+l'agulla, Huber i "clamparem" la pinça. (Vegeu  Imatge 6 ).
+8. Subjectarem i fixarem la base del RVS amb els dits índex i mig de la mà no dominant.
+Amb la mà dominant agafarem l'agulla Huber ® i abans de punxar li direm al pacient que
+agafi aire lentament (aquesta maniobra ajudarà a fer que el RVS s'apropi més a la
+superfície i quedarà més fixat), quan ho faci, punxarem perpendicularment i en el centre de
+la membrana del reservori, pressionant suaument fins que faci contacte amb la base
+metàl·lica del RVS. (Vegeu  Imatge 7 ).
+9. Retirarem la pinça que subjecta l'agulla. (Vegeu Imatge 8).
+10. "Desclamparem" l'allargadora i amb una xeringa de 10 cc aspirarem el contingut del
+catèter.
+11. En cas que només ens assegurem que reflueix correctament, rebutjarem 5 cc.
+
+
+Catèter tunelitzat amb reservori venós subcutani (RVS)
+En cas d'extracció analítica, rebutjarem 10 cc i després extraurem la quantitat de sang
+necessària per a la mostra.
+En cas d'extracció d'hemocultius, recordarem NO rebutjar, extraurem la quantitat
+necessària i introduirem tot el contingut sanguini en el flascó.
+Injectarem 10 cc de SF amb tècnica P-S-P. En cas que no hàgim de fer cap extracció ni
+connexió, passarem directament al punt núm. 14 de l'apartat "heparinització del reservori"
+d'aquest procediment. (Vegeu Imatge 9).
+12. En cas que hi hagi molt espai entre l'agulla i la pell del pacient (pacients caquèctics),
+per fixar l'agulla, agafarem una gasa estèril seca, la desplegarem i enrotllarem al voltant de
+l'agulla perquè faci coixí entre ella i la pell.
+13. Per augmentar la seguretat i minimitzar el risc de sortida accidental de l'agulla
+(Vegeu Imatge 10).
+14. Fixarem l'agulla amb l'apòsit adhesiu transparent, deixant fora l'allargadora que
+connecta amb l'agulla. En cas d'al·lèrgia utilitzarem apòsit de teixit sense teixir. (Vegeu
+Imatges 11 i 12 ).
+Si hem de passar medicació, ja podrem connectar l'equip d'infusió.
+En cas que no precisem administrar medicació, però hàgim de mantenir l'accés venós canalitzat,
+injectarem 10 cc de SF realitzant P-S-P i, seguidament un vial de Fibrilin® amb tècnica P-S-P i
+pressió positiva final. Col·locarem un bioconnector i "desclamparem".
+Per dur a terme la tècnica de pressió positiva, injectarem la solució d'heparina (Fibrilin®) i just
+quan quedi 0,5 cc per acabar, "clamparem" el circuit sense deixar de pressionar l'èmbol (per
+evitar que es formi fibrina a la punta del catèter).
+Enregistrarem l'activitat realitzada al Registre Especial (RE) Reservori Subcutani si disposem
+d'IPA Pacient o al Portal Professional si no disposem del mòdul de RE.
+3. Heparinització del reservori
+Material necessari  (vegeu apartat material )
+En cas que haguéssim de realitzar una heparinització rutinària del RVS seguirem tot el
+procediment descrit des del punt núm. 1.
+En cas que haguéssim de segellar el RVS després de la seva utilització, procedirem a partir
+del punt núm. 13 d'aquest apartat.
+
+
+Catèter tunelitzat amb reservori venós subcutani (RVS)
+4. Passos a seguir per segellar el reservori:
+Consultarem dels punts 1 a l'11 de l'apartat: "canalització del reservori per extracció de mostres,
+o administració de medicació" i continuar amb els següents:
+12. Amb una xeringa de 10 cc aspirarem el contingut del catèter i rebutjarem 5 cc.
+13. A continuació injectarem els 10 cc de SF d'una xeringa precarregada estèril amb
+tècnica P-S-P.
+14. Seguidament, injectarem la solució d'heparina (Fibrilin®) amb tècnica de pressió
+positiva.
+15. Per retirar l'agulla, subjectarem i fixarem la base del RVS i de l'agulla Huber amb els
+dits índex i mig de la mà no dominant, i amb l'altra mà estirarem verticalment l'agulla tot
+recolzant el canell sobre el pit del pacient al mateix temps que inspira. Ens assegurarem
+que el sistema de seguretat de l'agulla ha quedat ben activat.
+16. Amb una gasa estèril farem hemostàsia en el lloc de la punció i col·locarem un apòsit.
+17. Enregistrarem l'activitat realitzada RE Reservori Subcutani o al Portal Professional si
+no disposem del mòdul de RE de l'IPA.
+RETIRADA
+Se sol·licitarà analítica amb control de coagulació prèvia al procediment.
+La retirada del RVS es realitza de forma programada en el Servei de Radiologia Vascular
+Intervencionista (Angio-radiologia).
+Informarem el pacient i lliurarem el full "informació al pacient per la retirada d'un
+reservori subcutani".
+Material
+CANALITZACIÓ DEL RESERVORI PER EXTRACCIÓ DE MOSTRES, O
+ADMINISTRACIÓ DE MEDICACIÓ
+ Agulla Huber amb bisell modificat per canalitzar el port (19 G 19 mm). Codi SAP:
+182037
+2 xeringues estèrils de 10 cc precarregades de SF. Codi SAP: 198937
+1 vial amb dilució d'heparina preparada (Fibrilin ®)
+Un Vacutainer® estèril. Codi SAP: 181758 per realitzar l'extracció d'hemocultius
+
+
+Catèter tunelitzat amb reservori venós subcutani (RVS)
+1 talla estèril. Codi SAP: 180423
+1 paquet de gases estèrils. Codi SAP: 180012
+1 apòsit oclusiu, preferiblement transparent. Codi SAP: 180032)
+1 paquet de guants estèrils 
+Codi SAP: S= 189457
+Codi SAP: M= 189458
+Codi SAP: L= 189459
+Mascaretes. Codi SAP: 193925
+1 vial d'antisèptic: Clorhexidina alcohòlica al 2%, Povidona iodada o Alcohol Etílic 70°
+ 
+HEPARINITZACIÓ DEL RESERVORI
+Agulla Huber amb bisell modificat per punxar RVS núm. 19. Codi SAP: 182037
+Xeringa estèril de 10 cc precarregada de SF. Codi SAP: 198937
+1 agulla IV. Codi SAP: 182002
+3 Talla estèril. Codi SAP: 180423
+4 paquets de gases estèrils. Codi SAP: 180012
+1 paquet de guants estèrils
+Codi SAP: S= 189457
+Codi SAP: M= 189458
+Codi SAP: L= 189459
+Mascaretes, Cod SAP: 193925
+1 vial amb dilució d'heparina preparada (Fibrilin®)
+1 apòsit simple
+1 vial d'antisèptic: Clorhexidina alcohòlica al 2%, Povidona iodada i/o Alcohol Etílic 70°
+Aspectes a remarcar
+Per accedir al reservori el procediment ha de ser sempre estèril per tal d'evitar infeccions i
+complicacions.
+No manipularem el RVS amb cap objecte esmolat ni cap agulla que no sigui específica per
+aquest tipus de catèter (agulla Huber), donat que el bisell d'aquestes és especial i impedeix
+que la silicona es trenqui i provoqui un èmbol.
+
+
+Catèter tunelitzat amb reservori venós subcutani (RVS)
+Utilitzarem xeringues de capacitat igual o superior a 10 cc donat que, com més petit és
+l'èmbol de la xeringa, major pressió exerceix sobre el catèter augmentant la possibilitat
+que el catèter es desenganxi del reservori o es trenqui.
+En cas que el pacient hagi de dur canalitzat el reservori durant un temps prolongat i de
+forma ambulatòria, la cura i canvi de l'apòsit es realitzarà cada 7 dies, aprofitant el
+moment de realitzar el canvi d'agulla, o sempre que l'apòsit estigui tacat, humit,
+desenganxat o si és necessari examinar la zona d'inserció.
+El reservori no es pot fer servir quan hi hagi infecció o sospita d'infecció, bacterièmia o
+septicèmia relacionada amb el RVS i/o la pell que el cobreix que no es troba en òptimes
+condicions. Sí que es pot utilitzar encara que hi hagi hematoma si aquest està derivat de la
+implantació i no hi ha signes de sagnat actiu o encara presenta els punts de sutura derivats
+de la implantació.
+Sempre que fem ús del RVS, i abans de retirar l'agulla, hem d'heparinitzar o salinitzar
+segons s'indica en aquest procediment, duent a terme tècnica Push Stop Push (P-S-P) i
+pressió positiva.
+Nota: davant de qualsevol dubte de canalització o la necessitat de resoldre incidències,
+podeu contactar amb l'EIAV o ETI de l'Hospital.
+Risc d’infecció relacionat amb el catèter invasiu
+Codi NANDA
+00004
+Codi Nic
+6550
+Intervenció
+Protecció contra les infeccions
+Risc d’infecció relacionat amb el catèter invasiu
+Codi NANDA
+00004
+
+
+Catèter tunelitzat amb reservori venós subcutani (RVS)
+Codi Nic
+3440
+Intervenció
+Cura dels punts d’incisió
+Risc d’infecció relacionat amb el catèter invasiu
+Codi NANDA
+00004
+Codi Nic
+3590
+Intervenció
+Vigilància de la pell
+Problemes relacionats amb el procediment
+Rebuig de l'implant
+Activitat: Quan un pacient presenta rebuig del RVS o dehiscència del teixit s'ha
+d'adreçar al Servei de Radiologia Vascular Intervencionista (Angio-radiologia).
+Dificultat per administrar fàrmacs o extreure mostra de sang a través del port
+Activitat
+Canviar la posició del pacient (del cap i braç) per tal de moure la punta del
+catèter i que no faci contacte amb la paret del vas.
+Comprovar que l'agulla estigui col·locada correctament i faci contacte amb la
+base del RVS.
+Canviar l'agulla si sospitem que pot estar obturada
+Oclusió 
+Activitat
+Si l'obstrucció del RVS és deguda a la presència d'un coàgul de sang,
+intentarem recuperar-lo amb fibrinolític (Urokinasa ®).
+El sol·licitarem a l'Àrea del Medicament des del SAP. (Codi 201152).
+A farmàcia, l'Urokinasa es conserva en xeringues precarregades congelades, i
+té un temps de caducitat. Una vegada es trobi fora del congelador esperarem 20
+
+
+Catèter tunelitzat amb reservori venós subcutani (RVS)
+minuts fins que estigui a temperatura ambient per poder administrar-la.
+Un cop descongelada la xeringa precarregada d'Urokinasa, s'ha d'utilitzar abans
+de transcorregudes 48 h.
+Actuació (Vegeu vídeo: enllaç: https://intranet.clinic.cat/?q=ca/programa-
+terapia-intravenosa/pagina-basica/desobstruccio-cateter-amb-urokinasa )
+Si és portador de bioconnectors, desinfectarem la membrana amb una gasa
+impregnada en alcohol etílic 70°, fregant durant 15-30 segons mínim.
+Injectarem la solució preparada amb el fibrinolític amb tècnica de pressió
+negativa i clamparem el sistema. Mantindrem el catèter clampat amb
+la Urokinasa durant 30 minuts com a mínim. Transcorregut aquest temps,
+comprovarem si reflueix sang. Una vegada s'obté retorn venós, aspirarem i
+rebutjarem 5 ml abans d'infondre alguna medicació.
+Si encara no és possible aspirar sang, injectarem una nova dosi de fibrinolític i
+esperarem uns 30-60 minuts addicionals abans d'intentar aspirar sang de nou.
+Una vegada s'obté retorn venós, aspirarem i rebutjarem 5 ml abans d'infondre
+alguna medicació.
+En cas de fracàs, aquesta maniobra pot repetir-se fins a 3 vegades en un període
+de 4 hores sempre que el pacient tingui un recompte de plaquetes superiors a
+20.000 mm³. En cas de recompte inferior al definit, només podrà intentar-se 2
+vegades com a màxim en un marge de 4 hores.
+Si no aconseguim recuperar la permeabilitat, en cap cas utilitzarem el RVS i
+ens posarem en contacte amb el Servei de Radiologia Vascular Intervencionista
+perquè el revisin, donat que les causes més freqüents d'obstrucció són:
+Obstrucció per trombosi de la vena.
+Esquerda, migració o extravasació del catèter
+Contacte amb la paret del vas
+Beina de fibrina a la punta del catèter
+Desconnexió del catèter amb el port o trencament del catèter
+Nota: davant de qualsevol dubte de canalització o la necessitat de resoldre
+incidències, podeu contactar amb l'EIAV (Equip d'infusió i accés vascular)
+o ETI (Equip de Teràpia Intravenosa) de l'Hospital.
+Riscos Laborals
+Contacte amb agents biològics
+
+
+Catèter tunelitzat amb reservori venós subcutani (RVS)
+Indicadors d'Avaluació
+Percentatge d’esdeveniments adversos relacionats amb la manipulació del reservori venós
+subcutani durant l’hospitalització.
+Percentatge de pacients ingressats i portadors de reservori venós subcutani amb bon
+funcionament, durant la seva hospitalització.
+Número de nous episodis de bacterièmia relacionada amb catèter + bacterièmia primària.
+Freqüència de les BP-CV (BP+BRC) per 1000 dies en pacients amb PAC. 
+Percentatge de pacients amb presència d’esdeveniments adversos després de la inserció del
+PAC (infeccions, sagnat/hematoma).
+Registres
+Pla de cures
+Portal professional
+Registres especials
+Diagrama de Flujo

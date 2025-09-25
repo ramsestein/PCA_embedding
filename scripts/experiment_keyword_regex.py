@@ -116,7 +116,7 @@ class KeywordRegexExperiment:
     def load_sapbert_model(self):
         """Carga el modelo SAPBERT-UMLS."""
         print("Cargando modelo SAPBERT-UMLS...")
-        model_path = "sapbert-umls/model-0_0029"
+        model_path = "sapbert-umls-100/sapbert-umls/model-0_0003"
         if not os.path.exists(model_path):
             raise ValueError(f"Modelo SAPBERT no encontrado en: {model_path}")
         

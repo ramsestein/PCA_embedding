@@ -1,0 +1,104 @@
+Procés de treball per al diagnòstic i seguiment per la imatge dels pacients amb tumors de cap i
+coll (TCC).
+Objectiu
+Establir les proves de diagnòstic per la imatge requerides per al diagnòstic i vigilància de la
+malaltia local i a distància en pacients amb TCC així com determinar el cronograma de
+seguiment .
+Responsabilitats
+Metges/esses
+
+
+Diagnòstic i seguiment a través de la imatge dels tumors de cap i coll
+Tècnics/ques
+Procediment
+REQUERIMENTS PER AL DIAGNÒSTIC PER LA IMATGE DELS TCC
+Davant el diagnòstic de càncer de l’àrea de cap i coll de qualsevol pacient admès a l’HCB,
+els/les professionals que l’han atès han de sol·licitar les proves de diagnòstic per la imatge
+que es detallen a continuació per a la caracterització de la malaltia local i a distància.
+L’informe radiològic de les mateixes és necessari per a la presentació de qualsevol cas al
+Comitè de Tumors de Cap i Coll (segons PNT Comitè de TCC).
+L’anamnesi inicial, tenint en compte la presència o absència d’adenopaties palpables (N+
+o N-), així com la localització i la presumpció clínica de l’estadificació del tumor primari
+(segons criteris de la classificació TNM), determinen la indicació de les proves requerides,
+tal i com queda reflectit a la següent taula:
+ESPECIFICACIONS:
+Ús preferent a les situacions clíniques marcades sempre que no hi hagi un TC diagnòstic previ.
+En cas de contraindicació o previsió de que el/la pacient no tolerarà immobilitat 30-40 minuts
+(claustrofòbia, pacients edat avançada...) es faria alternativament una TC.
+*: A tenir en compte:
+Si els pacients tenen una TC/RM coll recent, substituir CIC4 per CIC3
+Si els pacients tenen una TC de tòrax recent, substituir CIC4 o CiC3 per CIC2
+Si els pacients tenen una TC/RM coll i de tòrax recent, substituir CIC4 o CiC3 per CIC1
+IMPORTANT: en els protocols de PET-TC CIC enfocats al diagnòstic TC de coll (CIC2 ó
+CIC4) o bé al diagnòstic de TC de tòrax (CIC3) s’ha de garantir una resolució diagnòstica
+equivalent al protocol corresponent establert al servei de radiologia
+(Kilovoltatge/miliamperatge, gruix de tall, filtres de parts toves i os, matriu de resolució, fase
+
+
+Diagnòstic i seguiment a través de la imatge dels tumors de cap i coll
+d’injecció i concentració de contrast iodat). En cas que el protocol de la TC del PET no sigui
+ajustable, la PET-TC no podrà substituir al TC ó RM diagnòstiques.
++: si la lesió clínicament és propera a os, complementar amb TC de coll/nas-sins amb
+reconstrucció filtre d’os 1mm.
+^: si la lesió clínicament és T1 o T2 de glotis, realitzar radiografia de tòrax per
+l'estadificació a distància en comptes de TC.
+PROTOCOL PER AL SEGUIMENT PER LA IMATGE DELS TCC
+Per al seguiment per la imatge, s’ha de tenir el compte el grau de risc, alt o baix, de la
+malaltia. Considerem Tumors de Baix Risc (TBR) els que s’han classificat com T1 o T2
+amb N0 que no siguin de cavum, i Tumors d’Alt Risc (TAR) els tumors de cavum, els
+d’altres localitzacions tipificats com T3, T4 o N?1, així com el Càncer d’Origen
+Desconegut (COD). Els tumors nasosinusals amb histologies d’alt risc o els carcinomes
+adenoides quístics de glàndules salivals majors (veure NOTA més abaix), també es
+consideraran TAR.
+S’estableix un període de vigilància per imatge des del diagnòstic, de 2 anys per als TBR i
+de 5 anys per als TAR. Valorar necessitat d´imatge de seguiment en casos de tumors molt
+incipients de forma individualitzada, com per exemple el cas de T1a terç mig CV.
+Es tenen en compte els criteris de seguiment NI-RADS, establerts per l’American College
+of Radiology. Segons les troballes per imatge es segueixen les recomanacions de maneig
+segons les categories establertes per NI-RADS, però poden ser discutides i modificades
+per decisió de l’equip multidisciplinari (Vegeu document gràfic de diagnòstic i seguiment
+radiològic):
+A continuació es detallen les proves requerides i el cronograma:
+ESPECIFICACIONS:
+La indicació de TC o RM és d’acord amb la prova indicada per al diagnòstic de la malaltia.
+*: El protocol de PET-TC escollit és l’optimitzat per la valoració de coll, CIC (1-4), excepte en
+casos seleccionats segons el criteri que es decideixi al comitè de TCC. Addicionalment,
+
+
+Diagnòstic i seguiment a través de la imatge dels tumors de cap i coll
+s’afegirà RM per al seguiment de tumors de cavum o cavitat oral, penjall difícil d'interpretar o
+altres dubtes.
+**:En el COD, el seguiment amb TC coll i tòrax a partir de l'any.
+NOTA: els tumors naso-sinusals i el de glàndules salivals majors amb histologies que
+representen un alt risc de recurrència i metàstasis a distància, que fins i tot es pot perllongar en
+el temps (estesioneuroblastoma, melanoma naso-sinusal, SNUC, sarcoma, neuro-endocrí,
+carcinoma adenoide quístic), es consideraran TAR, independentment de l’estadificació inicial.
+El seguiment es pot estendre fins a 10 anys o més enllà. La prova/es requerides per al seguiment
+a partir del segon any es pot consensuar pel grup multidisciplinari individualitzant cada cas,
+tenint en compte que el risc depèn del tipus histològic.
+Problemes relacionats amb el procediment
+En cas de negativa del/la pacient a la realització de les proves indicades o contraindicació de les
+mateixes, es plantegen estratègies alternatives en cada cas d’acord amb consens
+multidisciplinari que ha d’incloure a especialistes de diagnòstic per la imatge, metge/ssa
+responsable del pacient i altres professionals referents.
+Indicadors d'Avaluació
+Nombre de proves realitzades segons tipus pel diagnòstic de tumors de cap i coll
+Nombre de TC coll
+RM coll
+TC toràcic
+PET/TC (les modalitats específiques per tumors de cap i coll es denominen CIC (Cap I
+coll) i poden ser CIC1, CIC2, CIC3, CIC4
+Ecografia de coll PAFF
+Temps transcorregut entre la sol·licitud de proves diagnòstiques i l'existència de l'informe de
+resultats
+Nombre de TC coll
+
+
+Diagnòstic i seguiment a través de la imatge dels tumors de cap i coll
+RM coll
+TC toràcic
+PET/TC (les modalitats específiques per tumors de cap i coll es denominen CIC (Cap I
+coll) i poden ser CIC1, CIC2, CIC3, CIC4
+Ecografia de coll PAFF
+Registres
+SAP: Informe radiològic

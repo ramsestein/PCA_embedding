@@ -1,0 +1,201 @@
+El drenatge és un dispositiu utilitzat per evacuar fora de l’organisme líquids orgànics (ja sigui
+sang, pus, secrecions digestives, exsudats, etc.) generats pel propi cos després d’una cirurgia,
+procés infecciós etc. La seva finalitat és eliminar o evacuar col·leccions seroses, purulentes,
+hemàtiques o amb presència de gas que poden conduir al retard en la cicatrització, compressió a
+teixits o òrgans adjacents, així com l’aparició d’infeccions locals o generalitzades.
+Objectiu
+Assegurar el correcte funcionament dels drenatges.
+Detectar i/o tractar els problemes relacionats amb ser portador de drenatges i la seva
+posterior retirada.
+Dotar al pacient dels coneixements necessaris per disminuir l’ansietat envers ser portador
+de drenatges abdominals.
+Preparar al pacient física i psíquicament per a tal que afronti  el procediment  en les millors
+condicions  possibles.
+
+
+
+Garantir la seguretat del  pacient durant tot el procediment .
+Responsabilitats
+Infermers/es
+Metges/esses
+TCAIS
+Procediment
+ I. INSERCIÓ
+SEQÜÈNCIA D’INTERVENCIONS:
+Aquesta tècnica es realitza a quiròfan o Centre de Diagnòstic per la Imatge (CDI).
+II. CURA I MANTENIMENT
+SEQÜÈNCIA D’INTERVENCIONS:
+Identificarem de forma correcta al pacient.
+Informarem al pacient del procediment a realitzar. Li demanarem la seva col·laboració
+sempre i que sigui possible.
+Comprovarem la ubicació dels drenatges a l’informe quirúrgic o curs clínic.
+Preguntarem sobre les possibles al·lèrgies al producte per a la neteja i cura (al·lèrgia la
+iode, esparadrap, apòsits...).
+Valorarem i registrarem la presència i intensitat del dolor.
+Valorarem i registrarem l’administració d’analgèsia abans d’iniciar el procediment, segons
+prescripció.
+En tot moment garantirem la intimitat del pacient.
+Col·locarem al pacient en la postura adequada per al procediment.
+Ens rentarem les mans.
+Ens col·locarem els guants.
+Realitzarem la neteja i cura cada 24/48 hores i sempre que l’apòsit ho requereixi.
+
+
+
+En drenatges passiu per capil·laritat: drenatges simples sense aspiració que drenen per
+gravetat o capil·laritat degut a la fluctuació de la pressió intra abdominal (tipus penrose):
+Cobrirem la ferida amb el nombre de gasses o camps suficient per absorbir l’exsudat
+i les fixarem amb un apòsit adhesiu adequat a la mida de la ferida .
+Quan l’exsudat sigui molt abundant utilitzarem bosse s recol·lectores.
+En drenatge passiu per gravetat (tipus kher, silastic o blake a decliu):
+Recobrirem el punt d’inserció amb apòsit transparent o adhesiu amb gasa.
+Recanviarem la bossa del drenatge c/24 i sempre que sigui necessari.
+Drenatge actius tancats amb aspiració (teràpia de pressió negativa): es connecten a un
+sistema hermètic de manera que queda aïllat del medi ambient.
+Si el recipient del drenatge està ple procedirem a recanviar-lo.
+Drenatges actius oberts:Connecten una zona de l’organisme amb l’exterior. Porten un
+dispositiu aspiratiu. (Jackson Pratt, Redon)
+Retirarem l’apòsit, en cas de necessitat podem humitejar-lo per facilitar la seva
+retirada.
+Observarem l’aspecte de la zona d’inserció del drenatge
+Netejarem la zona amb sèrum fisiològic i l’eixugarem amb unes gases estèrils.
+Desinfectarem la zona d’inserció amb clorhexidina aquosa.
+Rebutjarem el material utilitzat.
+Instal·larem al pacient en una posició còmoda, amb accés al timbre i als objectes
+personals.
+Si evidenciem signes d’infecció, hemorràgia o qualsevol altre anormalitat avisarem al
+metge de referència.
+Valorarem i registrarem la quantitat i característiques del dèbit del drenatge, i del
+peridrenatge, a entrades/sortides del IPA Pacient.
+Valorarem i registrarem les característiques de la pell peridrenatge al curs clínic/Portal
+Professional del IPA Pacient.
+III. RETIRADA
+SEQÜÈNCIA D’INTERVENCIONS:
+Verificarem l’ordre mèdica
+Informarem al pacient del procediment a realitzar.
+Utilitzarem una tècnica asèptica.
+Retirarem el buit del drenatge en cas dels drenatges tipus: Jackson Pratt, Redon.
+
+
+
+Retirarem els punts de sutura que subjecten el drenatge.
+Tirarem suaument del drenatge, aturant la maniobra si es troba alguna resistència i
+observem que ha sortit íntegre el drenatge.
+Rebutjarem el drenatge en el contenidor de residus biològics.
+Observarem si l’orifici del drenatge drena algun tipus d’exsudat.
+Netejarem la zona amb antisèptic i deixarem una gasa subjectada per un apòsit adhesiu.
+Anotarem el procediment en el curs clínic.
+Valorarem i registrarem la quantitat i característiques del dèbit del drenatge, i del
+peridrenatge, a entrades/sortides del IPA Pacient.
+Valorarem la necessitat de donar un punt d’aproximació, i ho registrarem al curs
+clínic/Portal Professional del IPA Pacient.
+Valorarem i registrarem les característiques de la pell peridrenatge al curs clínic/Portal
+Professional del IPA Pacient.  
+Material
+Guants
+Apòsit adhesiu hipoal·lèrgenic
+Gases estèrils
+Clorhexidina aquosa /Clorhedixidina alcohòlica al 2%
+Xopadors
+Bosses de drenatge segons tipus de drenatge
+Esparadrap
+Cubeta per a material punxant
+Bisturí
+Aspectes a remarcar
+ 
+Vigilància activa del drenatge: tubuladures i característiques i quantitat del dèbit.
+Cura i vigilància diària del punts d’ancoratge dels drenatges i la pell peridrenatge.
+Anotació en el mòdul de RE del IPA Pacient la valoració del drenatge per torn (dèbit
+drenatge, aspecte del dèbit, punt d’inserció, signes d’infecció i dolor).
+Anotació al mòdul d’Entrades/Sortides del IPA Pacient de la quantitat drenada pel
+drenatge/peridrenatge.
+
+
+
+Risc d'infecció
+Codi NANDA
+00004
+Codi Nic
+6540
+Intervenció
+Control d'infeccions
+Risc d'infecció relacionat amb drenatges
+Codi NANDA
+00004
+Codi Nic
+1870
+Intervenció
+Cures del drenatge
+Dolor Agut
+Codi NANDA
+00132
+Codi Nic
+1400
+Intervenció
+Maneig del dolor
+
+
+
+Hipertèrmia
+Codi NANDA
+00007
+Codi Nic
+3740
+Intervenció
+Tractament de la febre
+Risc de sagnat
+Codi NANDA
+00206
+Codi Nic
+6650
+Intervenció
+Vigilància
+Risc de Shock
+Codi NANDA
+00205
+Codi Nic
+4250
+Intervenció
+Manejament del Shock
+Coneixements deficients
+
+
+
+Codi NANDA
+00126
+Codi Nic
+1870
+Intervenció
+Cures del drenatge
+Deteriorament de la integritat cutània
+Codi NANDA
+00046
+Codi Nic
+1870
+Intervenció
+Cures del drenatge
+Deteriorament de la integritat cutània
+Codi NANDA
+00046
+Codi Nic
+3590
+Intervenció
+Vigilància de la pell (integritat cutània)
+Riscos Laborals
+Contacte amb agents biològics
+Mesures de prevenció de manipulació de càrregues
+
+
+
+Indicadors d'Avaluació
+Nombre de pacients amb infecció del punt d’inserció del drenatge durant l’estada
+hospitalària.
+Nombre de pacients amb el registre del drenatge i la seva evolució al mòdul RE edl IPA
+Pacient.
+Nombre de pacients amb el registre de les característiques i del dèbit del
+drenatge/peridrenatge al mòdul Entrades/Sortides del IPA Pacient.
+Registres
+Entrades i sortides
+Registres clínics
+Registres especials
+Portal professional

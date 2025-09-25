@@ -1,0 +1,152 @@
+Definir el procediment d'entrega i l'avaluació de la tolerància i eficàcia del tractament postural
+en pacients amb Apnea Obstructiva del Son (AOS). 
+Objectiu
+Descriure el procediment d’entrega i avaluació de l’eficàcia i tolerància al tractament amb un
+dispositiu postural per a l’AOS (en aquest PNT s’utilitzarà Somnibel® com a dispositiu a
+avaluar). 
+Responsabilitats
+Metges/esses
+Tècnics/ques
+Procediment
+
+
+Avaluació de la tolerància i eficàcia del tractament postural per a
+apnea obstructiva del son 
+SEQÜÈNCIA D´INTERVENCIONS:
+1. Material ( Vegeu apartat Material)
+2. Recepció del pacient
+Verificar la identitat del pacient segons procediment.
+Comprovar la sol·licitud de la prova.
+Registre del pacient al SAP IPA PACIENT. 
+Acompanyament i allotjament a l’habitació assignada. 
+3. Breu descripció del dispositiu d’entrega 
+El dispositiu postural SOMNIBEL® és un dispositiu vibratori, que té com a objectiu evitar la
+posició de decúbit supí en pacients diagnosticats d'AOS postural. (Vegeu Imatge 1). 
+El dispositiu detecta la posició del pacient i quan detecta que està en decúbit supí emet
+una vibració d’intensitat creixent (cada 30 segons per defecte) per induir un canvi de posició
+corporal, reduint el temps en decúbit supí i així la incidència d´esdeveniments respiratoris del
+son. 
+4. Instruccions d’ús / Entrega del dispositiu
+Se li explica al pacient:
+En què consisteix la prova i el seu objectiu
+El muntatge i desmuntatge del dispositiu postural:
+Cada nit, abans de posar-se a dormir, acobli un adhesiu de subjecció a l'equip
+Sonmibel fins a escoltar un "clic". La llum parpelleja 3 vegades en verd i
+l'equip vibra. (Veieu  Imatge 2 i 3 ).
+Retiri la coberta protectora de l'adhesiu. (Vegeu  Imatge 4 ).
+Estigui atent a l'orientació correcta indicada per una fletxa en l'etiqueta de
+l'equip. Enganxi el dispositiu al front, horitzontalment. (Vegeu Imatge 5).
+Estiris per dormir. (Vegeu Imatge 6).
+Durant els primers 15 minuts, el dispositiu no vibrarà encara que l’usuari es
+posi en decúbit supí.
+
+
+Avaluació de la tolerància i eficàcia del tractament postural per a
+apnea obstructiva del son 
+Al matí següent, retiri l'adhesiu de subjecció de la pell i separi’l de l'equip.
+Comprovi que la llum verda parpelleja dues vegades. (Vegeu  Imatge 7 ).
+Rebutgi l'adhesiu de subjecció i la seva coberta protectora. (Vegeu  Imatge 8 ).
+Connecti l'equip a la xarxa elèctrica mitjançant el carregador de bateria.
+Comprovi que s'encén la llum en verd. (Vegeu Imatge 9).
+Quan s'apaga la llum led verda, la bateria del dispositiu està completament
+carregada i es pot desconnectar de la xarxa elèctrica.
+El pacient signa un document de préstec, on se li demana el compromís de bon ús i
+conservació del mateix així com dia i hora de devolució acompanyat del seu DNI i la seva
+signatura.  (Vegeu Annex 1).
+Es fa entrega del dispositiu al pacient que el tindrà durant set dies.
+5. Devolució
+Una setmana després de l´entrega del dispositiu, el pacient retornarà el dispositiu al mateix lloc
+d’entrega (laboratori del Son de Pneumologia, escala 4, planta 2) per a la seva valoració. 
+Avaluaran:  
+L’experiència del pacient en l’ús del tractament postural; facilitat d’utilització, comoditat i
+satisfacció de l’ús del dispositiu.
+Valoració de l'eficàcia del tractament postural.
+6. Descàrrega  
+Un cop finalitzada la setmana de préstec, el pacient realitza l'entrega i es procedeix a la
+descàrrega de les dades emmagatzemades a través de l'USB, mitjançant el programa Somnilab®
+instal·lat en un PC específic de la unitat del son. 
+Un cop netejat el dispositiu i tots els seus accessoris, es procedeix a:  
+Connectar el cable USB del dispositiu al PC de la unitat, on està instal·lat el software
+Somnilab.
+Es crea la fitxa del pacient amb les dades personals.
+Es selecciona la icona del pacient.
+Es selecciona la icona de descàrrega.
+
+
+Avaluació de la tolerància i eficàcia del tractament postural per a
+apnea obstructiva del son 
+Quan s’han descarregat totes les dades es visualitzen les nits una per una.
+Un cop ens hem assegurat de què les dades estan descarregades aquestes s’esborraran. 
+7. Anàlisi:
+De forma automàtica el programa realitza un informe amb la següent informació per cada nit:
+Hores d’utilització.
+Gràfica de Posició i canvis posicionals
+Gràfica d’activacions de la vibració.
+Gràfica d’actimetria
+De manera manual es comptabilitza, per cada nit d’ús, el nombre d’activacions de la vibració i
+també la seva efectivitat.
+Es realitza l'informe tècnic incloent la següent informació a l’informe automàtic:
+Cal esmentar la quantitat de nits que el pacient ha usat el dispositiu de teràpia postural. P.
+ex. El pacient s'ha col·locat domiciliàriament durant x nits el dispositiu de teràpia postural
+"Somnibel®".  
+Cal mencionar l’opinió subjectiva del pacient respecte la qualitat del seu son durant el
+període d’ús del dispositiu postural.  P. ex. El pacient refereix haver dormit bé.
+Cal esmentar, nit per nit, el nombre d’activacions que ha presentat el dispositiu, indicant
+quantes d’aquestes han estat efectives (si el pacient ha canviat de posició abandonant el
+decúbit supí).  P. ex.
+Primera nit: 7 vibracions, totes elles efectives
+Segona nit:  4 vibracions, dues efectives i 2 no efectives
+Tercera nit:  3 vibracions, cap efectiva. Etc...
+Es descriuen d’aquesta manera la totalitat de les nits que el pacient es va posar el
+somnibel, posteriorment aquest programa genera l'informe a Word i nosaltres el convertim
+en PDF i després es puja al SAP el PDF generant un document IR_PDF i seleccionant
+l'opció informe de dispositiu postural.
+Se li lliura la cita amb el facultatiu responsable per tal que li expliqui els resultats de la
+prova, es faci una valoració i es decideixi si el tractament és efectiu o no i la pauta
+terapèutica a seguir. 
+
+
+Avaluació de la tolerància i eficàcia del tractament postural per a
+apnea obstructiva del son 
+8. Instruccions de neteja
+Realitzar higiene de mans i col·locació de guants no estèrils segons procediment.  
+L’equip Somnibel Pro® i el carregador de bateria s’han de netejar suaument amb un drap
+humit amb aigua sabonosa (sabó neutre), amb tovalloletes humides desinfectants o amb
+alcohol de 96°. A continuació s’haurà d’assecar. S’ha de tenir especial cura de què no entri
+líquid a l’interior de l’equip, a les connexions i als connectors. Evitar substàncies abrasives
+o dissolvents.
+Els adhesius de fixació no s’han de netejar. Cal rebutjar-los després de cada ús.
+Retirar-se els guants i rebutjar-los
+Realitzar nova higiene de mans segons procediment. 
+Material
+Dispositiu postural (actualment s’utilitzen en la nostra unitat Somnibel Pro de Sibelmed®
+o NightBalance de Philips®)
+Carregador USB.
+Adhesius de subjecció en cas de somnibel® o banda torácica en cas de NightBalance®.
+Els adhesius de subjecció de Somnibel® no s' han de reutlitzar, ja que la seva adherència
+es pot veure reduïda i per aquest motiu comprometre la validesa de la prova.
+Cable USB.
+Manual de l’usuari.
+Software Somnilab®/NightBalance®.
+* Utilitzar únicament amb accessoris subministrats pel fabricant o distribuïdor, la utilització d'
+altres sensors  pot produir danys a l' equip o afectar les mesures.
+El procediment d’entrega es realitza a la Unitat del son, escala 4 planta 2  que constarà al volant
+de citació juntament amb la hora.  
+Aspectes a remarcar
+Aquest procediment té per objectiu avaluar l'eficàcia i tolerància d’un tractament per a la AOS
+postural mitjançant un dispositiu postural vibratori. Per tal que la prova sigui valorable cal que
+el pacient dormi en les seves condicions habituals al domicili per tal de garantir un major
+
+
+Avaluació de la tolerància i eficàcia del tractament postural per a
+apnea obstructiva del son 
+confort i avaluació en les condicions habituals en les quals dorm.  
+És imprescindible la correcta col·locació i ús del dispositiu per tal de garantir la validesa de la
+prova i la correcta conservació.   
+Problemes relacionats amb el procediment
+L’ús d’adhesius pot provocar èczema al front dels pacients. És una complicació no habitual i
+que se soluciona ràpidament amb tractament local.  
+Registres
+SAP
+Registres
+Informe tècnic del resultat de la prova.

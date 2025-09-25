@@ -1,0 +1,64 @@
+Descriure com realitzar la dilució, programació i administració de fàrmacs antimicrobians en
+bomba d'infusió portàtil, sigui electrònica o elastomèrica.
+Objectiu
+Definir un document de consens únic per l’administració segura dels fàrmacs.
+Garantir que l’administració del tractament en pacients ingressats en el Dispositiu
+Transversal d’Hospitalització a Domicili (HDOM) sigui segura.
+Responsabilitats
+Farmacèutics/ques
+
+
+Dilució, programació i administració de fàrmacs antimicrobians en
+bomba d'infusió a l'Hospitalització a Domicili (HDOM)
+Infermers/es
+Metges/esses
+Procediment
+SEQÜÈNCIA D'INTERVENCIONS:
+Quan un pacient ingressat a HDOM tingui prescrit un fàrmac antimicrobià, antifúngic i/o
+antivíric que requereixi d’administració intermitent, contínua o diferida es necessari la
+programació d’una bomba d’infusió portàtil electròniques.
+Per l'administració dels tractaments mitjançant bombes d'infusió electròniques, siguin
+intermitents o contínues, és necessari la col·locació d’un  catèter venós central d'inserció
+central (CVCIC) o un catèter central d'inserció perifèrica (PICC) o un catèter venós de
+línia mitja de 20 cm o un reservori subcutani.
+Per garantir al màxim la seguretat d’aquests pacients s’ha creat un document de consens
+amb farmàcia amb les característiques especials de cada fàrmac; presentació i
+reconstitució, dosi volum, concentració adequada (mg/ml), si necessita protecció de la
+llum, temps d’infusió, dades d’estabilitat a diferents temperatures (ambient (20-25º) i
+nevera (2-8º)) i compatibilitat en “Y” amb furosemida. (Vegeu Annex 1)
+Quan es col·loqui la bomba d’infusió, s’educarà al pacient i/o cuidador del maneig bàsic
+d’aquesta i es proporcionarà informació en paper (Infoteca) (Vegeu Annex 2)
+Material
+Bomba d'infusió electrònica
+Equip de serumteràpia adequat a la bomba d'infusió
+Bossa de transport segons les característiques de termolabilitat del fàrmac
+Sèrum Fisiològic 0,9% i/o sèrum glucosat 5% per la dilució, segons indicació de farmàcia
+Material per la preparació de la dilució (xeringues, agulles...)
+Aspectes a remarcar
+Davant de la presència sospita de trombosi i/o de signes d’infecció al punt d’inserció del
+catèter venós, informarem l’equip mèdic responsable.
+
+
+Dilució, programació i administració de fàrmacs antimicrobians en
+bomba d'infusió a l'Hospitalització a Domicili (HDOM)
+Si la medicació requereix refrigeració per la seva termolabilitat, es facilitarà al pacient una
+bossa nevera de transport (bossa Elitebag per a Biological substance category B,
+compleixen la norma UN 3373, www.elitebags.es ) amb dos pack de gel per tal que pugui
+canviar-lo cada 6-8 hores en funció de la temperatura ambient (per sobre de 30º el canvi de
+gel ha de ser cada 8 h).
+Problemes relacionats amb el catèter
+Activitat
+Trombosis
+Oclusió del catèter
+Flebitis
+Extravasació
+Problemes relacionats amb el procediment
+Problemes relacionats amb la bomba d’infusió portàtil
+Riscos Laborals
+Manipulació de medicaments de risc, medicaments perillosos no citostàtics
+Indicadors d'Avaluació
+Nombre d'incidències reportades en relació amb la dilució, preparació i/o administració dels
+fàrmacs en bomba d'infusió.
+Registres
+PiA (Prescripció i administració)
+Portal professional

@@ -1,0 +1,149 @@
+La monitorització farmacocinètica (MFC)  és un procés clínic que consisteix en la mesura i
+interpretació de les concentracions plasmàtiques d’un fàrmac en pacients, amb l’objectiu de
+personalitzar el tractament per garantir la màxima eficàcia i minimitzar el risc de toxicitat.
+Aquest procés és especialment necessari en fàrmacs amb un marge terapèutic estret i en aquells
+en els que el seu comportament farmacocinètic pot variar significativament entre pacients a
+causa de diferents factors.
+Tant els aminoglicòsids com la vancomicina tenen un marge terapèutic estret, és a dir, les
+concentracions plasmàtiques que són efectives estan molt properes a les que poden causar
+toxicitat. Els aminoglicòsids poden causar ototoxicitat i nefrotoxicitat, mentre que la
+vancomicina està associada especialment a la nefrotoxicitat. Per aquest motiu, és crucial
+assegurar que les concentracions es mantenen dins dels límits adequats per aconseguir l'eficàcia
+sense provocar danys al pacient.
+Diferents grups de pacients son especialment vulnerables a presentar alteracions en la
+farmacocinètica d’aquests antibiòtics, entre ells els pacients crítics, amb obesitat o amb
+
+
+Determinació de les concentracions plasmàtiques d’antibiòtics en
+adults
+insuficiència renal, entre d’altres. Aconseguir concentracions plasmàtiques adequades és
+essencial per garantir que el tractament sigui efectiu en l'eliminació dels patògens, especialment
+en infeccions greus o en pacients immunocompromesos.
+Objectiu
+Establir les directrius per a la sol·licitud i extracció de mostres de sang per a la
+determinació de concentracions plasmàtiques d'aminoglucòsids i vancomicina, amb la
+finalitat d'optimitzar la pauta posològica per maximitzar l’eficàcia al tractament i
+minimitzar la seva toxicitat.
+Responsabilitats
+Farmacèutics/ques
+Infermers/es
+Metges/esses
+Procediment
+1.Sol·licitud de la prova:
+El/La metge/essa responsable ha de sol·licitar la determinació de concentracions
+plasmàtiques de l’antibiòtic d’interès mitjançant el sistema de prescripció electrònica
+(IPA).
+La sol·licitud es realitza a través de la icona “tub d’analítica” que indica “solicitar niveles
+plasmáticos” que apareix al situar-se sobre la línia del medicament prescrit a IPA.
+D’aquesta manera, surt per defecte l’horari d’extracció de les mostres sanguínies, i
+apareixen unes icones amb un dibuix d’una xeringa a IPA-administració per tal que
+infermeria pugui signar les extraccions (Figura 1).
+Com a alternativa en cas que no funcioni la icona, es pot realitzar la sol·licitud a través de
+SAP / Lab.Urg.HCPB / Toxicologia i farmacologia / Antibiòtics, tot i que d’aquesta
+manera, no apareixen les icones amb un dibuix d’una xeringa a IPA-administració per a
+signar les extraccions.
+
+
+Determinació de les concentracions plasmàtiques d’antibiòtics en
+adults
+2.Extracció de mostres:
+Preparar el material necessari per a l'extracció. Tub nº 7, plàstic, tap verd clar, gel
+separador i heparina liti, 3ml de buit.
+Realitzar el procediment amb les màximes condicions d’asepsia.
+Rentar-se les mans i posar-se els guants.
+Si el pacient porta una via central, utilitzar la llum distal. Netejar la via amb sèrum
+fisiològic i descartar els primers 10ml de sang.
+Si el pacient porta una via perifèrica, netejar la via amb sèrum fisiològic i descartar els
+primers 5ml de sang.
+Omplir el tub segons petició (tap verd clar, 3ml).
+Etiquetar immediatament el tub indicant si es tracta d’una mostra PRE-DOSI o POST-
+DOSI i l'hora de l'extracció.
+Transportar la mostra al laboratori CORE (escala 9, planta 1) en el menor temps possible.
+Si no es pot processar immediatament, ha de ser emmagatzemada en refrigeració.
+       Moment d’extracció de mostres segons antibiòtic:
+Per aminoglucòsids (amikacina, gentamicina i tobramicina):
+Mostra pre-dosi (vall): extreure una mostra 30min abans de l’administració de
+l’antibiòtic.
+Infusió intravenosa de l’antibiòtic en 30min.
+Mostra post-dosi (pic): extreure una mostra 30min després de la finalització de la
+infusió intravenosa.
+Per vancomicina:
+Mostra pre-dosi (vall): extreure una mostra 30min abans de l’administració de
+l’antibiòtic.
+Infusió intravenosa de l’antibiòtic en 1h (2h en pacients de l’ICAMS).
+Mostra post-dosi (pic): extreure una mostra 2h després de la finalització de la infusió
+intravenosa.
+3.Determinació de les concentracions plasmàtiques d’antibiòtic: El laboratori CORE
+determinarà les concentracions plasmàtiques d’antibiòtic per enzimoimmunoanàlisi
+homogènia i registrarà el resultat en les analítiques del pacient a SAP.
+4.Recomanació d’ajust de pauta posològica:
+L’àrea de Farmacocinètica Clínica del Servei de Farmàcia interpretarà els resultats
+de les concentracions plasmàtiques en el context del pacient i, mitjançant ajust
+
+
+Determinació de les concentracions plasmàtiques d’antibiòtics en
+adults
+bayesià, realitzarà una predicció de la pauta posològica òptima per assolir l'objectiu
+farmacocinètic/farmacodinàmic determinat..
+La recomanació d’ajust de pauta posològica es comunicarà per telèfon al prescriptor i
+mitjançant un informe de Monitorització Farmacocinètica, que quedarà penjat a la
+historia clínica del pacient.
+S’indicarà la data, en cas de necessitat, d’una nova monitorització de les
+concentracions plasmàtiques.
+Aspectes a remarcar
+Realitzar tots els procediments amb les màximes condicions d’asèpsia.
+Seguir les pautes indicades per realitzar les extraccions sanguínies correctament.
+Verificar l’horari d’extracció de mostres sanguínies. En cas de dubte, consultar amb el
+Servei de Farmàcia. 
+Problemes relacionats amb el procediment
+Risc d’infecció
+Codi NANDA
+00004
+Codi Nic
+6650
+Intervenció
+Vigilància
+Risc d'infecció
+Codi NANDA
+00004
+
+
+Determinació de les concentracions plasmàtiques d’antibiòtics en
+adults
+Codi Nic
+6550
+Intervenció
+Protecció contra les infeccions
+Risc d’infecció
+Codi NANDA
+00004
+Codi Nic
+1870
+Intervenció
+Manteniment del dispositiu d’accés venós DAV
+Risc d’infecció relacionat amb el catèter invasiu
+Codi NANDA
+00004
+Codi Nic
+3440
+Intervenció
+Cura dels punts d’incisió
+Risc d’infecció relacionat amb el catèter invasiu
+
+
+Determinació de les concentracions plasmàtiques d’antibiòtics en
+adults
+Codi NANDA
+00004
+Codi Nic
+3590
+Intervenció
+Vigilància de la pell
+Riscos Laborals
+Contacte amb agents biològics  (sang) (vegeu procediments Riscos laborals  )
+Indicadors d'Avaluació
+Percentatge d’errors/incidències relacionades amb el procediment (sol·licitud, extracció i
+transport de mostres) per a la determinació de concentracions plasmàtiques.
+Registres
+Curs clínic / Portal professional (història clínica electrònica).
+PiA (Prescripció i administració).

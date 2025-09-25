@@ -1,0 +1,107 @@
+Determinació del valor de la glucèmia capil·lar a través d’un aparell (glucòmetre).
+Objectiu
+Determinar el valor de glucosa en sang capil·lar (glucèmia capil·lar).
+Determinar si els valors de glucosa estan en hipoglucèmia, normoglucèmia o
+hiperglucèmia.
+Responsabilitats
+Infermers/es
+Pacients - Cuidadors/es
+TCAIS
+
+
+Glucèmia capil·lar
+Procediment
+SEQUÊNCIA D’ACCIONS:
+Ens rentarem les mans i ens col·locarem els guants d’un sòl ús si som nosaltres qui
+realitzem el procediment.
+Rentarem el dit/la mà del pacient amb aigua i sabó o amb desinfectant i eixugarem bé.
+Agafarem una tira reactiva i tancarem el pot per protegir l’estabilitat de la resta de tires
+reactives.
+Introduirem la tira reactiva corresponent a l’aparell que correspongui.
+L’aparell reconeix la tira reactiva, amb el símbol d’una gota que apareix a la pantalla, amb
+la data i hora.
+Indicarem al propi pacient que activi la circulació de la sang en el dit que farem la punció,
+pressionant amb un suau massatge des de la part més proximal del dit a la part distal, per
+afavorir la irrigació capil·lar de la zona i facilitar la sortida de sang.
+Amb la llanceta de bio seguretat, puncionarem la zona lateral del tou del dit ( la part
+central és més sensible al dolor ) i l’aproximarem a la tira reactiva. La pròpia tira reactiva
+absorbeix la sang capil·lar.
+Transcorreguts 5 segons apareix el resultat a la pantalla.
+Traurem la tira reactiva del glucòmetre amb el botó d’expulsió de la tira reactiva situat a la
+part posterior del glucòmetre i la dipositarem al contenidor, juntament amb la llanceta de
+bio seguretat. (Vegeu Imatges 1-2 )
+Realitzarem compressió amb una gasa o cel·lulosa retallada sobre el dit puncionat.
+Enregistrarem directament a IPA registres clínics/IPA farmàcia administració d’Insulina el
+resultat obtingut amb la data i hora que s’ha fet i actuarem en funció del valor:
+En cas d’hipoglucèmia.
+Si el control de glucèmia capil·lar és > 300 mg/dl, cal mirar la cetonúria en malalts
+amb diabetis mellitus tipus 1 i en aquells amb diabetis mellitus tipus 2 amb risc de
+descompensació.
+OBSERVACIONS:
+Si la situació de la persona ho permet i si porta un autocontrol al seu domicili, afavorirem
+que es faci les autodeterminacions de glucèmia capil·lar i ensenyarem el correcte rebuig
+del material punxant.
+
+
+Glucèmia capil·lar
+Si la persona té mesurador propi, cal valorar com realitza la tècnica i la fiabilitat del
+mateix. Recomanar que contacti amb el seu equip d’atenció primària per substituir
+l’aparell si cal.
+La zona de punció d’elecció és el tou del lateral dels dits. En cas necessari també es podria
+obtenir sang capil·lar del lòbul inferior de les orelles sense realitzar massatge o el palmell
+de la mà (zona lateral).
+Generalment, sempre realitzarem la determinació abans de l’administració d’insulina o
+abans de menjar qualsevol àpat. En casos especials es realitza també control post-pandrial
+(2hores post àpat).
+Material
+Aparell mesurador de la glucèmia capil·lar Tires reactives adaptades al glucòmetre de
+referència.
+Llanceta amb sistema de bio seguretat.
+Gasa o cel·lulosa retallada.
+Contenidor per l’expulsió de la tira reactiva i llanceta de bio seguretat
+Aspectes a remarcar
+Cal mirar la cetonúria quan la glucèmia capil·lar pre-àpat és > 300 mg/dl, de manera
+especial en pacients amb diabetis mellitus tipus 1.
+Implicarem al propi  pacient en la realització de la glucèmia capil·lar, de manera especial
+en aquells pacients que inicien insulinització durant l’ingrés i requeriran insulina post alta
+o en aquells pacients que hagin ingressat per una descompensació de la seva diabetis,
+facilitant tot el material i observant com ho fan i si requereixen orientació sobre el tema.
+En cas de dificultat de l’extracció de sang capil·lar, aprofitarem l’extracció de sang arterial
+o venosa, a través d’un catèter central venós, perifèric o catèter arterial, si en té, tenint en
+compte que hem de rebutjar sang, per aconseguir una gota de sang lliure d’alteració del
+sèrum o medicaments que porti per via venosa.
+En cas de que el pacient sigui portador de sistemes de monitorització continua de la
+glucosa subcutània, igualment és convenient realitzar la tècnica de la glucèmia capil·lar
+abans de l’administració d’insulina.
+
+
+Glucèmia capil·lar
+Mostra insuficient de sang
+Codi Nic
+4035
+Intervenció
+Mostra de sang capil·lar
+Desactivació de l’aparell o de la programació
+Activitat
+Conservarem els temps que requereix la tècnica i procedirem de forma
+ràpida
+Verificarem que l’aparell estigui en bones condicions i canviarem les
+bateries si és necessari
+Risc de nivell de glucèmia inestable
+Codi NANDA
+00179
+Intervenció
+Nivell de glucèmia
+Riscos Laborals
+Contacte amb agents biològics
+Indicadors d'Avaluació
+Nombre de pacients en que queda registrat l’ensinistrament i la comprovació de la tècnica de la
+glucèmia capil·lar, en el cas que hagin de seguir mesurant la glucèmia capil·lar post alta.
+
+
+Glucèmia capil·lar
+Registres
+Portal professional
+Registres clínics
+Registres especials
+Annex 1

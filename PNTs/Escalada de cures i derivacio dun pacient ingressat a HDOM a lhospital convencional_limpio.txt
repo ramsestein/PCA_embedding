@@ -1,0 +1,151 @@
+Definir un circuit de derivació per aquell pacient ingressat a Hospitalització a domicili
+(HDOM) que requereixi de derivació a hospitalització convencional o trasllat a urgències
+de manera urgent o emergent.
+Descriure la intervenció i mètode d’actuació al domicili quan es decideix el trasllat.
+Objectiu
+Definir un algoritme d’actuació per aquells pacients que requereixen trasllat a l’hospital
+segons nivells de prioritat.
+Definir quins són els diferents nivells de prioritat.
+Responsabilitats
+
+
+Escalada de cures i derivació d’un pacient ingressat a HDOM a
+l’hospital convencional
+Administratius/ves
+Coordinadors/es
+Gestor/a de pacients
+Infermers/es
+Metges/esses
+Procediment
+Quan un pacient ingressat en règim d’HDOM requereix escalada de les cures, es defineixen els
+següents tipus de derivació:
+Nivell I: Pacient que precisa trasllat emergent en horari assistencial (8-21 h)
+Aquest nivell es defineix com d’atenció emergent no diferible (< 30 minuts) 
+Quan un pacient presenti un deteriorament clínic que, un cop valorat presencialment o telefònica
+per l’equip mèdic de l’HDOM, es consideri que requereix de trasllat emergent a l’hospital
+d’aguts:
+L’equip assistencial d’HDOM contactarà amb el Servei d’Emergències Mèdiques (SEM,
+telèfon 061) per activar el trasllat amb les condicions ajustades en cada cas (ambulància
+avançada).
+En el cas que l’equip assistencial d’HDOM es trobi al domicili, aquest romandrà fins a
+l’arribada del SEM.
+L’equip d’HDOM contactarà amb la coordinadora d’Urgències (380447) per notificar la
+derivació.
+ 
+Nivell II: Pacient que requereix trasllat urgent en horari assistencial (8-21 h)
+Aquest nivell es defineix com l’atenció urgent no diferible (< 4 h) 
+En el cas que el pacient contacti per empitjorament clínic, es valorarà segons les necessitats del
+pacient, quins professionals assistencials realitzen la visita al domicili.
+En el cas que durant la visita a domicili, el pacient presenta un empitjorament clínic:
+
+
+Escalada de cures i derivació d’un pacient ingressat a HDOM a
+l’hospital convencional
+Infermeria avisarà al metge/ssa de referència en el cas que aquest no es trobi al domicili.
+Un cop avaluat el pacient al domicili, si es considera candidat a ingrés directe en Unitat de
+Cures Intermèdies, el metge/ssa HDOM contactarà amb el metge d'AVI (380129)
+En cas que sigui candidat a ingrés directe en Unitat de Cures Intermèdies i hi hagi
+disponibilitat de llit, es farà el trasllat a la Unitat, podent ser Seu Villarroel o Seu Plató. La
+tria de la Seu dependrà de les característiques del pacient i de la disponibilitat de llit. El
+metge/ssa de l’AVI contactat s’encarregarà de notificar al personal de la Unitat
+corresponent la informació necessària per coordinar el trasllat l’abans possible i ho
+comentarà amb el metge/ssa HDOM
+En cas que no hi hagi llit de cures intermèdies o no es consideri candidat:
+Es contactarà amb la coordinadora d’Urgències o amb l’administratiu d’enllaç
+(380805) de 16-21 h i caps de setmana i/o festius, per tal de prioritzar l’atenció a
+l’arribada a Urgències.
+Es coordinarà l’ingrés amb el servei de destí.
+Un cop es decideix el trasllat, es contactarà al SEM informant del nivell de prioritat
+perquè el temps d’espera sigui l’adequat.
+En el nivell 2 es valorarà, segons les necessitats específiques de cada pacient, la
+necessitat de romandre al domicili fins l’arribada del SEM. En cas de decidir no
+romandre al domicili, es contactarà telefònicament amb el malalt mínim cada hora.
+ 
+Nivell III: Pacient que requereix trasllat no urgent en horari assistencial (8-21 h)
+Aquest nivell es defineix com l’atenció no urgent per la necessitat de procediments que no es
+poden dur a terme al domicili o ingrés hospitalari convencional. 
+En aquest nivell es diferenciaran els següents subnivells:
+Nivell III-a:  Si el pacient requereix procediment tècnic (sondatge dificultós, exploracions
+ginecològiques/uro/ORL/trauma, etc.)
+Es prioritzarà l’actuació al domicili per tal d’evitar la derivació.
+
+
+Escalada de cures i derivació d’un pacient ingressat a HDOM a
+l’hospital convencional
+En el cas que no es pugui solucionar el problema o situació des del domicili o el
+pacient requeris proves complementàries/procediments urgents, es realitzarà la
+derivació.
+El metge referent del pacient trucarà a l'especialista per informar de la necessitat de
+derivació i s’acordarà el lloc més adient (Urgències, Hospitals de Dia).
+En cas que es decideix visita a Urgències l’equip HDOM contactarà amb la
+coordinadora d’Urgències.
+L’equip assistencial gestionarà el trasllat amb ambulància segons la ubicació final i
+el nivell de prioritat.
+Nivell III-b:  Si el pacient no requereixprocediment tècnic. Derivació electiva. Aquest
+tipus de derivació es pot donar en les següents situacions:
+A petició del pacient i /o cuidador de continuar l’ingrés a l’hospitalització
+convencional. Es prioritzarà l’ingrés directament a una sala. En aquests casos,
+idòniament, treball social haurà valorat les necessitats del pacient i el seu entorn.
+El metge d’HDOM contactarà amb l’equip mèdic referent per l’acceptació del
+pacient.
+L’equip assistencial contactarà amb el gestor/a de pacients del ICAs en qüestió per
+gestionar el trasllat?
+Informarem el pacient i/o cuidador de l’horari i ubicació del trasllat.
+L’equip administratiu de l’HDOM sol·licitarà l’ambulància de trasllat amb les
+condicions segons necessitats
+L’equip assistencial d’HDOM deixarà constància en el curs clínic de les últimes
+actuacions i realitzarà els informes d’alta (mèdic/infermeria).
+Per tal de garantir la continuïtat assistencial fins que el següent servei se'n faci
+càrrec, es realitzarà el seguiment telefònic del pacient i si és necessari es realitzarà
+una visita al domicili per garantir la seguretat del pacient. Per criteri de l’equip
+assistencial que el pacient és derivi a una sala d’Hospitalització convencional.
+El metge d’HDOM contactarà amb l’equip mèdic referent per l’acceptació del
+pacient.
+L’equip assistencial contactarà amb el gestor/a de pacients del ICAs en qüestió per
+gestionar el trasllat.
+En el cas que no hi hagi llit disponible, el pacient es traslladarà al Helios en espera de
+llit. L’equip d’HDOM contactarà amb la coordinadora d’urgències.
+L'equip HDOM informarà el pacient i/o cuidador de l’horari i ubicació del trasllat.
+L’equip d’HDOM sol·licitarà l’ambulància de trasllat pertinent segons necessitats i
+lloc de derivació.
+
+
+Escalada de cures i derivació d’un pacient ingressat a HDOM a
+l’hospital convencional
+Aspectes a remarcar
+Durant l’horari de 21-8 h infermeria de l’equip HDOM dona atenció telefònica a tots els
+pacients ingressats a HDOM de forma externa a l’hospital.
+Quan un pacient contacta amb l’HDOM referint empitjorament de l’estat clínic i es
+considera necessari el trasllat urgent a l’hospital d’aguts es derivarà al Servei d’urgències,
+activant el SEM (061). (Vegeu Annex 2)
+La infermera de guàrdia registrarà les actuacions a la història clínica del pacient.
+Problemes relacionats amb el procediment
+Problemes derivats del triatge (sub triatge, sobre triatge)
+Temps d’espera d’ambulàncies. Demora en el trasllat de pacients
+Disponibilitat de llit pacients al servei d’urgències, Unitat d’Intermedis i hospitalització
+convencional
+Indicadors d'Avaluació
+Percentatge de derivacions. (Nombre de derivacions total/N episodis total HDOM)*100
+Percentatge de derivacions a sala d'hospitalització programades. (Nombre de derivacions a
+sala d’hospitalització programades /N episodis total HDOM)*100
+Percentatge de derivacions a unitat de cures intermèdies programades. (Nombre de
+derivacions a unitat de cures intermèdies programades/N episodis total HDOM)*100
+Percentatge de derivacions a urgències. (Nombre de derivacions a urgències/N episodis
+total HDOM)*100
+Percentatge de visites a urgències en horari assistencial durant ingrés HDOM (Nombre de
+visites a urgències; en horari assistencial, durant l’ingrés a HDOM/N episodis total
+HDOM)*100
+Percentatge de visites a urgències en horari nocturn durant ingrés HDOM (Nombre de
+visites a urgències; en horari nocturn, durant l’ingrés a HDOM/N episodis total
+HDOM)*100
+Nombre d’èxitus durant el procés del trasllat a l’hospital.
+Nombre d'incidències de seguretat del pacient del trasllat i/o temps de demora de les
+ambulàncies.
+Nombre de reclamacions del pacient i/o cuidador en relació al trasllat durant el reingrés.
+
+
+Escalada de cures i derivació d’un pacient ingressat a HDOM a
+l’hospital convencional
+Registres
+Registres clínics
+Diagrama de Flujo

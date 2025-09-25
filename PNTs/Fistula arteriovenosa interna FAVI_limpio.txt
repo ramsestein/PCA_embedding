@@ -1,0 +1,359 @@
+La fístula arterio-venosa interna (FAVI) és un accés vascular (AV) permanent, que consisteix en
+l’anastomosi  d’una artèria amb una vena, amb l’objectiu d’augmentar el cabdal i el diàmetre de
+la vena, per tal de facilitar la seva punció i obtenir-ne un bon flux sanguini pel tractament
+d’hemodiàlisi.
+Quan la realització de la FAVI autòloga (amb la mateixa vena) no és possible, es realitza una
+FAVI protèsica on l’ anastomosi arterio-venosa és amb un empelt sintètic (PTFEe:
+politetrafluoroetilè expandit) com a substitutiu del mateix vas. (Vegeu  Imatge 1)
+Segons les recomanacions de les guies de pràctica clínica, el pacient amb Insuficiència Renal
+Crònica (IRC) a estadi 4 (FG 15-29 ml / min / 1,73 m2) o 5 (<15 ml / min / 1,73) ha de ser
+informat sobre les opcions de Teràpia Renal Substitutiva (TRS) i si la decisió és hemodiàlisi
+(HD), ha de ser remès al cirurgià per a la realització d'una FAV.
+FAV autòlogues:
+
+
+Fístula arterio-venosa interna (FAVI)
+S'ha d'indicar la cirurgia uns 6 mesos abans de la possible entrada a hemodiàlisi, ja que les FAV
+autòlogues necessiten un major temps de desenvolupament abans del seu ús (mínim de 4
+setmanes i habitualment 2-3 mesos). Tenen més risc de fracàs precoç (amb la consegüent
+necessitat de realitzar una nova FAV) i tenen menys morbiditat associada.
+FAV protèsiques:
+Indicar la cirurgia 3-4 setmanes abans de l'entrada a hemodiàlisi (inici de puncions a les 2-3
+setmanes). Tenen menys risc de fracàs precoç i major risc de complicacions.
+En pacients amb insuficiència renal crònica (IRC) haurien de minimitzar en mesura del possible
+les venipuncions a l’avantbraç, especialment del braç no dominant, per tal de preservar-lo per a
+la realització de la FAVI.
+És igualment aconsellable evitar la col·locació d’un catèter central a la zona (subclàvia o
+jugular) per tal d’evitar trombosi i estenosi en aquesta, ja que podria dificultar l’èxit de la futura
+FAVI.
+Cal realitzar una avaluació preparatòria i, si cal, serà necessari un estudi ecogràfic i/o
+flebografia abans de fer la FAVI.
+Verificarem sempre el seu funcionament: pols, batec i thrill. El thrill és el corrent que es genera
+quan la sang arterial entra dins de la vena, podem auscultar el seu murmuri amb l’ajuda d’un
+fonendoscopi.
+La realització d’una FAVI es gestiona des de la consulta de la Unitat Funcional d’Accessos
+Vasculars (UFAV) i es realitza per Cirurgia Major Ambulatòria (CMA). En el cas d’implantació
+d’un empelt femoral, cal un ingrés hospitalari a causa de la complexitat de la intervenció.
+Podem trobar diversos tipus de FAVI i empelts segons els vasos utilitzats per a tal fi (les més
+habituals) són:
+Ciminio - Brescia o radio - cefàlica
+Húmer - cefàlica
+Húmer - Basílica
+PTFE Húmer - axil·lar
+Altres
+
+
+Fístula arterio-venosa interna (FAVI)
+Objectiu
+Aplicar les cures infermeres necessàries per al correcte manteniment de la FAVI. 
+ Proporcionar al pacient els coneixements necessaris perquè pugui realitzar correctament
+la cura del seu accés vascular amb la finalitat de preservar-lo en les millors condicions
+possibles. 
+Resultats NOC: 
+NOC 0504 Funció Renal 
+NOC 2302 Aclariment de toxines sistèmiques: diàlisi 
+NOC 1101 Integritat tissular: pell i membranes mucoses 
+NOC 1105 Integritat de l’accés per hemodiàlisi 
+NOC 0413 Severitat de la pèrdua de sang 
+NOC 1921 Preparació abans del procediment
+NOC 1200 Imatge corporal 
+NOC 1902 Control del risc 
+NOC 1602 Conducta de foment de la salut 
+NOC 0706 Resposta al·lèrgica sistèmica 
+NOC 1402 Autocontrol de l’ansietat 
+NOC 1404 Autocontrol de la por 
+NOC 1300 Acceptació: estat de salut 
+NOC 1305 Modificació psicosocial: canvi de vida 
+NOC 1409 Autocontrol de la depressió 
+NOC 0307 Autocures medicació: parenteral 
+NOC 0309 Autocures medicació: no parenteral
+Responsabilitats
+Infermers/es
+TCAIS
+Procediment
+
+
+Fístula arterio-venosa interna (FAVI)
+Acollir al pacient.
+Identificar al pacient.
+Informar al pacient sobre el procediment que es va a realitzar i explicar-li la manera com
+pot col·laborar.
+Recomanarem el rentat de la zona amb aigua i sabó abans de l’entrada a la sala de diàlisi.
+Col·locarem al pacient en una posició còmoda i segura.
+Col·locarem l’extremitat portadora de la FAVI de manera que faciliti l’accés al mateix.
+Comprovarem el funcionament de la FAVI (augment o disminució de thrill, batec) i el
+desenvolupament, aparició aneurismes, pseudoaneurismes...
+Observarem l’aparició d’edemes, signes d’isquèmia o d’infecció, eritema...
+S'han d'evitar en tot moment puncions en zones envermellides o amb signes d'infecció, en
+zones amb hematoma, crosta o pell alterada i en zones apicals d'aneurismes.
+Col·locarem un empapador per sota l’extremitat i prepararem un camp el més ampli
+possible, depositant en ell el material a utilitzar.
+Realitzarem un rentat de mans i col·locació de guants no estèrils.
+Aplicarem sobre la zona a punxar la solució desinfectant i esperarem uns minuts a que
+actuï.
+Aplicarem la bena smarch por sobre de la zona de punció segons les necessitats del
+pacient. Mai farem servir la bena smarch ni farem compressió en cas de que la FAVI sigui
+un empelt.
+Realitzarem la punció arterial , de la vena arterialitzada, amb el bisell cap avall sempre el
+més lluny possible de l’anastomosi (mínim 2,5 cm en FAV autòloga o 5 cm en FAVI
+protèsica) i deixant de 0,5 a 1 cm. de distància de la punció anterior (si la maduració de
+l’accés vascular ho permet).
+Comprovarem que l’agulla està correctament col·locada i que dóna flux suficient
+mitjançant l’aspiració i injecció de sèrum fisiològic amb xeringa.
+Fixarem l’agulla a la pell del pacient amb apòsits adhesius transparents de forma que no
+pugui sortir espontàniament o per petites traccions.
+Realitzarem la punció venosa  en sentit proximal (a favor del flux sanguini) en la vena
+eferent, seguint el mateix procés per a la seva comprovació i fixació que en la punció
+arterial.
+Sempre que ambdues puncions es realitzin en el mateix tram arterialitzat, la punció arterial
+serà la més proximal a l’anastomosi i la punció venosa la més distal.
+Connectarem el pacient al monitor de diàlisis per iniciar el tractament.
+
+
+Fístula arterio-venosa interna (FAVI)
+Assegurarem les línees del circuit extracorpori evitant traccions i colzaments. Si cal farem
+ús de fèrules.
+Aconsellarem al pacient la immobilització de l’extremitat per evitar risc d’hematomes i
+extravasacions durant el tractament.
+Deixarem la zona de l’accés vascular visible durant la sessió d’ hemodiàlisi.
+Enregistrarem les incidències del procediment al programa Nefrolink® a l’apartat:
+incidències de l’accés vascular. Així com les recomanacions que considerem necessàries
+per a futures puncions.
+Recomanarem l’hemostàsia manual al finalitzar el tractament (mínim 10 minuts). En cas
+d’un empelt, l’hemostàsia ha de ser obligatòriament manual.
+Informarem sobre com ha d’actuar al domicili davant la possible hemorràgia. (Vegeu 
+Imatge 2)
+Material
+Mascareta. Codi SAP: 193925
+Solució desinfectant: clorhexidina aquosa al 2%
+1 paquet de gases estèrils. Codi SAP: 180012
+Guants no estèrils: Codi SAP: 180457 (Talla 6-7), 180458 (Talla 7-8), 180459 (Talla 8-9)
+Empapador. Codi SAP: 180232
+1 agulla ev. Codi SAP: 181990
+2 agulles FAVI: Codi SAP: 186760 (AV15G 25 mm), 186761 (AV16G 25 mm) o 2 catèter
+- fístula (van per compres)
+2 apòsits transparents adhesius (Tegaderm ® film): Codi SAP: 180031
+Bena smarch. Codi SAP: 181862
+1 xeringa de 10 cc. Codi SAP: 182132
+ Solució salina fisiològica
+Aspectes a remarcar
+En pacients amb insuficiència renal crònica (IRC) hauria de minimitzar-se tant com fos
+possible les venipuncions en l’avantbraç, especialment del braç no dominant, per tal de
+preservar-lo per a la realització de la FAVI. També és aconsellable evitar la col·locació de
+catèters centrals en la zona (subclàvia, jugular) per tal d’evitar trombosi i estenosi en la
+mateixa que puguin dificultar l’èxit de la futura FAVI.
+
+
+Fístula arterio-venosa interna (FAVI)
+No aconsellarem la punció de la FAVI fins a 4-6 setmanes després de la seva realització
+(2-3 setmanes en FAVI protèsiques), per assegurar una bona maduració d'aquesta.
+Recomanem sol·licitar una ECO FAV de maduració al cap de 4 setmanes (Interconsulta
+IPA accessos vasculars de diàlisi).
+Recomanem canviar sovint la zona de punció (tècnica de punció esglaonada) a fi de
+garantir la durabilitat de la FAVI i evitar formació d’aneurismes.
+No excedirem el nombre d’intents de punció per no lesionar la paret del vas o la fibra de
+l’empelt.
+En el cas d’una incorrecta canalització, retirarem l’agulla i farem hemostàsia (10-20
+minuts) i intentarem la punció en un lloc nou el més lluny possible de la punció anterior.
+És recomanable que les primeres puncions de la FAVI (Vegeu  Annex 1) les realitzi
+personal d’infermera expert.
+Cal reconèixer els signes de complicació de la FAVI:
+1. Disminució del flux: que detectarem per l’existència d’una pressió negativa excessiva en
+l’agulla arterial (col·lapse arterial), ja que l’accés vascular no aporta el flux sanguini suficient.
+La causa més freqüent és l’obstrucció parcial de la vena arterialitzada a causa d'estenosi juxta-
+anastomòtica (zona venosa més proximal a l'anastomosi) o fibrosi secundària a múltiples
+puncions.
+2. Trombosi (parcial o total): gairebé sempre va precedida d’una disminució del flux sanguini de
+la fístula o pressions venoses elevades. Pot desencadenar-se per una deshidratació, hipotensió o
+hipercoagulabilitat.
+3. Isquèmia de la mà: el pacient manifesta sensació de fred i dolor a la mà de la fístula, el dolor
+augmenta amb l’exercici i a les sessions de HD. En casos extrems, el dolor es presenta en repòs
+fins i tot, apareixen nafres que no cicatritzaran. Aquesta complicació és més freqüent en
+pacients diabètics i pacients d’edat avançada amb arterioesclerosi.
+4. Infeccions: sovint són degudes a un estafilococ. Cal detectar signes d’inflamació local i
+mantenir una bona higiene del braç de la FAV.
+5. Pseudoaneurisma: la causa és l'extravasació de sang després de la retirada de les agulles de
+diàlisi. Estaria indicat una valoració per part de la UFAV i CCV si cal. S’haurà d’observar la
+seva evolució i procurar punxar el tram venós més allunyat de la zona de l’aneurisma. Si la pell
+de sobre de l’aneurisma perd el seu gruix considerablement, és possible que el pacient hagi de
+
+
+Fístula arterio-venosa interna (FAVI)
+sotmetre’s a una intervenció quirúrgica.
+6. Edema de la mà: generalment produït per estenosi a nivell central, del tronc innominat o en
+portadors de CVC / portacath ipsilateral a la FAV. Estaria indicat una valoració per part de la
+UFAV i CCV si cal.
+Risc de deteriorament de la integritat cutània
+Codi NANDA
+00047
+Codi Nic
+3590
+Intervenció
+Vigilància de la pell (integritat cutània)
+Risc de deteriorament de la integritat cutània
+Codi NANDA
+00047
+Codi Nic
+3584
+Intervenció
+Cura de la pell: tractaments tòpics
+Risc d'infecció
+Codi NANDA
+00004
+Codi Nic
+
+
+Fístula arterio-venosa interna (FAVI)
+6550
+Intervenció
+Protecció contra les infeccions
+Risc d'infecció relacionat amb ferides
+Codi NANDA
+00004
+Codi Nic
+3440
+Intervenció
+Cures del lloc d'incisió
+Risc d'infecció
+Codi NANDA
+00004
+Codi Nic
+6540
+Intervenció
+Control d'infeccions
+Risc d’infecció
+Codi NANDA
+00004
+Codi Nic
+4240
+Intervenció
+Manteniment de l’accés per diàlisi
+
+
+Fístula arterio-venosa interna (FAVI)
+Risc de lesió
+Codi NANDA
+00035
+Codi Nic
+6410
+Intervenció
+Maneig de l’al•lèrgia
+Risc de lesió
+Codi NANDA
+00035
+Codi Nic
+6610
+Intervenció
+Identificació de riscos
+Risc de lesió
+Codi NANDA
+00035
+Codi Nic
+6486
+Intervenció
+Maneig ambiental: seguretat
+Risc de lesió
+
+
+Fístula arterio-venosa interna (FAVI)
+Codi NANDA
+00035
+Codi Nic
+6482
+Intervenció
+Maneig ambiental: confort
+Risc de lesió
+Codi NANDA
+00035
+Codi Nic
+6490
+Intervenció
+Prevenció de caigudes
+Risc de sagnat
+Codi NANDA
+00206
+Codi Nic
+6680
+Intervenció
+Monitorització de signes vitals
+Risc de sagnat
+Codi NANDA
+00206
+
+
+Fístula arterio-venosa interna (FAVI)
+Codi Nic
+4160
+Intervenció
+Control de l'hemorràgia
+Risc de sagnat
+Codi NANDA
+00206
+Codi Nic
+4010
+Intervenció
+Prevenció de l'hemorràgia
+Ansietat
+Codi NANDA
+00146
+Codi Nic
+5820
+Intervenció
+Disminució de l'ansietat
+Afrontament de problemes
+Codi NANDA
+00069
+Codi Nic
+5230
+
+
+Fístula arterio-venosa interna (FAVI)
+Intervenció
+Augmentar l'afrontament
+Dèficit de coneixements
+Codi NANDA
+00126
+Codi Nic
+7330
+Intervenció
+Intermediació cultural
+Impotència
+Codi NANDA
+00125
+Codi Nic
+5530
+Intervenció
+Control de l’humor
+Impotència
+Codi NANDA
+00125
+Codi Nic
+5400
+Intervenció
+Potenciar l’autoestima
+
+
+Fístula arterio-venosa interna (FAVI)
+Trastorn imatge corporal
+Codi NANDA
+00118
+Codi Nic
+5220
+Intervenció
+Potenciació de la imatge corporal
+Riscos Laborals
+Contacte amb agents biològics
+Mesures de prevenció postures forçades
+Indicadors d'Avaluació
+Percentatge d’accessos vasculars previs
+Percentatge d’infeccions de la FAVI.
+Percentatge de complicacions de la FAVI (edemes, aneurismes, trombosis...)
+Registres
+Portal professional
+Registres clínics
+Registres especials
+Nefrolink®
+Diagrama de Flujo
+
+
+Fístula arterio-venosa interna (FAVI)

@@ -1,0 +1,170 @@
+En aquest PNT es descriu el procediment d'avaluació i tractament de dones amb part traumàtic
+ateses a la Unitat de Salut Mental Perinatal (USMP).
+L'embaràs i el part solen considerar-se esdeveniments positius. No obstant això, el part pot ser
+una experiència traumàtica per a algunes dones, bé sigui per raons objectives, com les
+complicacions obstètriques, bé per raons subjectives, com ara la percepció de pèrdua de control,
+por o dolor intens durant el part, etc., o per totes dues (Kranenburg, 2023).
+El 2022 es va publicar una definició “d'experiència de part traumàtic” de consens internacional
+(Leinweber, 2022) on s'indiquen les característiques d'aquesta experiència:
+(a) involucra interaccions entre persones i/o esdeveniments
+(b) està directament relacionada amb el part
+(c) va causar emocions i reaccions aclaparadores i estressants,
+(d) va tenir un impacte a curt/llarg termini en la salut i el benestar de la dona.
+
+
+Avaluació i intervenció en dones amb part traumàtic
+Aquesta experiència negativa durant el part pot tenir repercussions en la recuperació física
+posterior, en la vinculació maternofilial, en l'adaptació a la maternitat i en alguns casos en l'inici
+o la reagudització de trastorns psicopatològics com el Trastorn per estrès posttraumàtic (TEPT),
+la depressió postpart o símptomes d'ansietat (Yildiz, 2017).
+El TEPT és un trastorn psicopatològic que pot aparèixer després d'un esdeveniment estressant
+on es percep una amenaça a la vida o a la integritat pròpia, o d'altres persones. El TEPT es
+caracteritza per símptomes de reexperimentació, evitació, estat emocional i cognicions
+negatives, hiperarousal i de vegades sensacions d'estranyesa amb una o amb l'entorn. Cal
+presentar aquests símptomes durant més d'un mes. L'evitació i la reexperimentació sembla que
+són els símptomes més reportats en dones amb TEPT associat al part.
+Hi ha evidència que entre un 30 i un 40% de les dones informen de la vivència del part com un
+esdeveniment estressant i de l'aparició de símptomes posttraumàtics. A la població general, un
+3-4% poden arribar a presentar criteris per al diagnòstic de TEPT, mentre que en població de
+reg la taxa pot ascendir fins a un 18% (Heyne et al. 2022).
+Aquestes dades mostren la necessitat d'intervenció psicològica en dones que experimenten el
+seu part com a traumàtic per prevenir i evitar conseqüències a curt, mitjà i llarg termini.
+Les intervencions més utilitzades fins al moment, i considerades el tractament habitual,
+consisteixen en diverses sessions d'acompanyament dutes a terme per comares o
+psicòlegs/òlogues clínics/es en les quals es duen a terme diferents actuacions com l'acceptació
+de l'experiència, l'expressió emocional, l'augment del suport social i la resolució de problemes.
+Dues revisions sistemàtiques (Graaf, 2018 i Furuta, 2018) sobre les intervencions psicològiques
+en símptomes posttraumàtics relacionats amb el part, van concloure que no es disposa
+d'informació suficient, amb les investigacions fetes fins aquell moment, per recomanar una
+intervenció psicològica específica.
+La teràpia EMDR es considera un dels tractaments d'elecció per a les persones amb diagnòstic
+de TEPT (NICE, 2018). També està recomanada a les guies de salut mental pre i postnatal
+(National Collaborating Centre for Mental health, UK, 2014).
+Hi ha evidència que intervencions molt primerenques i breus poden aconseguir prevenir el
+desenvolupament de TEPT, amb la consegüent millora en la recuperació materna després del
+
+
+Avaluació i intervenció en dones amb part traumàtic
+part i menys interferències en la vinculació maternofilial. S'han observat resultats positius en la
+prevenció amb el tractament precoç consistent en una sola sessió d'EMDR (Chiorino, 2020).
+La teràpia d'EMDR ha resultat ser eficaç en el tractament de simptomatologia posttraumàtica o
+TEPT. També ha demostrat la seva eficàcia en dones amb TEPT amb nivells alts de
+comorbiditat psiquiàtrica (64%) i altes taxes de tractament previ en salut mental (80%)
+(Kranenburg, 2022)
+Aquesta intervenció breu i primerenca en la població de mares de la Unitat de Salut Mental
+Perinatal (USMP), població de risc per antecedents psicopatològics o trastorn actual, pot ser útil
+en la prevenció i intervenció de la simptomatologia posttraumàtica o TEPT.
+Objectiu
+Conèixer el procediment d'avaluació i la intervenció psicològica en dones que n'han
+experimentat el part com a traumàtic.
+Conèixer els protocols d'avaluació formats per instruments de propietats psicomètriques
+adequades de l'estat psicopatològic, variables sociodemogràfiques i psicològiques de les
+dones ateses a la USMP. Aquesta avaluació té com a finalitat oferir informació
+complementària a l'entrevista clínica que serveixi d'ajuda a prendre decisions clíniques.
+Prevenir i/o intervenir sobre la simptomatologia posttraumàtica i depressiva, i l'impacte
+sobre l'establiment de l'enllaç mare nadó en dones que han experimentat un part traumàtic.
+Responsabilitats
+Administratius/ves
+Infermers/es
+Metges/esses
+Psicòlegs
+Procediment
+ÀMBIT D'APLICACIÓ
+
+
+Avaluació i intervenció en dones amb part traumàtic
+L'avaluació i la intervenció es realitzarà en dones ateses a la USMP que hagin
+experimentat un part traumàtic.
+POBLACIÓ DIANA
+Cribratge:  totes les dones ateses a la USMP
+Avaluació:  totes les dones ateses a la USMP que hagin puntuat com a positiu en les
+preguntes de cribratge.
+Intervenció: t otes les dones ateses a la USMP que en l'avaluació psicomètrica i primera
+visita es detecti experiència de part traumàtic.
+SEQÜÈNCIA D'INTERVENCIONS
+Cribratge:
+El cribratge es fa a partir de dues preguntes sobre valoració del part i repercussió d'aquest en el
+seu estat actual.
+Aquestes preguntes formen part de l'entrevista telefònica que realitza la infermera al cap de dues
+setmanes postpart i també es troben al quadernet d'avaluació postpart (disponible al SharePoint
+de la USMP, a Avaluació Integral USMP).
+En cas que la puntuació de la primera pregunta sigui inferior a 5 es respon a la segona. Si la
+resposta a la segona pregunta és igual o més gran de 7 es realitzarà sol·licitud a psicologia via
+SAP, per part d'infermeria de salut mental, si es detecta a l'entrevista, o per part de la terapeuta
+referent si es detecta a l'avaluació de la visita postpart.
+Circuit de programació i avaluació en la primera visita:
+L'administrativa programa dues cites, primera visita psicologia (PV) i avaluació
+autoadministrada 30 min. abans.
+Quan la pacient arriba l'administrativa lliura el protocol d'avaluació de part traumàtic a la
+pacient i aquesta li lliurarà de nou el quadernet un cop emplenat.
+El quadernet d'avaluació de la primera visita està disponible al SharePoint de la USMP, a
+Avaluació Integral USMP, amb el nom de l'arxiu "Q PART TRAUMÀTIC".
+L'administrativa lliurarà el protocol d'avaluació al sobre marró a la terapeuta.
+Psicologia administra a la PV l'entrevista d'avaluació SPRINT.
+
+
+Avaluació i intervenció en dones amb part traumàtic
+Psicologia realitza la PV de valoració i la insereix al SAP. Al final d'aquesta primera visita
+la terapeuta estableix un diagnòstic (REA, TEA, TEPT, simptomatologia posttraumàtica,
+sense simptomatologia posttraumàtica, etc.), un pla d'intervenció, corregeix els tests del
+protocol d'avaluació i els insereix al curs clínic SAP de la pacient.
+Tractament:
+El tractament d'elecció serà l'aplicació del Protocol d'episodi traumàtic recent (PETR) (Shapiro,
+2012) o, si no, el Protocol estàndard de la Teràpia EMDR en base als criteris següents:
+Diagnòstic de TEA
+Diagnòstic de TEPT agut
+Presència de simptomatologia posttraumàtica sense complir criteris de trastorn
+No ideació autolítica estructurada
+No comorbiditat amb trastorn mental greu no estabilitzat
+No consum actiu de tòxics
+No diagnòstic de TLP
+La terapeuta informarà l'administrativa després de la PV que la pacient farà el PETR i
+aquesta programarà 4 sessions d'EMDr en 4 setmanes consecutives amb la possibilitat de
+programar sessions addicionals en cas que la terapeuta ho consideri oportú. Un cop
+realitzada la intervenció es realitzarà l'avaluació posttractament que es troba al quadernet
+al SharePoint de la USMP, a Avaluació Integral USMP, amb el nom de l'arxiu "Q PART
+TRAUMÀTIC" i es procedirà a l'alta de psicologia.
+En cas que no estigui indicat el tractament amb EMDR es realitzarà intervenció psicològica
+adequada segons criteri clínic i/o derivació/seguiment amb psiquiatria
+En les pacients en què no s'observi resposta a la intervenció psicològica i/o hi hagi
+empitjorament de la simptomatologia depressiva greu, es derivarà a psiquiatria per a valoració
+de tractament farmacològic.
+Material
+Avaluació específica de part traumàtic:
+Inventario de Depresión de Beck (BDI-II; Beck et al., 1996)
+
+
+Avaluació i intervenció en dones amb part traumàtic
+Inventario de Ansiedad Rasgo de Spielberger (STAI R; Spielberger et al., 1986
+ESCALA DE TRAUMA DE DAVIDSON (DTS; Boves et al., 2000)
+PTSD Checklist for DSM-5 (PCL-5; Weathers et al., 2013)
+Dissociative Experiences Scale - II (DES-II; Carlson et al., 1993)
+CD-Risc (Escala de resiliencia de Connor-Davidson)
+Avaluació posttractament:
+Inventario de Depresión de Beck (BDI-II; Beck et al., 1996)
+Inventario de Ansiedad Rasgo de Spielberger (STAI E; Spielberger et al., 1986
+ESCALA DE TRAUMA DE DAVIDSON (DTS; Boves et al., 2000)
+PTSD Checklist for DSM-5 (PCL-5; Weathers et al., 2013)
+Dissociative Experiences Scale - II (DES-II; Carlson et al., 1993)
+CD-Risc (Escala de resiliencia de Connor-Davidson
+CEPT PERINATAL (Roca y Sureda , 2018)
+PBQ (Pospartum Bonding Questionnaire, Brockington et al. 2006; García-Esteve et al. ,
+2015)
+Problemes relacionats amb el procediment
+Reacció intensa de malestar emocional en emplenar el protocol d'avaluació
+L'administrativa informarà la pacient que interrompi l'emplenament dels tests i avisarà la
+psicòloga.
+Reactivació de la simptomatologia posttraumàtica associada a nova gestació.
+La terapeuta valorarà la idoneïtat d'aplicar la teràpia EMDR o fer un altre tipus d'intervenció.
+Connexions amb altres esdeveniments traumàtics durant les sessions amb R-TPE
+En la mesura que sigui possible es continuarà el processament de l'episodi del part traumàtic. En
+cas que sigui impossible, es valorarà iniciar protocol estàndard.
+Indicadors d'Avaluació
+Percentatge de dones que puntuen positiu en les preguntes de cribratge per la detecció de
+part traumàtic.
+Percentatge de dones que realitzen la primera visita d'avaluació de part traumàtic.
+
+
+Avaluació i intervenció en dones amb part traumàtic
+Percentatge de dones que inicien la intervenció psicològica pel part traumàtic, i que la
+finalitzen.

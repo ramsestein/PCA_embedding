@@ -1,0 +1,331 @@
+Aquest procediment descriu com procedir per a la canalització d'un catèter venós perifèric
+(CVP). La inserció de catèters amb una longitud < 7,6 cm, a través de venes perifèriques, és un
+mètode d'obtenció d'un accés vascular amb la finalitat d'administrar fàrmacs i líquids (amb pH
+entre 5 i 9 i una osmolaritat < 600 mOsmol), sang i hemoderivats, així com per a l'extracció de
+mostres sanguínies.
+Objectiu
+Conèixer quin és el catèter més adient a inserir segons la durada del tractament, el pH i
+l'osmolaritat del fàrmac a infondre (Vegeu Annex 1).
+Prevenir les complicacions associades a catèters venosos perifèrics.
+Assolir els següents objectius:
+NOC 1608 – Control de símptomes.
+NOC 1101 – Integritat tissular
+NOC 1842 – Coneixements: control de la infecció
+
+
+Cateterisme venós d’accés perifèric
+Responsabilitats
+Infermers/es
+Procediment
+PREPARACIÓ DEL PACIENT ABANS DEL PROCEDIMENT
+Realitzarem higiene de les mans abans del contacte amb el pacient.  (Vegeu Higiene de les
+mans)
+Comprovarem la identitat del pacient. (Vegeu Identificació inequívoca del pacient )
+Acomodarem al pacient en decúbit supí amb l'extremitat escollida en hiperextensió,
+separada de la resta del cos.
+Informarem el pacient sobre el procediment que se li ha de fer i la manera en què pot
+col·laborar.
+Descartarem possibles al·lèrgies (làtex, esparadrap, iode, etc.).
+Escollirem la zona de punció. Es recomana a les extremitats superiors i de la zona més
+distal a la proximal, evitant les zones de flexió, sempre que sigui possible. Preferentment
+l'extremitat no dominant. Evitarem zones amb lesions òssies, lligamentoses, inflamatòries,
+pèrdua de sensibilitat o mobilitat, malformacions, amputacions, lesions a la pell, FAVI,
+mastectomia, o buidat ganglionar.
+Retirarem anells i polseres de l'extremitat seleccionada.
+Retallarem el pèl de la pell en la zona de punció si cal (no rasurar).
+I. INSERCIÓ
+SEQÜÈNCIA D'ACCIONS:
+Realitzarem higiene de les mans amb solució alcohòlica i ens col·locarem guants no
+estèrils. (Vegeu Higiene de les mans )
+Col·locarem la talla impermeable sota el braç.
+Desinfectarem la pell de la zona a puncionar, amb una gasa impregnada amb l'antisèptic
+d'elecció (Clorhexidina alcohòlica o aquosa al 2%, povidona aquosa al 10% o Alcohol
+al 70°) amb tècnica d'arrossegament i deixarem actuar fins que s'eixugui. Si hi ha brutícia
+visible a la zona de punció, s'ha de netejar amb aigua i sabó.
+
+
+Cateterisme venós d’accés perifèric
+Prepararem tot el material, deixant els envasos oberts. Catèter, allargadora si
+cal, bioconnectors, gases, guants, xeringa precarregada de sèrum fisiològic i
+apòsit. Considerarem la utilització d'un petit camp estèril en funció de les necessitats.
+Col·locarem la bena compressora uns 10 cm per sobre de la vena a puncionar.
+Realitzarem higiene de mans  (Vegeu Higiene de les mans ) i ens col·locarem guants.
+Utilitzarem guants, nets, però si es preveu la necessitat de tornar a palpar la zona de
+punció, s'ha de fer ús de guants estèrils. (Vegeu Ús de guants ).
+Puncionarem i canalitzarem la vena, observant el flux de sang a l'interior del catèter,
+retirarem el torniquet compressor, introduirem el catèter.
+Una vegada en el lloc correcte, retirarem l'agulla de seguretat, connectarem l'allargador
+purgat i la xeringa amb sèrum salí per comprovar la permeabilitat aspirant sang i injectant
+sèrum.
+Utilitzarem un apòsit estèril semipermeable, transparent i, si és possible, reforçat; que
+permeti visualitzar la zona o, si no és possible (ex: sagnat, diaforesi), utilitzarem apòsits de
+gasa estèril o apòsits estèrils opacs.
+Col·locarem les connexions pertinents:
+allargadores curtes amb clamp i sistema tancat de bioseguretat (simple, bifurcada i
+trifurcada segons la necessitat). (Vegeu Imatge 1, 2,3 )
+En cas de no disposar-ne fer servir allargadora preferentment curta i bioconnectors
+L'equip de sèrum (en cas de portar perfusió).
+Fixarem amb l'embenadura tubular. Desarem l'agulla dins el contenidor. Recollirem el
+material emprat.
+Retirarem els guants i realitzarem higiene de les mans. (Vegeu Higiene de les mans )
+Enregistrarem de forma estandarditzada, a la història clínica, el procediment dut a terme
+(Mòdul de Registres Especials si disposem d'IPA Pacient, i en cas de no disposar registrar-
+lo a curs clínic i/o registres en paper) especificant la data i hora de col·locació, el tipus de
+catèter i calibre, lloc d'inserció i programarem el següent canvi d'apòsit i d'equips en cas de
+portar perfusió.
+Enregistrarem la data de col·locació en un lloc visible de l'apòsit sense tapar el punt de
+punció.
+OBSERVACIONS
+Evitarem utilitzar l'extremitat del pacient on tingui:
+implantada una FAV (fístula arteriovenosa)
+
+
+Cateterisme venós d’accés perifèric
+mastectomia homolateral. En cas de mastectomia bilateral, és recomanable posar-se
+en contacte amb el seu equip oncològic per valor el braç més idoni
+buidat ganglionar
+traumatisme
+infiltracions o extravasacions prèvies
+Extremitat amb hemiplegia
+ 
+La higiene de mans s'ha de fer abans i després de palpar els llocs d'inserció del catèter, així
+com abans i després d'inserir, reemplaçar, accedir o col·locar un apòsit d'un catèter
+intravascular.
+L'ús de guants no obvia la higiene de mans. Cal fer Higiene de mans abans i després de
+l'ús de guants.
+La infecció és la complicació més greu relacionada amb la utilització dels catèters
+vasculars i pot anar des de la simple colonització del catèter fins a situacions clíniques
+molt més greus com les trombosis sèptiques o l'endocarditis infecciosa.
+La utilització d'allargadora, evita la pressió directa sobre el catèter i disminueix el risc de
+flebitis mecànica.
+Els catèters i allargadores curtes, han de quedar molt ben fixats per tal d'impedir la
+mobilització entorn del punt d'inserció. No fixar el catèter amb tira adhesiva (esparadrap o
+similar) directament en la connexió que va unida als equips de sèrum, perquè en retirar
+aquesta, la superfície queda impregnada d'una substància adherent que facilita la
+colonització.
+Utilitzarem un catèter perifèric de línia mitja o un catèter central d'inserció perifèrica
+(PICC), en lloc d'un catèter perifèric curt, quan la durada de la teràpia intravenosa és
+probable que sigui superior a sis dies.(Grau d'evidència: Categoria II) o si ho requereix per
+les característiques del fàrmac a infondre (Vegeu  Annex 1).
+Utilitzarem preferiblement l'apòsit indicat segons el document
+d'estandardització d'apòsits d'accés vascular existent a l'Hospital  (Vegeu Imatge 4) perquè
+permeten visualitzar el punt de punció.
+II. MANTENIMENT
+SEQÜÈNCIA D'ACCIONS:
+
+
+Cateterisme venós d’accés perifèric
+Cura de la via intravenosa, lloc d'inserció:
+Realitzarem higiene de les mans immediatament abans d'accedir al catèter. (Vegeu 
+Higiene de les mans )
+Si s'està usant / utilitzant un apòsit transparent, avaluarem el punt d'inserció del catèter
+diàriament per inspecció visual, en altres casos per palpació a través de l'apòsit Si el
+pacient presenta dolor en el lloc d'inserció, febre d'origen desconegut o altres
+manifestacions locals, s'ha de retirar l'apòsit i inspeccionar visualment el punt d'inserció.
+(Grau d'evidència: Categoria II).
+Avaluarem diàriament la zona d'inserció, observant l'aparició de signes de flebitis
+mitjançant l'escala Maddox: (Vegeu Imatge 5). Si presenta algun d'aquests signes,
+retirarem el catèter i registrarem el tipus de complicació. Si el pacient té sensibilitat local o
+altres signes de possible inflamació, retirarem l'apòsit per inspeccionar visualment el punt.
+(Categoria II).
+Abans d'accedir al catèter netejarem vigorosament la connexió o el bioconnector amb
+alcohol de 70°.
+Comprovarem el reflux i la permeabilitat del catèter abans d'injectar qualsevol
+solució. Netejarem la via venosa amb 5 - 10 ml de sèrum salí (preferiblement amb xeringa
+precarregada) abans i després de l'administració de medicaments endovenosos amb
+tècnica Push-Stop-Push (P-S-P) i pressió positiva final. Després de l'extracció de mostres
+sanguínies o l'administració d'hemoderivats, netejarem amb 20 cc de sèrum salí,
+preferentment en xeringa precarregada: 2 xeringues de 10 cc).
+Evitarem les desconnexions del catèter amb el sistema de degoteig. Per la injecció de més
+d'un fàrmac endovenós, utilitzarem les allargadores simple, doble i triples segons les
+necessitats.
+En cas de solucions intermitents, disposarem de bioconnectors per obturar el pas lliure del
+catèter. Sempre que sigui possible, evitarem l'ús de les claus de tres passos.
+Instruirem al pacient de la importància que ens informi precoçment de qualsevol símptoma
+o incidència relacionada amb la via.
+No farem servir antibiòtics tòpics en el lloc d'inserció.
+Farem higiene de les mans i usarem guants nets (Vegeu  Ús de guants ) per realitzar els
+canvis d'apòsit.
+Canvi d'apòsit:
+
+
+Cateterisme venós d’accés perifèric
+Substituirem l'apòsit semipermeable i transparent cada 7 dies (tenint en compte que si la
+durada del tractament és superior a 6 dies, caldrà valorar la necessitat d'inserir un altre
+tipus d'accés vascular), i l'apòsit de gasa cada 48 hores.
+Substituirem l'apòsit quan estigui mullat, desenganxat, brut o sigui necessari per
+inspeccionar la zona de punció.
+Canvi de catèter:
+Valorarem diàriament la necessitat de continuïtat del catèter i enregistrarem el seguiment a
+la història clínica del pacient.
+No canviarem els catèters perifèrics de forma rutinària, només si existeixen signes de
+flebitis (dolor, calor, induració, eritema, edema i la presència d'un cordó venós dur i
+dolorós), infecció, si el catèter funciona malament i quan el catèter no estigui clínicament
+indicat.
+Canviarem els catèters inserits en situació d'emergències (inserció de la via en condicions
+no asèptiques), col·locant un nou catèter en un punt diferent, dins les 24 hores següents a
+la inserció.
+Canvi d'equips:
+Substituirem els equips intravenosos, incloses les allargadores i bioconnectors, cada 96
+hores o abans si és necessari (p. ex: desconnexió accidental).
+Substituirem o rebutjarem l'equip utilitzat per administrar hemoderivats en finalitzar la
+perfusió d'aquests.
+Substituirem l'equip emprat per administrar emulsions lipídiques cada 24 h, i en el cas del
+Propofol cada 12 h. (Vegeu PNT Cures de Catèter vascular. Protocol Bacterièmia zero )
+Substituirem l'equip en el moment que es canvia el catèter.
+Recorda que l'allargadora connectada al catèter i les claus de tres passos, formen part de
+l'equip de perfusió i s'han de canviar sempre que es realitza canvi d'equip estandarditzat
+cada 96 h.
+Solucions intermitents:
+Abans de l'administració de fàrmacs netejarem la membrana del bioconnector
+vigorosament amb una gasa impregnada en alcohol uns 15 segons i comprovarem reflux.
+
+
+Cateterisme venós d’accés perifèric
+Després de l'administració de medicaments, infondrem 5-10 ml de sèrum fisiològic amb
+tècnica P-S-P per segellar la via i col·locarem bioconnector.
+Accés a les connexions i claus de tres passos:
+Desinfectarem la connexió abans de cada accés, tant per injectar medicació o sèrum, com
+per dur a terme extraccions. Categoria IA.
+La desinfecció s'ha de realitzar amb una cel·lulosa pre tallada , gasa impregnada en alcohol
+de 70° o clorhexidina alcohòlica 2% o les tovalloletes comercials individuals impregnades
+en alcohol 70°
+Utilitzarem només les claus imprescindibles, retirant-les quan no siguin necessàries i
+deixant un bioconnector.
+Canviarem els taps de les claus de tres passos, per bioconnectors al més aviat possible.
+III. RETIRADA
+Retirarem de forma immediata els catèters que no siguin essencials (CDC, evidència IA)
+Realitzarem la higiene de mans i ens col·locarem uns guants no estèrils, excepte si s'ha de
+fer cultiu de punta de catèter en què utilitzarem guants estèrils.
+Col·locarem una talla impermeable sota l'extremitat.
+Retirarem l'apòsit i a continuació la via venosa.
+Farem hemostàsia amb gasa durant 1 minut. Considerarem aquells pacients amb trastorns
+de la coagulació o amb tractaments actuals d'anticoagulants, i augmentarem el temps de
+compressió després de la retirada del catèter.
+Col·locarem un apòsit adhesiu. Retirarem els guants i ens realitzarem higiene de mans.(
+Vegeu Higiene de les mans )
+Registrarem la data i el motiu de retirada a la història clínica del pacient.
+Material
+Catèter venós d'accés perifèric (tipus Medicuth®, Abbocath®)
+14G SAP: 182060
+16G SAP: 182061
+18G SAP: 182062
+20G SAP: 182063
+
+
+Cateterisme venós d’accés perifèric
+Nexiva® 24G SAP: 182068), microperfusor epicraneal (agulles amb ales
+"palometes").
+1 parell de guants nets. T.M. SAP: 180454 o estèrils T.M. SAP: 180458
+Torniquet compressor codi SAP: 181862
+Solució de Clorhexidina alcohòlica (preferiblement) o aquosa al 2% (En cas d'intolerància
+o d'al·lèrgia, utilitzar povidona 10% o alcohol 70%).
+Apòsit transparent reforçat
+7 x 8,5 cm, codi sap 193634
+7 x 8 cm, codi sap 190332
+Bioconnectors si es disposen a la unitat SAP: 182209 i Clau de 3 passos només si és
+necessària
+Allargadores simples codi SAP 211237, /doble codi SAP 182203, triple codi SAP 182208
+Xeringa 2 peces:
+5 ml codi SAP: 182136
+10 ml SAP: 182113 precarregades
+Sèrum fisiològic 10 ml, en envàs unidosi
+Gases estèrils 10 x 10 SAP: 180012
+Contenidor de material punxant 1,8 L SAP: 181786; 4L SAP: 181789
+Embenadura tubular de malla, per a subjecció d'apòsits 5 cm SAP: 180152
+Allargadora 30 cm SAP: 182192.
+Talla impermeable 75x75 amb adhesiu SAP: 180423
+Aspectes a remarcar
+És recomanable utilitzar catèters de calibres inferiors perquè provoquen menys alteració a
+l'íntima de la vena.
+No mantenir els catèters venosos més temps del necessari.
+Desinfectar sempre les connexions amb alcohol o clorhexidina alcohòlica 2% abans
+d'accedir al catèter.
+És recomanable no fixar el catèter amb tira adhesiva directament a sobre de la connexió
+que va unida als equips de sèrum, perquè en retirar l'esparadrap o similar, queda la
+superfície impregnada d'una substància adherent que facilita la colonització.
+Valorar la conveniència de retirar la via venosa i col·locar-ne una de nova davant de
+qualsevol complicació.
+La higiene de mans s'ha de realitzar sempre abans i després de palpar, inserir, substituir o
+manipular qualsevol dispositiu intravascular.
+
+
+Cateterisme venós d’accés perifèric
+És important conèixer quin és el catèter més adient a inserir segons la durada del
+tractament, el pH i l'osmolaritat del fàrmac a infondre (Vegeu Annex 1).
+Vigilarem sovint que el flux de la perfusió sigui constant.
+Flebitis
+Activitat
+Manifestada per dolor, eritema a la zona de punció, palpació de cordó o
+trajecte venós endurit i eritematós
+Avaluarem i actuarem segons l’Escala de Valoració del Grau de la
+Flebitis
+Retirarem el catèter, evitant col•locar un de nou en la mateixa zona o en
+la proximitat de la vena alterada
+Valorarem i consultarem amb el metge responsable del pacient, la
+necessitat de realitzar un cultiu de punta de catèter en retirar-lo i
+hemocultiu
+Col·locarem compreses tèbies d’aigua de Burow® a la zona afecta, per
+alleujar el dolor durant uns 15 minuts
+Infiltració i/o extravasació
+Activitat
+Esbrinarem si el tipus de substància és vesicant (per ex. quimioteràpics)
+i actuarem segons normes establertes en el procediment i el kit
+d’extravasació de citostàtics. En cas de dubte, trucarem al Servei de
+Farmàcia
+Informarem i consultarem amb el metge responsable
+Risc d’infecció relacionat amb el catèter invasiu
+Codi NANDA
+
+
+Cateterisme venós d’accés perifèric
+00004
+Codi Nic
+6550
+Intervenció
+Protecció contra les infeccions
+Risc d’infecció relacionat amb el catèter invasiu
+Codi NANDA
+00004
+Codi Nic
+3440
+Intervenció
+Cura dels punts d’incisió
+Risc d’infecció relacionat amb el catèter invasiu
+Codi NANDA
+00004
+Codi Nic
+3590
+Intervenció
+Vigilància de la pell
+Obstrucció del catèter
+Activitat
+Revisarem l’existència de colzaments al llarg del sistema
+Aspirarem amb xeringa de 10cc. Mai introduirem sèrums de forma
+forçada. En cas de no permeabilitat i/o reflux sanguini a través del
+
+
+Cateterisme venós d’accés perifèric
+catèter, el retirarem i canalitzarem un nou, en cas de ser necessari
+Riscos Laborals
+Contacte amb agents biològics
+Indicadors d'Avaluació
+Percentatge de pacients amb catèter venós perifèric inserit que no presenten complicacions
+relacionades amb la inserció, manteniment i retirada.
+Percentatge de pacients amb infecció (bacterièmia) associada a cateterisme venós
+perifèric.
+Percentatge de nous episodis de bacterièmia relacionada amb catèter + bacterièmia
+primària.
+Percentatge de pacients amb presència d'esdeveniments adversos durant la inserció de
+CVP (sagnat/hematoma, infecció)
+Percentatge de pacients amb catèter venós perifèric que presenten flebitis.
+Percentatge de pacients amb presència d'esdeveniments adversos relacionats amb CVP
+(sagnat/hematoma, infecció, flebitis, infiltració/extravasació).
+Registres
+Pla de cures
+Portal professional
+Registres especials
+Diagrama de Flujo
+
+
+Cateterisme venós d’accés perifèric

@@ -1,0 +1,95 @@
+Hi ha alguns assajos realitzats en la unitat que requereixen tractament amb radiofàrmacs.
+Aquests tractaments i alguns procediments associats s'han de dur a terme a les instal·lacions de
+medicina nuclear amb personal qualificat.
+Objectiu
+Descriure el procés que s'ha de seguir perquè un pacient d'assaig de la unitat d’assajos es tracti
+amb un radiofàrmac i es realitzin els procediments associats de manera correcta i segura.
+Responsabilitats
+Administratius/ves
+Altres
+Coordinadors/es
+
+
+Gestió de procediments de medicina nuclear
+Infermers/es
+Metges/esses
+Tècnics/ques
+Procediment
+Les accions a realitzar es poden dividir en els següents punts:
+ORGANITZACIÓ DE PROCEDIMENTS PRE-TRACTAMENT
+Abans d'enviar el correu de programació a la Inther Unit (IU), la coordinadora (SC) ha d'acordar
+un dia i hora de tractament amb la coordinadora de medicina nuclear (CMN). Després d’acordar
+la data de realització, la SC fa la sol·licitud de tractament en SAP (disponible a l'àrea de CDI).
+La CMN planifica la cita del pacient a la seva agenda i el SC comunica, en paral·lel, la
+programació a la IU pels altres procediments de la visita. Tant secretaria de la IU com secretaria
+de MN informen el pacient de les respectives cites, quan apliqui. La infermera coordinadora de
+l'assaig (SN), enviarà amb uns dies d'antelació (aproximadament una setmana) a la CMN, la
+informació necessària amb els procediments a realitzar a MN.
+EL DIA PREVI AL TRACTAMENT
+L'equip mèdic d'oncologia (ONC) o hematologia (HEM) després de la visita i valoració al
+pacient, anota a SAP aquesta valoració respecte a l’administració del tractament.
+En el cas que el tractament no es pugui administrar, l’equip mèdic avisa a la SC perquè al seu
+torn, la SC ho comuniqui a la CMN perquè realitzi les accions pertinents (ex: anular la citació
+del tractament, reprogramar la cita, etc.).
+
+
+Gestió de procediments de medicina nuclear
+Addicionalment, la SC sol·licita mitjançant IVRS (sistema de dispensació del promotor),
+l'enviament de radiofàrmac per a la següent administració del pacient, després d’acordar la nova
+data amb la CMN.
+El radiofàrmac, es recepciona i emmagatzema a l'àrea de radiofarmàcia.
+DIA DEL TRACTAMENT
+El dia de l'administració, si el pacient té procediments d'infermeria previs, es realitzen a la IU i
+els administratius de la IU demanen un portalliteres “urgent” perquè el porti a MN quan acabi.
+Si no té procediments previs a l'administració, el pacient es cita directament a MN.
+L'administració del tractament i els procediments associats fins que el pacient completa el temps
+de permanència per criteris de radioprotecció, es duen a terme a MN. Aquest temps pot variar
+segons el radiofàrmac administrat.
+Les IPA (infermera de pràctica avançada) de MN introdueixen les dades dels procediments
+realitzats a MN a SAP, d'acord amb la informació que prèviament la SN de l'assaig els ha
+compartit a través de la CMN.
+Si durant aquests procediments, es veu una alteració en paràmetres de signes vitals o ECG
+(electrocardiograma), es valoren immediatament per un metge de MN.
+Els ECGs realitzats a MN amb màquina proporcionada pel promotor es lliuren a la CMN, que
+durà a terme 3 accions:
+- Escaneig d’aquests ECGs perquè estiguin disponibles per l'equip investigador a la carpeta
+corresponent.
+- Emmagatzematge dels ECGs a l'arxiu de MN.
+- Enviament dels ECGs al promotor.
+
+
+Gestió de procediments de medicina nuclear
+En el cas que associat al tractament administrat es requereixin dosimetries en sang, orina o per
+imatge durant el període de permanència per protecció radiològica, es realitzen a MN i es
+registra la informació en SAP.
+En el cas que associat al tractament administrat s'hagin d'extreure i processar mostres per al seu
+enviament durant el període de permanència per protecció radiològica, es realitzen a MN i
+s’emmagatzemen al congelador de MN, amb tubs preparats pels tècnics de la IU, que s'han
+portat prèviament (habitualment el mateix dia). L'endemà, els tècnics de laboratori de la IU (o
+TCAI segons disponibilitat) el recullen per emmagatzemar -les a la IU i fer l'enviament des
+d'allà. El punt de contacte per l’entrega i recollida de tubs/mostres a MN és la CMN.
+Si s'han de processar les mostres que s'extreuen en MN immediatament amb una centrífuga, es
+processen per part del personal de radiofarmàcia abans d'emmagatzemar.
+Després de completar el període de permanència per protecció radiològica determinat i en
+funció de si té o no més procediments associats post-tractament, el pacient marxa a casa o és
+dirigit a la Inther Unit acompanyat d’un portalliteres.
+Material
+Protocols d’assajos.
+Màquines d’ECG.
+Centrífuga.
+Aspectes a remarcar
+La activitat d’infermeria de MN acaba a les 15:30h, s’ha de tenir en compte per programar els
+pacients i que puguin complir el període de permanència per protecció radiològica.
+Problemes relacionats amb el procediment
+No aplica
+
+
+Gestió de procediments de medicina nuclear
+Riscos Laborals
+Pacients en tractament amb radiofàrmacs, s’apliquen les normes de seguretat de protecció
+radiològica.
+Indicadors d'Avaluació
+Nº d’errors reportats internament del seguiment del circuit.
+Nº de desviacions o incidències reportades pels monitors.
+Registres
+Notificació d’incidències a través de calidadIU@recerca.clinic.cat .

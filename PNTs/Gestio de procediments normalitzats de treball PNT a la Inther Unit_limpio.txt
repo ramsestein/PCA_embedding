@@ -1,0 +1,181 @@
+La Inther Unit es regeix per PNTs i genera documentació de qualitat pròpia per certes activitats
+internes i específiques de la unitat.
+Objectiu
+Descriure el procés de gestió dels documents de Qualitat de la Inther Unit, les polítiques
+(POL), els procediments normalitzats de treball (PNT), els formularis associats (FRM),
+les plantilles (PLT) i altres documents, per garantir el compliment de les normatives i
+regulacions nacionals i internacionals aplicables, els principis ètics i científics i principis
+de qualitat de la Unitat.                                                                                                           
+                
+
+
+Gestió de procediments normalitzats de treball (PNT) a la Inther
+Unit 
+Controlar la creació i edició dels documents de qualitat, perquè tinguin un format igual i
+una nomenclatura lògica. 
+Responsabilitats
+Altres
+Tècnics/ques
+Procediment
+Els documents de qualitat de Inther Unit es basen en els principis i requisits de les normatives i
+reglamentacions nacionals i internacionals aplicables, estàndards científics, ètics i de qualitat, i
+necessitats de la unitat.  
+El castellà i el català són els idiomes oficials de tots els documents de Qualitat de la Inther Unit. 
+La jerarquia dels documents de qualitat.( Vegeu  Imatge 1)
+Les POL proporcionen un marc per a la gestió de la Unitat i descriuen les pràctiques i principis
+generals. Una POL inclou una secció de declaració de política que articula i estableix
+compromisos i principis generals.  
+Els PNT descriuen els processos i donen instruccions per a implementar i executar les
+pràctiques i principis descrits en les POL.  
+Els FRM i les PLT s'utilitzen per a capturar dades i serveixen per a proporcionar evidència de
+les activitats realitzades que es descriuen en els PNT. 
+ 
+FORMAT I REDACCIÓ 
+
+
+Gestió de procediments normalitzats de treball (PNT) a la Inther
+Unit 
+Els PNTs es creen a la plataforma de l'hospital CERCA'M i han de seguir el PNT_HCB-T-S-
+492_Llibre d'Estil, on es defineixen i s'estandarditzen els aspectes relacionats amb el contingut
+dels apartats, el format i la correcció ortogràfica que s'han de seguir en la creació d'aquests
+documents. També ofereix eines i solucions als problemes que poden sorgir durant el redactat. 
+Tots els documents de Qualitat tenen un identificador únic, que es troba en l'encapçalat de cada
+document. L'identificador no es reutilitza en altres documents i es retira quan es retira el
+document. 
+L'identificador únic es compon d'una combinació de l'abreviatura del tipus de document i el
+número seqüencial en l'àrea funcional respectiva.  
+La versió inicial d'un Document Controlat s'assigna com la versió 1.0, seguida d'un ascens de la
+versió de nombre enter amb cada revisió aprovada posterior (és a dir, 2.0, 3.0, etc.) i s'afegeix la
+data de creació.  
+Els documents de qualitat es classificaran amb un codi alfanumèric indicant:
+Tipus de document:  
+ Procediment Normalitzat = PNT  
+Note To File = NTF  
+Formulari = FRM  
+Plantilla = PLT  
+Document General = DOC  
+Departament: ICMHO  
+ Unitat de Teràpies Avançades o Inther Unit = IU  
+ Categoria: 
+Assistència mèdica, responsabilitat mèdica = ME  
+Seguretat = SG  
+Farmàcia = FA  
+General = GR  
+Qualitat = CA  
+Infermeria = EF  
+Número cronològic de la creació del document 
+Nom del Procediment 
+Número de versió = v (número de versió, amb dos dígits)  
+
+
+Gestió de procediments normalitzats de treball (PNT) a la Inther
+Unit 
+Data: dia-mes-any = DD-"Mes"-AAAA 
+El dia sempre serà el primer del mes que apliqui. 
+El mes s'abreviarà, si és possible, segons normes generals: 
+gener: gen. 
+febrer: febr. 
+març: no s'abreuja 
+abril: abr. 
+maig: no s'abreuja 
+juny: no s'abreuja 
+juliol: jul.
+agost: ag. 
+setembre: set. 
+octubre: oct. 
+novembre: nov. 
+desembre: des. 
+Hi ha una separació d'una barra baixa entre cada apartat. 
+ 
+Per exemple, el primer PNT creat a l'àrea de Garantia de qualitat, el 05 de juny de 2021 tindria
+l'identificador: PNT_ICMHO_IU_CA_01_"Nom del procediment"_v1.0_05-juny-2021. 
+En els documents, aquest codi apareixerà com a Codi Certificació. També apareixerà un altre
+codi que es genera automàticament, el Codi Gestor, què és un control de documentació de la
+mateixa plataforma.
+CREACIÓ, REVISIÓ, APROVACIÓ I RETIRADA DE DOCUMENTS 
+Aquests documents de Qualitat són iniciats i escrits o revisats per un expert en la matèria o per
+un tècnic de qualitat que coneix el procediment. 
+Els documents realitzats són revisats pel departament de Qualitat i pel responsable de cada
+àrea/departament (coordinació, infermeria, etc.). 
+Finalment, seran revisats pel Cap de la unitat, que juntament amb el Cap de l'ICMHO donaran
+la seva aprovació.                                                                                                                             
+                     
+
+
+Gestió de procediments normalitzats de treball (PNT) a la Inther
+Unit 
+L'autoritat d'aprovació de la documentació de Qualitat i l'autoritat de retirada s'assignen com es
+pot veure a la  Taula 1.
+Fins que el document no està aprovat, no es considera vigent. Una vegada és vigent, es fa
+difusió a tot el personal aplicable. 
+Els documents de Qualitat es revisen per a determinar la seva idoneïtat cada dos anys. Si fos
+necessari, per canvi de procediments o documents, es farà una revisió abans d'aquesta data i els
+dos anys fins a la pròxima revisió, comptaran a partir d'aquí.  
+Quan el personal de la unitat detecti que s'ha de modificar el procediment o document, s'ha de
+posar en contacte amb el responsable de qualitat que valorarà amb els responsables
+corresponents la idoneïtat del canvi i se seguirà el procediment descrit.                                         
+                                     
+Totes les revisions generen un nou número de versió per aquell document que es registra al
+DOC_ICMHO_IU_CA_03_Registre de Control de la Documentació_v2.0_01-Maig-2022,
+veure Annex 1.
+CONTROL, ACCÈS I DISTRIBUCIÓ 
+Un cop generada la nova versió d'un document o un document nou, se'n farà difusió explicant
+els canvis o punts rellevants i la ubicació del document. 
+Els documents es generen automàticament al CERCA'M (en el cas de les PNTs) o es generen a
+l'arxiu privat del departament de qualitat. Una vegada vigents estan disponibles a les carpetes
+internes de la unitat a la ruta Q:\ENSAYOS_CLINICOS_ONCOLOGIA\0.Documentos
+comunes\PNT. Els PNT també estan disponibles a la intranet de la unitat. 
+El tècnic de qualitat és l'encarregat de pujar els arxius designats als repositoris corresponents
+una vegada estan aprovats, en un termini màxim de tres dies laborables. El personal de la unitat
+pot consultar tant un reservori com l'altre, però no pot utilitzar còpies impreses o documents en
+un altre repositori documental. Només el personal intern pot accedir a aquests documents. 
+Els documents de Qualitat retirats o reemplaçats s'eliminen dels repositoris de
+documents Inther Unit, i són arxivats pel tècnic de qualitat en una carpeta interna del
+departament de qualitat. 
+
+
+Gestió de procediments normalitzats de treball (PNT) a la Inther
+Unit 
+ 
+FORMACIÓ DE DOCUMENTS DE QUALITAT 
+El personal nou a la unitat ha de realitzar una formació a la plataforma de l'hospital que
+s'anomena FORMEM. Un cop realitzada quedarà entrenat d'aquells documents de qualitat que li
+apliquen segons el seu rol. 
+Els documents s'assignen d'acord amb la matriu de formació de documents de qualitat
+de Inther Unit. 
+El format de formació estàndard per als documents de Qualitat és "llegir i comprendre".  
+Els responsables funcionals poden proporcionar formació suplementària sobre documents de
+qualitat segons ho considerin apropiat.  
+ 
+DISTRIBUCIÓ EXTERNA 
+Els documents de qualitat de la Inther Unit són per a ús intern. No es poden distribuir a l'exterior
+excepte si es compleixen els següents requisits:  
+ 
+Autoritats sanitàries amb sol·licitud oficial per escrit, o sol·licitud verbal durant una
+inspecció amb l'autorització del tècnic de qualitat o persona assignada o responsable de la
+Unitat.  
+Promotors, Contract Research Organizations (CROs), consultors, proveïdors: amb acord
+de confidencialitat signat.  
+ 
+Quan les parts externes ja no requereixin l'ús de documents de qualitat, se'ls sol·licita a aquestes
+parts que confirmin l'eliminació / destrucció adequada dels documents de qualitat
+proporcionats. 
+Material
+
+
+Gestió de procediments normalitzats de treball (PNT) a la Inther
+Unit 
+Plataforma CERCA'M. 
+Plataforma FORMEM. 
+Aspectes a remarcar
+El personal de la Inther Unit és responsable de complir amb els procediments de qualitat. Es
+prohibeix l'ús de PNT i documents de qualitat obsolets.  
+La direcció de la Inther Unit és responsable d'assegurar que els documents de qualitat es
+redactin, revisin, aprovin, implementin, mantinguin, comuniquin d'acord amb els requisits
+reglamentaris.  
+El tècnic de qualitat o persona assignada és responsable de gestionar i mantenir els documents
+de qualitat de la Inther Unit. 
+Indicadors d'Avaluació
+Nombre de PNTs aprobats amb errors de procediment i/o format.
+Nombre de procediments seguits segons documents obsolets.
+ 

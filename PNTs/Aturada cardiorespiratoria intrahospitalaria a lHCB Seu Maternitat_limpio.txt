@@ -1,0 +1,282 @@
+Procediment d'actuació de l'equip interdisciplinari per a l'atenció del pacient en situació
+d'aturada cardiorespiratòria (ACR) a les unitats d'hospitalització, centres diagnòstics
+(extraccions, ressonància magnètica, TAC, etc.) i zones comunes. Excloent unitats de Crítics,
+Urgències i Quiròfans d'oftalmologia i obstetrícia de l'Hospital Clínic Seu Maternitat.
+Objectiu
+Reanimar, estabilitzar i, si és necessari, realitzar el trasllat a la unitat corresponent.
+Assegurar la correcta realització del procediment identificant els diferents passos a seguir
+durant el mateix.
+Evitar i/o detectar de manera precoç l’aparició dels possibles problemes relacionats amb el
+procediment.
+Responsabilitats
+
+
+Aturada cardiorespiratòria intrahospitalària a l'HCB (Seu
+Maternitat)
+Auxiliars sanitaris
+Coordinadors/es
+Infermers/es
+Metges/esses
+Procediment
+PREPARACIÓ DEL PACIENT ABANS DEL PROCEDIMENT
+El pacient requereix preparació prèvia.
+PERSONAL:
+Infermer/a responsable del busca d'atur  (Busca 381203): sempre que l'activació sigui
+intrahospitalària, la infermera referent de l'equip d'atur serà l'encarregada de portar el carro
+d'atur amb el desfibril·lador. Monitoratge del pacient. Preparació i administració de la
+medicació. Suport a anestèsia en el procés d'intubació. Col·locació d'accés venós i
+extracció d'analítiques. Acompanyament del pacient durant el trasllat. Emplenar el full de
+registre. Reposició del carretó d'aturada. (Vegeu Annex 1).
+Metge anestesiòleg/a:  (Busca 381205) Valoració i diagnòstic de l'ACR. Assegurarà via
+aèria. Direcció i coordinació de l'equip d'aturada en la presa de decisions. Vigilarà el
+monitoratge del pacient i la utilització del DEA i del desfibril·lador manual. Col·laborarà
+amb la infermera, si és necessari, en l'administració de la medicació.
+Metge de guàrdia ginecologia:  (Busca 381204) Anirà a l'ACR sempre que l'avís sigui
+d'una unitat ginecològica.
+Torn matí: Coordinadora de sala: Torn matí 8-16:30 de dilluns a divendres (Busca
+382221). Resta del torn, cap de setmana i festius: Coordinador/a de direcció d'infermeria
+general (380043) Suport i coordinació del trasllat del pacient. La infermera responsable
+del pacient i la TCAI de la unitat o servei donaran suport a l'equip d'aturada.
+Auxiliar Sanitari general (Busca 381202) anirà a l'ACR i en cas que l'activació sigui
+extrahospitalària, s'encarregarà de portar el maletí i el DEA al lloc de l'aturada i
+s'encarregarà del trasllat del pacient. (Vegeu Annex 2).
+SEQÜÈNCIA D’INTERVENCIONS:
+
+
+Aturada cardiorespiratòria intrahospitalària a l'HCB (Seu
+Maternitat)
+Rebem la trucada d'avís de l'ACR. (Vegeu Annex 3)
+Els membres de l'equip es desplaçaran a la unitat o servei on indiqui la trucadaLa
+infermera de l'equip d'atur de l'equip, anirà a buscar el carretó d'aturada més pròxim.
+(Vegeu Annex 3).
+Primera actuació:
+Infermera de l'equip realitzarà el monitoratge cardíac del pacient i comprovarà l'accés
+venós. Prepararà el material necessari per als diferents procediments (intubació,
+extraccions d'analítiques, preparació i administració de medicació...).
+Metge anestesiòleg: valorarà la consciència i la respiració, així com la permeabilitat de la
+via aèria. IOT (intubació orotraqueal), si és necessari. Valorarà el monitoratge cardíac i la
+utilització del DEA i desfibril·lador, si fos necessari.
+Metge de guàrdia de ginecologia: donarà suport a la reanimació del pacient 
+L'equip d'infermera responsable del pacient, donarà suport a aturada.
+L'Anestesiòleg com a coordinador i amb col·laboració de l'equip, prendrà les decisions
+segons l'estat i les característiques del pacient, seguint els protocols establerts.  (Vegeu
+Algoritme )
+Un membre de l'equip controlarà el temps, habitualment el control el té l'anestesiòleg que
+determina els cicles d'actuació.
+Si el pacient s'estabilitza:
+El/la coordinador/a de direcció d'infermera general tramitarà el trasllat. 
+El/la infermer/a de l'equip prepararà la medicació necessària per al trasllat i
+monitorarà al pacient pel seu trasllat.
+El metge anestesiòleg es farà càrrec de la correcta ventilació i rebrà suport de la infermera
+del busca d'atur i de la coordinadora durant el trasllat.
+Després del trasllat del pacient, el/la infermer/a de l'equip d'atur s'encarregarà de retornar a
+la seva ubicació el carretó, realitzar la correcta neteja del material i reposició, segons
+procediment. Anotarà a l'Excel la reposició, les caducitats i precintarà els calaixos. (Vegeu
+Annex 1).
+El/la infermer/a de l'equip emplenarà el full de registre (Vegeu Annex 4).
+URGÈNCIES EN VIA PÚBLICA:
+El missatge de la urgència arriba als professionals que porten el busca d'atur.
+
+
+Aturada cardiorespiratòria intrahospitalària a l'HCB (Seu
+Maternitat)
+S'utilitzarà el DEA que està ubicat a la sala d'espera de la planta 0 al davant de la porta
+d'urgències (Vegeu Imatge 1 ) i el maletí de primers auxilis (Vegeu Imatge 2 i 3 ) ubicat a
+un armari del passadís del bloc obstètric (al costat de l'UCOI) que consta del material
+necessari per prestar la primera atenció mentre arriba l'ambulància del 112. (Vegeu Annex
+5).
+Cal registrar la urgència al "Registre d'assistència urgent" (despatx supervisor/a general).
+(Vegeu Annex 6).
+OBSERVACIONS:
+Realitzar un constant feedback (confirmació emissor-receptor-emissor) dels missatges,
+entre els diferents membres de l'equip, tant de les indicacions i les execucions de
+procediments com de l'administració de medicació.
+Si el/la infermer/a es trobés amb la impossibilitat d'arribar al lloc indicat de l'aturada per
+un problema "mecànic" (problemes amb els ascensors, trencament de rodes del carretó
+d'aturada...), hauria d'agafar el desfibril·lador, i portar-lo a la unitat on s'ha produït l'ACR.
+El coordinador/a de la direcció d'infermeria s'encarregarà de gestionar l'arribada del
+carretó a la unitat o servei.
+A vegades, l'equip d'ACR pot ser activat en situacions en què el pacient no estigui en
+ACR, sinó en preaturada o amb una inestabilitat hemodinàmica que requereixi cures de
+pacient crític. En aquestes circumstàncies, l'equip d'ACR, es desplaçarà igualment al lloc
+on s'ha produït la trucada i actuarà en conseqüència amb l'estat del pacient. Un cop
+estabilitzat, es gestionarà el seu trasllat a la unitat de cures especials que correspongui.
+Material
+Carretó d’aturada
+Tauló de RCP propi de la sala
+Tamboret
+DEA
+Aspectes a remarcar
+La detecció i identificació de la situació d’ACR per part del personal sanitari. Un cop que
+es considera que se està davant una ACR, s’iniciarà l'activació del sistema d’aturada
+
+
+Aturada cardiorespiratòria intrahospitalària a l'HCB (Seu
+Maternitat)
+mitjançant l’algoritme de trucada. (Vegeu Annex 3).
+Per realitzar un avís d'aturada cardíaca s'han de seguir les següents instruccions: (Vegeu
+Annex 7)
+                                1) Despengi el telèfon
+                                2) Marqui 4444
+                                3) Escolti la locució "Marqui el número de grup"
+                                4) Marqui 12
+                                5) Després d'escoltar el senyal DIGUI la ubicació exacta de l’aturada:
+Escala – Planta Repeteixi el missatge dues vegades.
+                                6) Premi  #  (coixinet)
+                                7) Escoltarà ”El seu missatge ha estat enviat” “Gràcies”
+                                8) Pengi el telèfon
+En cas de fallida del Sistema: Marqui el número 2222 (Operadors/es de telèfons).
+Notifiqui la ubicació de l'aturada cardíaca als operadors/res de telèfons. Els operadors/res
+de telèfons enviaran un missatge escrit al grup d'aturada cardíaca i, si no fos possible,
+trucaran un per un els telèfons del grup d'aturada cardíaca. Les accions indicades són
+vàlides per a telèfons fixos, tant analògics com digitals, i per a telèfons mòbils.
+Al bloc obstètric (sala de parts, urgències i UCOI) hi ha un carretó d'aturada amb
+desfibril·lador que està situat al costat del quiròfan gran. La infermera d'UCOI serà
+l'encarregada de portar aquest carretó al lloc de l'aturada dins del bloc obstètric.
+En l'actuació de l'equip interdisciplinari en l'aturada cardíaca, és imprescindible que cada
+membre d'aquest equip conegui i comprengui els rols i les funcions de cadascun de la resta
+dels membres.
+L'algoritme del SVA proporciona un marc de treball estandarditzat per a la ressuscitació
+de totes les aturades cardíaques de l'adult.
+Realitzar les compressions toràciques de gran qualitat (freqüència de 100-120 per minut i
+deixant que es reexpendeixi el tòrax completament entre compressions). Minimitzar les
+interrupcions de les compressions toràciques, per fer altres intervencions. Totes les
+
+
+Aturada cardiorespiratòria intrahospitalària a l'HCB (Seu
+Maternitat)
+interrupcions han d'estar planificades abans d'aturar les compressions.
+Deteriorament de l'intercanvi gasos
+Codi NANDA
+00030
+Codi Nic
+3350
+Intervenció
+Monitorització respiratòria
+Patró respiratori ineficaç
+Codi NANDA
+00032
+Codi Nic
+3160
+Intervenció
+Aspiració de les vies aèries
+Risc d'asfíxia
+Codi NANDA
+00036
+Codi Nic
+3140
+Intervenció
+Manejament de les vies aèries
+
+
+Aturada cardiorespiratòria intrahospitalària a l'HCB (Seu
+Maternitat)
+Risc d'aspiració
+Codi NANDA
+00039
+Codi Nic
+3200
+Intervenció
+Precaucions per evitar l'aspiració (risc aspiració)
+Risc d’aspiració
+Codi NANDA
+00039
+Codi Nic
+3120
+Intervenció
+Intubació/Estabilització de la via aèria
+Perfusió tissular perifèrica inefectiva
+Codi NANDA
+00204
+Codi Nic
+6680
+Intervenció
+Monitorització dels signes vitals
+Perfusió tissular perifèrica inefectiva
+
+
+Aturada cardiorespiratòria intrahospitalària a l'HCB (Seu
+Maternitat)
+Codi NANDA
+00204
+Codi Nic
+4254
+Intervenció
+Maneig del xoc cardíac
+Perfusió tissular perifèrica inefectiva
+Codi NANDA
+00204
+Codi Nic
+4250
+Intervenció
+Maneig del xoc
+Perfusió tissular perifèrica inefectiva
+Codi NANDA
+00204
+Codi Nic
+4150
+Intervenció
+Regulació hemodinàmica
+Perfusió tissular perifèrica inefectiva
+Codi NANDA
+00204
+
+
+Aturada cardiorespiratòria intrahospitalària a l'HCB (Seu
+Maternitat)
+Codi Nic
+4040
+Intervenció
+Precaucions cardíaques
+Perfusió tissular perifèrica inefectiva
+Codi NANDA
+00204
+Codi Nic
+4044
+Intervenció
+Cures cardíaques: agudes
+Perfusió tissular perifèrica inefectiva
+Codi NANDA
+00204
+Codi Nic
+6140
+Intervenció
+Maneig del codi d’urgències
+Perfusió tissular perifèrica inefectiva
+Codi NANDA
+00204
+Codi Nic
+4090
+
+
+Aturada cardiorespiratòria intrahospitalària a l'HCB (Seu
+Maternitat)
+Intervenció
+Maneig de la dirimia
+Perfusió tissular perifèrica inefectiva
+Codi NANDA
+00204
+Codi Nic
+6320
+Intervenció
+Ressuscitació
+Riscos Laborals
+Contacte amb agents biològics
+Mesures de prevenció postures forçades
+Actuació front punxada accidental
+Risc de transmissió d’infeccions via aèria
+Estres derivat d’un entorn amb una elevada pressió emocional
+Indicadors d'Avaluació
+Percentatge de supervivència després de RCP (nombre de RCP’s amb supervivència x 100
+/ Nombre de RCP’s)
+Mitja de temps inici maniobres RCP
+Mitja de temps arribada equip d’aturada
+Registres
+Registre de l’ACR en el registre en paper segons Utstein. (Vegeu Annex 3)
+
+
+Aturada cardiorespiratòria intrahospitalària a l'HCB (Seu
+Maternitat)
+Registre de la història clínica del pacient (SAP/IPA)
+ 
+Diagrama de Flujo

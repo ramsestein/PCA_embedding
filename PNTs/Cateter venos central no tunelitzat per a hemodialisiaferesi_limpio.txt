@@ -1,0 +1,449 @@
+El catèter venós central no tunelitzat per a hemodiàlisi i/o afèresi, és un catèter que s’utilitza per
+realitzar teràpies substitutives renals (normalment, hemodiàlisi i processos d’afèresi) en
+situacions en les quals es prevegi una permanència no superior a dues setmanes. Per a períodes
+més llargs es recomana l’ús de catèter venós central tunelitzat (CVCT).
+El material del catèter sol ser semirígid de poliuretà (més freqüent), polivinil o polietilè, amb
+una longitud entre 15 i 25 cm. Amb un disseny de doble llum i punta cònica (llum proximal:
+branca arterial separada de 2 a 3 cm de la llum distal: branca venosa).
+La seva forma és recta, amb extensions rectes o corbada segons la vena a canalitzar (corbada per
+a la jugular i subclàvia i recta en la femoral).
+La seva longitud serà la menor possible, per maximitzar el flux obtingut. Es recomana trams
+intravasculars de 15 cm en jugular dreta, 20 cm en jugular esquerra i de 20 a 25 cm de longitud
+a femoral. (Evidència B).
+
+
+Catèter venós central no tunelitzat per a hemodiàlisi/afèresi
+Tenen l’avantatge que poden ser col·locats al llit del pacient mitjançant la tècnica de Seldinger
+estèril i poden ser utilitzats de forma immediata.
+Se suggereix com a primera localització d’un catèter venós central la vena jugular interna dreta.
+La vena femoral serà d’elecció en situacions d’urgència. Es recomana evitar canalitzar les venes
+subclàvies en els pacients que puguin necessitar una fístula arteriovenosa. Se suggereix no
+col·locar catèters venosos centrals en venes jugular o subclàvies ipsolaterals al membre on
+existeixi una fístula arteriovenosa en fase de maduració. Es recomana que la col·locació es
+realitzi guiada per ultrasons.
+Només s’ha de considerar el catèter venós central no tunelitzat per a hemodiàlisi en situacions
+agudes o transitòries: fracàs renal agut, malaltia renal crònica que precisa hemodiàlisi urgent
+sense disposar d’accés vascular permanent madur, infecció de l'AV habitual (generalment sèpsia
+CVCT, la inserció haurà de ser contralateral i és imprescindible hemocultius (-) per realitzar la
+tunelització), en pacients trasplantats renals en situació de necrosi tubular aguda o rebuig agut
+greu que requereixin d’HD i en indicacions de plasmafèresi. ( Vegeu Imatge 1).
+Objectiu
+Preparar al pacient per tal que afronti el procediment en les millors condicions possibles.
+Garantir la seguretat del pacient durant tot el procediment.
+Evitar i/o detectar de manera precoç l’aparició dels possibles problemes relacionats amb el
+procediment.
+Prevenir la infecció associada a catèters venosos.
+Controlar la permeabilitat de les llums.
+Mantenir el catèter en condicions de màxima asèpsia.
+Obtenir els següents resultats:
+NOC 1608: Control de símptomes.
+NOC 1842: Coneixements: control de la infecció.
+Responsabilitats
+Infermers/es
+Metges/esses
+
+
+Catèter venós central no tunelitzat per a hemodiàlisi/afèresi
+TCAIS
+Procediment
+ABANS DE LA INSERCIÓ
+Realitzarem la identificació inequívoca del pacient segons protocol de l’hospital.
+Informarem el pacient sobre el procediment que se li ha de realitzar i la manera en què pot
+col·laborar.
+Educarem al pacient i familiar sobre la cura i manteniment del catèter: la necessitat de
+mantenir una bona higiene i manera de realitzar-se la higiene diària, la manera de fer-se la
+cura del catèter per si fos necessària, abstenir-se de fer activitats de risc com banys
+d’immersió, traccions sobre el catèter o ús d’objectes tallant a prop d’aquest.
+L’informarem de les possibles complicacions, les causes que les produeixen i les accions a
+dur a terme per evitar-les. Han de saber que sempre que vagin a realitzar-se el tractament
+han de comunicar al personal d’infermeria qualsevol incidència i davant de qualsevol
+eventualitat greu (hemorràgia, extracció accidental, febre...) han de posar-se en contacte.
+Comprovarem que ha signat el document de consentiment Informat.
+Descartarem possibles al·lèrgies (làtex, apòsits, antisèptics i anestèsics locals).
+Confirmarem amb l’equip mèdic quina serà la localització de la via per preparar la zona.
+Si és necessari, retallarem el pèl de la zona, evitant rasurar per minimitzar el risc
+d’infecció.
+Revisarem si disposa de proves de coagulació recents, i organitzarem amb el metge la
+transfusió de plaquetes prèvies al procediment si s’escau.
+Si el pacient és autònom i el seu estat clínic ho permet: indicarem al pacient que realitzi
+una higiene corporal prèvia a la col·locació amb aigua i sabó o esponja sabonosa, i que
+s’esbandeixi correctament.
+Si no hi ha contraindicació i el pacient ho tolera bé, el col·locarem en decúbit supí. Si no
+tolera el decúbit supí, el metge valorarà la inserció del catèter. En el cas de punció jugular
+o subclàvia, traurem el coixí i girarem el cap al costat contrari on es realitza la inserció.
+S’ha de col·locar al pacient en una posició adequada per evitar l'embòlia gasosa: en
+inserció en tòrax/jugular externa es recomana la posició de Trendelemburg (capçal < 0
+graus), en inserció femoral es recomana la posició de decúbit supí.
+Netejarem la zona amb aigua i sabó o esponja sabonosa i esbandirem acuradament.
+
+
+Catèter venós central no tunelitzat per a hemodiàlisi/afèresi
+Netejarem amb gases estèrils i solució de clorhexidina (aquosa al 2% o alcohòlica) segons
+protocol Bacterièmia Zero.
+I. INSERCIÓ
+Monitorarem al pacient si s’escau.
+El metge que fa la punció i el col·laborador ens posarem el casquet i la mascareta.
+Es realitzarà higiene de mans i ens col·locarem els guants d’un sol ús.
+Posarem el xopador per sota de la zona a puncionar.
+Un cop el metge hagi realitzat el rentatge quirúrgic de mans, li proporcionarem la bata i els
+guants estèrils.
+Li proporcionarem gases estèrils amb clorhexidina per la desinfecció de la zona i es
+realitzarà segons protocol Bacterièmia Zero.
+Li proporcionarem les talles estèrils i el llençol perquè es munti el camp. En puncions
+jugular o subclàvia avisarem al pacient que li cobrirem momentàniament la cara, i de
+seguida que puguem (sense trencar l’esterilitat) li aixecarem la talla de la cara i la
+subjectarem sense que interfereixi en el lloc de punció. El camp estèril ha de cobrir
+totalment al pacient.
+Proporcionarem una talla per muntar la taula de Mayo o taula auxiliar.
+Proporcionarem material necessari per realitzar tècnica ecoguiada.
+Proporcionarem l’anestèsic local + Bicarbonat Na 1M, una xeringa de 10 cc (8 ml + 2 ml
+respectivament) i l’agulla intramuscular per la seva per la seva administració. Es recomana
+bicarbonat per evitar la coïssor de l’anestèsic. A la sala d’intermitjos (I085) només
+s’utilitza l’anestèsic local amb l’agulla de 23 G x 1. 
+Mentre l’anestèsic va fent efecte, proporcionarem la resta del material: catèter amb
+accessoris, pot estèril, sèrum fisiològic per purgar el catèter, taps luer-lock estèrils, gases
+estèrils, bisturí i estabilitzador adhesiu.
+El metge canalitzarà la via venosa (guiat per ultrasons) i inserirà el catèter seguint la
+tècnica Seldinger.
+El metge, posteriorment comprovarà que totes les llums reflueixen, netejarà amb 20 cc de
+sèrum fisiològic seguint la tècnica Push-Stop-Push cadascuna de les llums.
+Les llums del catèter se segellaran amb 2,5 ml de Taurolock Hep 500® cada llum (si el
+volum a carregar que està indicat a la pinça és superior a 2,5 ml s’afegirà la diferència amb
+Heparina 1%) o amb Heparina 1%. El volum d’heparina a carregar a la xeringa serà
+l’equivalent al volum de la llum +0,1 ml (està indicat a la pinça que porta la llum del
+
+
+Catèter venós central no tunelitzat per a hemodiàlisi/afèresi
+catèter). Tancarem el clamp. Col·locarem bioconnectors a ambdues llums.
+El metge fixarà el catèter a la pell amb l’estabilitzador adhesiu (Statlock®). Recomanació
+IA. O amb sutura de seda si hi ha risc de mobilització.
+El metge desinfectarà la zona de punció i col·locarà l’apòsit escollit abans de retirar el
+camp estèril cobrint el punt d’inserció i l’estabilitzador adhesiu.
+Es realitzarà higiene de mans després de retirar els guants.
+Verificarem sempre la ubicació del catèter per examen radiològic.
+PROCEDIMENT A SEGUIR POST COL·LOCACIÓ DE L’ACCÉS VENÓS CENTRAL:
+Observarem si l’apòsit està tacat de sang i si està ben adherit a la pell.
+Realitzarem el Registre Especial a l’IPA Pacient: tipus de catèter, les llums, el calibre, el
+lloc d’inserció, la data de col·locació i planificarem les cures de manteniment.
+Instruirem al pacient en les precaucions que haurà de tenir en compte per evitar
+arrencaments accidentals.
+En cas de dolor a la zona d’inserció, consultarem amb el metge responsable del pacient per
+administrar un analgèsic.
+II. MANTENIMENT
+Acomodarem al pacient en posició semi-fowler. Li col·locarem una mascareta quirúrgica.
+Ens col·locarem la mascareta quirúrgica.
+Es realitzarà higiene de mans.
+Ens col·locarem uns guants no estèrils.
+Retirarem l’apòsit. 
+Taparem el punt d’inserció amb una gasa estèril impregnada en antisèptic.
+Preparem un camp estèril amb el material necessari.
+Realitzarem rentatge i antisèpsia de mans.
+Ens col·locarem uns guants estèrils.
+Observarem el punt d’inserció del catèter. Davant qualsevol indicador d’infecció (dolor,
+inflamació, envermelliment, supuració...) avisarem el metge responsable.
+Farem asèpsia cutània amb solució antisèptica realitzant tocs en sentit rotatori del centre a
+la perifèria i deixarem actuar fins que estigui sec. En relació amb els antisèptics, s’ha de
+valorar si s’han d’evitar els alcohòlics o d’altres tipus que puguin danyar el material del
+qual està fabricat el catèter. L’antisèptic recomanat serà la clorhexidina i la seva
+concentració pot ser al 0,5-2%. (Clorhexidina al 2% eficaçment utilitzada com antisèptic
+
+
+Catèter venós central no tunelitzat per a hemodiàlisi/afèresi
+local en la zona d’inserció del CVC i com a desinfectant de les connexions) Evidència IA.
+Col·locarem una gasa per sota el tram extern i una per sobre del mateix, afegint un apòsit
+estèril mitjà.
+Traurem el tap de la llum arterial-vermella.
+Amb una gasa estèril humitejada amb alcohol o clorhexidina alcohòlica al 2%,
+friccionarem la llum del catèter que hem d’heparinitzar.
+Esperarem a que l'alcohol o la clorhexidina s’evapori (aproximadament 1 minut).
+Connectarem la xeringa de 5 ml a la part distal. Un cop inserida, obrirem el clamp de
+seguretat i retirarem el segellat i possibles coàguls. Tornarem a tancar el clamp de
+seguretat. Realitzarem el mateix procediment amb la llum venosa-blava. En el cas
+d’afèresi extraurem 10 ml perquè a continuació fem analítica, i seguim el mateix
+procediment. 
+Retirarem la xeringa de la llum arterial i connectarem la xeringa amb 20 ml de SF 0,9%.
+Obrirem el clamp i administrarem el SF 0,9% en bolus. Tancarem el clamp. Farem el
+mateix procediment amb la llum venosa. En el cas d’afèresi, utilitzarem xeringa de 10 ml
+de SF 0,9% i continuarem amb el mateix procediment. Hi ha disponibles xeringues
+precarregades de 10 ml, que es poden utilitzar per netejar les llums del catèter.
+Retirarem la xeringa de la llum arterial i realitzem el segellat amb Heparina 1% connectant
+una xeringa de 2 ml amb el volum mort de la llum +0,1 ml. Obrirem el clamp i
+l'administrarem. Tancarem el clamp mentre mantenim la pressió sobre l’èmbol de la
+xeringa. És a dir, amb pressió positiva. En el cas que s'hagi indicat que el segellat es faci
+amb Taurolock ® seguirem el mateix procediment. 
+Realitzarem el mateix procediment per la llum venosa.
+Si no es disposa de Taurolock Hep 500 ® per al segellat utilitzarem Heparina a l’1%. El
+volum d’heparina a carregar a la xeringa serà l’equivalent al volum mort de la llum +0,1
+ml (està indicat a la pinça que porta la llum del catèter).
+Tancarem la llum arterial/venosa amb taps luer-lock estèrils.
+Posarem una gasa estèril entorn les dues llums. Aplicarem un apòsit gran estèril i a sobre
+un o dos apòsits transparents estèrils.
+Es realitzarà higiene de mans després de retirar els guants.
+Enregistrarem la cura realitzada al mòdul de Registres Especials de l’IPA Pacient o al curs
+clínic si no disposem del programa. Farem constar l’estat de l’apòsit abans d’iniciar la
+cura, l’aspecte del punt d’inserció, el reflux i permeabilitat de les llums, l’estat de la
+fixació (si estabilitzador adhesiu).
+
+
+Catèter venós central no tunelitzat per a hemodiàlisi/afèresi
+OBSERVACIONS
+Es recomana que els catèters venosos centrals per a hemodiàlisi/afèresi s’utilitzin
+únicament per realitzar les sessions d’hemodiàlisi o afèresis. En cas que s’hagin d’utilitzar
+per administració de fàrmacs o extracció de mostres de sang: per evitar que quedin restes
+de sang a l’interior de les llums o es faci un dipòsit de fibrina que obturi la llum o la punta
+del catèter, és molt important netejar les llums amb (10 ml o 20 ml de sèrum fisiològic)
+tècnica push-stop-push i després heparinitzar tal com s’ha indicat. Tant si s’utilitza el
+catèter, per teràpia intravenosa o per extracció de sang.
+En cas de trobar problemes amb el catèter (obstrucció, disfunció) no manipular i posar-se
+en contacte amb la unitat de Diàlisi (2053) o d’Afèresi (2648).
+Es recomana que les connexions i desconnexions del catèter venós central es realitzin
+únicament per infermeria especialitzada i són necessàries dues persones, una d’elles ha de
+ser infermera especialitzada.
+Es recomana valorar l’apòsit de l’orifici de sortida del catèter venós central en cada sessió
+d’hemodiàlisi i canviar-lo sempre que estigui humit, tacat, desenganxat o presenti algun
+signe d’infecció. Si no és així, es recomana que es canviï una vegada a la setmana. Segons
+bacterièmia zero es recomana apòsit transparent amb clorhexidina.
+Observar el punt d’inserció per detectar signes d’infecció, com eritema, induració, exsudat
+purulent, dolor a la palpació.
+Deixar actuar l’antisèptic (fins que s’assequi) abans de col·locar l’apòsit.
+III. RETIRADA
+Realitzarem la higiene de mans i col·locació de guants no estèrils, excepte si s’ha de fer
+cultiu de punta de catèter. Col·locarem un xopador sota l’extremitat.
+Col·locarem al pacient en posició de Trendelemburg si el pacient és portador d’un CVC a
+la vena jugular o subclàvia per prevenir un embolisme aeri en el moment de la retirada.
+Desinfectarem la zona amb solució antisèptica.
+Retirarem l’apòsit i l’estabilitzador adhesiu (o punts de sutura).
+Indicarem que faci una expiració profunda i sostinguda (o pausa expiratòria mantinguda en
+cas de Ventilació Mecànica Invasiva).
+Retirarem el catèter lentament per evitar una ruptura d’aquest.
+Farem hemostàsia amb gasa estèril durant 5-10 minuts. Considerarem aquells pacients
+amb trastorns de la coagulació, amb tractaments actuals d’anticoagulants i augmentarem el
+temps de compressió després de la retirada del catèter. Si la retirada del catèter la fem a
+
+
+Catèter venós central no tunelitzat per a hemodiàlisi/afèresi
+afèresis fem hemostàsia durant 15-20 minuts.
+Netejarem la zona del punt de punció amb solució antisèptica.
+Col·locarem un apòsit oclusiu i el mantindrem durant 24-48 h.
+En cas de sol·licitud de cultiu de punta de catèter, la TCAI haurà de seguir els següents
+passos:
+1.Rentatge i antisèpsia de mans i col·locació de guants estèrils segons procediment.
+2.Tallar amb un bisturí la punta del catèter col·locant-la a un pot estèril (de tapa
+vermella).
+3.Retirar el material utilitzat als seus respectius contenidors de residus.
+4.Cursar al laboratori de microbiologia la punta del catèter juntament amb la petició,
+amb tots els camps complimentats.
+Es realitzarà higiene de mans després de retirar els guants.
+Registrarem correctament al Registre Especial de l’IPA Pacient, o al curs clínic si no
+disposem del programa, la retirada del catèter i el motiu.
+Material
+I. INSERCIÓ
+Catèter venós central per a hemodiàlisi i longitud segons localització
+Anestèsic local
+Bicarbonat sòdic 1 M (anul·la la coïssor de l'anestèsic)
+2 Xeringues de 10 cc (una per l’anestèsia local i l’altra per punxar el CVC) (codi SAP:
+182132)
+1 agulla intramuscular (codi SAP: 182006)
+Bisturí (codi SAP: 182047)
+Taula de Mayo o taula auxiliar
+Pot estèril (codi SAP: 181702)
+Sèrum fisiològic estèril
+3-4 talles estèrils (codi SAP: 180423) i llençol estèril
+Bata (codi SAP: 180537) i guants estèrils (codi SAP: 180467, 180469), casquet
+(codi SAP: 180549), mascareta (codi SAP: 193935) i ulleres de protecció pel metge que
+faci la punció (codi SAP: 18053)
+
+
+Catèter venós central no tunelitzat per a hemodiàlisi/afèresi
+Casquet (codi SAP: 180549), mascareta (codi SAP: 193935) i guants d’un sol ús pel
+col·laborador (codi SAP: 193790, 193791)
+Estabilitzador adhesiu (Statlock®).(preferiblement)
+Apòsit estèril, transparent de poliuretà (codi SAP: 180030) o apòsit adherent fixador
+semipermeable (codi SAP: 180035), segons necessitats.
+Solució Clorhexidina (aquosa al 2% o alcohòlica al 0,5%) o povidona iodada en cas
+d’hipersensibilitat a la clorhexidina
+Taps estèrils d’un sol ús amb rosca de seguretat: bioconnectors. (codi SAP: 182214)
+Taurolock Hep 500® / Heparina 1%
+Xeringues de 5 ml (codi SAP: 182136) i agulles per carregar (codi SAP: 182004)
+Taurolock® / Heparina 1%
+Gases estèrils (codi SAP: 180012)
+Contenidor per eliminar material punxant (groc) (codi SAP: 181789)
+Xopador
+Sistema de monitoratge si s’escau
+Ecògraf, funda estèril ecògraf i gel hidrosoluble o sèrum fisiològic (bon conductor)
+II. MANTENIMENT
+Mascareta quirúrgica (2) pel pacient i per a la infermera (codi SAP: 193935)
+Talles (2) (codi SAP: 180423) i guants estèrils (codi SAP: 180467, 180469)
+Gases estèrils (8) (codi SAP: 180012)
+Apòsits estèrils: un apòsit mitjà estèril (10x8 cm) (codi SAP: 180026) i un apòsit gran
+estèril (15x8 cm)
+2 Apòsits de plàstic transparent (codi SAP: 180030)
+Clorhexidina aquosa al 2%. Si el pacient presenta al·lèrgia a la clorhexidina, realitzar una
+cura tòpica (SF amb iode)
+2 Xeringues de 5 ml (codi SAP: 182136)
+2 Xeringues de 20 ml (codi SAP: 182120) amb 20 ml de SF 0’9% en cadascuna
+2 Xeringues de 5 ml (codi SAP: 182136) amb 2,5 ml de Taurolock HEP 500®. En cas de
+ser un CVC femoral de longitud superior a 2,5 ml per llum, s’afegirà heparina sòdica a
+l'1% fins a arribar al total
+2 bioconnectors (codi SAP: 182214)
+III. RETIRADA
+Guants d’un sol ús (codi SAP: 193790, 193791)
+
+
+Catèter venós central no tunelitzat per a hemodiàlisi/afèresi
+Guants estèrils (codi SAP: 180457,180458, 180459?)
+Bisturí (codi SAP: 182047)
+Antisèptics: Clorhexidina (aquosa al 2%), povidona iodada (aquosa 10%) o Alcohol (Etílic
+70º)
+Gases estèrils (codi SAP: 180012)
+Apòsit estèril adhesiu (codi SAP: 180026)
+Pot estèril (tap vermell) (codi SAP: 181702)
+Aspectes a remarcar
+Durant la inserció del catèter, evitarem la penetració forçada d'aquest.
+L’asèpsia (tècnica estèril) és bàsica en la manipulació del CVC, ja que la infecció suposa
+habitualment la retirada.
+Instruirem al pacient sobre les precaucions que haurà de tenir per evitar arrencaments
+accidentals.
+En el cas de canvi de catèter per mal funcionament, sense signes d’infecció, es pot fer a
+través de la guia en funció de la situació del pacient i a criteri mèdic (Categoria IB).
+L’heparinització de les llums del CVC no tunelitzat és fonamental per evitar la trombosi
+d'aquest.
+Mai tindran validesa les proves de coagulació si l’extracció de la mostra de sang procedeix
+d’un CVCT.
+Arítmies en catèter venós central no tunelitzat per a
+hemodiàlis/afèresi
+Activitat
+Generalment són transitòries i autolimitades i es relacionen amb
+l’estímul de la guia o catèter durant la inserció
+Es solen resoldre retirant la guia o catèter de la cavitat cardíaca.
+Hemotòrax/Pneumotòrax
+
+
+Catèter venós central no tunelitzat per a hemodiàlisi/afèresi
+Activitat
+L’hemo o el pneumotòrax pot resultar per la punció accidental de la
+cavitat pleural durant la col•locació d’un catèter central
+El risc es més elevat en nens, pacients amb antecedents d’emfisema
+pulmonar o en la canalització de la vena subclàvia
+Pot aparèixer durant la col•locació d’un CVC o immediatament desprès
+Els símptomes més freqüents són: dolor sobtat al tòrax de tipus punxant,
+taquipnea i dificultat per respirar. Davant de la presència d’aquests
+símptomes o signes de xoc avisarem al metge per avaluar al pacient
+El seu diagnòstic es realitza per la valoració dels símptomes,
+auscultació i radiografia tòrax
+El tractament consta en inserir un tub pleural per evacuar l’aire o la
+sang de la pleura
+Risc de sagnat
+Codi NANDA
+00206
+Codi Nic
+4160
+Intervenció
+Control de l'hemorràgia
+Sagnat/Hematoma
+Activitat
+Ens assegurarem que el sagnat és venós. Si sospitem que és arterial ho
+comunicarem al metge responsable.
+Traurem l'apòsit i farem compressió manual (en el cas de jugular, farem
+compressió suau) durant 10 minuts i col·locarem apòsit oclusiu amb
+compressió. En el cas d'afèresi, es faran 20 minuts de compressió
+manual.
+
+
+Catèter venós central no tunelitzat per a hemodiàlisi/afèresi
+Canviarem l'apòsit mantenint l'esterilitat, amb la cadència que sigui
+necessària (podem afegir espongostan® estèril en el punt d'inserció)
+Si malgrat això, continua sagnant, vigilarem les variables clíniques i
+signes de xoc, i comunicarem al metge responsable.
+En cas d'hematoma, vigilarem aspecte i mida (marcarem els bordes amb
+retolador permanent). Si sospitem de sagnat actiu intern o dolor intens,
+comunicarem ràpidament al metge responsable.
+Registrarem l'estat del punt de punció en el moment de la cura: sagnat,
+hematoma...
+Registrarem la cura realitzada al punt de punció: apòsit compressiu,
+hemostàtic...
+Embolisme aeri
+Activitat
+S’entén per embolisme aeri l’entrada d’aire a través del catèter o del
+punt d’inserció, arribant fins al part dreta del cor on es localitza la
+vàlvula pulmonar, produint una obstrucció del flux aeri.
+Com a mesura de prevenció d’aquesta complicació, es recomana
+col•locar al pacient en posició de Trendelemburg durant la col•locació i
+retirada en el cas de catèters venosos centrals inserits a la vena jugular
+i/o subclàvia.
+Es manifesta per: hipòxia súbdita inexplicada, hipertensió pulmonar,
+taquipnea i/o apnea, ingurgitació jugular, dolor toràcic, hipotensió
+arterial, taquicàrdia, ansietat, confusió aguda, i síncope.
+En cas de sospita d’embolisme aeri:
+- Si és durant la retirada del CVC: realitzarem compressió a la zona
+d’inserció.
+- Si es deu a la ruptura accidental del catèter en accedir a aquest:
+pinçarem el catèter.
+Paral•lelament, col•locarem al pacient en decúbit lateral esquerre i
+Trendelemburg, administrarem oxigenoteràpia al 100%, i avisarem al
+metge responsable del pacient.
+
+
+Catèter venós central no tunelitzat per a hemodiàlisi/afèresi
+Risc d'infecció
+Codi NANDA
+00004
+Codi Nic
+6540
+Intervenció
+Control d'infeccions
+Infiltració i/o extravasació
+Activitat
+Esbrinarem si el tipus de substància és vesicant (per ex. quimioteràpics)
+i actuarem segons normes establertes en el procediment i el kit
+d’extravasació de citostàtics. En cas de dubte, trucarem al Servei de
+Farmàcia
+Informarem i consultarem amb el metge responsable
+Ruptura complerta o incomplerta de catèter
+Activitat
+Evitarem realitzar maniobres i/o manipulacions en el sistema
+Avisarem al metge responsable del pacient
+Obstrucció del CVCT
+Activitat
+Revisarem l’existència de colzaments a la part externa del catèter
+(modificar la zona de pinçament).
+
+
+Catèter venós central no tunelitzat per a hemodiàlisi/afèresi
+Intentarem aspirar amb una xeringa de 5ml. NO introduirem sèrums o
+fàrmacs de forma forçada.
+En el cas d’una obstrucció parcial del CVC que ens permeti realitzar la
+sessió de HD però amb llums invertides
+Es comentarà amb el nefròleg responsable per valorar la possibilitat
+d’utilitzar segellats amb Taurolock®-U25,000 (taurolidina, citrato 4% y
+25,000 UI de uroquinasa) o fer un recanvi.
+Vegeu Imatge 2
+Si el catèter presenta una trombosi total, la primera opció serà canviar-
+lo.
+Riscos Laborals
+Contacte amb agents biològics
+Inoculació o esquitxada
+Circuit accident laboral biològic
+Indicadors d'Avaluació
+Percentatge de nous episodis de bacterièmia relacionada amb catèter + bacterièmia
+primària.
+Percentatge de pneumotòrax en relació amb la inserció de CVC percutani per a
+hemodiàlisi.
+Percentatge de pacients amb presència d’esdeveniments adversos en relació amb la
+utilització dels CVC (flebitis, ruptura de catèter, extravasacions, trombosi, oclusió,
+infeccions, etc.). 
+Percentatge de pacients amb presència d’esdeveniments adversos durant la inserció dels
+CVC (embolisme aeri, infeccions, pneumotòrax).
+Percentatge de pacients amb presència d’esdeveniments adversos durant la retirada dels
+CVC (embolisme aeri, sagnat/hematoma).
+Freqüència de les BP-CV (BP+BRC) per 1000 dies en pacients amb CVC percutani per a
+hemodiàlisi.
+Mitjana de dies en els quals els pacients són portadors d’un o més CVC percutani per a
+hemodiàlisi.
+
+
+Catèter venós central no tunelitzat per a hemodiàlisi/afèresi
+Registres
+Pla de cures
+Portal professional
+Registres especials

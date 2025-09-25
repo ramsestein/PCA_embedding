@@ -1,0 +1,138 @@
+hospitalització a domicili de salut mental
+Àmbit
+CLÍNIC
+Aplicació
+ESPECÍFIC
+Tipus de Document
+PNT
+Institut
+HDOM: Dispositiu Transversal
+d'Hospitalització a Domicili ICN:
+Institut Clínic de NeurociènciesPrimera Versió
+des. 2024  
+Propera Revisió
+gen. 2028
+Darrera modificació
+des. 2024Versió
+0.0
+Etiquetes
+HDOM ICN Psiquiatria
+Codi Gestor
+HCB-E-C-HDOM 1423
+Autors
+Marina Garriga Carrizosa  ,  Oaia Oriondo  ,  Noel Cabrera Alterachs  ,  Laura atares  ,  Sandra
+Gómez  
+Descriure les activitats a realitzar en el pacient durant l’hospitalització al domicili de salut
+mental
+Objectiu
+Establir un pla d’intervencions al domicili segons motiu d’ingrés.
+Estandarditzar les intervencions a realitzar per l’equip HDSM/HDSMJ, des del moment
+d’ingrés fins  l’alta del dispositiu.
+Registrar les activitats realitzades al domicili per l’equip d’HDSM/HDSMJ d’un manera
+objectiva i quantificable
+Responsabilitats
+
+
+hospitalització a domicili de salut mental
+Equip assistencial
+Infermers/es
+Metges/esses
+Procediment
+1. Valoració inicial (primera visita al domicili)
+La primera visita sempre es realitzarà al domicili del pacient per dos professionals de
+l’equip (preferentment psiquiatre i infermeria) en horari laboral de dilluns a divendres.
+En cas de realitzar-se un ingrés durant el cap de setmana o festiu, el pacient disposarà de
+seguiment telefònic per part de l´infermer del dispositiu fins al següent dia laborable, on el
+pacient rebrà la primera visita presencial per part de l´equip HDSM - HDSMJ.
+2. Les intervencions comuns a realitzar durant l'ingrés al domicili són:
+El primer dia de visita s’aportarà:
+Consentiment informat (Vegeu Annex 1 en cas d´ingrés programat),
+Polsera identificativa del pacient
+Full de medicació
+Dades de contacte de l´equip HDSM – HDSMJ
+Anamnesi
+Exploració clínica. Adequació de l’entorn (necessitats socials immediates, condicions
+d’habitabilitat, il·luminació, salubritat i confort); Compliment terapèutic. 
+Valoració de riscos: Auto i heteroagressivitat; Presència de menors/població vulnerable al
+domicili que no suposen el focus de tractament; Possibilitat d’embaràs; Malaltia tòxica /
+mèdica  desapercebuda .
+Orientació diagnòstica inicial: basat en criteris DSM-5 i CIE-11.
+Valoració d’infermeria segons model HCB – IPA pacient.
+Realitzar entrevista de valoració i adequació del Pla de Cures d’Infermeria segons
+necessitats del pacient
+Elaboració del pla terapèutic
+Pautes de tractament inicial (farmacològic i no farmacològic)
+Informació sobre pautes de reconsulta urgent.
+
+
+hospitalització a domicili de salut mental
+Coordinació amb els referents comunitaris dels pacients o servei de urgències en cas de ser
+necessari.
+Assegurar que el pacient/cuidador compleix i entén el tractament farmacològic pautat
+Exploracions complementàries, si cal.
+Visita amb familiars/cuidadors.
+Vinculació a serveis de salut mental: avaluar possibilitats de derivació al alta
+(CSMA, CSMIJ, Hosp de Dia, Comunitat Terapèutica, Servei Comunitari
+Rehabilitador,...)
+Si durant les visites d'hospitalització domiciliària la situació clínica s'agreugés, canviessin
+les circumstàncies de l'entorn social o es detectin símptomes que requereixin una atenció
+hospitalària aguda convencional o urgent, es valorarà necessitat de trasllat acordat amb
+pacient/cuidador
+ 
+3. Avaluacions finals – alta (últims 3 dies d’ingrés)
+Revaloració del pla terapèutic adequat als cuidadors i entorn
+Prescripció del tractament a seguir al alta
+Assegurar la continuïtat de les cures a l’alta, sol·licitant visita de seguiment
+L’últim dia d’ingrés, s’entregarà l’informe d’alta mèdic i d’infermeria on constarà la
+orientació diagnòstica a l´alta, el pla terapèutic i la visita post-hospitalària ambulatòria
+(hora, data i direcció).
+Coordinació i contacte amb el CSMA - CSMIJ o unitat de derivació corresponents del
+pacient a l’alta, si es necessari
+ 
+Material
+Material fungible per la realització de les intervencions
+Material educatiu escrit pel pacient (fulletons informatius, recomanacions a l’alta,..)  
+Aspectes a remarcar
+
+
+hospitalització a domicili de salut mental
+Es registraran a la història clínica del pacient totes les intervencions realitzades al domicili.
+Per les intervencions a domicili es necessari portar la motxilla sanitària amb el material
+mínim definit ( Vegeu annex 2 ).
+Els pacients ingressats podran trucar al call center de 8 a 16.30h de dilluns a divendres i de
+8.30-15.30h els caps de setmana i festius.
+En el cas que un pacient truca al call center en horari laboral de l´equip HDSM - HDSMJ,
+es passarà la trucada al psiquiatre/infermer del dispositiu (busques: 381023 i 381024 per a
+pacients adults: busques: 381815 i 381816 per a pacients infanto-juvenils).
+Fora d’aquest horari, el pacient trucarà a la centraleta hospital des d’on es derivarà la
+trucada al metge de guàrdia de Psiquiatria, si el problema requereix una resposta
+immediata. 
+Problemes relacionats amb el procediment
+Dificultat en el registre de les activitats realitzades al domicili
+Riscos Laborals
+Actuació front punxada accidental
+Contacte amb agents biològics
+Riscos Laborals
+Mesures de precaució per evitar la transmissió per gotes
+Risc d’agitacions psicomotrius i agressions verbals i físiques al domicili
+Indicadors d'Avaluació
+Nombre de reingressos a l’hospital durant l’ingrés a HDSM - HDSMJ
+Nombre de visites a urgències durant l’ingrés a HDSM - HDSMJ
+Nombre de notificacions d’incidències durant l’ingrés HDSM - HDSMJ
+Registres
+
+
+hospitalització a domicili de salut mental
+PiA (Prescripció i administració)
+Entrades i sortides
+Pla de cures
+Portal professional
+Registres clínics
+Registres especials
+Agenda de cures
+Valoració pacient
+Notificació d'incidents
+Capçalera
+SAP
+Alta d'infermeria
+Registre de reacció adversa al medicament

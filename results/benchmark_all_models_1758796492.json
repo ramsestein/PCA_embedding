@@ -1,0 +1,13 @@
+{
+  "model-0_0029": {
+    "model_name": "Unknown",
+    "top1_accuracy": 0.6041666666666666,
+    "top5_accuracy": 0.6875,
+    "top1_correct": 29,
+    "top5_correct": 33,
+    "total_queries": 48,
+    "load_time": 0.5620050430297852,
+    "embedding_time": 56.017343044281006,
+    "total_time": 56.57934808731079
+  }
+}

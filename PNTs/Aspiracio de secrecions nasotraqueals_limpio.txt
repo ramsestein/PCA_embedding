@@ -1,0 +1,275 @@
+Tècnica per retirar secrecions de la boca, nas i/o faringe mitjançant una sonda connectada a un
+aspirador.
+S'utilitza:
+per a pacients que no poden eliminar-les per si mateixos
+quan hi ha secrecions bronquials visibles a la via aèria
+sorolls respiratoris detectables pel pacient i/o professional sanitari amb o sense auscultació
+quan apareguin signes d'alteració respiratòria que es relacionin amb la retenció de
+secrecions
+Objectiu
+Mantenir les vies aèries superiors permeables aconseguint un intercanvi gasós adequat.
+Evitar possibles infeccions respiratòries per acumulació de secrecions.
+Fomentar el confort del pacient.
+Obtenir mostres de secrecions per a proves diagnòstiques.
+Deteriorament de l'intercanvi gasós NOC (00030)
+
+
+Aspiració de secrecions nasotraqueals
+Patró respiratori ineficaç NOC (00032) 
+Deteriorament de la mucosa oral NOC (00045)
+Responsabilitats
+Fisioterapeutes
+Infermers/es
+Pacients - Cuidadors/es
+Procediment
+1. RECOMANACIONS PRÈVIES
+1.1. Recomanacions generals abans del procediment 
+Identificar-nos davant del pacient amb nom i categoria professional.
+Informar el pacient i/o familiars sobre el procediment i els seus objectius.
+Descriure al pacient les possibles molèsties que pot sentir: sensació d'ofec, tos, nàusees,
+etc.
+Col·locar al pacient en posició de SemiFowler, garantir el confort del pacient i respectar la
+seva privacitat i intimitat en tot moment. En el cas de l'aspiració nasal ens pot afavorir el
+coll en hiperextensió i a l'aspiració orofaríngia col·locar el cap cap a un costat.
+Assegurar-se que les indicacions pel procediment estiguin clares i que el pacient ho ha
+entès.
+Preparar tot el material necessari abans de començar.
+Objectivar la presència de secrecions.
+Incentivar al pacient a realitzar l'aclariment de secrecions bronquials mitjançant altres
+tècniques. Seguir el procediment segons els protocols establerts.
+Mesurar el nivell d'oxigen del pacient (Saturació d'02) i controlar la freqüència respiratòria
+i cardíaca i el ritme.
+La preoxigenació amb el 100% d'oxigen només està indicada en aquells pacients que
+necessiten aportació contínua d'oxigen o aquells que durant la tècnica experimenten
+dessaturació (confirmada per pulsioximetria).
+
+
+Aspiració de secrecions nasotraqueals
+En cas de dolor i/o agitació important es pot proporcionar analgèsia i/o sedació en dosis
+adequades, sobretot durant l'aspiració nasotraqueal.
+1.2. Recomanacions relacionades amb el procediment
+Cal mantenir un alt nivell d'higiene durant el procediment.
+Els riscos poden augmentar en un pacient poc col·laborador.
+És recomanable no realitzar aspiració de secrecions després de la ingesta, per risc de
+provocar nàusees i/o vòmits.
+Es recomana que l'aspiració de secrecions bronquials es faci només quan sigui
+imprescindible, però és aconsellable realitzar-la com a mínim cada 8 hores en pacients
+amb una via aèria artificial per reduir el risc d'obstrucció parcial.
+Quan s'aspira a través d'aquesta via, és important que el diàmetre del catèter no sigui
+superior a la meitat del diàmetre intern per evitar altes pressions negatives als pulmons.
+Cal controlar la pressió negativa generada pel sistema d'aspiració i, després, ocloure la
+connexió que es connectarà a la sonda d'aspiració.
+Cal garantir una bona fluïdificació de les secrecions mitjançant la humidificació dels gasos
+del ventilador mecànic i la hidratació sistèmica.
+Pressions negatives inferiors a 150 mmHg són segures i prevenen complicacions com
+lesions de la mucosa bronquial o atelèctasis. La instil·lació de sèrum salí només s'ha de fer
+si està clínicament indicada, ja que pot causar complicacions (tos excessiva, dessaturació,
+broncoespasme o dispersió bacteriana cap a l'interior dels pulmons).
+En cas de doble aspiració oral i nasal començar primer pel nas. Si el pacient té tos, podria
+indicar que la sonda està a la tràquea.
+Si el pacient col·labora, se'l convida a tossir durant el procediment.
+2. SEQÜÈNCIA D’ACCIONS:
+2.1 Aspiració de secrecions nasotraqueals:
+Comprovarem l’aspiració o buit.
+Col·locació d'EPIs (mascareta i ulleres de protecció).
+Realitzar higiene de mans i col·locació de guants d’un sol ús segons procediment.
+Connectar la sonda d’aspiració directament al tub d’aspiració, a través de la connexió en Y
+o en T, si és necessari. Comprovar el calibre de la sonda és l’adequat.
+
+
+Aspiració de secrecions nasotraqueals
+Comprovar el seu funcionament, abans de procedir a l’aspiració. Traurem el protector de
+la sonda d’aspiració i lubricarem aquesta al llarg del seu extrem distal.
+Realitzar neteja externa de les foses nasals, si precisa.
+Inserció de la sonda suaument per una fosa nasal o orifici nasal més permeable sense
+succionar per evitar lesions de la mucosa. En cas que la via nasal sigui complicada, es pot
+utilitzar l'accés orotraqueal amb l'ajut d'un tub de Guedel. Sol·licitar al pacient que faci una
+inspiració.
+Activar aspiració, amb el tancament de la connexió en Y. 
+Retirar la sonda lentament i amb un moviment circular o giratori, fent succió durant tota
+l’extracció, suaument per no lesionar la mucosa. 
+La durada d’aquest procediment ha de ser inferior a 15 segons.
+Les sondes d’aspiració han de ser d’un sol ús, una vegada s’ha aspirat no es pot tornar a
+introduir la mateixa sonda i s'haurà de rebutjar.
+En cas de no haver eliminat totes les secrecions, previ canvi de guants, introduirem una
+nova sonda d’aspiració estèril i procedirem a un nou aspirat. No realitzar més de dues
+aspiracions seguides.
+Rebutjar els residus, netejar el circuit d'aspiració amb aigua bidestil·lada i recollir el
+material utilitzat.
+Rebutjar els guants i realitzar higiene de mans segons procediment.
+Valorar la reacció del pacient a la tècnica, observant el color de la pell, el ritme cardíac, la
+freqüència respiratòria, la saturació d'oxigen, i els sorolls respiratoris.
+Si durant el procediment el pacient sofreix episodi de broncoespasme o bradicàrdia, es
+retirarà la sonda ràpidament i s'administrarà oxigen.
+2.2 Aspiració de contingut a la cavitat oral o orofaríngia:
+Aspirar l’orofaringe abans, després i sempre que sigui necessari.
+Aspirar amb una sonda d’aspiració estèril o bé amb sonda tipus Yankauer .
+Ús del tub de Guedel en cas de mal accés a la via aèria.
+Comprovar el sistema d'aspiració o buit.
+Mesurar el nivell d'oxigen del pacient (Saturació de 02) i controlar la freqüència
+respiratòria i cardíaca i el ritme.
+Col·locació d'EPIs (mascareta i ulleres de protecció).
+Realitzar higiene de mans i col·locació de guants d'un sol ús segons procediment.
+Connectar la sonda d'aspiració directament al tub d'aspiració, a través de la connexió en Y
+o en T. Comprovar que el calibre de la sonda és l'adequat.
+
+
+Aspiració de secrecions nasotraqueals
+Comprovar el seu funcionament, abans de procedir a l'aspiració. Traurem el protector de la
+sonda d'aspiració.
+Posar el cap del pacient girat cap a un costat. Introduir la sonda per la cara interna de la
+galta fins a arribar a l'orofaringe, realitzar aspiració de zona posterior a zona anterior.
+Retirar el contingut de la cavitat oral amb la sonda, col·locant la sonda a un lateral i a
+l'altre.
+En finalitzar humitejar la cavitat oral amb Clorhexidina ®, aspirant a continuació.
+Rebutjar els guants i realitzar higiene de mans.
+Control de pulsioximetria posterior al procediment.
+Material
+Protecció personal sanitari:
+Gel hidroalcohòlic o sabó de mans.
+Mascareta quirúrgica en pacient sa. Codi SAP 180543
+Mascareta FFP2 o FFP3 en pacients amb possible exposició a agents biològics que es
+transmeten per aire.
+Ulleres. Codi SAP 180553
+Bata SAP 18053 en pacients que requereixen aïllament. 
+Guants d’un sol ús. Talla M, codi. SAP: 180458.Talla S, codi SAP: 180457.Talla L, codi
+SAP: 180459 
+Per a realitzar la tècnica:
+Sistema d'aspiració de buit amb manòmetre regulable
+Contenidor pel material aspirat i tubuladures de connexió
+Connector "Y" (Codi SAP 181541. Magatzem)
+Sonda flexible d'aspiració estèril (Codi SAP 181531. Magatzem)
+Gases estèrils 10x10 Codi SAP 180012
+Lubricant estèril hidrosoluble
+Pulsioxímetre Codi SAP 181245
+Fonendoscopi Codi SAP 181595
+Tub de Guedel (en aspiracions oro traqueals) (Codi SAP 180991. Magatzem)
+Aigua bidestil·lada per rentar el circuit d'aspiració
+Clorhexidina® (Codi SAP 216174. Magatzem)
+
+
+Aspiració de secrecions nasotraqueals
+Aspectes a remarcar
+És recomanable no realitzar aspiració de secrecions després de la ingesta, per risc de
+provocar nàusees i/o vòmits.
+La preoxigenació amb el 100% d'oxigen només està indicada en aquells pacients que
+necessiten aportació contínua d'oxigen o aquells que durant la tècnica experimenten
+dessaturació (confirmada per pulsioximetria).
+En cas de dolor i/o agitació important es pot proporcionar analgèsia i/o sedació en dosis
+adequades, sobretot durant l'aspiració nasotraqueal.
+Es recomana que l'aspiració de secrecions bronquials es faci només quan sigui
+imprescindible,
+Les sondes d'aspiració han de ser d'un sol ús, una vegada s'ha aspirat, no es pot tornar a
+introduir la mateixa sonda i s'haurà de rebutjar.
+La durada d'aquest procediment ha de ser inferior a 15 segons.
+No realitzar més de dues aspiracions seguides.
+En cas de doble aspiració oral i nasal començar primer pel nas. Si el pacient té tos, podria
+indicar que la sonda està a la tràquea.
+Neteja ineficaç de la via respiratòria
+Codi NANDA
+00031
+Codi Nic
+3140
+Intervenció
+Maneig de les vies aèries
+Neteja ineficaç de la via respiratòria
+Codi NANDA
+00031
+
+
+Aspiració de secrecions nasotraqueals
+Codi Nic
+3200
+Intervenció
+Prevenció aspiració
+Hipoxèmia per dessaturació
+Codi Nic
+3350
+Intervenció
+Control i seguiment respiratori
+Hipoxèmia per dessaturació
+Codi Nic
+3140
+Intervenció
+Maneig de les vies aèries
+Secrecions hemàtiques per microtraumatismes
+Codi Nic
+3160
+Intervenció
+Aspiració de les vies aèries
+Secrecions hemàtiques per microtraumatismes
+Codi Nic
+
+
+Aspiració de secrecions nasotraqueals
+3350
+Intervenció
+Control i seguiment respiratori
+Secrecions hemàtiques per microtraumatismes
+Codi Nic
+1710
+Intervenció
+Manteniment de la salut bucal
+Patró respiratori ineficaç
+Codi NANDA
+00032
+Codi Nic
+3140
+Intervenció
+Maneig de les vies aèries
+Patró respiratori ineficaç
+Codi NANDA
+00032
+Codi Nic
+3350
+Intervenció
+Control i seguiment respiratori
+
+
+Aspiració de secrecions nasotraqueals
+Patró respiratori ineficaç
+Codi NANDA
+00032
+Codi Nic
+3350
+Intervenció
+Monitorització respiratòria
+Problemes relacionats amb el procediment
+Imminents:
+Hipòxia
+Dispnea/Augment del treball respiratori
+Hemorràgies
+Danys a la mucosa de la via aèria
+Canvis hemodinàmics i alteracions de la freqüència cardíaca
+Reacció vagal
+Broncoespasme
+A llarg termini
+Infeccions hospitalàries
+Codi NANDA 00004: Risc d’infecció
+Codi NIC 8820 Control de malalties transmissibles
+Codi NIC 3250 Millora de la tos
+Riscos Laborals
+Contacte amb agents biològics
+Indicadors d'Avaluació
+
+
+Aspiració de secrecions nasotraqueals
+Millora dels sorolls respiratoris: auscultació pulmonar
+Percentatge de pacients amb millora de sorolls respiratoris postaspiració de
+secrecions.
+Eliminació de secrecions
+Percentatge de pacients amb secrecions audibles prèvies a l'aspiració i eliminació
+dels sorolls postaspiració.
+Millora dels gasos arterials o de la pulsioximetria
+Percentatge de pacients amb millora de la pulsioximetria postaspiració de secrecions.
+Disminució del treball respiratori (disminució de la freqüència respiratòria i de la
+dispnea)
+Percentatge de pacients amb disminució de la freqüència respiratòria i/o dispnea
+postaspiració de secrecions.
+Registres
+Pla de cures
+Portal professional
+Registres
+Afegir l’activitat al pla de cures del pacient.
+Enregistrar el procediment , les incidències durant el procediment , la resposta del pacient i
+la efectivitat del procediment a la història clínica (portal professional).

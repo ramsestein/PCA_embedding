@@ -109,10 +109,10 @@ class ModelBenchmarker:
         return queries
     
     def get_available_models(self) -> List[str]:
-        """Obtiene la lista de modelos disponibles en sapbert-umls."""
-        models_dir = Path("sapbert-umls")
+        """Obtiene la lista de modelos disponibles en sapbert-umls-100."""
+        models_dir = Path("sapbert-umls-100/sapbert-umls")
         if not models_dir.exists():
-            print("Directorio sapbert-umls no encontrado")
+            print("Directorio sapbert-umls-100/sapbert-umls no encontrado")
             return []
             
         models = []

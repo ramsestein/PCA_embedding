@@ -1,0 +1,1504 @@
+{
+  "experiment_name": "Análisis de Solapamiento entre Modelos",
+  "models_compared": [
+    "SAPBERT model-0_0003",
+    "All-Mini Base"
+  ],
+  "total_queries": 48,
+  "total_chunks": 408,
+  "sapbert_results": [
+    {
+      "query": "Cómo alto a un paciente paliativo con hospitalización a domicilio?",
+      "expected_doc": "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio",
+      "top5_docs": [
+        "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio",
+        "Curs evolutiu dinfermeria_limpio",
+        "Desbridament larval_limpio",
+        "Escalada de cures i derivacio dun pacient ingressat a HDOM a lhospital convencional_limpio",
+        "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio"
+      ]
+    },
+    {
+      "query": "Quien gestiona el ingreso al centro de atención intermedia en situación de final de vida?",
+      "expected_doc": "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio",
+      "top5_docs": [
+        "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio",
+        "Cateter central dinsercio central_limpio",
+        "Cateter central dinsercio central_limpio",
+        "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio",
+        "Gestio de pacients confinats_limpio"
+      ]
+    },
+    {
+      "query": "Que escalas debo pasar en la valoración integral de una paciente con patología oncológica ginecologica?",
+      "expected_doc": "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio",
+      "top5_docs": [
+        "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio",
+        "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio",
+        "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio",
+        "Aturada cardiorespiratoria intrahospitalaria a lHCB Seu Maternitat_limpio",
+        "Aturada cardiorespiratoria intrahospitalaria a lHCB Seu Maternitat_limpio"
+      ]
+    },
+    {
+      "query": "A quien debo hacer interconsulta en caso de paciente de onco gine?",
+      "expected_doc": "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio",
+      "top5_docs": [
+        "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio",
+        "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio",
+        "Circuit dactuacio davant duna aturada cardiorespiratoria a la Seu Granollers de lHospital Clinic_limpio",
+        "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio",
+        "Circuit dactuacio davant duna aturada cardiorespiratoria a la Seu Granollers de lHospital Clinic_limpio"
+      ]
+    },
+    {
+      "query": "Quien debe aprobar que se de una prestación fuera del siscat, de carácter excepcional?",
+      "expected_doc": "Acces a lassistencia sanitaria per a convenis internacionals i prestacions de caracter excepcional CASCIPE_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": true,
+      "expected_rank": 3,
+      "top1_doc": "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+      "top5_docs": [
+        "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+        "Disseccio submucosa endoscopica_limpio",
+        "Acces a lassistencia sanitaria per a convenis internacionals i prestacions de caracter excepcional CASCIPE_limpio",
+        "Curs evolutiu dinfermeria_limpio",
+        "Gestio de pacients confinats_limpio"
+      ]
+    },
+    {
+      "query": "Dame el link de acceso al CASCIPE",
+      "expected_doc": "Acces a lassistencia sanitaria per a convenis internacionals i prestacions de caracter excepcional CASCIPE_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 81,
+      "top1_doc": "Cateter central dinsercio periferica PICC en el nounat_limpio",
+      "top5_docs": [
+        "Cateter central dinsercio periferica PICC en el nounat_limpio",
+        "Cateter central dinsercio periferica PICC en el nounat_limpio",
+        "Aturada cardiorespiratoria a CCEE i CAPSBE_limpio",
+        "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio",
+        "Cateter central dinsercio central_limpio"
+      ]
+    },
+    {
+      "query": "Quien realiza la acogida en situación de pandemia?",
+      "expected_doc": "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio",
+      "top5_docs": [
+        "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio",
+        "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio",
+        "Crisi dagitacio Maneig del pacient infantojuvenil en medi extrahospitalari_limpio",
+        "Aturada cardiorespiratoria intrahospitalaria_limpio",
+        "Crisi dagitacio Maneig del pacient infantojuvenil en medi extrahospitalari_limpio"
+      ]
+    },
+    {
+      "query": "Que variables clínicas se cogen en caso de acogida de paciente en pandemia?",
+      "expected_doc": "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio",
+      "top5_docs": [
+        "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio",
+        "Aturada cardiorespiratoria intrahospitalaria_limpio",
+        "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio",
+        "Cateter central dinsercio central_limpio",
+        "Caigudes pacient_limpio"
+      ]
+    },
+    {
+      "query": "Con quien debo coordinar la medicación a administrar cuando un paciente entra en el CDI?",
+      "expected_doc": "Acollida i atencio integral al pacient en el CDI_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 100,
+      "top1_doc": "Aturada cardiorespiratoria intrahospitalaria_limpio",
+      "top5_docs": [
+        "Aturada cardiorespiratoria intrahospitalaria_limpio",
+        "Administracio de medicaments Via intradermica_limpio",
+        "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+        "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio",
+        "Aturada cardiorespiratoria a CCEE i CAPSBE_limpio"
+      ]
+    },
+    {
+      "query": "En paciente con DAI en radiología, hay que llevar el desfribilador?",
+      "expected_doc": "Acollida i atencio integral al pacient en el CDI_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Acollida i atencio integral al pacient en el CDI_limpio",
+      "top5_docs": [
+        "Acollida i atencio integral al pacient en el CDI_limpio",
+        "Administracio segura de ferroterapia intravenosa al domicili_limpio",
+        "Administracio segura de ferroterapia intravenosa al domicili_limpio",
+        "Hidratacio oral en persones ancianes amb o sense disfagia_limpio",
+        "Administracio de medicaments Via inhalatoria_limpio"
+      ]
+    },
+    {
+      "query": "Que debo hacer en una crisis tonico-clónica?",
+      "expected_doc": "Actuacio davant una crisi epileptica generalitzada tonicoclonica a la unitat depilepsia_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 9,
+      "top1_doc": "Crisi Comicial_limpio",
+      "top5_docs": [
+        "Crisi Comicial_limpio",
+        "Crisi Comicial_limpio",
+        "Crisi Comicial_limpio",
+        "Aturada cardiorespiratoria intrahospitalaria_limpio",
+        "Administracio de medicaments Via Inhalatoria Pols seca_limpio"
+      ]
+    },
+    {
+      "query": "Cuanto tiempo debe estar monitorizado tras una crisis tonico-clónica?",
+      "expected_doc": "Actuacio davant una crisi epileptica generalitzada tonicoclonica a la unitat depilepsia_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 36,
+      "top1_doc": "Aturada cardiorespiratoria a CCEE i CAPSBE_limpio",
+      "top5_docs": [
+        "Aturada cardiorespiratoria a CCEE i CAPSBE_limpio",
+        "Crisi Comicial_limpio",
+        "Aturada cardiorespiratoria a CCEE i CAPSBE_limpio",
+        "Crisi Comicial_limpio",
+        "Aturada cardiorespiratoria a CCEE i CAPSBE_limpio"
+      ]
+    },
+    {
+      "query": "Busca de la matrona senior de la mater",
+      "expected_doc": "Actuacio en situacions demergencia obstetrica seu Maternitat circuit de trucades interdisciplinars davis_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 22,
+      "top1_doc": "Fluxometria_limpio",
+      "top5_docs": [
+        "Fluxometria_limpio",
+        "Alta infermeria_limpio",
+        "Aturada cardiorespiratoria intrahospitalaria a lHCB Seu Maternitat_limpio",
+        "Aturada cardiorespiratoria intrahospitalaria a lHCB Seu Maternitat_limpio",
+        "Aturada cardiorespiratoria intrahospitalaria a lHCB Seu Maternitat_limpio"
+      ]
+    },
+    {
+      "query": "Cual es el número de emergencia en la sede de maternidad?",
+      "expected_doc": "Actuacio en situacions demergencia obstetrica seu Maternitat circuit de trucades interdisciplinars davis_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": true,
+      "expected_rank": 4,
+      "top1_doc": "Aturada cardiorespiratoria intrahospitalaria a lHCB Seu Maternitat_limpio",
+      "top5_docs": [
+        "Aturada cardiorespiratoria intrahospitalaria a lHCB Seu Maternitat_limpio",
+        "Aturada cardiorespiratoria intrahospitalaria a lHCB Seu Maternitat_limpio",
+        "Aturada cardiorespiratoria intrahospitalaria_limpio",
+        "Actuacio en situacions demergencia obstetrica seu Maternitat circuit de trucades interdisciplinars davis_limpio",
+        "Actuacio en situacions demergencia obstetrica seu Maternitat circuit de trucades interdisciplinars davis_limpio"
+      ]
+    },
+    {
+      "query": "Que puedo hacer para favorecer el descanso nocturno de un paciente?",
+      "expected_doc": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+      "top5_docs": [
+        "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+        "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+        "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+        "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+        "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio"
+      ]
+    },
+    {
+      "query": "Se puede quedar un familiar por la noche?",
+      "expected_doc": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+      "top5_docs": [
+        "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+        "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+        "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+        "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+        "Avaluacio de la tolerancia i eficacia del tractament postural per a apnea obstructiva del son_limpio"
+      ]
+    },
+    {
+      "query": "Que puedo nebulizar de antibiótico?",
+      "expected_doc": "Administracio dantibiotics via inhalatoria_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio dantibiotics via inhalatoria_limpio",
+      "top5_docs": [
+        "Administracio dantibiotics via inhalatoria_limpio",
+        "Administracio dantibiotics via inhalatoria_limpio",
+        "Administracio dantibiotics via inhalatoria_limpio",
+        "Administracio dantibiotics via inhalatoria_limpio",
+        "Determinacio de les concentracions plasmatiques dantibiotics en adults_limpio"
+      ]
+    },
+    {
+      "query": "Como nubulizo un atb en un paciente con canula de plata?",
+      "expected_doc": "Administracio dantibiotics via inhalatoria_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 7,
+      "top1_doc": "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+      "top5_docs": [
+        "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+        "Cateter central dinsercio central_limpio",
+        "Aturada cardiorespiratoria a CCEE i CAPSBE_limpio",
+        "Aturada cardiorespiratoria intrahospitalaria_limpio",
+        "Aturada cardiorespiratoria intrahospitalaria a lHCB Seu Maternitat_limpio"
+      ]
+    },
+    {
+      "query": "Número de busca del equipo de HDOM",
+      "expected_doc": "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 29,
+      "top1_doc": "Escalada de cures i derivacio dun pacient ingressat a HDOM a lhospital convencional_limpio",
+      "top5_docs": [
+        "Escalada de cures i derivacio dun pacient ingressat a HDOM a lhospital convencional_limpio",
+        "Aturada cardiorespiratoria a CCEE i CAPSBE_limpio",
+        "Escalada de cures i derivacio dun pacient ingressat a HDOM a lhospital convencional_limpio",
+        "Aturada cardiorespiratoria intrahospitalaria_limpio",
+        "Aturada cardiorespiratoria a CCEE i CAPSBE_limpio"
+      ]
+    },
+    {
+      "query": "A que temperatura se debe guardar el levosimendam?",
+      "expected_doc": "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio",
+      "top5_docs": [
+        "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio",
+        "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Avaluacio de la tolerancia i eficacia del tractament postural per a apnea obstructiva del son_limpio"
+      ]
+    },
+    {
+      "query": "Cuando debería usar cámara espaciadora para nebulizar?",
+      "expected_doc": "Administracio de medicaments Via Inhalatoria Pols seca_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 6,
+      "top1_doc": "Administracio de medicaments Via inhalatoria_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via inhalatoria_limpio",
+        "Administracio de medicaments Via inhalatoria_limpio",
+        "Administracio de medicaments Via inhalatoria_limpio",
+        "Administracio dantibiotics via inhalatoria_limpio",
+        "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio"
+      ]
+    },
+    {
+      "query": "Como se debe colocar la lengua en la nebulización de medicación?",
+      "expected_doc": "Administracio de medicaments Via Inhalatoria Pols seca_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 11,
+      "top1_doc": "Administracio de medicaments Via inhalatoria_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via inhalatoria_limpio",
+        "Administracio de medicaments Via inhalatoria_limpio",
+        "Administracio dantibiotics via inhalatoria_limpio",
+        "Administracio dantibiotics via inhalatoria_limpio",
+        "Administracio dantibiotics via inhalatoria_limpio"
+      ]
+    },
+    {
+      "query": "Que medicamentos se nebulizan en forma de polvo seco?",
+      "expected_doc": "Administracio de medicaments Via inhalatoria amb cartutx pressuritzat_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 59,
+      "top1_doc": "Hidratacio oral en persones ancianes amb o sense disfagia_limpio",
+      "top5_docs": [
+        "Hidratacio oral en persones ancianes amb o sense disfagia_limpio",
+        "Administracio de medicaments Via Inhalatoria Pols seca_limpio",
+        "Administracio de medicaments Via inhalatoria_limpio",
+        "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+        "Hidratacio oral en persones ancianes amb o sense disfagia_limpio"
+      ]
+    },
+    {
+      "query": "Como se utiliza la nebulización en forma de polvo seco en monodosis?",
+      "expected_doc": "Administracio de medicaments Via inhalatoria amb cartutx pressuritzat_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 99,
+      "top1_doc": "Administracio de medicaments Via inhalatoria_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via inhalatoria_limpio",
+        "Administracio de medicaments Via inhalatoria_limpio",
+        "Administracio de medicaments Via inhalatoria_limpio",
+        "Drenatges abdominals_limpio",
+        "Hidratacio oral en persones ancianes amb o sense disfagia_limpio"
+      ]
+    },
+    {
+      "query": "A cuantos litros se debe poner el aire en la nebulización de medicación?",
+      "expected_doc": "Administracio de medicaments Via inhalatoria_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio de medicaments Via inhalatoria_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via inhalatoria_limpio",
+        "Administracio de medicaments Via inhalatoria_limpio",
+        "Administracio de medicaments Via inhalatoria_limpio",
+        "Administracio dantibiotics via inhalatoria_limpio",
+        "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio"
+      ]
+    },
+    {
+      "query": "Nebulizo la medicación con oxigeno o con aire?",
+      "expected_doc": "Administracio de medicaments Via inhalatoria_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio de medicaments Via inhalatoria_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via inhalatoria_limpio",
+        "Administracio dantibiotics via inhalatoria_limpio",
+        "Administracio dantibiotics via inhalatoria_limpio",
+        "Acollida i atencio integral al pacient en el CDI_limpio",
+        "Administracio de medicaments Via intradermica_limpio"
+      ]
+    },
+    {
+      "query": "Que podemos administrar por vía  intradérmica?",
+      "expected_doc": "Administracio de medicaments Via intradermica_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio de medicaments Via intradermica_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via intradermica_limpio",
+        "Desbridament larval_limpio",
+        "Cateter tunelitzat amb reservori venos subcutani RVS_limpio",
+        "Cateter central dinsercio periferica PICC en el nounat_limpio",
+        "Administracio de medicaments Via intramuscular_limpio"
+      ]
+    },
+    {
+      "query": "Como se que he administrado un fármaco intradérmico de forma correcta?",
+      "expected_doc": "Administracio de medicaments Via intradermica_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio de medicaments Via intradermica_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via intradermica_limpio",
+        "Administracio de medicaments Via intravenosa_limpio",
+        "Administracio de medicaments Via intramuscular_limpio",
+        "Cateter central dinsercio periferica PICC en el nounat_limpio",
+        "Administracio de medicaments Via intravenosa_limpio"
+      ]
+    },
+    {
+      "query": "Como cargo medicación para administración intramuscular?",
+      "expected_doc": "Administracio de medicaments Via intramuscular_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio de medicaments Via intramuscular_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via intramuscular_limpio",
+        "Administracio de medicaments Via intramuscular_limpio",
+        "Aturada cardiorespiratoria al servei de Rehabilitacio_limpio",
+        "Administracio de medicaments Via intradermica_limpio",
+        "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio"
+      ]
+    },
+    {
+      "query": "Que volumen máximo puedo administrar de forma intramuscular?",
+      "expected_doc": "Administracio de medicaments Via intramuscular_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio de medicaments Via intramuscular_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via intramuscular_limpio",
+        "Dilucio programacio i administracio de farmacs antimicrobians en bomba dinfusio a lHospitalitzacio a Domicili HDOM_limpio",
+        "Administracio de medicaments Via intramuscular_limpio",
+        "Administracio de medicaments Via intravenosa_limpio",
+        "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio"
+      ]
+    },
+    {
+      "query": "Como se administra un fármaco en bolus?",
+      "expected_doc": "Administracio de medicaments Via intravenosa_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio de medicaments Via intravenosa_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via intravenosa_limpio",
+        "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+        "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+        "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio",
+        "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio"
+      ]
+    },
+    {
+      "query": "Donde preparo la medicación iv de un paciente domiciliario?",
+      "expected_doc": "Administracio de medicaments Via intravenosa_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 6,
+      "top1_doc": "Administracio de medicaments Via intradermica_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via intradermica_limpio",
+        "Cateterisme periferic de linia mitja o midline_limpio",
+        "Collocacio de Cateter Tunelitzat al servei de Radiologia intervencionista_limpio",
+        "Cateterisme periferic de linia mitja o midline_limpio",
+        "Deteccio avaluacio i atencio a la violencia masclista en lambit de la parella a la unitat de salut mental perinatal de lHCB_limpio"
+      ]
+    },
+    {
+      "query": "Que tipos de medicación via oftálmica hay?",
+      "expected_doc": "Administracio de medicaments Via oftalmica_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio de medicaments Via oftalmica_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via oftalmica_limpio",
+        "Administracio de medicaments Via oftalmica_limpio",
+        "Cateter central dinsercio central_limpio",
+        "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+        "Administracio de medicaments Via intradermica_limpio"
+      ]
+    },
+    {
+      "query": "Durante cuanto tiempo puedo guardar un colirio para reutilizarlo?",
+      "expected_doc": "Administracio de medicaments Via oftalmica_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": true,
+      "expected_rank": 2,
+      "top1_doc": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+      "top5_docs": [
+        "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+        "Administracio de medicaments Via oftalmica_limpio",
+        "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio"
+      ]
+    },
+    {
+      "query": "Como se si un fármaco está en buen estado?",
+      "expected_doc": "Administracio de medicaments Via oral_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 21,
+      "top1_doc": "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+      "top5_docs": [
+        "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+        "Administracio de medicaments Via intradermica_limpio",
+        "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+        "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+        "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio"
+      ]
+    },
+    {
+      "query": "Como administro un fármaco via oral en un paciente con disfagia?",
+      "expected_doc": "Administracio de medicaments Via oral_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio de medicaments Via oral_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via oral_limpio",
+        "Administracio de medicaments Via oral_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Exploracio de la boca_limpio"
+      ]
+    },
+    {
+      "query": "Como identifico una pluma de insulina de un paciente?",
+      "expected_doc": "Administracio dinsulina Via subcutania_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio dinsulina Via subcutania_limpio",
+      "top5_docs": [
+        "Administracio dinsulina Via subcutania_limpio",
+        "Administracio dinsulina Via subcutania_limpio",
+        "Administracio dinsulina Via subcutania_limpio",
+        "Cateter central dinsercio periferica PICC en el nounat_limpio",
+        "Cateter central dinsercio periferica PICC en el nounat_limpio"
+      ]
+    },
+    {
+      "query": "Efectos secundarios de la insulina",
+      "expected_doc": "Administracio dinsulina Via subcutania_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio dinsulina Via subcutania_limpio",
+      "top5_docs": [
+        "Administracio dinsulina Via subcutania_limpio",
+        "Administracio dinsulina Via subcutania_limpio",
+        "Administracio dinsulina Via subcutania_limpio",
+        "Administracio dinsulina Via subcutania_limpio",
+        "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio"
+      ]
+    },
+    {
+      "query": "En cuanto puedo diluir el ferinject?",
+      "expected_doc": "Administracio segura de ferroterapia intravenosa al domicili_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 19,
+      "top1_doc": "Ferro Intravenos Administracio segura_limpio",
+      "top5_docs": [
+        "Ferro Intravenos Administracio segura_limpio",
+        "Desbridament larval_limpio",
+        "Cura de la ferida quirurgica_limpio",
+        "Cura de la ferida quirurgica_limpio",
+        "Cateter central dinsercio periferica PICC en el nounat_limpio"
+      ]
+    },
+    {
+      "query": "Cuales son los efectos secundarios más importantes del hierro iv?",
+      "expected_doc": "Administracio segura de ferroterapia intravenosa al domicili_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio segura de ferroterapia intravenosa al domicili_limpio",
+      "top5_docs": [
+        "Administracio segura de ferroterapia intravenosa al domicili_limpio",
+        "Ferro Intravenos Administracio segura_limpio",
+        "Administracio segura de ferroterapia intravenosa al domicili_limpio",
+        "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+        "Curs evolutiu dinfermeria_limpio"
+      ]
+    },
+    {
+      "query": "Que debo hacer en caso de tener un paciente en aislamiento social no deseado?",
+      "expected_doc": "Aillament social solitud_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Aillament social solitud_limpio",
+      "top5_docs": [
+        "Aillament social solitud_limpio",
+        "Aillament social solitud_limpio",
+        "Aillament social solitud_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio"
+      ]
+    },
+    {
+      "query": "A quien se interconsulta si tengo un paciente aislado?",
+      "expected_doc": "Aillament social solitud_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Aillament social solitud_limpio",
+      "top5_docs": [
+        "Aillament social solitud_limpio",
+        "Aillament social solitud_limpio",
+        "Aillament social solitud_limpio",
+        "Escalada de cures i derivacio dun pacient ingressat a HDOM a lhospital convencional_limpio",
+        "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio"
+      ]
+    },
+    {
+      "query": "La rivabirina necesita receta de prosereme?",
+      "expected_doc": "Alta del pacient trasplantat hepatic_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 281,
+      "top1_doc": "Atencio a les persones en situacio dultims dies de vida_limpio",
+      "top5_docs": [
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Aturada cardiorespiratoria al servei de Rehabilitacio_limpio",
+        "Aturada cardiorespiratoria al servei de Rehabilitacio_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio"
+      ]
+    },
+    {
+      "query": "Consideraciones al pautar pentamidina",
+      "expected_doc": "Alta del pacient trasplantat hepatic_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 304,
+      "top1_doc": "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio",
+      "top5_docs": [
+        "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio",
+        "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+        "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio",
+        "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio",
+        "Administracio dinsulina Via subcutania_limpio"
+      ]
+    },
+    {
+      "query": "Que debo revisar al alta de un paciente de enfermería",
+      "expected_doc": "Alta infermeria_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": true,
+      "expected_rank": 3,
+      "top1_doc": "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+      "top5_docs": [
+        "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+        "Curs evolutiu dinfermeria_limpio",
+        "Alta infermeria_limpio",
+        "Carreto daturada cardiorespiratoria revisio periodica de lestoc i Desa_limpio",
+        "Gestio de pacients confinats_limpio"
+      ]
+    },
+    {
+      "query": "Que puedo prescribir como enfermera al alta?",
+      "expected_doc": "Alta infermeria_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Alta infermeria_limpio",
+      "top5_docs": [
+        "Alta infermeria_limpio",
+        "Alta infermeria_limpio",
+        "Curs evolutiu dinfermeria_limpio",
+        "Administracio de medicaments Via intramuscular_limpio",
+        "Educacio terapeutica en cirurgia de columna taller dirigit a pacients i familiars_limpio"
+      ]
+    },
+    {
+      "query": "Quien da la magnetoterapia?",
+      "expected_doc": "Aplicacio de la tecnica terapeutica magnetoterapia_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+      "top5_docs": [
+        "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+        "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+        "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+        "Acollida i atencio integral al pacient en el CDI_limpio",
+        "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio"
+      ]
+    },
+    {
+      "query": "Puedo dar magnetoterapia en un paciente con audífonos?",
+      "expected_doc": "Aplicacio de la tecnica terapeutica magnetoterapia_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+      "top5_docs": [
+        "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+        "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+        "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+        "Administracio segura de ferroterapia intravenosa al domicili_limpio",
+        "Acollida i atencio integral al pacient en el CDI_limpio"
+      ]
+    }
+  ],
+  "allmini_results": [
+    {
+      "query": "Cómo alto a un paciente paliativo con hospitalización a domicilio?",
+      "expected_doc": "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": true,
+      "expected_rank": 2,
+      "top1_doc": "Atencio a les persones en situacio dultims dies de vida_limpio",
+      "top5_docs": [
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Alta infermeria_limpio",
+        "Cures post mortem_limpio"
+      ]
+    },
+    {
+      "query": "Quien gestiona el ingreso al centro de atención intermedia en situación de final de vida?",
+      "expected_doc": "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": true,
+      "expected_rank": 4,
+      "top1_doc": "Atencio a les persones en situacio dultims dies de vida_limpio",
+      "top5_docs": [
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Codi final de vida a Urgencies Intervencio de Treball Social_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio",
+        "Alta infermeria_limpio"
+      ]
+    },
+    {
+      "query": "Que escalas debo pasar en la valoración integral de una paciente con patología oncológica ginecologica?",
+      "expected_doc": "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": true,
+      "expected_rank": 2,
+      "top1_doc": "Administracio de medicaments Via oral_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via oral_limpio",
+        "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio",
+        "Administracio de medicaments Via oral_limpio",
+        "Administracio dantibiotics via inhalatoria_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio"
+      ]
+    },
+    {
+      "query": "A quien debo hacer interconsulta en caso de paciente de onco gine?",
+      "expected_doc": "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 6,
+      "top1_doc": "Administracio de medicaments Via oral_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via oral_limpio",
+        "Exploracio de la boca_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Administracio de medicaments Via oral_limpio",
+        "Administracio dantibiotics via inhalatoria_limpio"
+      ]
+    },
+    {
+      "query": "Quien debe aprobar que se de una prestación fuera del siscat, de carácter excepcional?",
+      "expected_doc": "Acces a lassistencia sanitaria per a convenis internacionals i prestacions de caracter excepcional CASCIPE_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": true,
+      "expected_rank": 3,
+      "top1_doc": "Carreto daturada cardiorespiratoria revisio periodica de lestoc i Desa_limpio",
+      "top5_docs": [
+        "Carreto daturada cardiorespiratoria revisio periodica de lestoc i Desa_limpio",
+        "Cura del peu diabetic Cura de la ferida_limpio",
+        "Acces a lassistencia sanitaria per a convenis internacionals i prestacions de caracter excepcional CASCIPE_limpio",
+        "Fluxometria_limpio",
+        "Gestio de pacients confinats_limpio"
+      ]
+    },
+    {
+      "query": "Dame el link de acceso al CASCIPE",
+      "expected_doc": "Acces a lassistencia sanitaria per a convenis internacionals i prestacions de caracter excepcional CASCIPE_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": true,
+      "expected_rank": 2,
+      "top1_doc": "Alta del pacient trasplantat hepatic_limpio",
+      "top5_docs": [
+        "Alta del pacient trasplantat hepatic_limpio",
+        "Acces a lassistencia sanitaria per a convenis internacionals i prestacions de caracter excepcional CASCIPE_limpio",
+        "Cures post mortem_limpio",
+        "Aturada cardiorespiratoria a CCEE i CAPSBE_limpio",
+        "Alta infermeria_limpio"
+      ]
+    },
+    {
+      "query": "Quien realiza la acogida en situación de pandemia?",
+      "expected_doc": "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 10,
+      "top1_doc": "Cures post mortem_limpio",
+      "top5_docs": [
+        "Cures post mortem_limpio",
+        "Caigudes pacient_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio"
+      ]
+    },
+    {
+      "query": "Que variables clínicas se cogen en caso de acogida de paciente en pandemia?",
+      "expected_doc": "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": true,
+      "expected_rank": 5,
+      "top1_doc": "Gestio de la glucemia en hospitalitzacio de curta estada_limpio",
+      "top5_docs": [
+        "Gestio de la glucemia en hospitalitzacio de curta estada_limpio",
+        "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio",
+        "Cures post mortem_limpio",
+        "Alta infermeria_limpio",
+        "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio"
+      ]
+    },
+    {
+      "query": "Con quien debo coordinar la medicación a administrar cuando un paciente entra en el CDI?",
+      "expected_doc": "Acollida i atencio integral al pacient en el CDI_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 64,
+      "top1_doc": "Atencio a les persones en situacio dultims dies de vida_limpio",
+      "top5_docs": [
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Administracio de medicaments Via intradermica_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio",
+        "Administracio de medicaments Via oral_limpio"
+      ]
+    },
+    {
+      "query": "En paciente con DAI en radiología, hay que llevar el desfribilador?",
+      "expected_doc": "Acollida i atencio integral al pacient en el CDI_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 75,
+      "top1_doc": "Cancer de prostata localitzat_limpio",
+      "top5_docs": [
+        "Cancer de prostata localitzat_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio",
+        "Alta infermeria_limpio",
+        "Cures post mortem_limpio"
+      ]
+    },
+    {
+      "query": "Que debo hacer en una crisis tonico-clónica?",
+      "expected_doc": "Actuacio davant una crisi epileptica generalitzada tonicoclonica a la unitat depilepsia_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 37,
+      "top1_doc": "Administracio de medicaments Via intravenosa_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via intravenosa_limpio",
+        "Crisi Comicial_limpio",
+        "Cura del peu diabetic Cura de la ferida_limpio",
+        "Alta infermeria_limpio",
+        "Desbridament larval_limpio"
+      ]
+    },
+    {
+      "query": "Cuanto tiempo debe estar monitorizado tras una crisis tonico-clónica?",
+      "expected_doc": "Actuacio davant una crisi epileptica generalitzada tonicoclonica a la unitat depilepsia_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 91,
+      "top1_doc": "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio",
+      "top5_docs": [
+        "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio",
+        "Administracio de medicaments Via intravenosa_limpio",
+        "Canvi de canula de traqueotomia en pacients de CMF i ORL_limpio",
+        "Desbridament larval_limpio",
+        "Crisi Comicial_limpio"
+      ]
+    },
+    {
+      "query": "Busca de la matrona senior de la mater",
+      "expected_doc": "Actuacio en situacions demergencia obstetrica seu Maternitat circuit de trucades interdisciplinars davis_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 192,
+      "top1_doc": "Cures post mortem_limpio",
+      "top5_docs": [
+        "Cures post mortem_limpio",
+        "Aturada cardiorespiratoria a CCEE i CAPSBE_limpio",
+        "Cures post mortem_limpio",
+        "Alta del pacient trasplantat hepatic_limpio",
+        "Aturada cardiorespiratoria al servei de Rehabilitacio_limpio"
+      ]
+    },
+    {
+      "query": "Cual es el número de emergencia en la sede de maternidad?",
+      "expected_doc": "Actuacio en situacions demergencia obstetrica seu Maternitat circuit de trucades interdisciplinars davis_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Actuacio en situacions demergencia obstetrica seu Maternitat circuit de trucades interdisciplinars davis_limpio",
+      "top5_docs": [
+        "Actuacio en situacions demergencia obstetrica seu Maternitat circuit de trucades interdisciplinars davis_limpio",
+        "Deteccio avaluacio i atencio a la violencia masclista en lambit de la parella a la unitat de salut mental perinatal de lHCB_limpio",
+        "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Cura del peu diabetic Cura de la ferida_limpio"
+      ]
+    },
+    {
+      "query": "Que puedo hacer para favorecer el descanso nocturno de un paciente?",
+      "expected_doc": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 33,
+      "top1_doc": "Atencio a les persones en situacio dultims dies de vida_limpio",
+      "top5_docs": [
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Alta del pacient trasplantat hepatic_limpio",
+        "Alta infermeria_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Deteccio de sobrecarrega en persones cuidadores_limpio"
+      ]
+    },
+    {
+      "query": "Se puede quedar un familiar por la noche?",
+      "expected_doc": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 8,
+      "top1_doc": "Atencio a les persones en situacio dultims dies de vida_limpio",
+      "top5_docs": [
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Cures post mortem_limpio",
+        "Alta infermeria_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Gestio de pacients confinats_limpio"
+      ]
+    },
+    {
+      "query": "Que puedo nebulizar de antibiótico?",
+      "expected_doc": "Administracio dantibiotics via inhalatoria_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": true,
+      "expected_rank": 2,
+      "top1_doc": "Determinacio de les concentracions plasmatiques dantibiotics en adults_limpio",
+      "top5_docs": [
+        "Determinacio de les concentracions plasmatiques dantibiotics en adults_limpio",
+        "Administracio dantibiotics via inhalatoria_limpio",
+        "Determinacio de les concentracions plasmatiques dantibiotics en adults_limpio",
+        "Administracio dantibiotics via inhalatoria_limpio",
+        "Administracio dantibiotics via inhalatoria_limpio"
+      ]
+    },
+    {
+      "query": "Como nubulizo un atb en un paciente con canula de plata?",
+      "expected_doc": "Administracio dantibiotics via inhalatoria_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 23,
+      "top1_doc": "Canvi de canula de traqueotomia en pacients de CMF i ORL_limpio",
+      "top5_docs": [
+        "Canvi de canula de traqueotomia en pacients de CMF i ORL_limpio",
+        "Administracio de medicaments Via intravenosa_limpio",
+        "Extravasacio de farmacs citostatics irritants io vesicants_limpio",
+        "Curs evolutiu dinfermeria_limpio",
+        "Caigudes pacient_limpio"
+      ]
+    },
+    {
+      "query": "Número de busca del equipo de HDOM",
+      "expected_doc": "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 101,
+      "top1_doc": "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+      "top5_docs": [
+        "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+        "Carreto daturada cardiorespiratoria revisio periodica de lestoc i Desa_limpio",
+        "Cures post mortem_limpio",
+        "Escalada de cures i derivacio dun pacient ingressat a HDOM a lhospital convencional_limpio",
+        "Aturada cardiorespiratoria a CCEE i CAPSBE_limpio"
+      ]
+    },
+    {
+      "query": "A que temperatura se debe guardar el levosimendam?",
+      "expected_doc": "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 83,
+      "top1_doc": "Desbridament larval_limpio",
+      "top5_docs": [
+        "Desbridament larval_limpio",
+        "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+        "Electrocardiograma ECG_limpio",
+        "Cura del peu diabetic Cura de la ferida_limpio",
+        "Deteccio avaluacio i atencio a la violencia masclista en lambit de la parella a la unitat de salut mental perinatal de lHCB_limpio"
+      ]
+    },
+    {
+      "query": "Cuando debería usar cámara espaciadora para nebulizar?",
+      "expected_doc": "Administracio de medicaments Via Inhalatoria Pols seca_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 56,
+      "top1_doc": "Canvi de canula de traqueotomia en pacients de CMF i ORL_limpio",
+      "top5_docs": [
+        "Canvi de canula de traqueotomia en pacients de CMF i ORL_limpio",
+        "Gestio de pacients confinats_limpio",
+        "Administracio de medicaments Via inhalatoria amb cartutx pressuritzat_limpio",
+        "Alta infermeria_limpio",
+        "Fluxometria_limpio"
+      ]
+    },
+    {
+      "query": "Como se debe colocar la lengua en la nebulización de medicación?",
+      "expected_doc": "Administracio de medicaments Via Inhalatoria Pols seca_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 9,
+      "top1_doc": "Aillament social solitud_limpio",
+      "top5_docs": [
+        "Aillament social solitud_limpio",
+        "Administracio de medicaments Via intradermica_limpio",
+        "Alta infermeria_limpio",
+        "Alta infermeria_limpio",
+        "Gestio de pacients confinats_limpio"
+      ]
+    },
+    {
+      "query": "Que medicamentos se nebulizan en forma de polvo seco?",
+      "expected_doc": "Administracio de medicaments Via inhalatoria amb cartutx pressuritzat_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 63,
+      "top1_doc": "Administracio de medicaments Via intradermica_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via intradermica_limpio",
+        "Caigudes pacient_limpio",
+        "Curs evolutiu dinfermeria_limpio",
+        "Administracio de medicaments Via Inhalatoria Pols seca_limpio",
+        "Administracio de medicaments Via oral_limpio"
+      ]
+    },
+    {
+      "query": "Como se utiliza la nebulización en forma de polvo seco en monodosis?",
+      "expected_doc": "Administracio de medicaments Via inhalatoria amb cartutx pressuritzat_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 40,
+      "top1_doc": "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+      "top5_docs": [
+        "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+        "Gestio de pacients confinats_limpio",
+        "Dinamica uterina en la gestant de baix risc Visita UCIES_limpio",
+        "Alta infermeria_limpio",
+        "Canvi de canula de traqueotomia en pacients de CMF i ORL_limpio"
+      ]
+    },
+    {
+      "query": "A cuantos litros se debe poner el aire en la nebulización de medicación?",
+      "expected_doc": "Administracio de medicaments Via inhalatoria_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 8,
+      "top1_doc": "Atencio a les persones en situacio dultims dies de vida_limpio",
+      "top5_docs": [
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Aillament social solitud_limpio",
+        "Administracio de medicaments Via inhalatoria amb cartutx pressuritzat_limpio",
+        "Administracio de medicaments Via oftalmica_limpio",
+        "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio"
+      ]
+    },
+    {
+      "query": "Nebulizo la medicación con oxigeno o con aire?",
+      "expected_doc": "Administracio de medicaments Via inhalatoria_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio de medicaments Via inhalatoria_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via inhalatoria_limpio",
+        "Administracio dantibiotics via inhalatoria_limpio",
+        "Administracio de medicaments Via inhalatoria amb cartutx pressuritzat_limpio",
+        "Administracio de medicaments Via inhalatoria amb cartutx pressuritzat_limpio",
+        "Administracio de medicaments Via intradermica_limpio"
+      ]
+    },
+    {
+      "query": "Que podemos administrar por vía  intradérmica?",
+      "expected_doc": "Administracio de medicaments Via intradermica_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio de medicaments Via intradermica_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via intradermica_limpio",
+        "Administracio de medicaments Via intravenosa_limpio",
+        "Aillament social solitud_limpio",
+        "Administracio de medicaments Via oftalmica_limpio",
+        "Administracio de medicaments Via oral_limpio"
+      ]
+    },
+    {
+      "query": "Como se que he administrado un fármaco intradérmico de forma correcta?",
+      "expected_doc": "Administracio de medicaments Via intradermica_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio de medicaments Via intradermica_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via intradermica_limpio",
+        "Administracio de medicaments Via intravenosa_limpio",
+        "Administracio dantibiotics via inhalatoria_limpio",
+        "Cateter central dinsercio central_limpio",
+        "Administracio de medicaments Via oral_limpio"
+      ]
+    },
+    {
+      "query": "Como cargo medicación para administración intramuscular?",
+      "expected_doc": "Administracio de medicaments Via intramuscular_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio de medicaments Via intramuscular_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via intramuscular_limpio",
+        "Administracio de medicaments Via intramuscular_limpio",
+        "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio",
+        "Administracio de medicaments Via intradermica_limpio",
+        "Administracio de medicaments Via oftalmica_limpio"
+      ]
+    },
+    {
+      "query": "Que volumen máximo puedo administrar de forma intramuscular?",
+      "expected_doc": "Administracio de medicaments Via intramuscular_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio de medicaments Via intramuscular_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via intramuscular_limpio",
+        "Administracio de medicaments Via inhalatoria amb cartutx pressuritzat_limpio",
+        "Cateter venos central no tunelitzat per a hemodialisiaferesi_limpio",
+        "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+        "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio"
+      ]
+    },
+    {
+      "query": "Como se administra un fármaco en bolus?",
+      "expected_doc": "Administracio de medicaments Via intravenosa_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": true,
+      "expected_rank": 2,
+      "top1_doc": "Dilucio programacio i administracio de farmacs antimicrobians en bomba dinfusio a lHospitalitzacio a Domicili HDOM_limpio",
+      "top5_docs": [
+        "Dilucio programacio i administracio de farmacs antimicrobians en bomba dinfusio a lHospitalitzacio a Domicili HDOM_limpio",
+        "Administracio de medicaments Via intravenosa_limpio",
+        "Administracio de medicaments Via intravenosa_limpio",
+        "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+        "Administracio de medicaments Via oral_limpio"
+      ]
+    },
+    {
+      "query": "Donde preparo la medicación iv de un paciente domiciliario?",
+      "expected_doc": "Administracio de medicaments Via intravenosa_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 23,
+      "top1_doc": "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio",
+      "top5_docs": [
+        "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Alta infermeria_limpio",
+        "Alta infermeria_limpio"
+      ]
+    },
+    {
+      "query": "Que tipos de medicación via oftálmica hay?",
+      "expected_doc": "Administracio de medicaments Via oftalmica_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": true,
+      "expected_rank": 2,
+      "top1_doc": "Administracio de medicaments Via intradermica_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via intradermica_limpio",
+        "Administracio de medicaments Via oftalmica_limpio",
+        "Administracio dantibiotics via inhalatoria_limpio",
+        "Administracio dantibiotics via inhalatoria_limpio",
+        "Administracio de medicaments Via intradermica_limpio"
+      ]
+    },
+    {
+      "query": "Durante cuanto tiempo puedo guardar un colirio para reutilizarlo?",
+      "expected_doc": "Administracio de medicaments Via oftalmica_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 72,
+      "top1_doc": "Canvi de canula de traqueotomia en pacients de CMF i ORL_limpio",
+      "top5_docs": [
+        "Canvi de canula de traqueotomia en pacients de CMF i ORL_limpio",
+        "Administracio de medicaments Via intravenosa_limpio",
+        "Gestio de pacients confinats_limpio",
+        "Cures post mortem_limpio",
+        "Gestio de pacients confinats_limpio"
+      ]
+    },
+    {
+      "query": "Como se si un fármaco está en buen estado?",
+      "expected_doc": "Administracio de medicaments Via oral_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 21,
+      "top1_doc": "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+      "top5_docs": [
+        "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+        "Administracio de medicaments Via intravenosa_limpio",
+        "Dinamica uterina en la gestant de baix risc Visita UCIES_limpio",
+        "Dilucio programacio i administracio de farmacs antimicrobians en bomba dinfusio a lHospitalitzacio a Domicili HDOM_limpio",
+        "Crisi Comicial_limpio"
+      ]
+    },
+    {
+      "query": "Como administro un fármaco via oral en un paciente con disfagia?",
+      "expected_doc": "Administracio de medicaments Via oral_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio de medicaments Via oral_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via oral_limpio",
+        "Administracio de medicaments Via oral_limpio",
+        "Administracio de medicaments Via oral_limpio",
+        "Administracio de medicaments Via intravenosa_limpio",
+        "Administracio dantibiotics via inhalatoria_limpio"
+      ]
+    },
+    {
+      "query": "Como identifico una pluma de insulina de un paciente?",
+      "expected_doc": "Administracio dinsulina Via subcutania_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": true,
+      "expected_rank": 3,
+      "top1_doc": "Gestio de la glucemia en hospitalitzacio de curta estada_limpio",
+      "top5_docs": [
+        "Gestio de la glucemia en hospitalitzacio de curta estada_limpio",
+        "Duodenopancreatectomia Cefalica_limpio",
+        "Administracio dinsulina Via subcutania_limpio",
+        "Administracio dinsulina Via subcutania_limpio",
+        "Gestio de la glucemia en hospitalitzacio de curta estada_limpio"
+      ]
+    },
+    {
+      "query": "Efectos secundarios de la insulina",
+      "expected_doc": "Administracio dinsulina Via subcutania_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Administracio dinsulina Via subcutania_limpio",
+      "top5_docs": [
+        "Administracio dinsulina Via subcutania_limpio",
+        "Administracio dinsulina Via subcutania_limpio",
+        "Gestio de la glucemia en hospitalitzacio de curta estada_limpio",
+        "Gestio de la glucemia en hospitalitzacio de curta estada_limpio",
+        "Duodenopancreatectomia Cefalica_limpio"
+      ]
+    },
+    {
+      "query": "En cuanto puedo diluir el ferinject?",
+      "expected_doc": "Administracio segura de ferroterapia intravenosa al domicili_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 52,
+      "top1_doc": "Administracio de medicaments Via intravenosa_limpio",
+      "top5_docs": [
+        "Administracio de medicaments Via intravenosa_limpio",
+        "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+        "Canvi de canula de traqueotomia en pacients de CMF i ORL_limpio",
+        "Cura del peu diabetic Cura de la ferida_limpio",
+        "Ferro Intravenos Administracio segura_limpio"
+      ]
+    },
+    {
+      "query": "Cuales son los efectos secundarios más importantes del hierro iv?",
+      "expected_doc": "Administracio segura de ferroterapia intravenosa al domicili_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 251,
+      "top1_doc": "Alta infermeria_limpio",
+      "top5_docs": [
+        "Alta infermeria_limpio",
+        "Aillament social solitud_limpio",
+        "Canvi de canula de traqueotomia en pacients de CMF i ORL_limpio",
+        "Cura del peu diabetic Cura de la ferida_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio"
+      ]
+    },
+    {
+      "query": "Que debo hacer en caso de tener un paciente en aislamiento social no deseado?",
+      "expected_doc": "Aillament social solitud_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Aillament social solitud_limpio",
+      "top5_docs": [
+        "Aillament social solitud_limpio",
+        "Deteccio de sobrecarrega en persones cuidadores_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Aillament social solitud_limpio",
+        "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio"
+      ]
+    },
+    {
+      "query": "A quien se interconsulta si tengo un paciente aislado?",
+      "expected_doc": "Aillament social solitud_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": true,
+      "expected_rank": 5,
+      "top1_doc": "Alta infermeria_limpio",
+      "top5_docs": [
+        "Alta infermeria_limpio",
+        "Alta del pacient trasplantat hepatic_limpio",
+        "Caigudes pacient_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Aillament social solitud_limpio"
+      ]
+    },
+    {
+      "query": "La rivabirina necesita receta de prosereme?",
+      "expected_doc": "Alta del pacient trasplantat hepatic_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 60,
+      "top1_doc": "Gestio de reclamacions_limpio",
+      "top5_docs": [
+        "Gestio de reclamacions_limpio",
+        "Cures post mortem_limpio",
+        "Cures post mortem_limpio",
+        "Gestio de reclamacions_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio"
+      ]
+    },
+    {
+      "query": "Consideraciones al pautar pentamidina",
+      "expected_doc": "Alta del pacient trasplantat hepatic_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "expected_rank": 46,
+      "top1_doc": "Cures de cateter vascular Protocol Bacteriemia Zero_limpio",
+      "top5_docs": [
+        "Cures de cateter vascular Protocol Bacteriemia Zero_limpio",
+        "Cateterisme vesical_limpio",
+        "Cures infermeres per a la revascularitzacio percutania darteries coronaries amb oclusio total cronica CTO_limpio",
+        "Cateter central dinsercio central_limpio",
+        "Administracio de medicaments Via intramuscular_limpio"
+      ]
+    },
+    {
+      "query": "Que debo revisar al alta de un paciente de enfermería",
+      "expected_doc": "Alta infermeria_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": true,
+      "expected_rank": 3,
+      "top1_doc": "Alta del pacient trasplantat hepatic_limpio",
+      "top5_docs": [
+        "Alta del pacient trasplantat hepatic_limpio",
+        "Aturada cardiorespiratoria al Centre dOdontologia i Consultes externes CCEE de Psiquiatria Centre de Salut Mental Adults CSMA_limpio",
+        "Alta infermeria_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Cures post mortem_limpio"
+      ]
+    },
+    {
+      "query": "Que puedo prescribir como enfermera al alta?",
+      "expected_doc": "Alta infermeria_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Alta infermeria_limpio",
+      "top5_docs": [
+        "Alta infermeria_limpio",
+        "Canvi de canula de traqueotomia en pacients de CMF i ORL_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio",
+        "Deteccio avaluacio i atencio a la violencia masclista en lambit de la parella a la unitat de salut mental perinatal de lHCB_limpio",
+        "Aillament social solitud_limpio"
+      ]
+    },
+    {
+      "query": "Quien da la magnetoterapia?",
+      "expected_doc": "Aplicacio de la tecnica terapeutica magnetoterapia_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+      "top5_docs": [
+        "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+        "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+        "Educacio terapeutica en cirurgia de columna taller dirigit a pacients i familiars_limpio",
+        "Cateter tunelitzat amb reservori venos subcutani RVS_limpio",
+        "Fluxometria_limpio"
+      ]
+    },
+    {
+      "query": "Puedo dar magnetoterapia en un paciente con audífonos?",
+      "expected_doc": "Aplicacio de la tecnica terapeutica magnetoterapia_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "expected_rank": 1,
+      "top1_doc": "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+      "top5_docs": [
+        "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+        "Alta infermeria_limpio",
+        "Caigudes pacient_limpio",
+        "Caigudes pacient_limpio",
+        "Atencio a les persones en situacio dultims dies de vida_limpio"
+      ]
+    }
+  ],
+  "overlap_analysis": {
+    "top1_analysis": {
+      "overlap": {
+        "count": 11,
+        "percentage": 22.916666666666664
+      },
+      "only_sapbert": {
+        "count": 17,
+        "percentage": 35.41666666666667
+      },
+      "only_allmini": {
+        "count": 1,
+        "percentage": 2.083333333333333
+      },
+      "neither": {
+        "count": 19,
+        "percentage": 39.58333333333333
+      }
+    },
+    "top5_analysis": {
+      "overlap": {
+        "count": 23,
+        "percentage": 47.91666666666667
+      },
+      "only_sapbert": {
+        "count": 9,
+        "percentage": 18.75
+      },
+      "only_allmini": {
+        "count": 1,
+        "percentage": 2.083333333333333
+      },
+      "neither": {
+        "count": 15,
+        "percentage": 31.25
+      }
+    },
+    "sapbert_performance": {
+      "top1_accuracy": 0.5833333333333334,
+      "top5_accuracy": 0.6666666666666666,
+      "top1_correct": 28,
+      "top5_correct": 32
+    },
+    "allmini_performance": {
+      "top1_accuracy": 0.25,
+      "top5_accuracy": 0.5,
+      "top1_correct": 12,
+      "top5_correct": 24
+    }
+  },
+  "timestamp": 1758802282.1671813
+}

@@ -1,0 +1,480 @@
+automàtic de dispensació de medicaments (PYXIS ®).
+DEFINICIONS
+FARMACIOLA: zona del magatzem de medicaments a les unitats assistencials (serveis
+comuns, Hospitals de Dia i Unitats d’Hospitalització). A les unitats amb sistema de
+distribució de medicaments en dosis unitàries, la finalitat és atendre les demandes no
+cobertes pel sistema de distribució, com medicaments urgents, primeres dosis, solucions
+intravenoses de gran volum, etc. A les Unitats amb sistema de distribució per reserva SAP,
+permet disposar de medicaments a la unitat.
+PLANTILLA SAP: llistat realitzat en SAP dels medicaments que formen part de la
+farmaciola amb la descripció de l’estoc màxim i mínim de cada fàrmac. Cada plantilla està
+vinculada a un centre de cost. El Contingut de la plantilla es pot exportar a Excel.
+SISTEMA AUTOMATIZAT DE DISPENSACIÓ (SAD): són armaris automatitzats de
+configuració flexible, que emmagatzemen i dispensen medicació. Estan gestionats
+electrònicament i integrats a la xarxa de l’hospital. Les Unitats de Crítics, Quiròfans i el
+
+
+Gestió i conservació de farmacioles i sistemes automatitzats de
+dispensació PYXIS ®
+Servei d’UCIES disposen de SAD. Aquests sistemes estan connectats a la prescripció
+electrònica i poden subministrar la majoria de medicaments que s’utilitzen en aquestes
+unitats.
+MEDICAMENTS D’ALT RISC: són medicaments que quan s'utilitzen incorrectament
+tenen més probabilitat de causar danys greus o fins i tot mortals als pacients. Això no
+implica que els errors siguin més freqüents, sinó que en cas que ocorrin, les conseqüències
+per als pacients solen ser més greus. S'han de distingir dels MEDICAMENTS
+PERILLOSOS que són aquells la manipulació inadequada dels quals suposa un risc per als
+professionals, la seva classificació i mesures de prevenció depèn de l'Institut Nacional de
+Seguretat i Higiene en el Treball.
+LLISTA DE MEDICAMENTS D’ALT RISC: són els medicaments d'alt risc continguts en
+la Guia Farmacoterapeutica de l'Hospital Clínic. Es pot accedir a la llista en la intranet del
+Servei de Farmàcia ( https://intranet.clinic.cat/?q=ca/farmacia/documents/qualitat-i-
+seguretat)
+Objectiu
+Definir el procediment per a determinar, gestionar i conservar les farmacioles de les
+unitats assistencials.
+Definir el funcionament dels Sistemes Automatitzats de Dispensació (SAD) en les unitats
+assistencials.
+Responsabilitats
+Coordinadors/es
+Farmacèutics/ques
+Infermers/es
+Procediment
+FARMACIOLA
+
+
+Gestió i conservació de farmacioles i sistemes automatitzats de
+dispensació PYXIS ®
+Zona de magatzem de medicaments en les unitats assistencials (serveis comuns, hospitals de dia
+i unitats d'hospitalització). En les unitats amb sistema de distribució de medicaments en dosis
+unitàries la seva finalitat és atendre les demandes no cobertes pel sistema de distribució com a
+medicaments urgents, primeres dosis, solucions intravenoses de gran volum, etc. En les unitats
+amb sistema de distribució per reserva SAP permet disposar dels medicaments en la unitat.
+1.1 CONTINGUT DE LA FARMACIOLA
+La farmaciola de medicaments està definida en la Plantilla SAP.
+La composició de les farmacioles de cada unitat assistencial s'estableix considerant les
+necessitats dels pacients tractats habitualment en aquesta unitat i el risc d'error amb
+aquests medicaments.
+Les farmacioles en les diferents unitats assistencials han d'incloure el mínim nombre de
+fàrmacs, de presentacions necessàries de cada fàrmac i de quantitats d'aquests últims per a
+satisfer les necessitats dels pacients entre cada reposició.
+El contingut de la farmaciola i les quantitats màximes i mínimes de cada medicament es
+pactarà entre el Servei de Farmàcia, les coordinadores de les unitats i el facultatiu mèdic
+responsable de la sala.
+La farmaciola només ha de contenir els medicaments indicats en la Plantilla SAP i en les
+quantitats definides. No han d'acumular-se medicaments en quantitats superiors a l'estoc
+establert.
+S'ha de tenir estoc físic en la farmaciola de tots els medicaments inclosos en la Plantilla
+SAP. Si no es té estoc d'un medicament s'ha de retirar de la Plantilla SAP ja que la lògica
+de la dispensació en la dosi unitària està vinculada al contingut de la plantilla. Tenir en
+compte que:
+El medicament inclòs en Plantilla SAP només es dispensa en el carro d’unidosi. No
+es dispensa en els correus fora de l'horari del carro, en aquest cas apareix
+“Farmaciola” com a font d'aprovisionament.
+El medicament inclòs en la Plantilla SAP que sigui prescrit en IPA “si precisa”
+(PRN) no es dispensa ni en el carro d’unidosi ni mitjançant correus. S'ha d'agafar de
+la farmaciola en el cas del qual el pacient el precisi.
+IPA no permet fer dosi de reemplaçament de medicaments multidosi inclosos en la
+Plantilla SAP. Permet fer dosi de reemplaçament de medicaments multidosi no
+inclosos en plantilla SAP.
+
+
+Gestió i conservació de farmacioles i sistemes automatitzats de
+dispensació PYXIS ®
+Tots els medicaments emmagatzemats han d'estar inclosos en la Guia Farmacoterapèutica
+de l'Hospital Clínic i han de procedir del Servei de Farmàcia de l'Hospital Clínic. No s'han
+d'emmagatzemar medicaments no autoritzats com són els procedents d'Oficines de
+Farmàcia aportats pels pacients o mostres gratuïtes aportades pels laboratoris farmacèutics.
+Els bloquejants neuromusculars no han de formar part de les farmacioles de les unitats
+d'hospitalització i només estaran disponibles en quiròfans, unitats de vigilància intensiva o
+en els carros de parada cardiorespiratòria. Només es permeten la seva inclusió en les
+plantilles SAP d'unitats d'hospitalització amb carro de parada cardiorespiratòria.
+En el cas de la seroteràpia i la nutrició enteral l'estoc no està pactat i se sol·liciten segons
+necessitats dels serveis.
+1.2 SOLICITUTS DE REPOSICIÓ
+Les sol·licituds de reposició de medicaments, seroteràpia i nutrició enteral es realitzen a
+través de la transacció ZMR1. En els tres casos el camp centre és HCFA. El camp
+magatzem varia segons el cas:
+Medicaments: magatzem HAFA.
+Serumteràpia: magatzem HASE.
+Nutrició enteral: magatzem HADI.
+Les sol·licituds es realitzaran els dies parells (dimarts, dijous, dissabte) per a les unitats
+situades en escales amb numeració “parell” i dies imparells (dilluns, dimecres, divendres)
+les unitats situades en escales “imparelles”. El servei d'urgències i bloc quirúrgic realitzen
+sol·licituds diàries.
+Es recomana que les sol·licituds de fàrmacs siguin gestionades sempre per les mateixes
+persones.
+1.3 CONTENIDOERS PER ELIMINACIÓ DE MEDICAMENTS
+Els contenidors de residus de color blau (Grup IV) són els establerts en les unitats
+assistencials per a rebutjar els medicaments, inclosos els citostàtics i altres medicaments
+perillosos. Els contenidors de residus de color vermell (Grup III) permeten rebutjar
+medicaments però no citostàtics ni perillosos.
+Les unitats assistencials que disposin dels contenidors blaus han de rebutjar en aquests
+contenidors els medicaments que no han d'emmagatzemar-se en la farmaciola ni poden ser
+administrats a pacients com els caducats, els no autoritzats, deteriorats, termolàbils amb
+
+
+Gestió i conservació de farmacioles i sistemes automatitzats de
+dispensació PYXIS ®
+trencament de cadena de fred, amb identificació mancada o confusa sobre el seu contingut,
+condicionament extern deteriorat o medicaments multidosi en els quals no consti data
+d'obertura.
+Les unitats assistencials que no disposin de contenidors blaus han de retornar al Servei de
+Farmàcia els medicaments descrits en el paràgraf anterior (veure també apartat 1.4).
+En cap cas s'han de rebutjar els medicaments als contenidors habituals de residus.
+1.4 DEVOLUCIÓ DE MEDICAMENTS AL SERVEI DE FARMÀCIA
+Per a les devolucions al Servei de Farmàcia s'ha d'emplenar el document AT10D1
+IMPRÈS DE DEVOLUCIONS
+(https://intranet.clinic.cat/?q=ca/farmacia/documents/qualitat-i-seguretat).
+Medicaments termolàbils
+Les devolucions de medicaments termolàbils s'han de lliurar en finestreta, sempre
+que la seva conservació hagi estat l'adequada.
+S'han de col·locar en una bossa separada de la resta de medicaments.
+S'ha d'emplenar el document AT10D1 IMPRÈS DE DEVOLUCIONS indicant la
+informació sobre el medicament i si el motiu de la devolució és per excés d'estoc o
+un altre.
+Perquè el Servei de Farmàcia tingui constància de la seva adequada conservació s'ha
+d'especificar el dia i l'hora que s'ha retirat de la nevera en el document AT10D1
+IMPRÈS DE DEVOLUCIONS. En el cas que no s'especifiqui la data i hora, el
+medicament serà rebutjat al contenidor de residus.
+Els medicaments termolàbils dispensats en la unidosi han de ser col·locats a la nevera
+fins a la seva administració al pacient. Els que no han estat administrats han de
+retornar-se com la resta de medicaments termolàbils emplenant el dia i l'hora que s'ha
+retirat de la nevera en el document AT10D1 IMPRÈS DE DEVOLUCIONS.
+Els medicaments perillosos no citostàtics preparats en el Servei de Farmàcia i
+dispensats com a mescla intravenosa (per exemple ganciclovir i micofenolato
+mofetilo), que no han estat administrats han d'emmagatzemar-se en nevera i retornar-
+se com la resta de medicaments termolàbils, emplenant el dia i l'hora que s'ha retirat
+de la nevera en el document AT10D1 IMPRÈS DE DEVOLUCIONS.
+Medicaments emmagatzemats a temperatura ambient
+Les devolucions dels medicaments emmagatzemats a temperatura ambient
+preferentment han de lliurar-se en finestreta. S'ha d'evitar el seu lliurament a
+
+
+Gestió i conservació de farmacioles i sistemes automatitzats de
+dispensació PYXIS ®
+l'auxiliar sanitari de Farmàcia.
+S'ha d'emplenar el document AT10D1 IMPRÈS DE DEVOLUCIONS indicant la
+informació sobre el medicament, especificar si és un estupefaent i si el motiu de la
+devolució és per excés d'estoc o un altre.
+Tots els medicaments retornats al Servei de Farmàcia han de ser col·locats dins d'una
+bossa. Ha d'indicar-se en la bossa el motiu: “excés d'estoc”, “medicaments no
+autoritzats”, “medicaments caducats”, “medicaments deteriorats”, etc. No han de
+barrejar-se aquests medicaments en la mateixa bossa.
+En el cas d'estupefaents els medicaments han de col·locar-se en una bossa separada
+de la resta de medicaments que indiqui “Estupefaent” i el motiu de la devolució.
+Els fàrmacs que siguin dispensats per dosis unitàries i no s'han administrat hauran de
+retornar-se en el propi caixetí del pacient i no hauran de ser emmagatzemats en la
+farmaciola. Tots, excepte els medicaments termolàbils que han de ser col·locats a la
+nevera fins a la seva devolució (veure apartat medicaments termolàbils).
+1.5 UBICACIÓ DE LA FARMACIOLA
+El lloc destinat a la farmaciola ha de complir les condicions adequades d'higiene, humitat,
+ventilació i aïllament. Han d'estar protegits de qualsevol focus directe de llum i calor i la
+temperatura ha de ser l'adequada, no sobrepassant els 25ºC. Com en altres casos d'atenció i
+cura de materials s'han de seguir les normes d'higiene establertes pel Centre.
+La ubicació de l'estoc ha de facilitar la seva utilització segura i còmoda i ha de ser d'accés
+restringit però fàcilment accessible per al personal sanitari.
+1.6 ESTRUCTURA FÍSICA I ORGANIZACIÓ DE FARMACIOLES
+La farmaciola s'organitza físicament en cinc grups:
+Medicaments en envasos unitaris (càpsules, comprimits, vials, etc.)
+Medicaments en envàs multidosi (xarops, gotes, pomades etc.)
+Medicaments termolàbils
+Nutrició enteral
+Serumteràpia
+Dins de cada grup els medicaments hauran de separar-se sobre la base de la via
+d'administració i, al seu torn, haurà de seguir-se dins de cadascuna d'elles un ordre
+alfabètic de col·locació. La col·locació d'envasos de cada medicament s'ha de realitzar de
+manera que s'utilitzin abans els medicaments amb caducitat més pròxima.
+
+
+Gestió i conservació de farmacioles i sistemes automatitzats de
+dispensació PYXIS ®
+Els vials o ampolles de concentrats d'electròlits considerats Medicaments d'Alt Risc
+(clorur de potassi, fosfat potàssic, sulfat de magnesi…) s'emmagatzemen en quantitats
+limitades i separats d'altres medicaments amb etiquetes auxiliars d'advertiment (etiqueta
+normalitzada de medicaments d'alt risc)
+Els armaris i calaixos que contenen la farmaciola seran preferentment de tipus “Medimat”.
+Cada calaix de l'armari “Medimat” o de qualsevol altra estructura que contingui la
+farmaciola i inclosos els medicaments termolàbils guardats en nevera, han de contenir una
+sola especialitat farmacèutica. El calaix estarà identificat amb una etiqueta que contindrà
+la informació sobre el medicament en lletres negres sobre fons blanc i al costat ha de
+col·locar-se una altra etiqueta normalitzada que indiqui que és un medicament d'alt risc.
+Els medicaments d'alt risc són els continguts en la Llista de Medicaments d'Alt Risc de
+l'Hospital Clínic accessible a través de la intranet de S. Farmàcia
+(https://intranet.clinic.cat/?q=ca/farmacia/documents/qualitat-i-seguretat). Les etiquetes
+normalitzades s'han de sol·licitar al Servei de Farmàcia.
+Ha de figurar la següent informació de manera obligatòria en l'etiqueta identificativa del
+calaix.
+Principi actiu.
+Forma de dosificació:
+Dosi en grams (g), mil·ligrams (mg) o micrograms (mcg) per a sòlids orals.
+Concentració expressada en mil·ligrams (mg) totals/ mil·lilitres (ml) totals per a
+injectables de petit volum (butllofes, vials, xeringues precargades, etc). Es
+desaconsella expressar el contingut en mg/ml si l'injectable conté més d'1 ml.
+Addicionalment si hi ha espai suficient en l'etiqueta identificativa també ha de figurar:
+Forma farmacèutica (comprimits, càpsules, vials, ampolles, etc.)
+Via d'administració (Oral, Intravenós, Tòpic, Subcutani, etc.)
+Les quantitats màximes i mínimes del medicament en l'estoc amb la finalitat de
+facilitar les sol·licituds de reposició.
+La medicació aportada pels pacients durant el seu ingrés serà identificada i custodiada pel
+personal d'infermeria, no ha de barrejar-se amb la resta de medicaments de la farmaciola
+(ha d'habilitar-se un lloc específic per a aquesta medicació).
+Els envasos multidosi d'ús exclusiu d'un pacient (col·liris, pomades, etc.) han
+d'emmagatzemar-se fora de la farmaciola i etiquetar-se amb el nom del pacient. Si el
+tractament continua a l'alta es pot lliurar al pacient i si se suspèn s'ha de rebutjar al
+contenidor específic o retornar al Servei de Farmàcia (veure apartats 1.3 i 1.4)
+
+
+Gestió i conservació de farmacioles i sistemes automatitzats de
+dispensació PYXIS ®
+Les solucions de fluïdoteràpia i nutrició enteral, s'ordenen per tipus i volum. Per a la seva
+col·locació i identificació se segueixen les mateixes recomanacions que per a la resta de
+medicaments. En el cas dels classificats com a Medicaments d'Alt Risc, a més de la seva
+identificació amb l'etiqueta normalitzada de Medicaments d'Alt Risc se seguiran les
+següents recomanacions: 
+Les solucions IV premesclades d'electròlits (p. ex. clorur potàssic, clorur sòdic en
+concentracions majors del 0,9%) s'emmagatzemen separadament de les solucions de
+fluïdoteràpia.
+Les bosses i flascons de gran volum (comercials o preparats en farmàcia) de
+solucions per a irrigació o per a conservació d'òrgans, i l'aigua estèril per a irrigació o
+inhalació, s'etiqueten i s'emmagatzemen separadament perquè no puguin confondre's
+amb les solucions destinades a l'administració per via parenteral.
+1.7 CONDICIONAMIENT EXTERN DELS MEDICAMENTS
+El condicionament extern dels medicaments (envàs, blíster, ampolles, proteccions de
+fàrmacs, etc.), de les solucions de fluïdoteràpia i nutrició enteral s'han de mantenir en les
+condicions originals de la dispensació. Han de ser llegibles els següents conceptes: el nom
+del fàrmac, dosi, via d'administració, caducitat i lot. No ha de contenir cap nota ni
+escriptura.
+S'ha de rebutjar o retornar al Servei de Farmàcia qualsevol medicament que presenti una
+deterioració del condicionament extern (veure apartats 1.3 i 1.4).
+1.8 MEDICAMENTS TERMOLÀBILS
+Hauran de conservar-se en nevera entre 2 i 8 °C.
+Els medicaments han de col·locar-se en caixetins igualment identificats que els
+emmagatzemats a temperatura ambient (veure apartat 1.6).
+Els medicaments d'ús exclusiu d'un pacient hauran d'identificar-se amb el nom del pacient.
+Ha de garantir-se el correcte funcionament de la nevera bé mitjançant un sistema de
+monitoratge continu de la temperatura amb una sonda o bé mitjançant un termòmetre de
+màxima i mínima. En cas de disposar d'un termòmetre s'ha de verificar diàriament i
+mantenir registre diari de temperatura per torns d'infermeria.
+A la nevera no es poden emmagatzemar altres productes que no siguin medicaments o
+productes hemoderivats.
+
+
+Gestió i conservació de farmacioles i sistemes automatitzats de
+dispensació PYXIS ®
+La cadena de fred no ha de trencar-se, però si succeís, abans de rebutjar el medicament cal
+verificar la seva estabilitat durant el temps que el medicament ha estat fora de la nevera.
+Consultar al Servei de Farmàcia.
+Les devolucions de medicaments termolàbils es realitzen segons l'indicat en apartat 1.4.
+1.9 ESTUPEFAENTS
+Segons la normativa vigent la dispensació de medicaments estupefaents està regulada i és
+individualitzada per pacient. No obstant això, les unitats disposen d'un petit estoc
+consensuat amb el Servei de Farmàcia. Aquest estoc haurà de quadrar en tot moment entre
+les unitats consumides/receptes i les existències.
+Els estupefaents s'han de custodiar en “caixa forta” o “armari de seguretat” que s'ha de
+tancar amb clau i no deixar-la posada.
+Per a la devolució d'estupefaents s'ha d'emplenar l'imprès AT10D1 IMPRÈS DE
+DEVOLUCIONS marcant amb una X en la columna d'estupefaent. Els estupefaents han de
+retornar-se en una bossa separada que indiqui “estupefaents” i el motiu de devolució.
+El Servei de Farmàcia disposa del procediment normalitzat de treball AT0D06 CIRCUIT
+DE SOL·LICITUD I DISPENSACIÓ D'ESTUPEFAENTS.
+1.10 MEDICAMENTS D’ALT RISC
+Les recomanacions quant a emmagatzematge i senyalització de Medicaments d'Alt risc en
+les farmacioles de les Unitats Assistencials estan recollides en l'apartat 1.6 Organització i
+Estructura Física de Farmacioles
+1.11 CONTROL DE CADUCITATS
+ En tots els medicaments ha de constar la data de caducitat.
+En els envasos multidosi s'ha d'anotar el dia que s'obre l'envàs i la caducitat una vegada
+obert
+La farmaciola no ha de contenir medicaments caducats. En cap cas es podrà administrar un
+medicament caducat. Amb la finalitat d'evitar-ho és necessari que periòdicament (cada sis
+mesos) es revisin els medicaments de la farmaciola.
+Els medicaments caducats han de rebutjar-se en un contenidor específic en la Unitat
+d'Hospitalització (veure apartat 1.3) Si la Unitat d'Hospitalització no disposa de
+
+
+Gestió i conservació de farmacioles i sistemes automatitzats de
+dispensació PYXIS ®
+contenidors, els medicaments caducats han de retornar-se al Servei de Farmàcia (veure
+apartat 1.4).
+En el cas dels medicaments que caducaran durant els pròxims sis mesos es poden
+senyalitzar amb la data de caducitat per a ser usats abans o bé es poden rebutjar al
+contenidor específic, en el cas de no disposar de contenidor s'han de retornar a Farmàcia
+com si es tractés d'un medicament caducat.
+1.12 REVISIÓ DE FARMACIOLES
+Revisió de la Plantilla SAP
+Ha de revisar-se i actualitzar-se anualment la composició de la plantilla SAP pel què fa a
+fàrmacs, presentació necessàries de cada fàrmac i quantitats màximes i mínimes almenys
+una vegada a l'any. Es reflecteix el registre de l'actualització en el document AT10D2
+IMPRÈS REVISIÓ SEMESTRAL (GESTIÓ I CONSERVACIÓ DE FARMACIOLES).
+La revisió de la composició de la plantilla SAP de les farmacioles i la caducitat dels
+fàrmacs que ho formen és responsabilitat de la coordinadora de la Unitat que pot comptar
+amb l'assessorament del Farmacèutic d'Institut i dels metges de la pròpia Unitat.
+La inclusió, exclusió i modificacions de les quantitats màximes i màximes s'ha de
+sol·licitar mitjançant correu electrònic al Cap d'infermeria de l'AM / Farmacèutica de
+Dispensació. La modificació proposada serà valorada pel Servei de Farmàcia depenent del
+fàrmac i/o quantitats sol·licitades.
+Revisió de la farmaciola
+Els medicaments que estan continguts en la farmaciola han de revisar-se regularment.
+Aquesta revisió és responsabilitat de la coordinadora de la Unitat i s'ha establert una
+periodicitat semestral. Per a verificar la revisió semestral s'enviarà semestralment per
+correu electrònic a les coordinadores de les unitats l'enquesta recollida en el document
+AT10D2 ENQUESTA SEMESTRAL: GESTIÓ I CONSERVACIÓ DE FARMACIOLES.
+Es definirà un indicador de compliment.
+2. SISTEMES AUTOMATITZATS DE DISPENSACIÓ (SAD)
+2.1 RECOMENACIONS PER UN ÚS SEGUR
+
+
+Gestió i conservació de farmacioles i sistemes automatitzats de
+dispensació PYXIS ®
+ Les instruccions d'ús dels SAD (Pyxis®) estan contingudes en un vídeo formatiu accessible en:
+https://intranet.clinic.cat/?q=ca/direccio-infermera/documents/videos-suport-procediments-
+infermeria
+A continuació s'exposen les recomanacions per a un ús segur en retirar els medicaments del
+SAD i portar-los fins al lloc d'administració als pacients, amb la finalitat de reduir el risc que
+s'administri un medicament de manera errònia o a una dosi incorrecta, bé a un pacient equivocat
+o en un temps equivocat. Aquestes recomanacions estan contingudes en el document:
+Recomanacions per a l'Ús Segur dels Sistemes Automatitzats de Dispensació de Medicaments.
+Institut per a l'Ús Segur del Medicament (ISMP)-Espanya 2011.
+Per a limitar el risc de selecció incorrecta de medicaments dels Pyxis®, la medicació s'ha
+de retirar vinculada a la prescripció electrònica. No ha de realitzar-se la sortida de
+medicaments dels Pyxis® mitjançant les modalitats d'ajust d'inventari. Així mateix les
+retirades “Ignorar Prescripció” han de ser limitades a situacions d'urgència.
+No s'han de retirar medicaments del Pyxis® per a més d'un pacient alhora.
+En retirar un medicament del Pyxis®, es verificarà que s'ha seleccionat el medicament
+correcte. Es comprovarà el principi actiu, la dosi, forma farmacèutica i hora
+d'administració. L'habitual serà que no es necessitin usar més de 3 vials, ampolles,
+càpsules o comprimits. En cas que es precisi un número major, s'ha de revisar
+acuradament la prescripció i el medicament retirat.
+Mantenir els medicaments en els seus envasos en dosis unitàries quan s'emporten des del
+SAD fins al llit del pacient. Aquests han d'estar etiquetats amb informació suficient perquè
+la infermera pugui identificar-los clarament a l'hora de la seva administració.
+Portar directament al llit del pacient només la medicació per a aquest pacient i per a una
+hora d'administració. Com a alternativa, si cal portar la medicació de més d'un pacient per
+a la seva administració, utilitzar estacions mòbils o carros que permetin mantenir els
+medicaments de cada pacient en un compartiment individual identificat
+No transportar medicaments a les butxaques, en carpetes, amb les fitxes del pacient, ni
+amb les fulles de registre d'administració d'infermeria.
+Sempre que sigui possible portar els medicaments preparats d’una forma preparada per a
+la seva administració directa al pacient.
+Treure el medicament del seu condicionament primari a peu de llit i no abans. Les úniques
+excepcions seran els medicaments que hagin de triturar-se o mesurar-se
+2.2 CONTINGUT DEL SAD
+
+
+Gestió i conservació de farmacioles i sistemes automatitzats de
+dispensació PYXIS ®
+La llista de medicaments inclosos en el SAD i les quantitats màximes i mínimes en cada
+unitat assistencial està consensuada entre el Servei de Farmàcia i els responsables de cada
+unitat.
+El contingut dels SAD ha d'establir-se i actualitzar-se en funció de la mena de pacients
+atesos en cada unitat assistencial. Els tipus i les quantitats de medicaments inclosos en els
+SAD han de revisar-se i ajustar-se periòdicament tenint en compte les prescripcions, els
+consums i les necessitats habituals dels pacients ingressats, així com el risc d'error amb
+aquests medicaments.
+Periòdicament el Servei de Farmàcia revisa el consum de medicaments dels Pyxis® per a
+actualitzar el llistat de medicaments a emmagatzemar.
+S'ha establert un procediment alternatiu de dispensació dels medicaments que no estiguin
+continguts en els Pyxis®. Aquests medicaments es dispensen en bosses identificades amb
+la sala i llit a través de correu diàriament a les 16h i se situen en els caixetins de medicació
+no Pyxis®. En el cas de medicaments urgents o primeres dosis es dispensen amb els
+correus corresponents i es deixen en el control de la Unitat.
+2.3 REPOSICIÓ DEL SAD
+La reposició del SAD és competència del Servei de Farmàcia.
+Per a cadascun dels medicaments situats en el Pyxis® s'ha definit una quantitat mínima,
+que és un nivell d'alerta per a la reposició. Un ús correcte del Pyxis® registrant cadascuna
+de les sortides de medicaments evitarà que el calaix es quedi sense estoc (“estoc out” o
+“zero”). No obstant això, si això ocorregués, el Servei de Farmàcia ha de reposar l'estoc
+d'aquest calaix dins de les dues hores següents.
+2.4 DEVOLUCIÓ DE MEDICAMENTS
+La devolució de medicaments directament als caixetins o compartiments dels SAD
+constitueix una font d'errors d'emmagatzematge. En realitzar-se la devolució, es poden
+col·locar els medicaments en un compartiment equivocat, bé sigui per distracció, per
+confusió amb un medicament amb un nom o aparença similar.
+Amb el propòsit de minimitzar el nombre de devolucions es recomana realitzar la retirada
+dels medicaments en cada horari d'administració i per pacient, evitant realitzar la retirada
+de totes les preses d'un torn en una sola vegada. En el cas d'haver de realitzar la devolució
+es recomana realitzar-la al pacient al qual s'ha retirat la medicació i durant el mateix torn
+per la mateixa infermera. La devolució per pacient està activa 36h després de la retirada.
+
+
+Gestió i conservació de farmacioles i sistemes automatitzats de
+dispensació PYXIS ®
+Es desaconsella realitzar la devolució de medicaments utilitzant l'opció “inventari”.
+S'aconsella fer-ho utilitzant l'opció “retornar”.
+En el cas dels estupefaents la devolució de medicaments s'ha de realitzar a la “safata de
+devolució” del Pyxis® establert per a aquest propòsit, tancat amb clau i sense opció a
+retirar medicaments, que serà gestionat pel Servei de Farmàcia. Els estupefaents retirats de
+la safata seran de nou reposats en el Pyxis pels tècnics de Farmàcia.
+2.5 CONTROL DE CADUCITATS
+El servei de Farmàcia controla les caducitats dels medicaments inclosos en el Pyxis®
+Una vegada al mes es retiren aquells medicaments caducats que tenen registre de caducitat
+(control de caducitats) pels tècnics de Farmàcia.
+Una vegada a l'any es revisen les caducitats de cadascun dels SAD. A partir d'aquesta
+revisió, es pot eliminar alguns fàrmacs dels SAD en funció del seu ús. En aquesta revisió
+es detecten els medicaments que caducaran en l'any vinent, que s'inclouran en el control de
+caducitats
+La gestió de caducitats dels medicaments termolàbils no vinculats al Pyxis® (contingut
+definit en plantilla SAP), serumterapia i la nutrició enteral és responsabilitat de les
+coordinadores de la Unitat i es realitza com la resta de farmacioles de l'Hospital (Veure
+apartat 1.11)
+2.6 MEDICAMENTS D’ALT RISC EN SAD
+El servei de Farmàcia senyalitzarà amb l'etiqueta normalitzada de Medicaments d'Alt Risc
+els caixetins que contenen aquests medicaments, així com els medicaments termolàbils
+situats en neveres vinculades al Pyxis®
+La senyalització dels medicaments termolàbils en neveres no vinculades al Pyxis®
+(contingut definit en plantilla SAP) i la fluïdoteràpia considerada medicament d'alt risc és
+responsabilitat de les coordinadores de la unitat i segueix les mateixes recomanacions que
+per a la resta de farmacioles de l'Hospital (veure apartats 1.6)
+2.7 MEDICAMENTS TERMOLÀBILS
+La nevera de la unitat assistencial que conté els medicaments termolàbils pot estar
+vinculada al Pyxis o bé no vinculada, i en aquest cas els medicaments termolàbils es
+
+
+Gestió i conservació de farmacioles i sistemes automatitzats de
+dispensació PYXIS ®
+troben inclosos en una Plantilla SAP.
+En el cas que la nevera estigui vinculada al Pyxis®, la reposició i gestió de caducitats es
+realitza com la resta de medicaments del Pyxis®.
+En el cas que la nevera que conté els medicaments termolàbils no estigui vinculada al
+Pyxis® (contingut definit en Plantilla SAP) la gestió i control d'aquests medicaments
+correspon a la coordinadora de la unitat i seguirà els mateixos criteris que la resta de
+farmacioles (veure apartat 1.8).
+La verificació del correcte funcionament de les neveres que contenen els medicaments és
+responsabilitat de la Coordinadora de la Unitat. Ha de garantir-se el correcte funcionament de la
+nevera bé mitjançant un sistema de monitoratge continu de la temperatura amb una sonda o bé
+mitjançant un termòmetre de màxima i mínima. En cas de disposar d'un termòmetre s'ha de
+verificar diàriament i mantenir registre diari de temperatura per torns d'infermeria
+2.8 FLUÏDOTERÀPIA I NUTRICIÓ ENTERAL
+La fluïdoteràpia no està continguda en el Pyxis. Ha de situar-se en un espai de la unitat
+destinat a l'emmagatzematge d'aquests medicaments. El procediment de gestió i control
+d'aquests medicaments és el mateix que el definit per a la resta de farmacioles de l'hospital
+(veure el punt 1 d'aquest procediment).
+2.9 REVISIÓ DELS SAD I MEDICAMENTS NO INCLOSOS EN ELS SAD
+La revisió dels medicaments inclosos en el Pyxis® correspon al Servei de Farmàcia.
+La revisió dels medicaments que no estan inclosos en el Pyxis® com a medicaments
+termolàbils en les unitats que la nevera no estigui vinculada al Pyxis (contingut definit en
+Plantilla SAP) i la nutrició enteral i fluïdoteràpia és responsabilitat de les coordinadores de
+la unitat ussistencial. La revisió s'ha de realitzar cada sis mesos. Per a verificar la revisió
+s'enviarà semestralment per correu electrònic a les coordinadores de les unitats l'enquesta
+recollida en el document AT10D2 ENQUESTA SEMESTRAL: GESTIÓ I
+CONSERVACIÓ DE FARMACIOLES. S'han d'emplenar els apartats corresponents als
+medicaments no inclosos en Pyxis®. Es definirà un indicador de compliment.
+Indicadors d'Avaluació
+Revisió semestral de la farmaciola
+
+
+Gestió i conservació de farmacioles i sistemes automatitzats de
+dispensació PYXIS ®
+                    Unitats assistencials que han revisat LA FARMACIOLA x100
+                                      Núm. total d'Unitats assistencials
+ 
+-Núm. de medicaments caducats per unitat semestral
+ 
+-% Discrepàncies en SAD
+                  Núm. de diferències d'estoc en unitats en la retirada de medicaments
+                                               Núm. total d'unitats retirades
+ 
+-Mitjanes de zeros (estoc out) en SAD
+                    Núm. total zeros totals         
+             Nº de dies del mes x nº de SAD

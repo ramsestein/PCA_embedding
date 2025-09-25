@@ -1,0 +1,280 @@
+Procediment d'actuació de l'equip interdisciplinari per a l'atenció del pacient en situació
+d'aturada cardiorespiratòria a les unitats d'hospitalització, centres diagnòstics (extraccions,
+ressonància, TAC, etc.), Hospitals de Dia i zones comunes. Excloent unitats de Crítics,
+Urgències i Bloc Quirúrgic.
+Objectiu
+Reanimar, estabilitzar i si és necessari, realitzar el trasllat a la unitat corresponent.
+Responsabilitats
+Coordinadors/es
+Infermers/es
+Metges/esses
+
+
+Aturada cardiorespiràtòria intrahospitalària
+TCAIS
+Procediment
+PREPARACIÓ DEL PACIENT ABANS DEL PROCEDIMENT
+El pacient requereix  preparació prèvia.( Vegeu procediment: Suport Vital Bàsic a l'Hospital
+Clínic de Barcelona )
+PERSONAL:
+Infermer/a de l’equip de complement que porta el busca d’atur:
+Portarà el carretó d’atur a la unitat on es produeixi l’aturada (Vegeu Annex 1 
+Ubicació carretons d’aturada al HCB ) ) .
+Monitoratge del pacient.
+Preparació i administració de la medicació. 
+Suport a anestèsia en el procés d’intubació.
+Col·locació d’accés venós i extracció d’analítiques.
+Acompanyament, si cal, del pacient durant el trasllat.
+Emplenar el full de registre.
+Reposició del carretó d’aturada. (Vegeu Annex 4 Estoc carretons d’aturada ). 
+Metge anestesiòleg/a:
+assegurarà via aèria.
+Direcció i coordinació de l’equip d’aturada en la presa de decisions.
+Metge cardiòleg:
+vigilarà el monitoratge del pacient i la utilització del desfibril·lador.
+Col·laborarà amb la Infermer/a si és necessari en l’administració de la medicació.
+Metge de guàrdia MDI: a la seva arribada rellevarà a la Infermer/a de la unitat en la
+realització del massatge cardíac.
+Metge de guàrdia CIR: anirà a l’aturada cardiorespiratòria sempre que l’avís sigui d’una
+unitat quirúrgica.
+Coordinador/a de Direcció d’Infermeria general: suport i coordinació del trasllat del
+pacient. (Vegeu procediment:  Trasllat intern del pacient crític ).
+La infermer/a responsable del pacient i el/la tècnic en cures auxiliars d’infermeria (TCAI)
+de la unitat o servei donaran suport a l’equip d’aturada.
+
+
+Aturada cardiorespiràtòria intrahospitalària
+MATERIAL:
+Carretó d'aturada.
+Tauló de RCP propi de la sala. 
+Tamboret.
+SEQÜÈNCIA D’INTERVENCIONS:
+Rebem la trucada d’avis de l’aturada cardiorespiratòria.
+Els membres de l’equip ens desplaçarem a la unitat o servei on indiqui la trucada. La
+infermer/a de l’equip, primer anirà a buscar el carretó d’aturada mes adient. (Vegeu Annex
+1 Ubicació carretons d’aturada al HCB ).
+Primera actuació:
+Infermer/a de l'equip:
+realitzarà el monitoratge cardíac del pacient i comprovarà l'accés venós.
+Prepararà el material necessari pels diferents procediments (intubació,
+extraccions d'analítiques, preparació i administració de medicació...).
+Metge anestesiòleg:
+valorarà  la permeabilitat de la via aèria.
+Realitzarà la intubació orotraqueal si es considera necessari.
+Metge cardiòleg: valorarà  la monitorització cardíaca i la utilització del
+desfibril·lador, si fos necessari.
+Metge de guàrdia de MDI: Rellevarà a la infermer/a de la unitat o servei en la
+realització del massatge cardíac.
+La infermer/a responsable del pacient i la TCAI de la unitat o servei donaran suport a
+l’equip d’aturada.
+Seguidament, el metge anestesiòleg com a coordinador i amb col·laboració de
+l’equip prendrà les decisions segons l’estat i les característiques del pacient, seguint
+els protocols establerts. ( Vegeu  Algoritme Suport Vital Avançat - SVA.  ERC 2021)
+Un membre de l’equip controlarà el temps.
+Si el pacient s’estabilitza:
+L'equip prendrà una decisió sobre el destí immediat del pacient segons el lloc i les
+característiques de l'aturada (Box d'Atur, Quiròfan, Scanner o UCI segons
+disponibilitat).
+El coordinador/a de Direcció d’Infermeria general tramitarà el trasllat.
+
+
+Aturada cardiorespiràtòria intrahospitalària
+La infermer/a de l’equip prepararem la medicació necessària pel trasllat i
+monitoritzarem al pacient pel seu trasllat.
+El metge anestesiòleg es farà càrrec de la correcta ventilació i rebrà suport d’un altre
+membre de l’equip durant el trasllat.
+Després del trasllat del pacient la infermer/a de l’equip s’encarregarà de la supervisió de la
+correcta neteja del material que serà realitzat per la TCAI de la unitat d’hospitalització i de
+retornar a la seva ubicació el carretó d’aturada on es realitzarà  la reposició, segons
+procediment.  Vegeu Annex 4a i 4b  Estoc carretons d’aturada ).  
+La infermer/a de l’equip emplenarà el full de registre. (Vegeu Annex 3).
+OBSERVACIONS:
+Realitzar un constant feedback (confirmació emissor-receptor-emissor) dels missatges,
+entre els diferents membres de l’equip, tant de les indicacions i  les execucions de
+procediments com de l’administració de medicació.
+Si la infermer/a es trobés amb la impossibilitat d’arribar al lloc indicat de l’aturada per un
+problema “mecànic” (problemes amb els ascensors, trencament de rodes del carretó
+d’aturada...), hauria d’agafar el desfibril·lador,  i portar-lo a la unitat on s’ha produït
+l’ACR.  El coordinador/a de Direcció d’infermeria s’encarregarà de gestionar l’arribada
+del carretó a la unitat o servei.
+A vegades, l’equip d’ACR pot ser activat en situacions en què el pacient no estigui en
+ACR, sinó en pre-aturada o amb una inestabilitat hemodinàmica que requereixi cures de
+pacient crític. En aquestes circumstàncies, l’equip d’ ACR, es desplaçarà igualment al lloc
+on s’ha produït la trucada i actuarà en conseqüència amb l’estat del pacient.  Un cop
+estabilitzat, es gestionarà el seu trasllat a la unitat de cures especials que correspongui.
+Si el pacient no respon a les maniobres de reanimació, abans d'aturar-les i certificar la
+mort, s'ha de considerar la possibilitat de la donació d'òrgans. En aquestes situacions, s'ha
+de continuar amb les maniobres de suport vital i trucar al busca de coordinació de
+trasplantament tel. 385748.
+Material
+Carretó d’aturada.
+Tauló de RCP propi de la sala.
+Tamboret.
+Aspectes a remarcar
+
+
+Aturada cardiorespiràtòria intrahospitalària
+La detecció i identificació de la situació de ACR per part del personal sanitari un cop que
+es considera que se està davant una ACR, s’iniciarà la activació del sistema d’aturada
+mitjançant l’algoritme de trucada. (Vegeu  Annex 2 Algoritme de trucada  ).
+Per realitzar un avís d’ aturada cardíaca s’han de seguir les següents instruccions: ( Vegeu
+Annex 5 Cartell d´activació equip d´aturada)
+                               1) Despengi el telèfon
+                               2) Marqui 4444
+                               3) Escolti la locució "Marqui el número de grup"
+                               4) Marqui  11
+                               5) Digui la ubicació exacte de l’aturada: Escala - Planta. Repeteixi el
+missatge dues vegades
+                               6) Premi  #  (coixinet)
+                               7) Escoltarà ”El  seu missatge ha estat enviat” “Gràcies”
+                               8) Pengi el telèfon
+En cas de fallada del Sistema:  Marqui el  numero 2222  (Operadors/es de telèfons).
+Notifiqui  la ubicació de l’aturada cardíaca als operadors/res de telèfons.   Els
+operadors/res de telèfons enviaran un missatge escrit al grup d’aturada cardíaca i, si no fos
+possible, trucaran un per un els telèfons del grup d’aturada cardíaca. Les accions indicades
+són vàlides per a telèfons fixos, tant analògics com digitals, i per a telèfons mòbils.
+En l’actuació de l’equip interdisciplinari en l’aturada cardíaca, és imprescindible que cada
+membre d’aquest equip conegui i comprengui els rols i les funcions de cadascun de la
+resta dels membres.
+L’ algoritme de l’ SVA proporciona un marc de treball estandarditzat per a la ressuscitació
+de totes les aturades cardíaques de l’ adult. ( Vegeu Algoritme Suport Vital Avançat -
+SVA. ERC 2021)
+Realitzar les compressions toràciques de gran qualitat (freqüència de 100-120 per minut i
+deixant que es re expandeixi el tòrax completament entre compressions). Minimitzar les
+
+
+Aturada cardiorespiràtòria intrahospitalària
+interrupcions de les compressions toràciques, per fer altres intervencions. Totes les
+interrupcions han d’ estar planificades abans d’aturar les
+compressions.                                                                                       
+Deteriorament de l'intercanvi gasos
+Codi NANDA
+00030
+Codi Nic
+3350
+Intervenció
+Monitorització respiratòria
+Patró respiratori ineficaç
+Codi NANDA
+00032
+Codi Nic
+3160
+Intervenció
+Aspiració de les vies aèries
+Risc d'asfíxia
+Codi NANDA
+00036
+Codi Nic
+3140
+
+
+Aturada cardiorespiràtòria intrahospitalària
+Intervenció
+Manejament de les vies aèries
+Risc d'aspiració
+Codi NANDA
+00039
+Codi Nic
+3200
+Intervenció
+Precaucions per evitar l'aspiració (risc aspiració)
+Risc d’aspiració
+Codi NANDA
+00039
+Codi Nic
+3120
+Intervenció
+Intubació/Estabilització de la via aèria
+Perfusió tissular perifèrica inefectiva
+Codi NANDA
+00204
+Codi Nic
+6680
+Intervenció
+Monitorització dels signes vitals
+
+
+Aturada cardiorespiràtòria intrahospitalària
+Perfusió tissular perifèrica inefectiva
+Codi NANDA
+00204
+Codi Nic
+4254
+Intervenció
+Maneig del xoc cardíac
+Perfusió tissular perifèrica inefectiva
+Codi NANDA
+00204
+Codi Nic
+4250
+Intervenció
+Maneig del xoc
+Perfusió tissular perifèrica inefectiva
+Codi NANDA
+00204
+Codi Nic
+4150
+Intervenció
+Regulació hemodinàmica
+Perfusió tissular perifèrica inefectiva
+
+
+Aturada cardiorespiràtòria intrahospitalària
+Codi NANDA
+00204
+Codi Nic
+4040
+Intervenció
+Precaucions cardíaques
+Perfusió tissular perifèrica inefectiva
+Codi NANDA
+00204
+Codi Nic
+4044
+Intervenció
+Cures cardíaques: agudes
+Perfusió tissular perifèrica inefectiva
+Codi NANDA
+00204
+Codi Nic
+6140
+Intervenció
+Maneig del codi d’urgències
+Perfusió tissular perifèrica inefectiva
+Codi NANDA
+00204
+
+
+Aturada cardiorespiràtòria intrahospitalària
+Codi Nic
+4090
+Intervenció
+Maneig de la dirimia
+Perfusió tissular perifèrica inefectiva
+Codi NANDA
+00204
+Codi Nic
+6320
+Intervenció
+Ressuscitació
+Riscos Laborals
+Contacte amb agents biològics
+Actuació front punxada accidental
+Risc de transmissió d’infeccions via aèria
+Mesures de prevenció postures forçades
+Estres derivat d’un entorn amb una elevada pressió emocional
+Riscos Laborals
+RIsc Ergonòmic:
+Risc de lesions per realització d'esforços físics de manera no ergonòmica.
+Emocionals
+Estrès derivat d'un entorn amb una elevada pressió emocional.
+Indicadors d'Avaluació
+
+
+Aturada cardiorespiràtòria intrahospitalària
+Índex de Mortalitat.
+Temps inici maniobres RCP.
+Temps arribada equip d’aturada.
+Registres
+Full de registre específic. (Vegeu: Annex 3 Full de registre d’infermeria en l’ACR )
+Diagrama de Flujo

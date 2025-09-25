@@ -1,0 +1,65 @@
+Recollir i donar resposta a les reclamacions de pacients i familiars rebudes a la Unitat d'Atenció
+a la Ciutadania.
+Objectiu
+Definir el circuit per atendre, respondre i resoldre les reclamacions de pacients i familiars.
+Responsabilitats
+Tots els professionals
+Procediment
+ARRIBADA D'UNA RECLAMACIÓ
+
+
+Gestió de reclamacions 
+Quan l'UAC rep una reclamació, s’obre un registre a la base de dades de l'UAC, on es dona un
+número de registre a la reclamació, amb la data del dia, i es recullen les dades de filiació del
+reclamant i del pacient que és l’origen de la reclamació.  
+Caldrà valorar si escau la seva gestió, és a dir, si es tracta d’una reclamació dirigida a algun
+servei de l’hospital; en cas contrari caldrà derivar-la a la Institució afectada.  
+Un cop comprovat aquest extrem, la reclamació s’escanejarà i mitjançant escrit s’enviarà via e-
+mail al responsable de l’Institut / direcció corresponent amb còpia a la seva secretària, tot
+requerint-li una resposta dirigida al reclamant en un temps prudencial. A la base de dades es
+registrarà la data en què s’envia l’escrit i el servei/institut a qui s’envia.  
+A QUI S’ENVIA: sempre a la direcció de l'Institut / cap o responsable de l’Àrea i  la seva
+secretària. A més: 
+Reclamacions assistencials i/o tracte: Cap de servei i Direcció d’Infermeria si s’escau.  
+Reclamacions administratives: al Cap Econòmic-Administratiu.  
+Reclamacions relacionades amb Serveis generals o hoteleria: a les àrees implicades
+(Infraestructures, Neteja...) 
+L'UAC identificarà el motiu principal de la reclamació quan l’enviï.  
+Quan la reclamació té a veure amb un resident, aquesta reclamació a més de seguir el circuit
+habitual de gestió descrit en aquest procediment, s’enviarà a la direcció de Docència tant la
+còpia de la reclamació com de la resposta que es dona al reclamant.  
+Consideracions sobre les reclamacions de tracte: 
+Segons l’actualització del procés de gestió de les reclamacions de tracte elaborat per CatSalut en
+2014, cal elaborar un informe de sobre aquest tipus de reclamacions que inclogui els grups
+professionals destinataris i els temps de resposta. Aquest informe s’ha de presentar
+
+
+Gestió de reclamacions 
+periòdicament al Comitè de Direcció i és necessari fer constar a les actes de les reunions que
+s’han valorat les reclamacions de tracte rebudes al centre.  
+Segons el Procediment de Prevenció i actuació davant les situacions de violència , quan
+qualsevol professional de l’Hospital Clínic i de les Entitats participades sigui víctima de
+qualsevol tipus de violència en totes les seves formes (física, psicològica o verbal), tan de forma
+directa com indirecta, exercida com a resultat de la relació del professional amb l’usuari i/o
+acompanyants pot tenir la consideració d’accident laboral, i com a tal s’ha de notificar al Servei
+de Prevenció ext. 4229, i segons quins casos requerirà assistència a la Mútua Col·laboradora
+amb la Seguretat Social.  
+RESPOSTA
+Un cop rebuda la resposta o respostes, si són més d’un els serveis o professionals afectats, es
+valorarà si respon el que el/la pacient o familiar demanava. Si és adequat l'UAC elaborarà una
+resposta a partir dels escrits rebuts per part de les direccions afectades que s’enviarà al
+reclamant, i serà signada segons la seva naturalesa: 
+Pel responsable de l'UAC, en cas de reclamacions administratives, serveis generals, etc.  
+Per la Cap d’Àrea d’Atenció a la Ciutadania + direcció Institut/Cap d’àrea, quan es tracta
+de reclamacions assistencials, complexes o de tracte.
+Aspectes a remarcar
+La resposta d'una reclamació de tracte s'ha d'enviar a la U.A.C. en un termini de set dies. 
+La resposta de reclamacions administratives, serveis generals, etc. s'han de contestar en un
+termini màxim de quinze dies.
+Indicadors d'Avaluació
+Nombre de reclamacions rebudes
+Nombre de reclamacions que s'han contestat.
+
+
+Gestió de reclamacions 
+Diagrama de Flujo

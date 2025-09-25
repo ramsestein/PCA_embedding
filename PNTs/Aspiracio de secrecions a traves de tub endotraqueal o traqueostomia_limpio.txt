@@ -1,0 +1,409 @@
+Seqüència d’accions per eliminar mecànicament les secrecions de l’arbre respiratori mitjançant
+la introducció d’un catèter d’aspiració a través d’un tub endotraqueal (naso-orotraqueal) o
+cànula de traqueostomia.
+L'aspiració mecànica de secrecions és un procediment clau en el maneig de la via aèria i una
+habilitat bàsica per a professionals a càrrec de mantenir la permeabilitat d'aquesta.
+Objectiu
+Mantenir les vies aèries respiratòries permeables
+Prevenir complicacions pulmonars per acumulació de secrecions.
+Facilitar l'intercanvi de gasos.
+Fomentar el confort del pacient.
+Prevenir la Pneumònia Associada a la Ventilació (NAV).
+Obtenir mostres de secrecions per a proves diagnostiques.
+Minimitzar el risc del personal.
+
+
+Aspiració de secrecions a través de tub endotraqueal o
+traqueostomia
+Responsabilitats
+Fisioterapeutes
+Infermers/es
+Procediment
+1. DETECCIÓ DE LA NECESSITAT D'ASPIRACIÓ DE LES SECRECIONS
+RESPIRATÒRIES
+Per evitar aspiracions rutinàries, i les complicacions que en poden derivar, sempre valorarem
+prèviament la necessitat d'aspiració de secrecions. Només considerarem que l'aspiració de
+secrecions és necessària quan aparegui algun dels següents indicadors clínics:
+Presència de cruixits/runcus durant l'auscultació.
+Presència de patró en "dent de serra" en la fase espiratòria de la corba de flux en el
+ventilador (Vegeu Imatge 1).
+Vibracions durant la palpació de la via aèria artificial.
+Presència visual de secrecions a la via aèria artificial.
+Augment de les pressions pics inspiratòries del ventilador durant modalitat volumètrica
+(volum), o disminució del volum corrent durant la modalitat baromètrica (pressió).
+2. PREPARACIÓ DEL PACIENT ABANS DEL PROCEDIMENT
+Si el pacient està conscient, li explicarem el procediment a realitzar i que aquest pot ser
+molest i/o dolorós i la manera en què hi pot col·laborar.
+Col·locar el capçal del llit a 30° o superior (sempre que sigui possible) o
+Antitrendelumburg.
+En pacients connectats al ventilador mecànic, col·locar la connexió giratòria amb el port
+d´aspiració (si és que no la porta) a fi d'aspirar sense desconnectar-los del ventilador.
+(Vegeu Imatge 2).
+Col·locar el circuit d'aspiració tancada  (Vegeu Imatge 3) en els pacients que requereixin
+un elevat suport respiratori (ex: PEEP o FiO2 elevades) i en pacients amb elevat risc de
+contagi i/o amb aïllament d'alt nivell, com tuberculosi o SARS-COVID-2. 
+
+
+Aspiració de secrecions a través de tub endotraqueal o
+traqueostomia
+Col·locar el mossegador (si ho requereix) a fi que no mossegui el tub i obliteri la llum.
+Comprovar la fixació del tub endotraqueal o cànula de traqueostomia.
+Ajustar la pressió del pneumotaponament entre 20-30 cm H20 abans el procediment.
+Comprovarem l'aspiració o buit. La pressió negativa del manòmetre de l'aspirador s'haurà
+de mantenir entre 80 i 200 mmHg.
+Escollir el calibre idoni de la sonda d'aspiració. El diàmetre extern de la sonda d'aspiració
+no hauria de ser superior al 50% del diàmetre intern de la via aèria artificial (ex: Sonda
+d'aspiració de 12 Fr-4 mm per una via aèria artificial de 8 mm de diàmetre intern).
+Prepararem el material necessari per al procediment.
+3. SEQÜÈNCIA D’INTERVENCIONS:
+1.Aspiració de secrecions a través de la via aèria artificial en pacients connectats a
+ventilació mecànica o oxigen en T.
+1.Sistema d’aspiració obert:
+L'aspiració de secrecions per tub endotraqueal és un procés que s'ha de realitzar de manera
+estèril pel que és imprescindible realitzar higiene de mans i posar guants estèrils
+específics, segons procediment, per a tal fi.
+En cas de no disposar de guants estèrils per aspiració de secrecions, utilitzarem gases
+estèrils per subjectar la part de la sonda d'aspiració que introduirem dintre la via aèria
+artificial. Es recomana l'ús d'equips de protecció individual ( mascareta i ulleres).
+Hiperoxigenarem amb Fi02 un 20% per sobre del basal o fins a 100% abans i després de
+l'aspiració durant 30- 120 segons, especialment els pacients hipoxèmics.
+Retirar la sonda de l'embolcall amb la mà dominant, mantenint en tot moment l'esterilitat i
+connectar al tub d'aspiració mitjançant a la connexió en Y o universal amb la mà no
+dominant.
+L'aspiració ha de ser poc profunda i suau per tal de prevenir complicacions (ex: danys de
+la mucosa, col·lapse pulmonar). Per tant, la sonda ha d'arribar fins a la part distal del tub
+endotraqueal/cànula de traqueostomia o bé fins a arribar a la Carina. En aquest últim cas,
+retirarem d'1 a 2 cm la sonda abans de procedir a l'aspiració (Vegeu  Imatge 4 ). La sonda
+s'ha d'introduir sense aspirar i no avançar si es troben resistències. L'altra mà subjectarà
+sempre la via aèria artificial.
+Si l'aspiració es realitza a través de cànula de traqueostomia, es tindrà en compte que el
+trajecte de sonda que s'introduirà a la via aèria és menor a quan s'introdueix en un tub
+nasofaringi o orofaringi.
+
+
+Aspiració de secrecions a través de tub endotraqueal o
+traqueostomia
+Activar la vàlvula d'aspiració de la sonda i retirar-la fent succió de manera intermitent
+només i durant tota l'extracció.La durada d'aquest procediment ha de ser entre 10-15
+segons.
+Les sondes d'aspiració han de ser d'un sol ús. Una vegada s'ha aspirat al pacient, no es pot
+tornar a reintroduir la mateixa sonda per la via aèria artificial.
+Únicament en cas que el pacient presenti un tap mucós que comprometi el seu estat
+respiratori, s'instil·laran pel tub endotraqueal o cànula de traqueostomia entre 5-10 ml de
+sèrum fisiològic. Posteriorment, reconnectarem el pacient al ventilador i procedirem a
+l'aspiració.
+Avaluar el nivell d'oxigen del pacient (Sp02) i l'estat hemodinàmic (Pressió arterial (PA) i
+ritme cardíac i freqüència respiratòria), immediatament abans, durant i posteriorment a
+l'aspiració de secrecions.
+Netejar el circuit d'aspiració amb aigua bidestil·lada i rebutjar la sonda d'aspiració.
+Comprovar la pressió del baló de pneumotaponament un cop finalitzat el procediment per
+mantenir-la entre 20-30 cmH2O.
+En cas de no haver eliminat totes les secrecions, deixarem descansar el pacient entre
+aspiracions abans d'introduir una nova sonda d'aspiració estèril. Si és necessari, utilitzarem
+uns nous guants estèrils per a cada procediment.
+Protegir la connexió de l'aspirador (peça en Y).
+Realitzar Higiene de mans segons procediment.      
+           b. Sistema d’aspiració tancat:
+Connectar el sistema d'aspiració tancat (Vegeu Imatge 3) entre la via aèria artificial i la
+connexió al respirador. El sistema ha de romandre connectat de manera constant durant tot
+el període indicat pel seu ús. Tanmateix, el sistema es canvia cada 72 h.
+Realitzar higiene de mans i col·locació de mascareta, ulleres i guants d'un sol ús.
+Hiperoxigenar amb Fi02 un 20% per sobre del basal o fins al 100% abans i després de
+l'aspiració durant 30-120 segons, especialment els pacients hipoxèmics.
+Connectar el tub d'aspiració a la vàlvula d'aspiració que complementa la sonda protegida.
+Introduir la sonda d'aspiració a través de la via aèria artificial fent lliscar cap enrere la
+funda de plàstic que protegeix la sonda. Farem arribar la sonda fins a la distància desitjada
+(marcada en el dorsal de la sonda d'aspiració seguint els mateixos criteris que durant
+l'aspiració amb sistema obert.
+
+
+Aspiració de secrecions a través de tub endotraqueal o
+traqueostomia
+Activar la vàlvula d'aspiració i retirar la sonda lentament seguint els mateixos criteris que
+durant l'aspiració amb sistema obert.
+Comprovar que la sonda s'ha retirat completament verificant que el senyal visual marcat
+en el dorsal del catèter d'aspiració es veu a l'interior de la funda. Netejar la sonda
+introduint i aspirant 10 cc de sèrum fisiològic per l'orifici d'irrigació de la sonda
+d'aspiració.
+Tancar la vàlvula d'aspiració.
+Comprovar la pressió del baló de pneumotaponament un cop finalitzat el procediment per
+mantenir-la entre 20-30 cmH2O.
+En cas de no haver eliminat totes les secrecions, deixarem descansar el pacient entre
+aspiracions abans d'introduir de nou la sonda d'aspiració estèril.
+2.Aspiració de contingut a la cavitat oral u orofaríngia
+Comprovar la pressió del pneumotaponament abans del procediment.
+Aspirar l'orofaringe després de l'aspiració endobronquial i sempre que sigui necessari.
+Aspirar amb una sonda d'aspiració estèril o bé amb sonda Yankauer.
+Retirar el contingut de la cavitat oral amb la sonda, col·locant la sonda a un lateral i a
+l'altre.
+Higiene de la cavitat oral amb Clorhexidina ® 0,12% després de l'aspiració. ( Vegeu PNT
+Higiene i cura de la boca del pacient intubat )
+3.Aspiració de secrecions per port subglòtic: 
+Ajustar la pressió del pneumotaponament entre 20-30 cm H20 abans el procediment.
+Aspirar la cavitat oral u orofaríngia prèviament sempre que sigui necessari. 
+Introduir la sonda d'aspiració per l'oro/nasofaringe, fins que l'extrem distal arribi al baló de
+pneumotaponament. Aspirar el contingut només durant la retirada de la sonda.
+En cas que la via aèria artificial tingui una vàlvula específica per l'aspiració  subglòtica,
+utilitzar aquest sistema (Vegeu  Imatge 5 )  
+Connectar una xeringa de 10 cc a la vàlvula subglòtica i aspirar lentament el
+contingut, utilitzant tantes xeringues com sigui necessari. En cas de trobar resistència
+a l'aspiració no forçar la maniobra per tal d'evitar el dany de la mucosa traqueal.  
+Desconnectar la xeringa de la vàlvula, insuflar 5-10 cc d'aire i tornar a provar
+l'aspiració. Repetir el procediment fins que s'aconsegueixi aspirar sense resistències.
+També podem utilitzar el sistema d'aspiració al buit,  (Vegeu  Imatge 5 )
+
+
+Aspiració de secrecions a través de tub endotraqueal o
+traqueostomia
+Amb el dispositiu d’aspiració subglòtica l’aspiració es pot realitzar de manera
+intermitent amb una pressió de succió de  100 a 150 mmHg, mentre que en aspiració
+continua la pressió ha de ser de 20 mmHg. 
+OBSERVACIONS
+Aspirar el pacient només quan ho necessiti:
+Presència de cruixits/runcus durant l'auscultació.
+Presència de patró en “dent de serra” en la fase espiratòria de la corba de flux en el
+ventilador (Vegeu Imatge 1). 
+Vibracions durant la palpació de la via aèria artificial.
+Presència visual de secrecions a la via aèria artificial.
+Augment de les pressions pics inspiratòries del ventilador durant modalitat en volum
+controlat, o disminució del volum corrent durant la modalitat de pressió controlada.
+Sempre que sigui possible fer servir la peça giratòria per aspirar les secrecions a través
+d'ella.
+Valorar la col·locació d'un circuit d'aspiració tancada. Aquest es canviarà cada 72 hores .
+Procedir de forma ràpida, l'aspiració no ha d'excedir més de 10-15 segons.
+Valorar estat del pacient abans durant i després del procediment. 
+Evitar la instil·lació rutinària de sèrum fisiològic.
+Existeixen tubs endotraqueals i cànules de traqueotomia amb ports d'aspiració subglòtica.
+Sempre que sigui possible utilitzarem aquests sistemes. (Vegeu  Imatge 6 ).
+Les sondes d'aspiració tenen diferents diàmetres (10 Fr=3,33mm/negra; 12
+Fr=4mm/blanca; 14 Fr=4,7mm/verda; 16 Fr=5,3mm/taronja).
+Col·locar l'aparell per mantenir la pressió de pneumotaponament de manera continuada si
+és possible. 
+Material
+MATERIAL SISTEMA D’ASPIRACIÓ OBERTA:
+Sondes flexibles d’aspiració estèrils de diferents mides:
+12ch_ SAP: 181530
+10CH_SAP: 181529
+Sistema d’aspiració de buit amb manòmetre regulable. 
+
+
+Aspiració de secrecions a través de tub endotraqueal o
+traqueostomia
+Connexió universal o en Y. SAP: 181541
+Guants d’un sol ús:
+Talla S SAP: 180457 
+Talla M SAP:180458
+Talla L SAP: 180459
+Guants estèrils per aspiració:
+Talla S:180477
+Talla M:180479
+Talla L:180481
+Mascareta Quirúrgica SAP:193925 
+Ulleres de protecció ocular. SAP: 180553 
+Sobre ulleres SAP: 180551
+Gases estèrils 10x10 SAP: 180012 
+Gases no estèrils 10x10 SAP: 180015 
+Xeringa dos peces
+10ml SAP: 182132;
+20 ml. SAP: 182134 
+Línia d’O2 SAP: 181199
+Ressucitador manual amb reservori d’02 (ex: Ambú®). SAP: 181054 
+Fonendoscopi. SAP: 181959
+Ulleres de protecció ocular. SAP:180553 
+Sèrum Fisiològic 10 ml.
+Recipient amb 1 l d’aigua bidestilada per netejar el circuit d’aspiració. 
+Connexió giratòria (pacients amb ventilació mecànica) SAP: 181159 
+Mossegador SAP: 180636
+Manòmetre de pressió del pneumotaponament. SAP: 181011 
+MATERIAL SISTEMA D'ASPIRACIÓ TANCADA:
+Catèter d’aspiració tancada de diferents mides (habitualment 12Fr): Consta de sonda
+d’aspiració protegida, vàlvula d’aspiració, connexió via aèria artificial -ventilador, i orifici
+d’irrigació per la neteja de la sonda. SAP: 184834
+Sistema d’aspiració de buit amb manòmetre regulable.
+Guants d’un sol ús:
+Talla S SAP: 180457
+
+
+Aspiració de secrecions a través de tub endotraqueal o
+traqueostomia
+Talla M SAP:180458
+Talla L SAP: 180459
+Mascareta Quirúrgica SAP:193925
+Ulleres de protecció ocular. SAP: 180553
+Sobre ulleres SAP: 180551
+Xeringa de 10 ml.SAP: 182132
+Línia d’O2 SAP: 181199
+Ressuscitador manual amb reservori d’02 (ex: Ambú®). SAP: 181054
+Fonendoscopi. SAP: 181959
+Ampolles de 10 ml. de sèrum fisiològic.
+Recipient amb 1 l. d’aigua bidestil·lada per netejar el circuit d’aspiració.
+Mossegador. SAP: 180636
+Manòmetre de pressió del pneumotaponament. SAP:181011
+MATERIAL ASPIRACIÓ SUBGLÒTICA:
+Manòmetre aspiració subglòtica
+Filtro hidrofòbic: 4345004 SAP 189071
+Dipòsit: 403P10189 SAP 189060
+Línia d'aspiració: 403/10185 (150 cm) SAP 189072
+Aspectes a remarcar
+Només considerarem que l’aspiració de secrecions és necessària quan aparegui algun dels
+següents indicadors clínics:
+Presència de cruixits/runcus durant l'auscultació.
+Presència de patró en “dent de serra” en la fase espiratòria de la corba de flux en el
+ventilador (Vegeu  Imatge 1 ).
+Vibracions durant la palpació de la via aèria artificial.
+Presència visual de secrecions a la via aèria artificial
+Augment de les pressions pics inspiratòries del ventilador durant modalitat volumètrica
+(volum), o disminució del volum corrent durant la modalitat baromètrica (pressió).
+L’aspiració de secrecions ha de ser un procediment estèril. Podem utilitzar guants estèrils
+o gases estèrils per subjectar la sonda d’aspiració. També podem utilitzar sistemes
+d’aspiració tancats. A fi d'evitar desplaçaments de la via aèria artificial durant la seva
+manipulació, subjectarem amb els dits la base de la cànula de traqueostomia o el tub
+
+
+Aspiració de secrecions a través de tub endotraqueal o
+traqueostomia
+endotraqueal.
+Comprovar la posició del tub a nivell d’arcada dental i que es mantingui després del
+procediment  
+Hiperoxigenar amb Fi 02 un 20% per sobre del basal o fins al 100% abans i després de
+l'aspiració durant 30-120 segons, especialment els pacients hipoxèmics.
+Controlar que la pressió del baló de pneumotaponament abans i després del procediment
+perquè estigui entre 20-30 cm H?O. Pressions per sota dels 20 cm H?O augmenten el risc
+de pneumònia associada al ventilador i per sobre de 30 cm H?O de lesió de la mucosa
+traqueal.
+El diàmetre extern de la sonda d’aspiració no hauria de superar el 50% del diàmetre intern
+de la via aèria artificial
+Evitarem que el procediment duri més de 15 segons
+L'aspiració ha de ser mínimament invasiva (màxim 2 cm per sobre de la carina.)
+La pressió d'aspiració s'ha de comprovar abans del procediment i s'ha de mantenir entre
+80-200?mmHg.
+No realitzar la instil·lació de sèrum fisiològic de manera rutinària.
+Neteja ineficaç de la via respiratòria
+Codi NANDA
+00031
+Codi Nic
+3140
+Intervenció
+Maneig de les vies aèries
+Risc d’aspiració
+Codi NANDA
+00039
+Codi Nic
+
+
+Aspiració de secrecions a través de tub endotraqueal o
+traqueostomia
+3160
+Intervenció
+Aspiració de vies aèries
+Risc d'aspiració
+Codi NANDA
+00039
+Codi Nic
+3200
+Intervenció
+Precaucions per evitar l'aspiració (risc aspiració)
+Risc d’aspiració
+Codi NANDA
+00039
+Codi Nic
+3140
+Intervenció
+Maneig de les vies aèries
+Risc d’aspiració
+Codi NANDA
+00039
+Codi Nic
+3350
+Intervenció
+Monitorització respiratòria
+
+
+Aspiració de secrecions a través de tub endotraqueal o
+traqueostomia
+Problemes relacionats amb el procediment
+Hipòxia per dessaturació:
+Hiperoxigenar  amb Fi02 un 20% per sobre del basal fins  Fi02 al 100% abans i després de
+l'aspiració de secrecions durant 30- 120 segons.
+Interrompre l'aspiració endotraqueal si el pacient presenta dessaturació important.
+Col·lapse pulmonar/atelèctasi
+Utilitzar sondes d'aspiració on el seu diàmetre sigui la meitat del diàmetre de la via aèria
+artificial.
+La pressió d'aspiració s'ha de comprovar abans del procediment i s'ha de mantenir entre
+80-200mmHg.
+L'aspiració ha de ser mínimament invasiva (màxim 2?cm per sobre de la Carina).
+Arítmies per reflex vagal:
+Controlar la freqüència cardíaca, el ritme cardíac i la saturació d'oxigen mentre es fa el
+procediment.
+Interrompre l'aspiració endotraqueal si el pacient presenta bradicàrdia o presència d'arítmia
+ventricular.
+Hiperoxigenar amb Fi02 al 100% abans i després de l'aspiració de secrecions durant 30-
+120 segons.
+Secrecions hemàtiques per microtraumatismes i en traumatismes toràcics:
+Aspirar les secrecions només quan sigui necessari.
+L'aspiració ha de ser mínimament invasiva (màxim 2?cm per sobre de la Carina) i sense
+forçar la introducció de la sonda d'aspiració.
+Incidir en la humidificació de les secrecions amb humidificació activa (pacients ventilats
+mecànicament).
+En pacients en ventilació espontània, adaptar humidificadors per fluïdificar secrecions.
+Augment de la pressió intracranial –PIC-:
+
+
+Aspiració de secrecions a través de tub endotraqueal o
+traqueostomia
+Controlar la variació de la PIC.
+Augmentar la sedació en cas que sigui necessari.
+Risc d´aspiració:
+NOC (1918) Prevenció de l´aspiració: accions personals per a prevenir el pas de partícules
+líquides o sòlides cap als pulmons (resultats en salut)
+NIC (3160) Aspiració de les vies aèries.
+NIC (3180) Maneig de les vies aèries artificials.
+NIC (3200) Precaucions per evitar l´aspiració.
+NIC (3140) Maneig de la via aèria.
+NIC (3350) Monitoratge respiratori.
+Riscos Laborals
+Contacte amb agents biològics
+Indicadors d'Avaluació
+Percentatge de pacients que presenten secrecions hemàtiques posteriorment a
+l'aspiració. 
+Nombre de pacients que presenten secrecions hemàtiques post aspiració x 100 /
+Nombre de pacients als quals els hi hem realitzat Aspiració de secrecions.
+Percentatge de pacients que empitjoren la dessaturació post-aspiració
+Nombre de pacients amb dessaturació post aspiració x 100 / Nombre de pacients als
+quals els hi hem realitzat Aspiració de secrecions.
+Percentatge de pacients que presenten alteracions hemodinàmiques
+Nombre de pacients amb alteracions hemodinàmiques durant el procediment de
+l´aspiració de secrecions x 100 / Nombre de pacients que hem realitzat Aspiració de
+secrecions.
+Registres
+Registres especials
+Portal professional
+
+
+Aspiració de secrecions a través de tub endotraqueal o
+traqueostomia
+Registres clínics
+Agenda de cures
+Registres
+1.Obrir Registres Especials i identificar el Dispositiu Aeri tot omplint les característiques
+d'aquest.
+2.Registrar a l'Agenda de Cures (IPA PACIENT) l'activitat realitzada com la necessitat
+d'aspiració oral, traqueal i/o subglòtica.
+3.Registrar al mòdul de Registres Clínics els paràmetres de la Via Aèria: tipus de dispositiu,
+el seu diàmetre, pressió de pneumotaponament, etc.
+
+
+Aspiració de secrecions a través de tub endotraqueal o
+traqueostomia
+4.Registrar al mòdul de Registres especials del dispositiu aeri: la data del pròxim canvi del
+sistema d'aspiració tancada.
+Tub orotraqueal
+Tub orotraqueal 
+Traqueotomia
+Registrar en el Portal del profesional (Curs Clinic) i/o Paràmetres lliures ( Mòdul Registres
+clínics)
+Anotar totes les incidències o problemes que hagin pogut sorgir durant l'aspiració.
+
+
+Aspiració de secrecions a través de tub endotraqueal o
+traqueostomia

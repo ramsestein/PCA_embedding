@@ -1,0 +1,1939 @@
+{
+  "experiment_name": "SAPBERT + Markov + Palabras Clave con Regex",
+  "strategy": "Hibridación con detección léxica",
+  "total_queries": 48,
+  "top1_correct": 10,
+  "top5_correct": 12,
+  "top1_accuracy": 0.20833333333333334,
+  "top5_accuracy": 0.25,
+  "mrr": 0.2456308538113794,
+  "query_results": [
+    {
+      "query": "Cómo alto a un paciente paliativo con hospitalización a domicilio?",
+      "expected_doc": "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "search_time": 19.703365087509155,
+      "expected_rank": 1,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio",
+          "score": 0.126664558691572,
+          "text_preview": "hospitalització a domicili hdom temps d espera per a l ingrés a css absència de dva o pda manca d ac..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Desbridament larval_limpio",
+          "score": 0.123550323412142,
+          "text_preview": "el tractament de les ferides cròniques s ha de contemplar en funció de la seva etiologia i procés ev..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Escalada de cures i derivacio dun pacient ingressat a HDOM a lhospital convencional_limpio",
+          "score": 0.12319111289516968,
+          "text_preview": "definir un circuit de derivació per aquell pacient ingressat a hospitalització a domicili hdom que r..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Curs evolutiu dinfermeria_limpio",
+          "score": 0.12292626527670694,
+          "text_preview": "evolutius que presenten el darrer comentari evolutiu complet seguint els criteris definits respecte ..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Educacio terapeutica en cirurgia de columna taller dirigit a pacients i familiars_limpio",
+          "score": 0.12292097395713028,
+          "text_preview": "el taller d educació terapèutica en cirurgia de columna microdiscectomies i artrodesis té com a fina..."
+        }
+      ]
+    },
+    {
+      "query": "Quien gestiona el ingreso al centro de atención intermedia en situación de final de vida?",
+      "expected_doc": "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 24.9910409450531,
+      "expected_rank": 393,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Gestio de pacients confinats_limpio",
+          "score": 0.12202883257652782,
+          "text_preview": "de la planificació de l ingrés i de les instruccions i recomanacions que es requereixin el cp haurà ..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Cateter central dinsercio central_limpio",
+          "score": 0.12158109682020925,
+          "text_preview": "el cateterisme venós central d inserció central és la inserció mitjançant punció d un catèter en una..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Cateter central dinsercio central_limpio",
+          "score": 0.12142324614857092,
+          "text_preview": "bp cv bp brc per 1000 dies en pacients amb ccic nombre de dies en els quals els pacients són portado..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Curs evolutiu dinfermeria_limpio",
+          "score": 0.12082690885713027,
+          "text_preview": "guia per emplenar correctament el registre evolutiu del pacient per part d infermeria identificant q..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Cateter central dinsercio central_limpio",
+          "score": 0.12082389371321207,
+          "text_preview": "que puguin desplaçar coàguls o ocasionar microembolismes desinfectarem la zona de punció i canviarem..."
+        }
+      ]
+    },
+    {
+      "query": "Que escalas debo pasar en la valoración integral de una paciente con patología oncológica ginecologica?",
+      "expected_doc": "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 26.558950424194336,
+      "expected_rank": 19,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Cateter central dinsercio periferica PICC en el nounat_limpio",
+          "score": 0.12291226199088197,
+          "text_preview": "nanda 00132 codi nic 6480 intervenció maneig ambiental confort risc de tromboembolisme venós catèter..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Desbridament larval_limpio",
+          "score": 0.1211839862735224,
+          "text_preview": "la teràpia larval registres registres especials registres clínics portal professional registres es r..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Determinacio de les concentracions plasmatiques dantibiotics en adults_limpio",
+          "score": 0.12087228924279261,
+          "text_preview": "de les concentracions plasmàtiques d antibiòtics en adults codi nanda 00004 codi nic 3590 intervenci..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Diagnostic i seguiment a traves de la imatge dels tumors de cap i coll_limpio",
+          "score": 0.1206663207495219,
+          "text_preview": "i altres professionals referents indicadors d avaluació nombre de proves realitzades segons tipus pe..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+          "score": 0.12017411620818481,
+          "text_preview": "avaluació nombre de pnts aprobats amb errors de procediment i o format nombre de procediments seguit..."
+        }
+      ]
+    },
+    {
+      "query": "A quien debo hacer interconsulta en caso de paciente de onco gine?",
+      "expected_doc": "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "search_time": 24.012975215911865,
+      "expected_rank": 1,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio",
+          "score": 0.12674156601505335,
+          "text_preview": "d altres serveis aquestes visites poden ser sol licitades per la usuària la família de manera presen..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Circuit dactuacio davant duna aturada cardiorespiratoria a la Seu Granollers de lHospital Clinic_limpio",
+          "score": 0.12585987912703261,
+          "text_preview": "procediment d actuació de l equip interdisciplinari per a l atenció del pacient en situació d aturad..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio",
+          "score": 0.12563353351629297,
+          "text_preview": "procés de valoració integral i educació terapèutica de la pacient amb patologia oncològica ginecològ..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Circuit dactuacio davant duna aturada cardiorespiratoria a la Seu Granollers de lHospital Clinic_limpio",
+          "score": 0.12467452968777251,
+          "text_preview": "hgg un cop es facin càrrec de la situació col laborarem amb ells en l atenció al pacient un cop el p..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Administracio de medicaments Via intramuscular_limpio",
+          "score": 0.12450162166375525,
+          "text_preview": "zona glútia material estació de treball mòbil safata amb contenidor de seguretat solució hidroalcohò..."
+        }
+      ]
+    },
+    {
+      "query": "Quien debe aprobar que se de una prestación fuera del siscat, de carácter excepcional?",
+      "expected_doc": "Acces a lassistencia sanitaria per a convenis internacionals i prestacions de caracter excepcional CASCIPE_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 24.887070894241333,
+      "expected_rank": 253,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+          "score": 0.1208089297693172,
+          "text_preview": "avaluació nombre de pnts aprobats amb errors de procediment i o format nombre de procediments seguit..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Cateter central dinsercio central_limpio",
+          "score": 0.11872582262506921,
+          "text_preview": "bp cv bp brc per 1000 dies en pacients amb ccic nombre de dies en els quals els pacients són portado..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Determinacio de les concentracions plasmatiques dantibiotics en adults_limpio",
+          "score": 0.11855911207560983,
+          "text_preview": "de les concentracions plasmàtiques d antibiòtics en adults codi nanda 00004 codi nic 3590 intervenci..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Fistula arteriovenosa interna FAVI_limpio",
+          "score": 0.11713232346479702,
+          "text_preview": "infecció codi nanda 00004 codi nic 6540 intervenció control d infeccions risc d infecció codi nanda ..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Dilucio programacio i administracio de farmacs antimicrobians en bomba dinfusio a lHospitalitzacio a Domicili HDOM_limpio",
+          "score": 0.11657411577224444,
+          "text_preview": "nombre d incidències reportades en relació amb la dilució preparació i o administració dels fàrmacs ..."
+        }
+      ]
+    },
+    {
+      "query": "Dame el link de acceso al CASCIPE",
+      "expected_doc": "Acces a lassistencia sanitaria per a convenis internacionals i prestacions de caracter excepcional CASCIPE_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 19.97253727912903,
+      "expected_rank": 407,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Cateter central dinsercio periferica PICC en el nounat_limpio",
+          "score": 0.12942112380288195,
+          "text_preview": "dia de col locació a l apòsit extern vegeu imatge 1 llençarem els elements punxants en els contenido..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Cateter central dinsercio periferica PICC en el nounat_limpio",
+          "score": 0.12854563999381552,
+          "text_preview": "fracàs de la tècnica col locar l alçada i posició adient del nen respecte a la persona que la realit..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio",
+          "score": 0.12818875825420487,
+          "text_preview": "l organització mundial de la salut considera les cures pal liatives com un pilar fonamental per a le..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Cateter central dinsercio central_limpio",
+          "score": 0.12816762900802012,
+          "text_preview": "el cateterisme venós central d inserció central és la inserció mitjançant punció d un catèter en una..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Gestio de pacients confinats_limpio",
+          "score": 0.1279693159473495,
+          "text_preview": "centres penitenciaris objectiu definir el circuit a seguir per gestionar tots els moviments dels pac..."
+        }
+      ]
+    },
+    {
+      "query": "Quien realiza la acogida en situación de pandemia?",
+      "expected_doc": "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "search_time": 20.923789024353027,
+      "expected_rank": 1,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio",
+          "score": 0.3077244573855989,
+          "text_preview": "l ansietat acollida electiva del pacient a la unitat d hospitalització en situació de pandèmia conei..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Caigudes pacient_limpio",
+          "score": 0.26168217323470055,
+          "text_preview": "als pacients i familiars de les precaucions que han de mantenir actives per la prevenció de caigudes..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Atencio a les persones en situacio dultims dies de vida_limpio",
+          "score": 0.2505890950537992,
+          "text_preview": "del pacient si era la seva voluntat i la de la seva família deixarem constància a la història clínic..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Gestio de pacients confinats_limpio",
+          "score": 0.24162345517306727,
+          "text_preview": "de la planificació de l ingrés i de les instruccions i recomanacions que es requereixin el cp haurà ..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Aillament social solitud_limpio",
+          "score": 0.24070560908540867,
+          "text_preview": "pròpies decisions en funció de la seva situació clínica es valoraran altres possibles actuacions ris..."
+        }
+      ]
+    },
+    {
+      "query": "Que variables clínicas se cogen en caso de acogida de paciente en pandemia?",
+      "expected_doc": "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 23.966453075408936,
+      "expected_rank": 24,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Aturada cardiorespiratoria intrahospitalaria_limpio",
+          "score": 0.12656046984017227,
+          "text_preview": "codi nanda 00204 codi nic 4150 intervenció regulació hemodinàmica perfusió tissular perifèrica inefe..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Cateter central dinsercio periferica PICC en el nounat_limpio",
+          "score": 0.12467586656392411,
+          "text_preview": "nanda 00132 codi nic 6480 intervenció maneig ambiental confort risc de tromboembolisme venós catèter..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Cateter central dinsercio central_limpio",
+          "score": 0.12442127523268065,
+          "text_preview": "bp cv bp brc per 1000 dies en pacients amb ccic nombre de dies en els quals els pacients són portado..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Crisi dagitacio Maneig del pacient infantojuvenil en medi extrahospitalari_limpio",
+          "score": 0.1236487237173306,
+          "text_preview": "heteroagressió codi nanda 00138 codi nic 4640 intervenció ajuda per control de l enuig risc d autoag..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Colocacio de PORTACATH PAC a radiologia intervencionista_limpio",
+          "score": 0.12331265474313921,
+          "text_preview": "tancament de la ferida amb una sutura intradèrmica contínua amb seda tipus vicril col locarem punts ..."
+        }
+      ]
+    },
+    {
+      "query": "Con quien debo coordinar la medicación a administrar cuando un paciente entra en el CDI?",
+      "expected_doc": "Acollida i atencio integral al pacient en el CDI_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 23.244666576385498,
+      "expected_rank": 400,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Aturada cardiorespiratoria intrahospitalaria_limpio",
+          "score": 0.12013563186757886,
+          "text_preview": "servei en la realització del massatge cardíac la infermer a responsable del pacient i la tcai de la ..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+          "score": 0.11976464763354357,
+          "text_preview": "en la plantilla sap la composició de les farmacioles de cada unitat assistencial s estableix conside..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Administracio de medicaments Via intradermica_limpio",
+          "score": 0.11969483429690203,
+          "text_preview": "administració de medicaments per via intradèrmica i notificats a farmàcia nombre de malalts que rebe..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Aturada cardiorespiratoria a CCEE i CAPSBE_limpio",
+          "score": 0.11967391830819282,
+          "text_preview": "venós prepararà el material necessari per als diferents procediments intubació extraccions d analíti..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Aturada cardiorespiratoria intrahospitalaria_limpio",
+          "score": 0.1195824221843291,
+          "text_preview": "busca de coordinació de trasplantament tel 385748 material carretó d aturada tauló de rcp propi de l..."
+        }
+      ]
+    },
+    {
+      "query": "En paciente con DAI en radiología, hay que llevar el desfribilador?",
+      "expected_doc": "Acollida i atencio integral al pacient en el CDI_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 13.030565023422241,
+      "expected_rank": 157,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Drenatges abdominals_limpio",
+          "score": 0.1204948821241972,
+          "text_preview": "integritat cutània codi nanda 00046 codi nic 1870 intervenció cures del drenatge deteriorament de la..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Aturada cardiorespiratoria intrahospitalaria_limpio",
+          "score": 0.1188029369358345,
+          "text_preview": "codi nanda 00204 codi nic 4150 intervenció regulació hemodinàmica perfusió tissular perifèrica inefe..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Crisi dagitacio Maneig del pacient infantojuvenil en medi extrahospitalari_limpio",
+          "score": 0.11854208544463536,
+          "text_preview": "heteroagressió codi nanda 00138 codi nic 4640 intervenció ajuda per control de l enuig risc d autoag..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Colocacio de PORTACATH PAC a radiologia intervencionista_limpio",
+          "score": 0.11847184575037173,
+          "text_preview": "tancament de la ferida amb una sutura intradèrmica contínua amb seda tipus vicril col locarem punts ..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Fistula arteriovenosa interna FAVI_limpio",
+          "score": 0.11808309332987943,
+          "text_preview": "infecció codi nanda 00004 codi nic 6540 intervenció control d infeccions risc d infecció codi nanda ..."
+        }
+      ]
+    },
+    {
+      "query": "Que debo hacer en una crisis tonico-clónica?",
+      "expected_doc": "Actuacio davant una crisi epileptica generalitzada tonicoclonica a la unitat depilepsia_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 11.983864068984985,
+      "expected_rank": 134,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Cateter central dinsercio central_limpio",
+          "score": 0.11911520612703866,
+          "text_preview": "bp cv bp brc per 1000 dies en pacients amb ccic nombre de dies en els quals els pacients són portado..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Carreto daturada cardiorespiratoria revisio periodica de lestoc i Desa_limpio",
+          "score": 0.11815256657175913,
+          "text_preview": "responsable registres registre del material i o medicació caducats i incidències per part del person..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Dilucio programacio i administracio de farmacs antimicrobians en bomba dinfusio a lHospitalitzacio a Domicili HDOM_limpio",
+          "score": 0.11801735542453712,
+          "text_preview": "nombre d incidències reportades en relació amb la dilució preparació i o administració dels fàrmacs ..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio",
+          "score": 0.11781751480815025,
+          "text_preview": "adquirir els recursos i coneixements necessaris per gestionar correctament el tractament oncològic e..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+          "score": 0.1175236196887148,
+          "text_preview": "avaluació nombre de pnts aprobats amb errors de procediment i o format nombre de procediments seguit..."
+        }
+      ]
+    },
+    {
+      "query": "Cuanto tiempo debe estar monitorizado tras una crisis tonico-clónica?",
+      "expected_doc": "Actuacio davant una crisi epileptica generalitzada tonicoclonica a la unitat depilepsia_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 12.327897548675537,
+      "expected_rank": 231,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Aturada cardiorespiratoria a CCEE i CAPSBE_limpio",
+          "score": 0.12054864580615243,
+          "text_preview": "anirà amb la motxilla verda a la consulta on es produeixi l atur el professional del ccee i capsbe q..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Carreto daturada cardiorespiratoria revisio periodica de lestoc i Desa_limpio",
+          "score": 0.11952191493093703,
+          "text_preview": "responsable registres registre del material i o medicació caducats i incidències per part del person..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Avaluacio i intervencio en dones amb part traumatic_limpio",
+          "score": 0.11901144898055412,
+          "text_preview": "al 1996 avaluació i intervenció en dones amb part traumàtic inventario de ansiedad rasgo de spielber..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+          "score": 0.11865841408260991,
+          "text_preview": "avaluació nombre de pnts aprobats amb errors de procediment i o format nombre de procediments seguit..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Administracio de medicaments Via inhalatoria amb cartutx pressuritzat_limpio",
+          "score": 0.1185747681831053,
+          "text_preview": "la càmera és el mètode d elecció ja que permet garantir la dosi cal remarcar que les nebulitzacions ..."
+        }
+      ]
+    },
+    {
+      "query": "Busca de la matrona senior de la mater",
+      "expected_doc": "Actuacio en situacions demergencia obstetrica seu Maternitat circuit de trucades interdisciplinars davis_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 11.547430515289307,
+      "expected_rank": 20,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Fluxometria_limpio",
+          "score": 0.1221666431044087,
+          "text_preview": "la micció si la micció realitzada no és semblant a l habitual del pacient es rebutja i s espera fins..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Aturada cardiorespiratoria intrahospitalaria a lHCB Seu Maternitat_limpio",
+          "score": 0.12195417822434751,
+          "text_preview": "del carretó a la unitat o servei a vegades l equip d acr pot ser activat en situacions en què el pac..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Aturada cardiorespiratoria intrahospitalaria a lHCB Seu Maternitat_limpio",
+          "score": 0.12150188968823633,
+          "text_preview": "monitorització respiratòria patró respiratori ineficaç codi nanda 00032 codi nic 3160 intervenció as..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Fluxometria_limpio",
+          "score": 0.12112209881838856,
+          "text_preview": "de prevenció de caigudes noc 3008 satisfacció del pacient usuari protecció dels seus drets noc 1211 ..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Fluxometria_limpio",
+          "score": 0.12104962898506594,
+          "text_preview": "el valor de cabal mitjà i temps de flux no solen tenir aplicabilitat clínica vegeu imatge 1 la fluxo..."
+        }
+      ]
+    },
+    {
+      "query": "Cual es el número de emergencia en la sede de maternidad?",
+      "expected_doc": "Actuacio en situacions demergencia obstetrica seu Maternitat circuit de trucades interdisciplinars davis_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "search_time": 14.068800926208496,
+      "expected_rank": 1,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Actuacio en situacions demergencia obstetrica seu Maternitat circuit de trucades interdisciplinars davis_limpio",
+          "score": 0.13286523191625826,
+          "text_preview": "hemodinàmica perfusió tissular perifèrica inefectiva codi nanda 00204 codi nic 6140 actuació en situ..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Aturada cardiorespiratoria intrahospitalaria a lHCB Seu Maternitat_limpio",
+          "score": 0.13265217132918455,
+          "text_preview": "per als diferents procediments intubació extraccions d analítiques preparació i administració de med..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Aturada cardiorespiratoria intrahospitalaria a lHCB Seu Maternitat_limpio",
+          "score": 0.13076214712461512,
+          "text_preview": "procediment d actuació de l equip interdisciplinari per a l atenció del pacient en situació d aturad..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Aturada cardiorespiratoria intrahospitalaria_limpio",
+          "score": 0.1305802371819893,
+          "text_preview": "codi nanda 00204 codi nic 4150 intervenció regulació hemodinàmica perfusió tissular perifèrica inefe..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Escalada de cures i derivacio dun pacient ingressat a HDOM a lhospital convencional_limpio",
+          "score": 0.12945180382601618,
+          "text_preview": "cures intermèdies o no es consideri candidat es contactarà amb la coordinadora d urgències o amb l a..."
+        }
+      ]
+    },
+    {
+      "query": "Que puedo hacer para favorecer el descanso nocturno de un paciente?",
+      "expected_doc": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 21.535444259643555,
+      "expected_rank": 240,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Crisi dagitacio Maneig del pacient infantojuvenil en medi extrahospitalari_limpio",
+          "score": 0.12458923223688775,
+          "text_preview": "heteroagressió codi nanda 00138 codi nic 4640 intervenció ajuda per control de l enuig risc d autoag..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+          "score": 0.12211594060230903,
+          "text_preview": "avaluació nombre de pnts aprobats amb errors de procediment i o format nombre de procediments seguit..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Colocacio de PORTACATH PAC a radiologia intervencionista_limpio",
+          "score": 0.12105029151857667,
+          "text_preview": "tancament de la ferida amb una sutura intradèrmica contínua amb seda tipus vicril col locarem punts ..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Fistula arteriovenosa interna FAVI_limpio",
+          "score": 0.12000226210545209,
+          "text_preview": "infecció codi nanda 00004 codi nic 6540 intervenció control d infeccions risc d infecció codi nanda ..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Cateter central dinsercio periferica PICC en el nounat_limpio",
+          "score": 0.1197559412776766,
+          "text_preview": "nanda 00132 codi nic 6480 intervenció maneig ambiental confort risc de tromboembolisme venós catèter..."
+        }
+      ]
+    },
+    {
+      "query": "Se puede quedar un familiar por la noche?",
+      "expected_doc": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "search_time": 12.731698751449585,
+      "expected_rank": 1,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+          "score": 0.12235347291232673,
+          "text_preview": "de la unitat evitant que s arrosseguin fins la cuina els carretons de les escombraries roba neta i b..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+          "score": 0.12204443427914664,
+          "text_preview": "així millorar el descans situacions especials trasllats ingressos durant la nit procurarem fer ho de..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Avaluacio de la tolerancia i eficacia del tractament postural per a apnea obstructiva del son_limpio",
+          "score": 0.12120951321024794,
+          "text_preview": "definir el procediment d entrega i l avaluació de la tolerància i eficàcia del tractament postural e..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+          "score": 0.12117483053337577,
+          "text_preview": "estat crític entrarem a l habitació box de la forma més silenciosa possible per a no alterar el desc..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Avaluacio de la tolerancia i eficacia del tractament postural per a apnea obstructiva del son_limpio",
+          "score": 0.12088537614856604,
+          "text_preview": "postural se li lliura la cita amb el facultatiu responsable per tal que li expliqui els resultats de..."
+        }
+      ]
+    },
+    {
+      "query": "Que puedo nebulizar de antibiótico?",
+      "expected_doc": "Administracio dantibiotics via inhalatoria_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 11.988749742507935,
+      "expected_rank": 57,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Determinacio de les concentracions plasmatiques dantibiotics en adults_limpio",
+          "score": 0.2991119136938637,
+          "text_preview": "de les concentracions plasmàtiques d antibiòtics en adults codi nanda 00004 codi nic 3590 intervenci..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Cateter central dinsercio central_limpio",
+          "score": 0.19415421362365204,
+          "text_preview": "bp cv bp brc per 1000 dies en pacients amb ccic nombre de dies en els quals els pacients són portado..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Crisi dagitacio Maneig del pacient infantojuvenil en medi extrahospitalari_limpio",
+          "score": 0.18746004996626112,
+          "text_preview": "heteroagressió codi nanda 00138 codi nic 4640 intervenció ajuda per control de l enuig risc d autoag..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio",
+          "score": 0.18480387135358786,
+          "text_preview": "adquirir els recursos i coneixements necessaris per gestionar correctament el tractament oncològic e..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Cribratge nutricional_limpio",
+          "score": 0.16469358385625374,
+          "text_preview": "nutricional registres capçalera portal professional annex 3 registre de descongelació transport i en..."
+        }
+      ]
+    },
+    {
+      "query": "Como nubulizo un atb en un paciente con canula de plata?",
+      "expected_doc": "Administracio dantibiotics via inhalatoria_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 12.619543552398682,
+      "expected_rank": 6,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Cateter central dinsercio central_limpio",
+          "score": 0.11850837161485375,
+          "text_preview": "minimitzar el risc d infecció revisarem si hi ha contraindicacions o situacions que dificultin el pr..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Aturada cardiorespiratoria a CCEE i CAPSBE_limpio",
+          "score": 0.118328261756103,
+          "text_preview": "de febrer 2018 a les 9 hores es posa en marxa un nou sistema de notificació d aturada cardíaca perif..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Aturada cardiorespiratoria intrahospitalaria a lHCB Seu Maternitat_limpio",
+          "score": 0.11818278914660682,
+          "text_preview": "del carretó a la unitat o servei a vegades l equip d acr pot ser activat en situacions en què el pac..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Aturada cardiorespiratoria intrahospitalaria_limpio",
+          "score": 0.11816285443458466,
+          "text_preview": "busca de coordinació de trasplantament tel 385748 material carretó d aturada tauló de rcp propi de l..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+          "score": 0.11812965709054346,
+          "text_preview": "avaluació nombre de pnts aprobats amb errors de procediment i o format nombre de procediments seguit..."
+        }
+      ]
+    },
+    {
+      "query": "Número de busca del equipo de HDOM",
+      "expected_doc": "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 11.224066495895386,
+      "expected_rank": 282,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+          "score": 0.12321710678191133,
+          "text_preview": "avaluació nombre de pnts aprobats amb errors de procediment i o format nombre de procediments seguit..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Administracio de medicaments Via intradermica_limpio",
+          "score": 0.12300708117775858,
+          "text_preview": "administració de medicaments per via intradèrmica i notificats a farmàcia nombre de malalts que rebe..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Cateter central dinsercio central_limpio",
+          "score": 0.12143906133607632,
+          "text_preview": "bp cv bp brc per 1000 dies en pacients amb ccic nombre de dies en els quals els pacients són portado..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Ecografia amb contrast a radiologia_limpio",
+          "score": 0.12134279907093812,
+          "text_preview": "manipulació de càrregues indicadors d avaluació percentatge de pacients que presenten al lèrgies per..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Diagnostic i seguiment a traves de la imatge dels tumors de cap i coll_limpio",
+          "score": 0.12109853625079628,
+          "text_preview": "i altres professionals referents indicadors d avaluació nombre de proves realitzades segons tipus pe..."
+        }
+      ]
+    },
+    {
+      "query": "A que temperatura se debe guardar el levosimendam?",
+      "expected_doc": "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 12.026508331298828,
+      "expected_rank": 124,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio",
+          "score": 0.12115869999788721,
+          "text_preview": "l ansietat acollida electiva del pacient a la unitat d hospitalització en situació de pandèmia conei..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Crisi dagitacio Maneig del pacient infantojuvenil en medi extrahospitalari_limpio",
+          "score": 0.11953178832994944,
+          "text_preview": "heteroagressió codi nanda 00138 codi nic 4640 intervenció ajuda per control de l enuig risc d autoag..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Colocacio de PORTACATH PAC a radiologia intervencionista_limpio",
+          "score": 0.11864164359889465,
+          "text_preview": "tancament de la ferida amb una sutura intradèrmica contínua amb seda tipus vicril col locarem punts ..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Cateter central dinsercio periferica PICC en el nounat_limpio",
+          "score": 0.11856501949544646,
+          "text_preview": "nanda 00132 codi nic 6480 intervenció maneig ambiental confort risc de tromboembolisme venós catèter..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Estudi Molecular en Cancer de Pulmo de cellula no petita_limpio",
+          "score": 0.1178607186339168,
+          "text_preview": "estudi molecular a realitzar en pacients amb un diagnòstic de càncer de pulmó de cèl lula no petita ..."
+        }
+      ]
+    },
+    {
+      "query": "Cuando debería usar cámara espaciadora para nebulizar?",
+      "expected_doc": "Administracio de medicaments Via Inhalatoria Pols seca_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 12.157400846481323,
+      "expected_rank": 7,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Administracio de medicaments Via inhalatoria_limpio",
+          "score": 0.12318558642034991,
+          "text_preview": "de la medicació medicament erroni omissió de dosi o del medicament dosi incorrecta freqüència erròni..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Administracio de medicaments Via inhalatoria_limpio",
+          "score": 0.12225971761310017,
+          "text_preview": "administració de medicació per via inhalatòria nebulitzada a pacients amb respiració espontània cons..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Administracio de medicaments Via inhalatoria_limpio",
+          "score": 0.12225656383286265,
+          "text_preview": "mascareta nasobucal i kit nebulitzador connectat a l aire comprimit entre 5 8 l min pacients amb oxi..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Administracio dantibiotics via inhalatoria_limpio",
+          "score": 0.12212084092674448,
+          "text_preview": "via inhalatòria la infermera que prepara la medicació ha de ser la mateixa que l administra exceptua..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Aspiracio de secrecions nasotraqueals_limpio",
+          "score": 0.12164703286784552,
+          "text_preview": "la saturació d oxigen i els sorolls respiratoris si durant el procediment el pacient sofreix episodi..."
+        }
+      ]
+    },
+    {
+      "query": "Como se debe colocar la lengua en la nebulización de medicación?",
+      "expected_doc": "Administracio de medicaments Via Inhalatoria Pols seca_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 12.541660785675049,
+      "expected_rank": 13,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Administracio de medicaments Via inhalatoria_limpio",
+          "score": 0.12899009255810076,
+          "text_preview": "de la medicació medicament erroni omissió de dosi o del medicament dosi incorrecta freqüència erròni..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Administracio de medicaments Via inhalatoria_limpio",
+          "score": 0.1277780232325801,
+          "text_preview": "administració de medicació per via inhalatòria nebulitzada a pacients amb respiració espontània cons..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Administracio dantibiotics via inhalatoria_limpio",
+          "score": 0.12768988009709337,
+          "text_preview": "via inhalatòria la infermera que prepara la medicació ha de ser la mateixa que l administra exceptua..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Administracio dantibiotics via inhalatoria_limpio",
+          "score": 0.12703423738226707,
+          "text_preview": "fan correctament el procés de nebulització per diferents motius dispositius inadequats connexions qu..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Administracio dantibiotics via inhalatoria_limpio",
+          "score": 0.12681229381015996,
+          "text_preview": "seqüència d accions per a l administració segura d antibiòtics per via inhalatòria el nebulitzador é..."
+        }
+      ]
+    },
+    {
+      "query": "Que medicamentos se nebulizan en forma de polvo seco?",
+      "expected_doc": "Administracio de medicaments Via inhalatoria amb cartutx pressuritzat_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 12.2284574508667,
+      "expected_rank": 95,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Drenatges abdominals_limpio",
+          "score": 0.11974098613304765,
+          "text_preview": "integritat cutània codi nanda 00046 codi nic 1870 intervenció cures del drenatge deteriorament de la..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Cateter central dinsercio periferica PICC en el nounat_limpio",
+          "score": 0.1191986461902601,
+          "text_preview": "nanda 00132 codi nic 6480 intervenció maneig ambiental confort risc de tromboembolisme venós catèter..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Crisi dagitacio Maneig del pacient infantojuvenil en medi extrahospitalari_limpio",
+          "score": 0.1190544564895178,
+          "text_preview": "heteroagressió codi nanda 00138 codi nic 4640 intervenció ajuda per control de l enuig risc d autoag..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio",
+          "score": 0.11820878343047717,
+          "text_preview": "l ansietat acollida electiva del pacient a la unitat d hospitalització en situació de pandèmia conei..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Dilucio programacio i administracio de farmacs antimicrobians en bomba dinfusio a lHospitalitzacio a Domicili HDOM_limpio",
+          "score": 0.11814286741446839,
+          "text_preview": "nombre d incidències reportades en relació amb la dilució preparació i o administració dels fàrmacs ..."
+        }
+      ]
+    },
+    {
+      "query": "Como se utiliza la nebulización en forma de polvo seco en monodosis?",
+      "expected_doc": "Administracio de medicaments Via inhalatoria amb cartutx pressuritzat_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 13.064146041870117,
+      "expected_rank": 58,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Hidratacio oral en persones ancianes amb o sense disfagia_limpio",
+          "score": 0.1222424057216813,
+          "text_preview": "els motius que la provoquen posició del malalt inadequada presència de secrecions en vies respiratòr..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Drenatges abdominals_limpio",
+          "score": 0.12215397345744936,
+          "text_preview": "integritat cutània codi nanda 00046 codi nic 1870 intervenció cures del drenatge deteriorament de la..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Drenatges abdominals_limpio",
+          "score": 0.12142513498596619,
+          "text_preview": "lo per facilitar la seva retirada observarem l aspecte de la zona d inserció del drenatge netejarem ..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Administracio dantibiotics via inhalatoria_limpio",
+          "score": 0.1214182296295441,
+          "text_preview": "via inhalatòria la infermera que prepara la medicació ha de ser la mateixa que l administra exceptua..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Administracio de medicaments Via Inhalatoria Pols seca_limpio",
+          "score": 0.12088878367483477,
+          "text_preview": "pnt higiene de mans manipular el medicament seguint les normes d higiene recomanades posar atenció a..."
+        }
+      ]
+    },
+    {
+      "query": "A cuantos litros se debe poner el aire en la nebulización de medicación?",
+      "expected_doc": "Administracio de medicaments Via inhalatoria_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "search_time": 13.774338006973267,
+      "expected_rank": 1,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Administracio de medicaments Via inhalatoria_limpio",
+          "score": 0.1395632985760174,
+          "text_preview": "de la medicació medicament erroni omissió de dosi o del medicament dosi incorrecta freqüència erròni..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Hidratacio oral en persones ancianes amb o sense disfagia_limpio",
+          "score": 0.13196903259510037,
+          "text_preview": "els motius que la provoquen posició del malalt inadequada presència de secrecions en vies respiratòr..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Administracio de medicaments Via Inhalatoria Pols seca_limpio",
+          "score": 0.13115804461724598,
+          "text_preview": "pnt higiene de mans manipular el medicament seguint les normes d higiene recomanades posar atenció a..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+          "score": 0.13084144133455095,
+          "text_preview": "estat crític entrarem a l habitació box de la forma més silenciosa possible per a no alterar el desc..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Hidratacio oral en persones ancianes amb o sense disfagia_limpio",
+          "score": 0.130756764406479,
+          "text_preview": "intervencions per mantenir la hidratació oral en persones ancianes amb o sense disfàgia objectiu det..."
+        }
+      ]
+    },
+    {
+      "query": "Nebulizo la medicación con oxigeno o con aire?",
+      "expected_doc": "Administracio de medicaments Via inhalatoria_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "search_time": 11.897012710571289,
+      "expected_rank": 1,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Administracio de medicaments Via inhalatoria_limpio",
+          "score": 0.1198566230478739,
+          "text_preview": "de la medicació medicament erroni omissió de dosi o del medicament dosi incorrecta freqüència erròni..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Administracio dantibiotics via inhalatoria_limpio",
+          "score": 0.11957500279972569,
+          "text_preview": "seqüència d accions per a l administració segura d antibiòtics per via inhalatòria el nebulitzador é..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Acollida i atencio integral al pacient en el CDI_limpio",
+          "score": 0.11954248781526618,
+          "text_preview": "protecció sanitària contra les radiacions ionitzants per resoldre qualsevol dubte trucar al servei d..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Administracio de medicaments Via intradermica_limpio",
+          "score": 0.11916978962610883,
+          "text_preview": "administració de medicaments per via intradèrmica i notificats a farmàcia nombre de malalts que rebe..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+          "score": 0.11913968272985057,
+          "text_preview": "estat crític entrarem a l habitació box de la forma més silenciosa possible per a no alterar el desc..."
+        }
+      ]
+    },
+    {
+      "query": "Que podemos administrar por vía  intradérmica?",
+      "expected_doc": "Administracio de medicaments Via intradermica_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 12.01456332206726,
+      "expected_rank": 36,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Desbridament larval_limpio",
+          "score": 0.11989124857090744,
+          "text_preview": "la teràpia larval registres registres especials registres clínics portal professional registres es r..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Cateter tunelitzat amb reservori venos subcutani RVS_limpio",
+          "score": 0.11957974838009305,
+          "text_preview": "dies en pacients amb pac percentatge de pacients amb presència d esdeveniments adversos després de l..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Dilucio programacio i administracio de farmacs antimicrobians en bomba dinfusio a lHospitalitzacio a Domicili HDOM_limpio",
+          "score": 0.119250850864011,
+          "text_preview": "nombre d incidències reportades en relació amb la dilució preparació i o administració dels fàrmacs ..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Aturada cardiorespiratoria intrahospitalaria_limpio",
+          "score": 0.1190954885545287,
+          "text_preview": "codi nanda 00204 codi nic 4150 intervenció regulació hemodinàmica perfusió tissular perifèrica inefe..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Cateter central dinsercio periferica PICC en el nounat_limpio",
+          "score": 0.11890187942578996,
+          "text_preview": "nanda 00132 codi nic 6480 intervenció maneig ambiental confort risc de tromboembolisme venós catèter..."
+        }
+      ]
+    },
+    {
+      "query": "Como se que he administrado un fármaco intradérmico de forma correcta?",
+      "expected_doc": "Administracio de medicaments Via intradermica_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 13.291784524917603,
+      "expected_rank": 139,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Desbridament larval_limpio",
+          "score": 0.12076039404001349,
+          "text_preview": "la teràpia larval registres registres especials registres clínics portal professional registres es r..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Aturada cardiorespiratoria intrahospitalaria_limpio",
+          "score": 0.12044990704245911,
+          "text_preview": "codi nanda 00204 codi nic 4150 intervenció regulació hemodinàmica perfusió tissular perifèrica inefe..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Cateter central dinsercio periferica PICC en el nounat_limpio",
+          "score": 0.12022994427389821,
+          "text_preview": "nanda 00132 codi nic 6480 intervenció maneig ambiental confort risc de tromboembolisme venós catèter..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Dilucio programacio i administracio de farmacs antimicrobians en bomba dinfusio a lHospitalitzacio a Domicili HDOM_limpio",
+          "score": 0.120018212044882,
+          "text_preview": "nombre d incidències reportades en relació amb la dilució preparació i o administració dels fàrmacs ..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Cateter tunelitzat amb reservori venos subcutani RVS_limpio",
+          "score": 0.11982441815486466,
+          "text_preview": "dies en pacients amb pac percentatge de pacients amb presència d esdeveniments adversos després de l..."
+        }
+      ]
+    },
+    {
+      "query": "Como cargo medicación para administración intramuscular?",
+      "expected_doc": "Administracio de medicaments Via intramuscular_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 11.780503511428833,
+      "expected_rank": 395,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Administracio de medicaments Via intradermica_limpio",
+          "score": 0.12104035981578859,
+          "text_preview": "administració de medicaments per via intradèrmica i notificats a farmàcia nombre de malalts que rebe..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Aturada cardiorespiratoria al servei de Rehabilitacio_limpio",
+          "score": 0.12101341875801076,
+          "text_preview": "cardíac de l usuari i comprovarà l accés venós preparà el material necessari per als diferents proce..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio",
+          "score": 0.11980228042940289,
+          "text_preview": "hospitalització a domicili hdom temps d espera per a l ingrés a css absència de dva o pda manca d ac..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Fisioterapia del lligament creuat anterior LCA_limpio",
+          "score": 0.11978911776553083,
+          "text_preview": "quàdriceps en rom de 90º a 45º arribar a rom complert a la 8ª setmana exercicis de control neuromusc..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio",
+          "score": 0.11973990225395795,
+          "text_preview": "el levosimendan és un fàrmac inotròpic positiu i vasodilatador arterial que actua a través de l incr..."
+        }
+      ]
+    },
+    {
+      "query": "Que volumen máximo puedo administrar de forma intramuscular?",
+      "expected_doc": "Administracio de medicaments Via intramuscular_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 12.613111972808838,
+      "expected_rank": 351,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Dilucio programacio i administracio de farmacs antimicrobians en bomba dinfusio a lHospitalitzacio a Domicili HDOM_limpio",
+          "score": 0.12226551617233092,
+          "text_preview": "nombre d incidències reportades en relació amb la dilució preparació i o administració dels fàrmacs ..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Cateter central dinsercio central_limpio",
+          "score": 0.12087536882589292,
+          "text_preview": "bp cv bp brc per 1000 dies en pacients amb ccic nombre de dies en els quals els pacients són portado..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Aturada cardiorespiratoria intrahospitalaria_limpio",
+          "score": 0.12069384072504585,
+          "text_preview": "codi nanda 00204 codi nic 4150 intervenció regulació hemodinàmica perfusió tissular perifèrica inefe..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Cateter central dinsercio periferica PICC en el nounat_limpio",
+          "score": 0.12059446322185163,
+          "text_preview": "nanda 00132 codi nic 6480 intervenció maneig ambiental confort risc de tromboembolisme venós catèter..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Actuacio en situacions demergencia obstetrica seu Maternitat circuit de trucades interdisciplinars davis_limpio",
+          "score": 0.12051677806013653,
+          "text_preview": "hemodinàmica perfusió tissular perifèrica inefectiva codi nanda 00204 codi nic 6140 actuació en situ..."
+        }
+      ]
+    },
+    {
+      "query": "Como se administra un fármaco en bolus?",
+      "expected_doc": "Administracio de medicaments Via intravenosa_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": true,
+      "search_time": 12.05819296836853,
+      "expected_rank": 3,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+          "score": 0.12111758510776052,
+          "text_preview": "en la plantilla sap la composició de les farmacioles de cada unitat assistencial s estableix conside..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+          "score": 0.12109364531363431,
+          "text_preview": "de custodiar en caixa forta o armari de seguretat que s ha de tancar amb clau i no deixar la posada ..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Administracio de medicaments Via intravenosa_limpio",
+          "score": 0.12087271326149598,
+          "text_preview": "si porta vàlvula connector o amb membrana oberta i esperarem 30 segons com a mínim abans d utilitzar..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio",
+          "score": 0.12073866409589087,
+          "text_preview": "habitació acompanyarem al pacient a l habitació i farem les presentacions amb el company d habitació..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Administracio de medicaments Via oral_limpio",
+          "score": 0.12053854293679656,
+          "text_preview": "efectes secundaris recomanacions higièniques condicions d emmagatzematge del fàrmac corroborarem la ..."
+        }
+      ]
+    },
+    {
+      "query": "Donde preparo la medicación iv de un paciente domiciliario?",
+      "expected_doc": "Administracio de medicaments Via intravenosa_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 12.783334255218506,
+      "expected_rank": 6,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Administracio de medicaments Via intradermica_limpio",
+          "score": 0.13676378395749794,
+          "text_preview": "administració de medicaments per via intradèrmica i notificats a farmàcia nombre de malalts que rebe..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Deteccio avaluacio i atencio a la violencia masclista en lambit de la parella a la unitat de salut mental perinatal de lHCB_limpio",
+          "score": 0.13354833646166947,
+          "text_preview": "i adquisició d autonomia si els resultats de les escales confirmen la sospita de vmap es procedirà a..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Cateterisme periferic de linia mitja o midline_limpio",
+          "score": 0.13325909666719132,
+          "text_preview": "el catèter venós perifèric de línia mitja o midline és un catèter vascular que s insereix preferentm..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Collocacio de Cateter Tunelitzat al servei de Radiologia intervencionista_limpio",
+          "score": 0.1326356279207461,
+          "text_preview": "l inici de teràpies com afèresi nutrició parenteral infusió continua de substàncies agressives o hem..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Cateterisme periferic de linia mitja o midline_limpio",
+          "score": 0.13182893748124735,
+          "text_preview": "imatge 2 i annex 2 zones on la pell no estigui íntegra cremades cicatrius retirar anells i polseres ..."
+        }
+      ]
+    },
+    {
+      "query": "Que tipos de medicación via oftálmica hay?",
+      "expected_doc": "Administracio de medicaments Via oftalmica_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 13.17434573173523,
+      "expected_rank": 121,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Determinacio de les concentracions plasmatiques dantibiotics en adults_limpio",
+          "score": 0.14028682279504534,
+          "text_preview": "de les concentracions plasmàtiques d antibiòtics en adults codi nanda 00004 codi nic 3590 intervenci..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Fistula arteriovenosa interna FAVI_limpio",
+          "score": 0.13792021450812553,
+          "text_preview": "infecció codi nanda 00004 codi nic 6540 intervenció control d infeccions risc d infecció codi nanda ..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Abordatge integral de la dona amb cancer ginecologic en tractament sistemic_limpio",
+          "score": 0.13513474316576385,
+          "text_preview": "adquirir els recursos i coneixements necessaris per gestionar correctament el tractament oncològic e..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+          "score": 0.13130466589103726,
+          "text_preview": "avaluació nombre de pnts aprobats amb errors de procediment i o format nombre de procediments seguit..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Cateter central dinsercio central_limpio",
+          "score": 0.13012466245114696,
+          "text_preview": "bp cv bp brc per 1000 dies en pacients amb ccic nombre de dies en els quals els pacients són portado..."
+        }
+      ]
+    },
+    {
+      "query": "Durante cuanto tiempo puedo guardar un colirio para reutilizarlo?",
+      "expected_doc": "Administracio de medicaments Via oftalmica_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 12.836199522018433,
+      "expected_rank": 397,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+          "score": 0.12423244023469218,
+          "text_preview": "de la unitat evitant que s arrosseguin fins la cuina els carretons de les escombraries roba neta i b..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Atencio a les persones en situacio dultims dies de vida_limpio",
+          "score": 0.12394445335592735,
+          "text_preview": "conegut per tots els professionals que participen en les cures del pacient adequarem la pauta farmac..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+          "score": 0.12387984890940809,
+          "text_preview": "així millorar el descans situacions especials trasllats ingressos durant la nit procurarem fer ho de..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+          "score": 0.12348796151533192,
+          "text_preview": "conjunt d activitats que es duran a terme pels equips assistencials dels torns de nit per tal d adeq..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+          "score": 0.12305219603222917,
+          "text_preview": "estat crític entrarem a l habitació box de la forma més silenciosa possible per a no alterar el desc..."
+        }
+      ]
+    },
+    {
+      "query": "Como se si un fármaco está en buen estado?",
+      "expected_doc": "Administracio de medicaments Via oral_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 13.06582260131836,
+      "expected_rank": 17,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+          "score": 0.12602656278602792,
+          "text_preview": "en la plantilla sap la composició de les farmacioles de cada unitat assistencial s estableix conside..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+          "score": 0.12502964882748985,
+          "text_preview": "de custodiar en caixa forta o armari de seguretat que s ha de tancar amb clau i no deixar la posada ..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+          "score": 0.12491783946206998,
+          "text_preview": "la farmaciola els medicaments que estan continguts en la farmaciola han de revisar se regularment aq..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+          "score": 0.12482436045410916,
+          "text_preview": "automàtic de dispensació de medicaments pyxis definicions farmaciola zona del magatzem de medicament..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Administracio de medicaments Via intradermica_limpio",
+          "score": 0.1247822788385792,
+          "text_preview": "administració de medicaments per via intradèrmica i notificats a farmàcia nombre de malalts que rebe..."
+        }
+      ]
+    },
+    {
+      "query": "Como administro un fármaco via oral en un paciente con disfagia?",
+      "expected_doc": "Administracio de medicaments Via oral_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 13.639714241027832,
+      "expected_rank": 404,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Atencio a les persones en situacio dultims dies de vida_limpio",
+          "score": 0.11964579132775807,
+          "text_preview": "respiració per boca bradipnea taquipnea apnees a nivell circulatori fredor pal lidesa livideses cian..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Educacio terapeutica en cirurgia de columna taller dirigit a pacients i familiars_limpio",
+          "score": 0.1192902403617512,
+          "text_preview": "el taller d educació terapèutica en cirurgia de columna microdiscectomies i artrodesis té com a fina..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+          "score": 0.11865582813310008,
+          "text_preview": "automàtic de dispensació de medicaments pyxis definicions farmaciola zona del magatzem de medicament..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Ecografia amb contrast a radiologia_limpio",
+          "score": 0.1185075853276159,
+          "text_preview": "manipulació de càrregues indicadors d avaluació percentatge de pacients que presenten al lèrgies per..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Gestio i conservacio de farmacioles i sistemes automatitzats de dispensacio PYXIS R_limpio",
+          "score": 0.1184529652572894,
+          "text_preview": "en la plantilla sap la composició de les farmacioles de cada unitat assistencial s estableix conside..."
+        }
+      ]
+    },
+    {
+      "query": "Como identifico una pluma de insulina de un paciente?",
+      "expected_doc": "Administracio dinsulina Via subcutania_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 12.714323282241821,
+      "expected_rank": 396,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Escalada de cures i derivacio dun pacient ingressat a HDOM a lhospital convencional_limpio",
+          "score": 0.12208397900141685,
+          "text_preview": "definir un circuit de derivació per aquell pacient ingressat a hospitalització a domicili hdom que r..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Caigudes pacient_limpio",
+          "score": 0.12194334698312276,
+          "text_preview": "mantenir el llit en posició baixa per en cas de caiguda minimitzar el risc de lesió portar calçat ad..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Cateterisme periferic de linia mitja o midline_limpio",
+          "score": 0.12192004685345549,
+          "text_preview": "col locarem el nou bioconnector 18 recollirem el material emprat i el rebutjarem al contenidor corre..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Comprovacio del carreto daturada cardiorespiratoria a lUCI de lICMDM_limpio",
+          "score": 0.12183562010610496,
+          "text_preview": "ampolla sf 0 9 500 ml sf 0 9 100 ml material laringoscopi amb pales curta i llarga guia bena xeringu..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio",
+          "score": 0.12180175984363825,
+          "text_preview": "en situació de malaltia avançada però estable pacients identificats com maca i o amb necessitats pal..."
+        }
+      ]
+    },
+    {
+      "query": "Efectos secundarios de la insulina",
+      "expected_doc": "Administracio dinsulina Via subcutania_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 11.817381143569946,
+      "expected_rank": 403,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+          "score": 0.1376292513139589,
+          "text_preview": "amb el metge si es considera necessari incompliment del protocol errors en l aplicació del tractamen..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio",
+          "score": 0.13514851442463913,
+          "text_preview": "el levosimendan és un fàrmac inotròpic positiu i vasodilatador arterial que actua a través de l incr..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+          "score": 0.13469637228012896,
+          "text_preview": "aquests aspectes són essencials per garantir l eficàcia i seguretat del tractament amb magnetoteràpi..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Curs evolutiu dinfermeria_limpio",
+          "score": 0.13430433614871534,
+          "text_preview": "evolutius que presenten el darrer comentari evolutiu complet seguint els criteris definits respecte ..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio",
+          "score": 0.13308791102654213,
+          "text_preview": "0 conservació 2 8ºc per preparar la infusió s utilitzaran 2 5 ml del vial de levosimendan 6 25 mg es..."
+        }
+      ]
+    },
+    {
+      "query": "En cuanto puedo diluir el ferinject?",
+      "expected_doc": "Administracio segura de ferroterapia intravenosa al domicili_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 12.81190538406372,
+      "expected_rank": 32,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Cura de la ferida quirurgica_limpio",
+          "score": 0.12533454377070632,
+          "text_preview": "dels signes d alerta son intervencions essencials per prevenir la infecció de les ferides quirúrgiqu..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Desbridament larval_limpio",
+          "score": 0.12499929242412129,
+          "text_preview": "la teràpia larval registres registres especials registres clínics portal professional registres es r..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Administracio de medicaments Via intramuscular_limpio",
+          "score": 0.1249815306935394,
+          "text_preview": "admet 5 ml de volum vegeu imatge 1 dorsogluti es divideix la natja en 4 quadrants i s injecta en la ..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Cura de la ferida quirurgica_limpio",
+          "score": 0.12475838007875209,
+          "text_preview": "es defineix com a ferida tota lesió traumàtica de la pell i mucosa amb solució de continuïtat de les..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Cateter central dinsercio periferica PICC en el nounat_limpio",
+          "score": 0.12465681035974491,
+          "text_preview": "nanda 00132 codi nic 6480 intervenció maneig ambiental confort risc de tromboembolisme venós catèter..."
+        }
+      ]
+    },
+    {
+      "query": "Cuales son los efectos secundarios más importantes del hierro iv?",
+      "expected_doc": "Administracio segura de ferroterapia intravenosa al domicili_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "search_time": 13.135619878768921,
+      "expected_rank": 1,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Administracio segura de ferroterapia intravenosa al domicili_limpio",
+          "score": 0.11890045683187728,
+          "text_preview": "ús de desfibril ladors automàtics dea per poder iniciar les maniobres prèvia alerta al sem riscos la..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+          "score": 0.11836993217734394,
+          "text_preview": "avaluació nombre de pnts aprobats amb errors de procediment i o format nombre de procediments seguit..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Curs evolutiu dinfermeria_limpio",
+          "score": 0.11834765589928677,
+          "text_preview": "evolutius que presenten el darrer comentari evolutiu complet seguint els criteris definits respecte ..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Ecografia amb contrast a radiologia_limpio",
+          "score": 0.1172197942601629,
+          "text_preview": "manipulació de càrregues indicadors d avaluació percentatge de pacients que presenten al lèrgies per..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Fistula arteriovenosa interna FAVI_limpio",
+          "score": 0.11712205655857562,
+          "text_preview": "infecció codi nanda 00004 codi nic 6540 intervenció control d infeccions risc d infecció codi nanda ..."
+        }
+      ]
+    },
+    {
+      "query": "Que debo hacer en caso de tener un paciente en aislamiento social no deseado?",
+      "expected_doc": "Aillament social solitud_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 14.373382806777954,
+      "expected_rank": 348,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Determinacio de les concentracions plasmatiques dantibiotics en adults_limpio",
+          "score": 0.12350294483569908,
+          "text_preview": "de les concentracions plasmàtiques d antibiòtics en adults codi nanda 00004 codi nic 3590 intervenci..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Crisi dagitacio Maneig del pacient infantojuvenil en medi extrahospitalari_limpio",
+          "score": 0.12291087940393403,
+          "text_preview": "heteroagressió codi nanda 00138 codi nic 4640 intervenció ajuda per control de l enuig risc d autoag..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Aturada cardiorespiratoria intrahospitalaria_limpio",
+          "score": 0.12243092821759466,
+          "text_preview": "codi nanda 00204 codi nic 4150 intervenció regulació hemodinàmica perfusió tissular perifèrica inefe..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Cateter central dinsercio central_limpio",
+          "score": 0.12082891111690759,
+          "text_preview": "bp cv bp brc per 1000 dies en pacients amb ccic nombre de dies en els quals els pacients són portado..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Colecistectomia post pancreatitis aguda biliar lleu_limpio",
+          "score": 0.12020785519618761,
+          "text_preview": "percentatge de colecistectomies realitzades en un termini no superior a 2 setmanes des de l inici de..."
+        }
+      ]
+    },
+    {
+      "query": "A quien se interconsulta si tengo un paciente aislado?",
+      "expected_doc": "Aillament social solitud_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": true,
+      "search_time": 12.641949653625488,
+      "expected_rank": 2,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Acollida i atencio integral al pacient en el CDI_limpio",
+          "score": 0.12280080300350685,
+          "text_preview": "protecció sanitària contra les radiacions ionitzants per resoldre qualsevol dubte trucar al servei d..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Aillament social solitud_limpio",
+          "score": 0.12280046133446144,
+          "text_preview": "seqüència d intervencions realitzades als usuaris fràgils ingressats a l hospital clínic de barcelon..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Escalada de cures i derivacio dun pacient ingressat a HDOM a lhospital convencional_limpio",
+          "score": 0.12258747784304866,
+          "text_preview": "cures intermèdies o no es consideri candidat es contactarà amb la coordinadora d urgències o amb l a..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Aillament social solitud_limpio",
+          "score": 0.12217400209127763,
+          "text_preview": "pròpies decisions en funció de la seva situació clínica es valoraran altres possibles actuacions ris..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Abordatge del pacient en situacio de final de vida ingressat al Dispositiu dHospitalitzacio a Domicili HDOM_limpio",
+          "score": 0.12201971135728795,
+          "text_preview": "en situació de malaltia avançada però estable pacients identificats com maca i o amb necessitats pal..."
+        }
+      ]
+    },
+    {
+      "query": "La rivabirina necesita receta de prosereme?",
+      "expected_doc": "Alta del pacient trasplantat hepatic_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 11.992963790893555,
+      "expected_rank": 364,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Atencio a les persones en situacio dultims dies de vida_limpio",
+          "score": 0.12357714797826491,
+          "text_preview": "25mg midazolam 2 5 5mg sc o ev si neurolèptic no efectiu nàusees i vòmits suspendrem els antiemètics..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Atencio a les persones en situacio dultims dies de vida_limpio",
+          "score": 0.12290905782454992,
+          "text_preview": "nasals sempre que la mascareta generi un disconfort pel pacient en cas de sedació pal liativa i asso..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Aturada cardiorespiratoria al servei de Rehabilitacio_limpio",
+          "score": 0.12288222514498892,
+          "text_preview": "cardíac de l usuari i comprovarà l accés venós preparà el material necessari per als diferents proce..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Aturada cardiorespiratoria al servei de Rehabilitacio_limpio",
+          "score": 0.12261075526252413,
+          "text_preview": "procediment d actuació de l equip interdisciplinari per a l atenció de l usuari en situació d acr al..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Atencio a les persones en situacio dultims dies de vida_limpio",
+          "score": 0.12260486323801541,
+          "text_preview": "respiració per boca bradipnea taquipnea apnees a nivell circulatori fredor pal lidesa livideses cian..."
+        }
+      ]
+    },
+    {
+      "query": "Consideraciones al pautar pentamidina",
+      "expected_doc": "Alta del pacient trasplantat hepatic_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 11.013010740280151,
+      "expected_rank": 297,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio",
+          "score": 0.1301816018614564,
+          "text_preview": "el levosimendan és un fàrmac inotròpic positiu i vasodilatador arterial que actua a través de l incr..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio",
+          "score": 0.12877660358717474,
+          "text_preview": "l ansietat acollida electiva del pacient a la unitat d hospitalització en situació de pandèmia conei..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Administracio de Levosimendan a lHospitalitzacio a domicili HDOM_limpio",
+          "score": 0.1281581768720493,
+          "text_preview": "0 conservació 2 8ºc per preparar la infusió s utilitzaran 2 5 ml del vial de levosimendan 6 25 mg es..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Administracio dinsulina Via subcutania_limpio",
+          "score": 0.12800665729508245,
+          "text_preview": "de la insulina alliberar el plec cutani en cas que s hagi fet les determinacions de glicèmia ens inf..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+          "score": 0.12698614901488997,
+          "text_preview": "avaluació nombre de pnts aprobats amb errors de procediment i o format nombre de procediments seguit..."
+        }
+      ]
+    },
+    {
+      "query": "Que debo revisar al alta de un paciente de enfermería",
+      "expected_doc": "Alta infermeria_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 12.066622495651245,
+      "expected_rank": 174,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+          "score": 0.1263429682907858,
+          "text_preview": "avaluació nombre de pnts aprobats amb errors de procediment i o format nombre de procediments seguit..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Carreto daturada cardiorespiratoria revisio periodica de lestoc i Desa_limpio",
+          "score": 0.12409328945386752,
+          "text_preview": "responsable registres registre del material i o medicació caducats i incidències per part del person..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Drenatges abdominals_limpio",
+          "score": 0.12220076590235321,
+          "text_preview": "integritat cutània codi nanda 00046 codi nic 1870 intervenció cures del drenatge deteriorament de la..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Aturada cardiorespiratoria al Centre dOdontologia i Consultes externes CCEE de Psiquiatria Centre de Salut Mental Adults CSMA_limpio",
+          "score": 0.1221219627225969,
+          "text_preview": "aturada cardiorespiratòria i han sobreviscut percentatge de correcta activació del sistema d aturada..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio",
+          "score": 0.12133577458465995,
+          "text_preview": "l ansietat acollida electiva del pacient a la unitat d hospitalització en situació de pandèmia conei..."
+        }
+      ]
+    },
+    {
+      "query": "Que puedo prescribir como enfermera al alta?",
+      "expected_doc": "Alta infermeria_limpio.txt",
+      "top1_correct": false,
+      "top5_correct": false,
+      "search_time": 11.887004375457764,
+      "expected_rank": 185,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Gestio de procediments normalitzats de treball PNT a la Inther Unit_limpio",
+          "score": 0.12079549639803695,
+          "text_preview": "avaluació nombre de pnts aprobats amb errors de procediment i o format nombre de procediments seguit..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Carreto daturada cardiorespiratoria revisio periodica de lestoc i Desa_limpio",
+          "score": 0.11939954958324259,
+          "text_preview": "responsable registres registre del material i o medicació caducats i incidències per part del person..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Acollida electiva del pacient a la unitat dhospitalitzacio en situacio de pandemia_limpio",
+          "score": 0.11894779617879239,
+          "text_preview": "l ansietat acollida electiva del pacient a la unitat d hospitalització en situació de pandèmia conei..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Cateter central dinsercio central_limpio",
+          "score": 0.11891606371817887,
+          "text_preview": "bp cv bp brc per 1000 dies en pacients amb ccic nombre de dies en els quals els pacients són portado..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Fistula arteriovenosa interna FAVI_limpio",
+          "score": 0.11863703211824785,
+          "text_preview": "infecció codi nanda 00004 codi nic 6540 intervenció control d infeccions risc d infecció codi nanda ..."
+        }
+      ]
+    },
+    {
+      "query": "Quien da la magnetoterapia?",
+      "expected_doc": "Aplicacio de la tecnica terapeutica magnetoterapia_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "search_time": 10.97990894317627,
+      "expected_rank": 1,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+          "score": 0.14013197607800235,
+          "text_preview": "amb el metge si es considera necessari incompliment del protocol errors en l aplicació del tractamen..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+          "score": 0.13761872394534982,
+          "text_preview": "aquests aspectes són essencials per garantir l eficàcia i seguretat del tractament amb magnetoteràpi..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+          "score": 0.13627924168883376,
+          "text_preview": "la magnetoteràpia és una tècnica terapèutica que consisteix a aplicar camps magnètics generats per b..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Acollida i atencio integral al pacient en el CDI_limpio",
+          "score": 0.13436119879563205,
+          "text_preview": "protecció sanitària contra les radiacions ionitzants per resoldre qualsevol dubte trucar al servei d..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Adequacio de lentorn a la unitat per afavorir el descans nocturn del pacient_limpio",
+          "score": 0.13098072509161754,
+          "text_preview": "de la unitat evitant que s arrosseguin fins la cuina els carretons de les escombraries roba neta i b..."
+        }
+      ]
+    },
+    {
+      "query": "Puedo dar magnetoterapia en un paciente con audífonos?",
+      "expected_doc": "Aplicacio de la tecnica terapeutica magnetoterapia_limpio.txt",
+      "top1_correct": true,
+      "top5_correct": true,
+      "search_time": 12.078888893127441,
+      "expected_rank": 1,
+      "top_results": [
+        {
+          "rank": 1,
+          "doc_id": "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+          "score": 0.13715246136192716,
+          "text_preview": "amb el metge si es considera necessari incompliment del protocol errors en l aplicació del tractamen..."
+        },
+        {
+          "rank": 2,
+          "doc_id": "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+          "score": 0.13691864095276177,
+          "text_preview": "aquests aspectes són essencials per garantir l eficàcia i seguretat del tractament amb magnetoteràpi..."
+        },
+        {
+          "rank": 3,
+          "doc_id": "Aplicacio de la tecnica terapeutica magnetoterapia_limpio",
+          "score": 0.13483996514902374,
+          "text_preview": "la magnetoteràpia és una tècnica terapèutica que consisteix a aplicar camps magnètics generats per b..."
+        },
+        {
+          "rank": 4,
+          "doc_id": "Acollida i atencio integral al pacient en el CDI_limpio",
+          "score": 0.12817593177856063,
+          "text_preview": "protecció sanitària contra les radiacions ionitzants per resoldre qualsevol dubte trucar al servei d..."
+        },
+        {
+          "rank": 5,
+          "doc_id": "Administracio segura de ferroterapia intravenosa al domicili_limpio",
+          "score": 0.12803457969465132,
+          "text_preview": "ús de desfibril ladors automàtics dea per poder iniciar les maniobres prèvia alerta al sem riscos la..."
+        }
+      ]
+    }
+  ],
+  "weights_used": {
+    "embedding": 0.4,
+    "mrf": 0.3,
+    "qlm": 0.2,
+    "keywords": 0.1
+  },
+  "timestamp": 1758798829.6286502
+}

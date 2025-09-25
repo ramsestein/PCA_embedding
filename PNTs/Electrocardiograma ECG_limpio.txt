@@ -1,0 +1,145 @@
+Representació gràfica de l’activitat elèctrica del cor.
+L’ECG estàndard, està representat per 12 derivacions: 6 derivacions perifèriques o d’extremitats
+i 6 derivacions precordials, obtingudes a partir de 10 elèctrodes col·locats a la pell del pacient.
+Objectiu
+Estudiar, valorar i controlar les alteracions elèctriques de l’activitat del cor.
+Responsabilitats
+Infermers/es
+Procediment
+PREPARACIÓ DEL MALALT ABANS DEL PROCEDIMENT
+
+
+Electrocardiograma (ECG)
+Informar al pacient del procediment que si li ha de realitzar i la manera en que hi pot
+col·laborar.
+Explicar-li al pacient que es tracta d’una prova curta i indolora i que durant la mateixa se li
+demanarà que  estigui relaxat i en silenci.
+S’haurà de mantenir una temperatura confortable; cal evitar que tremoli per fred i es
+produeixin interferències del senyal elèctric del cor.
+Si el pacient té molt pèl al tòrax, és convenient retallar-lo i, si cal, afegir pasta conductora
+a la zona.
+SEQÜÈNCIA D’ACCIONS:
+Col·locarem el pacient en decúbit supí, deixant al descobert les extremitats superiors,
+inferiors i tòrax. Si no tolera aquesta posició es pot incorporar lleugerament el capçal.
+Les extremitats inferiors i superiors hauran d’estar lleugerament separades del cos, evitant
+el contacte del llit o altres  parts metàl·liques.
+Col·locarem els elèctrodes perifèrics a extremitats superiors i inferiors. En cas de pacients
+amputats, col·locar l’elèctrode el més proper al monyó, mirant de situar l’elèctrode de
+l’extremitat contigua a la mateixa alçada. En cas de pacients enguixats, el més proper al
+guix.
+Connectarem els elèctrodes als cables corresponents, seguint el següent patró:
+Derivacions del pla frontal (Vegeu Imatges 1 i 2 ):
+Derivació aVR (Voltatge amplificat dret): Cable a canell dret (vermell)
+Derivació aVL (Voltatge amplificat esquerra): Cable a canell esquerra (groc)
+Derivació aVF (Voltatge amplificat peu): Cable a turmell esquerra (verd)
+Elèctrode neutre: Cable a turmell dret (negre) 
+Derivació DI: Mesuren la diferència de potencial o voltatge entre braç esquerra
+i braç dretDerivació
+DII: Diferència de potencial o voltatge entre cama esquerra i braç
+dret.Derivació
+DIII: Diferència de potencial o voltatge entre cama esquerra i braç esquerra. 
+Derivacions pla horitzontal o precordials (Vegeu Imatge 3):
+V1: quart espai intercostal, vora dreta de l'estèrnum
+V2: quart espai intercostal, vora esquerre de l'estèrnum
+V3: punt equidistant entre V2 i V4V4: cinquè espai intercostal, línia mitja
+clavicular
+
+
+Electrocardiograma (ECG)
+V5: cinquè espai intercostal, línia axil·lar anterior
+V6: cinquè espai intercostal,  línia mitja axil·lar
+ECG en situacions especials:
+Derivacions addicionals com V4R , V7, V8 i V9 els elèctrodes corresponents es
+col·locaran (Vegeu Imatge 4):
+V4R: 4art. espai intercostal dret, línia clavicular mitja.
+V7: línia posterior axil·lar (amb el cable V4).
+V8: angle escapular (amb el cable V5).
+V9: línia paravertebral (amb el cable V6).
+ECG en Dextrocàrdies es col·locaran de la següent manera
+S’intercanvïen els elèctrodes vermell i groc de les extremitats superiors
+V1: 4rt espai intercostal línia paraesternal esquerra.
+V2: 4rt espai intercostal línia paraesternal dreta.
+A partir de V3: a la mateixa disposició que a l’ECG convencional però a l’hemitòrax
+dret del pacient.
+Pacients portadors de marcapassos (MP) transitori i amb ritme de MP, si el metge sol·licita
+un ECG amb visualització de ritme propi, es pot disminuir la freqüència programada del
+MP transitori, dins dels nivells de seguretat establerts.
+Per diagnosticar un síndrome de  Brugada, les derivacions precordials es col·locaran amb
+la disposició següent:
+V1: 2on espai intercostal línia paraesternal dreta
+V2: 2on espai intercostal línia paraesternal esquerra
+V3: 3er espai intercostal línia paraesternal dreta
+V4: 3er espai intercostal línia paraesternal esquerra
+V5: 4rt espai intercostal línia paraesternal dreta
+V6: 4rt espai intercostal línia paraesternal esquerra
+OBSERVACIONS
+Procurar preservar la intimitat del pacient en tot  moment amb roba de llit, exceptuant les
+zones exposades  per fer l’ECG, com turmells, canells i zona precordial.
+Assegurar la velocitat del paper (25 mm/seg.), voltatge (1 mV) i la correcta col·locació de
+les derivacions. 
+Recordar al pacient que es mantingui quiet, en silenci i que respiri pausadament durant el
+registre de l’ECG.
+
+
+Electrocardiograma (ECG)
+Seleccionar el registre ECG en modus automàtic.
+En cas que les ones de l’ECG, sobrepassin els marges del paper, s’haurà de reduir el
+voltatge a ½ mV ( 5 mm.) o pel contrari, si les ones del  ECG són molt petites, s’haurà
+d’ampliar el voltatge a 2 mV (20 mm.). Si s’ha de modificar velocitat i voltatge caldrà fer-
+ho constar.
+En cas d’ECG amb dolor, arítmies, etc. és aconsellable no treure els elèctrodes, ja que
+requerirà nous registres d’ECG.
+Si l’ECG és urgent, caldrà fer una impressió del registre, indicar la situació clínica del
+pacient (dolor, medicació...) i enregistrar la valoració mèdica posterior.
+Material
+Aparell electrocardiografia
+Elèctrodes adhesius , Cod SAP 181255
+Connectors, Cod SAP 181335
+Pasta conductora, en cas de mal contacte de l’elèctrode, Cod. SAP 181319
+Aspectes a remarcar
+Mantenir l’ambient adequat de l’habitació on es realitza el procediment: temperatura,
+privacitat.
+Identificar l’ECG i registrar-lo via informàtica (insertant-lo a la història clínica) o amb
+etiqueta identificativa del pacient, data, hora, motiu i condicions clíniques del pacient en el
+moment de fer l’ECG: amb dolor (anotar EVA), arrítmies, etc.
+Cal considerar que, en els pacients que pateixen la malaltia de Parkinson, els tremolors
+musculars interfereixen en el registre de l’activitat elèctrica cardíaca, donant un traçat molt
+parasitat.
+Interferències per artefactes
+Activitat
+Les interferències es reconeixen per l’aspecte “dentat” del registre, no
+mostrant les ones del ECG nítidament i la causa generalment és el mal
+
+
+Electrocardiograma (ECG)
+contacte dels elèctrodes amb la pell
+Revisar les connexions elèctrode - cable, netejar i col•locar pasta
+conductora sota l’elèctrode
+Indicar al malalt que romangui quiet, en silenci i respirant pausadament
+durant el temps de realització de l’ECG
+Mala qualitat del registre ECG
+Activitat
+Quan les ones del registre queden tallades per sobrepassar els límits del
+paper, s’ha de disminuir l’amplitud del voltatge a ½ mV (5 mm.),
+mostrant en el registre de l’ECG, la nova condició seleccionada
+Si les ones són molt petites, és pot doblar l’amplitud del voltatge de
+l’ECG a 2 mV (20 mm.) mostrant en el paper de l’ECG, la nova
+condició seleccionada
+Inversió de cables
+Activitat
+Revisar la col•locació adequada segons els llocs anatòmics determinats
+per les 12 derivacions estàndard
+Quan equívocament s’han invertit els cables dels braços, de la cama
+esquerra o de les precordials, pot comportar una interpretació errònia de
+l’electrocardiograma
+Indicadors d'Avaluació
+Percentatge d’ECG’s identificats correctament (nom del malalt, edat, dia i hora de
+realització).
+Percentatge d’ECG’s amb bon traçat de les ones elèctriques (sense interferències, línia de
+base recta,  les ones no sobrepassen els marges del paper, etc.).
+Registres
+
+
+Electrocardiograma (ECG)
+Portal professional
+SAP

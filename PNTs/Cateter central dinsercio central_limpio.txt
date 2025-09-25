@@ -1,0 +1,585 @@
+El cateterisme venós central d'inserció central és la inserció, mitjançant punció, d’un catèter en
+una vena de gran calibre amb finalitats diagnòstiques o terapèutiques:
+Monitoratge de la pressió venosa central.
+Obtenció de mostres sanguínies.
+Perfusió de grans volums de líquids o múltiples perfusions.
+Disposar d'un accés venós en pacients sense possibilitat d’accessos perifèrics o altres tipus
+d’accessos centrals.
+Tractaments de curta-mitja durada (màxim 1 mes).
+Administrar substàncies medicamentoses irritants, vesicants i citostàtics (vegeu Annex 1).
+Administrar nutrició parenteral.
+El catèter central d'inserció central (CCIC) es pot inserir a la vena jugular, subclàvia o
+femoral mitjançant tècnica de punció directa tipus Seldinger o tècnica de Seldinger guiat per
+visió ecogràfica. Pot ser d’1 a 5 llums i de calibres 7 o 8,5 Fr. L’elecció del tipus de CCIC es
+
+
+Catèter central d'inserció central
+determinarà en funció de l’estratègia terapèutica, tenint en compte que a menor nombre de
+llums, menor risc d’infeccions, i a menor calibre, menors complicacions trombòtiques. Pel que
+fa al lloc d’inserció, tot i que l’ordre de prioritat són subclàvia, jugular i femoral (CDC,
+Categoria IB), l’elecció ha de tenir en compte també les característiques del pacient i
+l'experiència de l'operador.
+Objectiu
+Coordinar les accions necessàries per dur a terme la col·locació del CCIC amb seguretat i
+seguint les directrius del Protocol Bacterièmia Zero.
+Conèixer el procés i les cures infermeres en la inserció, manteniment i retirada del CCIC.
+Prevenir la infecció relacionada amb els CCIC.
+Identificar i tractar les possibles complicacions associades al CCIC.
+Responsabilitats
+Infermers/es
+Metges/esses
+TCAIS
+Procediment
+PREPARACIÓ DE LA PERSONA ATESA ABANS DEL PROCEDIMENT:
+Realitzarem la identificació inequívoca del pacient segons protocol de l’hospital.
+Informarem la persona atesa sobre el procediment que se li ha de realitzar i la manera en
+què pot col·laborar.
+Educarem a la persona atesa i familiar sobre la cura i manteniment del catèter.
+Comprovarem que ha signat el document de Consentiment Informat a les sales
+d’Hospitalització, Consultes Externes i Hospitals de Dia. A les UCIs usualment no és
+necessari, ja que és un procediment habitualment indispensable per les cures al pacient
+crític.
+
+
+Catèter central d'inserció central
+Descartarem possibles al·lèrgies als materials que s’utilitzen per a la inserció del CCIC
+(làtex, apòsits, antisèptics i anestèsics locals).
+Confirmarem quina serà la localització de la via per preparar la zona. Per això és
+convenient, si la situació clínica ho permet, comprovar amb ecografia l'absència de
+trombes i/o altres alteracions anatòmiques (p. ex per radioteràpia prèvia al lloc de punció ).
+Planificarem el següent punt de punció per si no es pogués realitzar en el primer. 
+Si és necessari, retallarem el pèl de la zona, evitant rasurar per minimitzar el risc
+d’infecció.
+Revisarem si hi ha contraindicacions o situacions que dificultin el procediment:
+Trastorns de l'hemostàsia: hem de comprovar que la persona atesa no estigui sota
+tractament anticoagulant actiu (anamnesi, revisió història clínica i IPA farmàcia), i
+que no tingui trastorns de l'hemostàsia (comprovar amb analítica els valors de la
+coagulació i les plaquetes). En cas que hi hagi algun trastorn, valorarem l’estratègia
+per disminuir el risc en funció de l’emergència del procediment i el risc de
+complicacions (transfondre components sanguinis, suspendre tractament
+anticoagulant...). En general, és recomanable que no estigui sota tractament
+anticoagulant, que els valors de plaquetes siguin > 50.000 mm3. Pel que fa a la
+coagulació, no hi ha consens, però és habitual buscar xifres de TP > 50%.
+Si el pacient és autònom i el seu estat clínic ho permet: indicarem que realitzi una higiene
+corporal prèvia a la col·locació amb aigua i sabó o esponja sabonosa, i que s’esbandeixi
+correctament.
+Si el CCIC es col·loca a Angiorradiologia deixarem en dejú durant 6 hores abans de la
+col·locació. Contactarem amb el Servei d’Angiorradiologia (Ext. 2662, 2346 o 3109) i
+intercanviarem la informació rellevant sobre l’estat del pacient (si té algun tipus
+d’aïllament, característiques especials, etc.) i concretarem el moment idoni per a la
+col·locació del catèter. El pacient acudirà al Servei d’Angiorradiologia (escala 3, planta 0,
+porta A) acompanyat, i es lliurarà el document de Consentiment Informat, el CCIC a
+col·locar i l’estabilitzador adhesiu.
+Si no hi ha contraindicació i el pacient ho tolera bé, el col·locarem en decúbit supí. Si no el
+tolera, el metge valorarà la inserció del catèter. 
+En el cas de punció jugular o subclàvia, traurem el coixí i girarem el cap al costat contrari
+d’on es realitza la inserció.
+S’ha de col·locar al pacient en una posició adequada per evitar l'embòlia gasosa: 
+En inserció en subclàvia/jugular externa: es recomana la posició de Trendelenburg
+(capçal < 0 graus).
+
+
+Catèter central d'inserció central
+En inserció femoral: es recomana la posició de decúbit supí
+Netejarem amb gases estèrils i solució de clorhexidina (aquosa al 2% o alcohòlica) o
+aplicadors individuals de clorhexidina alcohòlica, segons protocol de Bacterièmia Zero.
+PROCEDIMENT:
+I. INSERCIÓ DEL CCIC:
+Monitorarem al pacient (registre del ritme cardíac per valorar la presència d'arrítmies).
+Caldran dos professionals per fer el procediment: el que fa la punció i insereix el CCIC, i
+el col·laborador que l'assisteix. Tots dos (i la resta d’intervinents si n'hi hagués), hauran de
+portar casquet, mascareta, bata i guants estèrils. El metge que fa la punció i el
+col·laborador ens posarem el casquet i la mascareta.
+Ens rentarem les mans i ens col·locarem els guants d’un sol ús. 
+Posarem el xopador per sota de la zona a puncionar.
+Un cop el metge hagi realitzat el rentat quirúrgic de mans, li proporcionarem la bata i els
+guants estèrils.
+Li proporcionarem gases estèrils amb clorhexidina o l'aplicador individual estèril per la
+desinfecció de la zona i es realitzarà segons Protocol Bacterièmia Zero. 
+Li proporcionarem les talles estèrils i/o el llençol estèril perquè es prepari el camp. En
+puncions jugular o subclàvia avisarem al pacient que li cobrirem momentàniament la cara,
+i de seguida que puguem (sense trencar l’esterilitat) li aixecarem la talla de la cara i la
+subjectarem sense que interfereixi en el lloc de punció. El camp estèril ha de cobrir
+totalment al pacient.
+Proporcionarem una talla per muntar la taula de Mayo o taula auxiliar.
+Proporcionarem el material necessari per realitzar tècnica. Aquesta ha de ser eco-guiada
+preferiblement, sempre que sigui possible.
+Proporcionarem l’anestèsic local, una xeringa de 10 cc i l’agulla intramuscular per la seva
+administració.
+Mentre l’anestèsic va fent efecte, proporcionarem la resta del material: catèter amb
+accessoris, pot estèril, xeringues pre-carregades estèrils de sèrum fisiològic per purgar el
+catèter, bioconnectors, gases estèrils, bisturí si s'escau, estabilitzador adhesiu i funda
+estèril per a l'ecògraf en cas d'utilitzar-lo. 
+El metge canalitzarà la via venosa i inserirà el catèter seguint la tècnica Seldinger:
+En cas de punció eco-guiada, confirmarà la posició de l’agulla a la vena.
+
+
+Catèter central d'inserció central
+Introduirà la guia metàl·lica amb cura, no progressant en cas de detectar alguna
+resistència. En tal cas, modificarà la posició o provarà una altra localització. 
+En cas de punció eco-guiada, confirmarà la presència de la guia dins de la vena.
+Si es confirma la posició venosa, es procedirà amb la dilatació i la introducció del
+catèter.
+El metge, posteriorment comprovarà que totes les llums reflueixen, netejarà amb 10 cc de
+sèrum fisiològic (SF) seguint la tècnica Push-Stop-Push (P-S-P) cadascuna de les llums, i
+col·locarà la clau de tres passos o bioconnectors purgats prèviament amb SF.
+Si es preveu iniciar nutrició parenteral segellarem la llum (preferentment la medial) amb
+Taurolok® i col·locarem un dispositiu de segellat (caixa Mirabox®).
+Les llums que no s’utilitzin inicialment, es segellaran amb 1 vial de Fibrilin® seguint la
+tècnica de pressió positiva.
+Es recomana aplicar Cianocrilat® sobre el punt de punció com a agent antimicrobià i
+hemostàtic.
+El metge fixarà el catèter a la pell amb l’estabilitzador adhesiu sense sutura (Statlock®)
+(Recomanació IA). Excepcionalment, podem fer servir la fixació amb seda.
+El metge desinfectarà la zona de punció i col·locarà l’apòsit escollit (preferiblement apòsit
+de clorhexidina, si no sagna) abans de retirar el camp estèril, cobrint el punt d’inserció i
+l’estabilitzador adhesiu sense sutura.
+Si l’administració de medicació no és emergent, abans de començar a administrar cap
+producte, verificarem la ubicació del catèter per examen radiològic (entrada aurícula
+dreta). Alternativament o addicional, es pot realitzar una ecografia pulmonar per descartar
+la presència de pneumotòrax i observar la localització del catèter. En cas d'estar massa
+introduït, es retirarà la distància necessària.
+Un cop finalitzat el procediment, col·laborarem amb el metge, mantenint l'esterilitat,
+mentre es fa la connexió de les perfusions que s’hagin d’administrar, i la col·locació de
+l’allargadora per mesurar la pressió venosa central, si cal.
+II. CURES POST-COL·LOCACIÓ DEL CCIC:
+Observarem si l’apòsit està tacat de sang i si està ben adherit a la pell.
+Assegurarem que s'ha realitzat comprovació radiològica, excepte si el catèter ha estat
+col·locat per escopia al Servei d’Angiorradiologia. Alternativament o addicional es pot
+realitzar una ecografia pulmonar per descartar la presència de pneumotòrax i observar la
+localització del catèter.
+
+
+Catèter central d'inserció central
+Connectarem les infusions intravenosos si s’escau. Els catèters centrals amb més d’una
+llum tenen sortides rotades. Utilitzarem les llums de la següent forma:
+Llum distal: normalment té un calibre major, per aquest motiu l'utilitzarem com a
+primera opció. És la llum d’elecció per l’administració d’hidratació, fàrmacs i
+mesura de la pressió venosa central. 
+Llum proximal: segona opció. La utilitzarem per a l’administració de fàrmacs en
+perfusió contínua, immunosupressors, sedo-analgèsia i amines.
+Llum medial: és la llum de menor calibre i per aquest motiu, serà la llum a utilitzar
+com a darrera opció. L'utilitzarem per a l’administració de nutrició parenteral,
+fàrmacs immunosupressors o quan el volum de medicació pautada ho requereixi.
+Instruirem al pacient en les precaucions que haurà de tenir en compte per evitar
+arrencaments accidentals.
+Enregistrarem al Registre Especial de l’IPA Pacient el tipus de catèter, les llums, el
+calibre, el lloc d’inserció, la data de col·locació i planificarem les cures de manteniment.
+En cas de dolor a la zona d’inserció, consultarem amb el metge responsable del pacient per
+administrar un analgèsic.
+OBSERVACIONS
+Es recomanen els apòsits impregnats amb clorhexidina per reduir la infecció associada o
+relacionada amb el catèter (CDC, Categoria IA).
+Per CCIC d’inserció jugular o subclàvia, la longitud necessària del catèter és de 30 cm; per
+inserció femoral serà de 60 cm.
+Estarem atents durant tot el procés que es segueixin les indicacions del protocol de
+Bacterièmia Zero i es mantingui l’esterilitat fins a tapar el punt d’inserció amb l’apòsit.
+Sempre farem servir catèters amb el mínim de llums possibles (Recomanació IB).
+Segons consens de l’equip de crítics, en pacients crítics és recomanable segellar una llum
+si és possible, per a l’administració de nutrició parenteral.
+III. MANTENIMENT DEL CCIC:
+Cura de la via intravenosa, lloc d’inserció i canvi d’apòsit:
+Informarem el pacient del procediment i de com hi pot col·laborar.
+Confirmarem si és al·lèrgic a l’antisèptic d’elecció o a algun dels materials utilitzats per la
+cura.
+
+
+Catèter central d'inserció central
+Ens col·locarem la mascareta i el casquet (infermera i ajudant).
+Ens rentarem les mans i ens col·locarem uns guants no estèrils segons procediment
+establert.
+Retirarem l’apòsit i l’estabilitzador si cal canviar-lo.
+Taparem el punt d’inserció amb una gasa estèril impregnada en antisèptic.
+Preparem un camp estèril amb el material necessari.
+Realitzarem rentat i antisèpsia de mans.
+Ens col·locarem uns guants estèrils.
+Observarem el punt d’inserció buscant si presenta signes inflamatoris (eritema, induració,
+dolor a la palpació, secreció purulenta, etc.), per valorar qualsevol possible infecció, i la
+correcta col·locació del catèter. Si presenta qualsevol incidència, ho notificarem al metge
+responsable del pacient. Valorarem que els centímetres que visualitzem fora del lloc
+d’inserció, es corresponen als que eren al col·locar-lo.
+Netejarem el punt d’inserció del catèter amb una gasa estèril impregnada en antisèptic.
+Repetirem l’operació tres cops amb 3 gases diferents fent moviments d'arrossegament, i
+deixarem assecar l’antisèptic el temps necessari per aconseguir la màxima eficàcia
+d’aquest.
+Amb una gasa estèril impregnada en antisèptic, netejarem tot el recorregut exterior del
+catèter, des del punt d’inserció fins a les connexions.
+Col·locarem un nou estabilitzador, intentant evitar el mateix punt on estava enganxat
+l’anterior, i aplicant prèviament l’adhesiu amb la tovalloleta inclosa en el paquet. 
+Aplicarem l’apòsit escollit. NO realitzarem compressió, el deixarem caure sense tensar-lo
+per evitar provocar lesions cutànies relacionades amb l’apòsit. És convenient intentar
+evitar situar-lo a la mateixa zona on estava l’anterior per evitar irritacions. Si malgrat
+aplicar aquestes mesures, la pell presenta signes d’irritació, abans de col·locar l’apòsit i
+l’estabilitzador, l'adjudant ha d'aplicar una pel·lícula protectora en esprai (Cavilon®)
+mentre qui realitza la cura, tapa prèviament el punt d’inserció amb una gasa per evitar que
+hi pugui haver contacte del producte (recordar que l’esprai no és estèril). Utilitzarem
+preferentment apòsits de clorhexidina en pacients immunodeprimits, quirúrgics i crítics, i
+en aquelles pacients que presenten eritema del punt d’inserció (havent descartat la resta de
+signes d’infecció). No es recomana utilitzar-lo més enllà d’una setmana.
+Amb una xeringa de 10 cc comprovarem el reflux venós de cadascuna de les llums del
+catèter (utilitzarem una xeringa diferent per cada llum), i rebutjarem la sang extreta (3-5
+cc). MAI la introduirem de nou. 
+
+
+Catèter central d'inserció central
+Amb una xeringa nova, preferentment precarregada estèril, i una diferent per cada llum,
+introduirem 10 cc de SF per cadascuna de les llums amb tècnica P-S-P.
+Amb una xeringa de 10cc (una per cada llum), administrem 1 vial de Fibrilin® per
+cadascuna de les llums amb tècnica de pressió positiva.
+Canviarem els equips d’infusió i elements col·laterals amb una freqüència NO INFERIOR
+a 96 hores, llevat que estiguin bruts o s’hagi produït alguna desconnexió accidental, i amb
+un màxim de 7 dies.
+Enregistrarem la cura realitzada al mòdul de Registres Especials de l’IPA Pacient. Farem
+constar l’estat de l’apòsit abans d’iniciar la cura, l’aspecte del punt d’inserció, el reflux i
+permeabilitat de les llums, l’estat de la fixació, i si s’han canviat els bioconnectors/taps i
+l’estabilitzador adhesiu sense sutura.
+ASPECTES A TENIR EN COMPTE:
+Vigilarem sovint que totes les llums del catèter presenten bon reflux venós i són
+permeables.
+Revisarem el punt d’inserció diàriament, observant si hi ha edema, eritema o dolor del
+trajecte venós. Si el pacient presenta dolor en el lloc d’inserció, febre d’origen desconegut
+o altres manifestacions locals, s’ha de retirar l’apòsit per examinar i palpar de forma
+exhaustiva la zona (CDC, grau d’evidència IA).
+Instruirem al pacient en el risc d’infecció associat als catèters, els signes i símptomes més
+freqüents, i la importància que ens informi precoçment si en presenta.
+La higiene de mans es farà abans de col·locar-se els guants estèrils per palpar el lloc
+d’inserció, manipular el catèter, realitzar canvis d’apòsit o retirar el catèter. La palpació
+del lloc d’inserció no s’ha de fer després de l’aplicació de solució antisèptica. Repetirem la
+higiene de mans un cop ens retirem els guants.
+Comprovarem el reflux i la permeabilitat del catèter abans d’injectar qualsevol solució.
+Netejarem la via venosa amb 10 ml de SF abans i després de l’administració de
+medicaments intravenosos amb tècnica P-S-P. 
+Comprovarem el reflux i la permeabilitat de les llums segellades.
+Evitarem les desconnexions del catèter amb el sistema de degoteig. Per la injecció de
+fàrmacs intravenosos en perfusió continua, utilitzarem la clau de 3 passos sense
+bioconnector. I en cas de solucions intermitents, disposarem de bioconnectors. Abans
+d’accedir al catèter netejarem vigorosament les connexions o el bioconnector durant 15-30
+segons amb alcohol de 70º. Cal eliminar les claus de tres vies sempre que sigui
+
+
+Catèter central d'inserció central
+possible, prioritzarem l’ús d’una llum per cada dilució abans de l’ús de claus de 3 passos.
+Evitarem realitzar maniobres de desobstrucció que puguin desplaçar coàguls o ocasionar
+microembolismes.
+Desinfectarem la zona de punció i canviarem l’apòsit transparent, mínim cada 7 dies i
+sempre que l’apòsit estigui moll, desenganxat, brut o sigui necessari inspeccionar la zona
+de punció. Si el pacient està diaforètic, o si el lloc està tacat, és preferible un apòsit de
+gases a un apòsit transparent o semipermeable (CDC, evidència II) i en aquest cas,
+realitzarem els canvis de l’apòsit de gasa cada 72 hores i sempre que estigui moll,
+desenganxat o brut.
+No aplicarem antibiòtics tòpics en el lloc d’inserció, pel potencial risc de produir
+infeccions fúngiques i resistències antibiòtiques. (CDC, evidència IA).
+Utilitzarem guants nets d’un sol ús per retirar l’apòsit brut, i estèrils per realitzar el nou
+canvi d’apòsit.
+Evitarem perforar amb agulles els filtres d’entrada d’aire dels equips d’infusió i dels
+bioconnectors.
+Canvi d’equips:
+Canviarem els equips d’infusió i elements col·laterals amb una freqüència NO INFERIOR
+a 96 hores, llevat que estiguin bruts o s’hagi produït alguna desconnexió accidental, i amb
+un màxim de 7 dies.
+Substituirem l’equip utilitzat per administrar sang, derivats hemàtics o emulsions
+lipídiques en finalitzar la perfusió o cada 24 hores.
+Substituirem l’equip utilitzat per administrar Propofol® cada 24 hores.
+Considerarem que l’allargadora connectada al catèter és una part del mateix.
+Substituirem l’equip en el moment en que es canvia el catèter.
+Anotarem la data del canvi en l’equip de perfusió i al Registre Especial del CCIC.
+Administració de medicaments:
+En perfusions discontínues o en bolus de medicació, es recomana eliminar totes les claus
+de 3 passos que siguin prescindibles, i col·locar bioconnectors. L’administració es
+realitzarà a través d’ells, prèviament desinfectats durant 15- 30 segons amb una gasa
+impregnada amb alcohol de 70º.
+Per afegir una perfusió, ho farem mantenint l’esterilitat.
+
+
+Catèter central d'inserció central
+Després de l’administració de medicaments, netejarem la via amb 10 cc de SF amb tècnica
+P-S-P, i heparinitzarem el CCIC utilitzant els vials monodosi d’heparina sòdica de 20
+ui/ml de 3 ml (Fibrilin®) amb tècnica de pressió positiva.
+OBSERVACIONS
+Per fer una adequada cura del punt d’inserció i canvi d’apòsit és recomanable fer-ho entre
+dues persones, la infermera responsable i un assistent (infermera o TCAI).
+Si es coneix que la inserció del CCIC s'ha realitzat en condicions no asèptiques (situació
+d’emergència), caldrà canviar-lo tan aviat com sigui possible, i no prolongar el temps més
+de 48 h. (CDC, evidència II).
+IV. RETIRADA DEL CCIC:
+Retirarem de forma immediata els catèters que no siguin essencials (CDC, evidència IA).
+Realitzarem la higiene de mans i col·locació de guants no estèrils, excepte si s’ha de fer
+cultiu de punta de catèter. 
+Col·locarem un xopador sota la zona d'inserció.
+Tancarem les perfusions i pinçarem les llums del catèter.
+Col·locarem al pacient en posició de Trendelenburg si el pacient és portador d’un CCIC a
+la vena jugular o subclàvia per prevenir un embolisme aeri en el moment de la retirada.
+Desinfectarem la zona amb solució antisèptica.
+Retirarem l’apòsit i l’estabilitzador adhesiu sense sutura (o punts de sutura).
+Indicarem que faci una espiració profunda i sostinguda (en cas que el pacient estigui sota
+ventilació mecànica amb pressió positiva, no és necessària dita espiració).
+Retirarem el catèter lentament per evitar una ruptura d’aquest.
+Farem hemostàsia amb gasa estèril durant 5-10 minuts. És recomanable aplicar
+Cianocrilat® sobre el punt de punció com agent antimicrobià i hemostàtic. Considerarem
+aquells pacients amb trastorns de la coagulació, amb tractaments actuals d’anticoagulants i
+augmentarem el temps de compressió després de la retirada del catèter.
+Netejarem la zona del punt de punció amb solució antisèptica.
+Col·locarem un apòsit oclusiu i el mantindrem durant 24-48 h.
+En cas de sol·licitud de cultiu de punta de catèter, la infermera assistent o TCAI haurà de
+seguir els següents passos:
+1.Rentat i antisèpsia de mans i col·locació de guants estèrils segons procediment.
+2.Tallar amb unes estisores estèrils o bisturí la punta del catèter col·locant-la a un pot
+estèril (de tapa vermella).
+
+
+Catèter central d'inserció central
+3.Retirar el material utilitzat als seus respectius contenidors de residus.
+4.Cursar al laboratori de microbiologia la punta del catèter juntament amb la petició
+amb tots els camps complimentats.
+Registrarem correctament la retirada del catèter i el motiu al Registre Especial de l’IPA
+Pacient.
+Material
+MATERIAL PER A LA INSERCIÓ:
+Catèter de via central d’inserció central (d’1 a 5 llums, segons necessitat) i longitud segons
+localització 
+Anestèsic local (Servei de Farmàcia)
+2 Xeringa de 10 cc (una per l’anestèsia local i l’altra per punxar el CCIC), codi SAP:
+182114
+1 agulla intramuscular, codi SAP: 182005
+Bisturí (codi SAP: 182046), si cal
+Taula de Mayo o taula auxiliar
+Pot estèril, codi SAP: 181702
+Sèrum fisiològic estèril (Servei Farmàcia) o xeringues pre-carregades estèrils, codi SAP:
+198937
+3-4 talles estèrils, codi SAP: 180012
+Gases estèrils, codi SAP: 180423
+Material per al metge que fa la inserció: 
+Bata estèril, codi SAP: 180537
+Guants estèrils, codi SAP: 180477 (S), 180479(M) i 180481 (L)
+Casquet, codi SAP: 180550
+Mascareta quirúrgica, codi SAP: 193925
+Ulleres, codi SAP: 180553
+Sobre ulleres, si s’escau, codi SAP: 180555
+Material per al col·laborador:
+Casquet, codi SAP: 180550
+Mascareta quirúrgica, codi SAP: 193925
+Guants d’un sol ús, codi SAP: 180457 (S), 180458 (M) i 180459 (L)
+Estabilitzador adhesiu (codi SAP: 201436) o seda 2.0 si necessitat
+
+
+Catèter central d'inserció central
+Apòsit amb clorhexidina (7x8,5 cm, codi SAP: 193077), apòsit transparent de poliuretà
+(codi SAP: 180030), o apòsit adherent fixador semipermeable (codi SAP: 190332), segons
+necessitats
+Solució Clorhexidina (aquosa al 2% o alcohòlica al 2%), o povidona iodada en cas
+d’hipersensibilitat a la clorhexidina
+Aplicador de clorhexidina, codi SAP: 202722
+Bioconnectors (codi SAP: 182203) o claus de 3 passos, segons necessitat
+Fibrilin® (1 per cada llum), codi SAP: 216067
+Xeringues de 10 cc, codi SAP: 182114
+Agulles de càrrega, codi SAP: 182006
+Contenidor per eliminar material punxant (groc), codi SAP: 181786
+Xopador, codi SAP: 180232
+Dispositiu de segellat (caixa Mirabox®) si s’escau, codi SAP: 182228
+Cianocrilat® si s’escau, codi SAP: 203852
+Sistema de monitoratge si s’escau
+Ecògraf, funda estèril ecògraf (codi SAP: 180588) i gel conductor estèril (codi SAP:
+181317), si s’escau
+MATERIAL PER LA CURA:
+Material per la infermera que fa la cura / manteniment:
+Guants estèrils, codi SAP: 180477 (S), 180479(M) i 180481 (L)
+Casquet, codi SAP: 180550
+Mascareta quirúrgica, codi SAP: 193925
+Ulleres (recomanable), codi SAP: 180553
+Sobre ulleres, si s’escau, codi SAP: 180555
+Material per al col·laborador:
+Casquet, codi SAP: 180550
+Mascareta quirúrgica, codi SAP: 193925
+Guants d’un sol ús, codi SAP: 180457 (S), 180458 (M) i 180459 (L)
+1-3 Talles estèrils, codi SAP: 180012
+Gases estèrils, codi SAP: 180423
+Apòsit amb clorhexidina (7x8,5 cm, codi SAP: 193077), apòsit transparent de poliuretà
+(codi SAP: 180030), o apòsit adherent fixador semipermeable (codi SAP: 190332), segons
+necessitats
+
+
+Catèter central d'inserció central
+Estabilitzador adhesiu, codi SAP: 201436
+Bioconnectors, codi SAP: 182203
+Fibrilin® (1 per cada llum), codi SAP: 216067
+Xeringues de 10 cc (1 per cada llum), codi SAP: 182114
+Agulles de càrrega, codi SAP: 182006
+Xeringues de 10 cc pre-carregades de sèrum fisiològic estèrils, codi SAP: 198937
+Contenidor per eliminar material punxant (groc), codi SAP: 181786
+Xeringues de 10 cc pre-carregades de sèrum fisiològic estèrils, codi SAP: 198937
+Solució Clorhexidina (aquosa al 2% o alcohòlica al 2%)
+Alcohol isopropílic de 70%
+Dispositiu de segellat (caixa Mirabox®) si s’escau, codi SAP: 182228
+Xeringues pre-carregades amb unidosi d’Urokinasa® refrigerades, codi SAP: 201152
+MATERIAL PER LA RETIRADA:
+Guants d’un sol ús, codi SAP: 180457 (S), 180458 (M) i 180459 (L)
+Guants estèrils, codi SAP: 180477 (S), 180479(M) i 180481 (L)
+Estisores estèrils (codi SAP: 180217) o bisturí (codi SAP: 182046), si cal realitzar cultiu
+de punta de catèter
+Antisèptics: Clorhexidina (aquosa al 2%), Povidona iodada (aquosa 10%) o Alcohol (Etílic
+70º)
+Cianocrilat®, codi SAP: 203852
+Gases estèrils, codi SAP: 180423
+Apòsit estèril adhesiu (7x5 cm), codi SAP: 180025
+Pot estèril (tap vermell, si cal realitzar cultiu de punta de catèter), codi SAP: 181702
+Aspectes a remarcar
+Durant la inserció del catèter, evitarem la penetració forçada d'aquest. Es pot ajudar amb
+un tall a la pell amb un bisturí.
+És recomanable no fixar el catèter amb tira adhesiva directament a la connexió que va
+unida als equips de sèrum, perquè en retirar l’esparadrap o similar, quedarà la superfície
+impregnada d’una substància adherent que facilita la colonització.
+No mantindrem els catèters venosos més temps del necessari.
+La higiene o asèpsia de mans s’ha de realitzar sempre abans i després de palpar, inserir,
+substituir o condicionar qualsevol dispositiu intravascular.
+
+
+Catèter central d'inserció central
+Instruirem al pacient sobre les precaucions que haurà de tenir per evitar arrencaments
+accidentals.
+Evitarem subjectar el catèter amb punts de sutura per minimitzar el risc d’infeccions, les
+guies clíniques recomanen fixar-lo amb un estabilitzador adhesiu.
+En el cas de canvi de catèter per mal funcionament, sense signes d’infecció, es pot fer a
+través de la guia en funció de la situació del pacient i a criteri mèdic. (Categoria IB)
+En cas de moviment significatiu del pacient (trasllat, higiene...), tindrem cura de no fer
+estrebades per evitar la retirada accidental. Comprovarem la seva correcta posició al final
+del procediment.
+Problemes relacionats amb el procediment
+ARRITMIES:
+Generalment són transitòries i autolimitades i es relacionen amb l’estímul de la guia o
+catèter sobre el ventricle durant la inserció. Es solen resoldre retirant la guia o catèter de la
+cavitat cardíaca.
+HEMOTÒRAX/PNEUMOTÒRAX:
+L’hemo o el pneumotòrax pot resultar per la punció accidental de la cavitat pleural durant
+la col·locació d’un catèter central d'inserció central. El risc és més elevat en nens, pacients
+amb antecedents d’emfisema pulmonar o en la canalització de la vena subclàvia. Pot
+aparèixer durant la col·locació d’un CCIC subclavi o jugular o immediatament després.
+Els símptomes més freqüents són: dolor sobtat al tòrax de tipus punxant, taquipnea i
+dificultat per respirar. Davant de la presència d’aquests símptomes o signes de xoc
+avisarem al metge per avaluar al pacient.
+El seu diagnòstic es realitza per la valoració dels símptomes, auscultació i radiografia
+tòrax. L’ecografia també és una eina diagnòstica disponible, especialment per descartar la
+seva presència (absència del fenomen de lliscament o sliding en el cas del pneumotòrax i
+detecció d’ocupació a la cavitat pleural per l'hemotòrax).
+El tractament consta en inserir un tub pleural per evacuar l’aire o la sang de la pleura.
+SAGNAT/HEMATOMA:
+
+
+Catèter central d'inserció central
+Ens assegurarem que el sagnat és venós. Si sospitem que és arterial ho comunicarem
+immediatament al metge responsable.
+Traurem l’apòsit i farem compressió manual durant 10 minuts i col·locarem apòsit oclusiu
+amb compressió (en el cas de jugular, farem compressió suau). Canviarem l’apòsit
+mantenint l'esterilitat, amb la cadència que sigui necessària ((podem afegir Gelitacel®,
+Surgicel® o Cianocrilat® estèril en el punt d’inserció).
+Si malgrat això, continua sagnant, vigilarem les variables clíniques i signes de xoc, i
+comunicarem al metge responsable.
+En el cas d’hematoma, vigilarem l'aspecte i mida (marcarem les vores amb retolador
+permanent). Si sospitem de sagnat actiu intern o dolor intens, comunicarem ràpidament al
+metge responsable.
+Registrarem l'estat del punt de punció en el moment de la cura: sagnat, hematoma...
+Registrarem la cura realitzada al punt de punció: apòsit compressiu, hemostàtic...
+PUNCIÓ ARTERIAL ACCIDENTAL:
+Si es punciona accidentalment l’artèria (caròtida, subclàvia o femoral) durant la
+col·locació del CCIC, s’aconsella retirar l’agulla de punció i realitzar una compressió local
+durant 2 minuts. Una comprovació ecogràfica al mateix moment que descarti
+complicacions locals seria apropiada.
+Si hi ha sospita de col·locació de la via inadvertidament en el sistema arterial (caròtida o
+subclàvia), aconsellem la confirmació d'aquesta troballa per gasometria de la sang extreta
+per la via, i si és sospitós d‘estar col·locada en el sistema arterial, evitarem injectar cap
+fàrmac ni sèrum (ni tan sols purgar-la) i contactarem amb el seu metge responsable i
+cirurgià vascular de guàrdia per a confirmar-ho i realitzar una retirada urgent de la mateixa
+al més aviat possible (amb un mètode de tancament arterial, obert o percutani, per a evitar
+el sagnat arterial).
+EMBOLISME AERI:
+S’entén per embolisme aeri l’entrada d’aire a través del catèter o del punt d’inserció,
+arribant fins a la part dreta del cor i la circulació pulmonar produint una obstrucció del flux
+aeri.
+Com a mesura de prevenció d’aquesta complicació, es recomana col·locar al pacient en
+posició de Trendelenburg durant la col·locació i retirada en el cas de CCIC inserits a la
+vena jugular i/o subclàvia.
+
+
+Catèter central d'inserció central
+Es manifesta per: hipòxia sobtada inexplicada, hipertensió pulmonar, taquipnea i/o apnea,
+ingurgitació jugular, dolor toràcic, hipotensió arterial, taquicàrdia, ansietat, confusió
+aguda, i síncope.
+En cas de sospita d’embolisme aeri:
+Si és durant la retirada del CCIC: realitzarem compressió a la zona d’inserció.
+Si es deu a la ruptura accidental del catèter en accedir a aquest: pinçarem el catèter.
+Paral·lelament, col·locarem al pacient en decúbit lateral esquerre i Trendelenburg,
+administrarem oxigenoteràpia al 100%, i avisarem al metge responsable del pacient.
+RISC DE SAGNAT:
+Control de l'apòsit i signes de sagnat.
+Control signes/símptomes sagnat i informar el pacient d'avisar en cas d'alarma.
+Mesura de variables clíniques i administració d'oxigenoteràpia si precisa.
+Control analític (hematòcrit/hemoglobina/coagulació) si precisa.
+Registrarem estat del punt de punció en el moment de la cura.
+INFECCIÓ ASSOCIADA A CATÈTER VENÓS:
+Valorarem i consultarem amb el metge responsable del pacient, la necessitat de realitzar
+hemocultius i/o cultiu de la punta de catèter (en cas que es retiri) . Si el pacient es troba
+hemodinàmicament inestable, sol ser necessària la retirada del CCIC al més aviat possible,
+i si està estable, es pot esperar al resultat dels Hemocultius abans de retirar-lo. No obstant,
+caldrà individualitzar l'actuació amb el catèter segons la situació clínica i les
+característiques del pacient. 
+En cas de retirada del CCIC, evitarem col·locar-ne un de nou en la mateixa vena afectada.
+Si la situació clínica ho permet, s'esperarà 24 h postinici de l’antibiòtic abans de col·locar
+un altre CCIC.
+Enregistrarem al Registre Especial e l'IPA Pacient l’esdeveniment advers, el motiu de la
+retirada i les proves microbiològiques realitzades, per poder confirmar posteriorment la
+infecció associada al catèter.
+INFILTRACIÓ I/O EXTRAVASACIÓ:
+Esbrinarem si el tipus de substància és vesicant (per ex. quimioteràpics) i actuarem segons
+normes establertes en el procediment i el kit d’extravasació de citostàtics. En cas de dubte,
+
+
+Catèter central d'inserció central
+trucarem al Servei de Farmàcia.
+Informarem i consultarem amb el metge responsable.
+RUPTURA COMPLETA O INCOMPLERTA DE CATÈTER:
+Evitarem realitzar maniobres i/o manipulacions en el sistema.
+Avisarem al metge responsable del pacient.
+OBSTRUCCIÓ DEL CATÈTER:
+Revisarem l’existència de recolzaments al llarg del sistema.
+Aspirarem amb una xeringa de 10 cc, NO introduirem sèrums ni fàrmacs de forma
+forçada.
+Encara que disposem d’altres llums permeables, quan una llum es troba obturada per una
+formació de fibrina, cal procedir a la desobstrucció, ja que aquesta fibrina pot desplaçar-se
+cap a la resta de llums. De manera que, les obstruccions parcials, les tractarem de la
+mateixa manera que una obstrucció total.
+Si se sospita que l’obstrucció pot estar produïda per un dipòsit de fibrina o un trombe,
+procedirem a desobstruir amb una solució de 5.000 UI de Urokinasa® fent servir tècnica
+de pressió negativa. La mantindrem de 30 a 60 minuts, i comprovarem el reflux de sang.
+Si s’aconsegueix un correcte retorn venós aspirarem 5 ml i rebutjarem (per evitar introduir
+al torrent sanguini l’Urokinasa®).
+Si no s’aconsegueix reflux, podem repetir la maniobra una vegada més (màxim 2
+oportunitats).
+El Servei de Farmàcia disposa de xeringues precarregades amb unidosi d'Urokinasa®
+refrigerades. Cal recordar deixar-la a temperatura ambient uns 15-20 minuts i assegurar-se
+que està completament descongelada abans d’administrar-la.
+Riscos Laborals
+Contacte amb agents biològics
+Inoculació o esquitxada
+Circuit accident laboral biològic
+Actuació front punxada accidental
+
+
+Catèter central d'inserció central
+Indicadors d'Avaluació
+Nombre de nous episodis de bacterièmia relacionada amb catèter + bacterièmia primària.
+Freqüència de les BP-CV (BP+BRC) per 1000 dies en pacients amb CCIC.
+Nombre de dies en els quals els pacients són portadors d’un o més CCIC.
+Pneumotòrax relacionat amb la inserció de CCIC.
+Nombre de pacients amb presència d’esdeveniments adversos en relació amb la utilització
+dels CCIC (flebitis, ruptura de catèter, extravasacions, trombosi, oclusió, infeccions, etc.).
+Nombre de pacients amb presència d’esdeveniments adversos durant la inserció dels CCIC
+(embolisme aeri, infeccions, pneumotòrax).
+Nombre de pacients amb presència d’esdeveniments adversos durant la retirada dels CCIC
+(embolisme aeri, sagnat/hematoma).
+Registres
+Pla de cures
+Portal professional
+Registres especials
+Registres
+Mòdul Pla de Cures, afegir Pack: "CCIC checklist bacterièmia zero" (a les unitats de
+crítics) o "col·locació de CCIC" (a les unitats d’hospitalització).
+Mòdul Registres Especials > Dispositius Vasculars: catèter central d'inserció central

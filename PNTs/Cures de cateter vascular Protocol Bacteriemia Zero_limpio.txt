@@ -1,0 +1,329 @@
+La bacterièmia relacionada amb un catèter vascular (BRC), és una infecció freqüent associada a
+un catèter venós. Es defineix (o diagnostica) quan existeix la presència de microorganismes en
+almenys un lot dels hemocultius (HC) extrets (en el cas de microorganismes colonitzadors
+cutanis habituals com les espècies d’estafilococs coagulasa negativa, són necessaris almenys dos
+lots d’hemocultius positius). L'extracció d’HC s’ha de realitzar de totes les llums del catèter i
+d’una punció venosa, identificant correctament cadascun dels flascons per poder conèixer el
+temps diferencial del creixement de microorganismes. 
+La BRC s’associa a manifestacions clíniques d’infecció generalitzada i amb absència d’altres
+focus aparents de bacterièmia, exceptuant-hi el mateix catèter. 
+La BRC adquirida en una Unitat de Crítics té una mortalitat relacionada de 9 dies i allarga
+l’estada 12 dies. Per aquest motiu, les cures infermeres en el maneig dels CICC (Catèter Central
+d’Inserció Central) tenen una gran importància. Estudis demostren que la implantació
+d’aquestes mesures han reduït la incidència de BRC fins al 50%. 
+
+
+Cures de catèter vascular. Protocol Bacterièmia Zero
+Les recomanacions d’aquest PNT segueixen les directrius del protocol Bacterièmia Zero (
+Vegeu Annex 1) i inclouen una sèrie de mesures dirigides a disminuir les BRC. Encara que les
+activitats per reduir les BRC es refereixen als CICC, aplicarem aquestes mesures a tots els tipus
+de catèters vasculars (CV), incloent-hi els perifèrics per tal de reduir les BRC en general. 
+A continuació es descriuen els diferents tipus de catèters, en els quals aplicarem aquestes
+activitats: 
+Catèter venós central d’inserció central (CICC) 
+Catèter d’artèria pulmonar (Swan Ganz®) 
+Catèter venós central d’inserció perifèrica (PICC) 
+Catèter amb reservori subcutani (RVS)
+Catèter tunelitzat sense reservori (Hickman®) 
+Catèter vascular perifèric (CVP) 
+Catèter vascular perifèric de línia mitjana (ML) 
+Catèter venós femoral d’inserció central (FICC) 
+Catèter arterial
+Objectiu
+
+
+Cures de catèter vascular. Protocol Bacterièmia Zero
+Descriure les cures infermeres pel maneig dels catèters vasculars seguint les indicacions
+del protocol de Bacterièmia Zero. 
+NOC 1924 Control del risc: procés infecciós
+Responsabilitats
+Infermers/es
+Metges/esses
+TCAIS
+Procediment
+SEQÜÈNCIA D’INTERVENCIONS
+Les cures infermeres en el maneig dels catèters vasculars (CV) inclouen una sèrie de mesures
+que s’han de realitzar en tots els pacients mentre tingui un catèter canalitzat. 
+Amb la finalitat de fer un maneig correcte dels CV, caldrà: 
+Eliminar els microorganismes patògens que colonitzen la pell.
+Reduir el nombre de microorganismes habituals en la pell i inhibir el seu creixement.
+Crear una superfície de treball estèril que actuï com a barrera entre el lloc de la inserció i
+els possibles focus de contaminació.
+1.Higiene adequada de mans amb  tècnica asèptica i col·locació de mesures barrera:  (Vegeu
+Imatge 1)
+Ens netejarem prèviament les mans amb solució hidroalcohòlica o amb sabó antisèptic si
+hi ha restes orgàniques. 
+Ens col·locarem guants, com mesura a estàndard de protecció.
+
+
+Cures de catèter vascular. Protocol Bacterièmia Zero
+Realitzarem higiene de mans SEMPRE (l’ús de guants no eximeix de la higiene de mans): 
+Abans i després de la palpació del punt d’inserció. 
+Abans i després de la manipulació i canvis d’apòsits. 
+Abans i després de l’ús de guants. 
+La palpació del punt d’inserció NO s’ha de fer després de l’aplicació de l’antisèptic, a no
+ser que es faci amb tècnica estèril. 
+Aplicarem mesures de barrera col·locant-nos: bata, talles estèrils, guants estèrils,
+mascareta i casquet. 
+Les persones assistents compliran les mesures anteriors, i les col·laboradores en el procés
+d’inserció s’han de col·locar com a mínim mascareta i casquet. 
+2.Lloc d’inserció: 
+Seleccionarem el lloc d’inserció valorant el risc d’infecció enfront del risc de
+complicacions mecàniques.
+En cas de CICC: 
+Seleccionarem preferentment, la vena subclàvia per a CICC. 
+Seleccionarem preferentment, la vena jugular o femoral per CV de diàlisi i afèresi. 
+
+
+Cures de catèter vascular. Protocol Bacterièmia Zero
+Valorarem l’ús de RVS o PICC en pacients que requereixin accessos vasculars de
+llarga durada (>30 dies). (Vegeu Annex 2). 
+Seleccionarem preferentment l’artèria radial pels catèters arterials. Opcionalment, la
+pedial dorsal, femoral o axil·lar. 
+Col·locarem al pacient en posició per a evitar l'embòlia gasosa: 
+En inserció en tòrax/jugular externa, es recomana posició de Trendelenburg
+(capçal < 0 graus). 
+En inserció femoral es recomana la posició de decúbit supí (Vegeu Imatge 2). 
+Pinçarem els connectors no utilitzats durant la inserció del catèter, excepte el distal. 
+Aspirarem sang de cada llum del catèter per evitar l’embòlia gasosa i assegurar-nos
+de la col·locació intravascular (Vegeu  Imatge 3 ). 
+Verificarem que el CV no estigui en artèria després de la inserció, mesurant la PVC. 
+Realitzarem radiografia (Rx) post inserció per confirmar que la punta del catèter es
+troba ubicat a la unió de vena cava superior (VCS) amb aurícula dreta.
+En cas de PICC: 
+Evitarem inserir el catèter en l’extremitat on hi hagi implantada una fístula
+arteriovenosa (FAV), mastectomia, limfadenectomia, traumatisme i/o extravasacions
+
+
+Cures de catèter vascular. Protocol Bacterièmia Zero
+prèvies. 
+Seleccionarem les venes basíliques, braquials o cefàlica, al terç mig del braç dins la
+zona verda de Dawson, amb ús obligatori d’ecògraf. 
+Un cop seleccionada la vena, procedirem a mesurar el calibre de la vena per mantenir
+la ràtio vena/catèter inferior al 45%. 
+Si el catèter s’ha implantat amb sistema de navegació (ECG-IC) no caldrà Rx per
+confirmar la correcta ubicació de la punta. En cas contrari, s’haurà de realitzar una
+Rx de tòrax abans del seu ús. 
+La punta del catèter ha de quedar ubicada al terç inferior de la VCS. 
+En cas de ML: 
+Evitarem inserir el catèter en l’extremitat on hi hagi implantada una fístula
+arteriovenosa (FAV), mastectomia, limfadenectomia, traumatisme i/o extravasacions
+prèvies. 
+Seleccionarem les venes basíliques, braquials o cefàlica, al terç mig del braç dins la
+zona verda de Dawson, amb ús obligatori d’ecògraf. 
+Un cop seleccionada la vena, procedirem a mesurar el calibre de la vena per mantenir
+la ràtio vena/catèter inferior al 45%. 
+La punta del catèter ha de quedar ubicada a la vena axil·lar. 
+
+
+Cures de catèter vascular. Protocol Bacterièmia Zero
+En cas de CVP:
+Evitarem inserir el catèter en l’extremitat on hi hagi implantada una fístula
+arteriovenosa (FAV), mastectomia, limfadenectomia, traumatisme i/o extravasacions
+prèvies.
+Si el pacient presenta difícil accés venós (segons escala A-DIVA), es recomana la
+utilització d’ecògraf per a la inserció, tenint en compte que caldrà col·locar funda
+estèril a l’ecògraf. (Vegeu PNT específic). 
+Catèters arterials: 
+L’artèria radial és el lloc d’elecció. 
+La punció d’artèries femorals tenen alt risc d’infecció i de trombosi. 
+L’artèria braquial i la cubital són l’últim recurs per la falta de circulació col·lateral.
+L’artèria pèdia dorsal és un lloc alternatiu. 
+Mantindrem unes condicions d’esterilitat i màxima asèpsia en la inserció i cura del
+catèter. 
+Catèters d’artèria pulmonar: 
+Col·locarem la funda estèril o “camisa” en el moment de la inserció, per la seva
+protecció i posterior mobilització (Vegeu Imatge 12 ). 
+
+
+Cures de catèter vascular. Protocol Bacterièmia Zero
+Minimitzarem el nombre de manipulacions i entrades al sistema de
+monitoratge de pressions i equip transductor. 
+Consideracions a tenir en compte i maneig correcte dels CV:
+1. Nombre de llums: 
+Avaluarem diàriament la necessitat del CV i el retirarem quan no sigui necessari, o el
+canviarem per un de menys llums. Utilitzarem sempre CV amb el mínim núm. de llums
+possible. 
+Utilitzarem llum preferent per NP, SEMPRE tractada amb asèpsia. 
+2. Equips, claus de tres vies, allargadores bifurcades, trifurcades i simples, i vàlvules d’injecció: 
+Reduirem al mínim imprescindible la manipulació de les connexions. 
+Ens rentarem les mans abans de qualsevol manipulació i de col·locar-nos els guants. 
+Netejarem amb alcohol isopropílic 70º abans d’accedir al sistema. 
+Usarem vàlvules d’injecció només en els punts on s’administren bolus o perfusions
+discontínues. 
+El canvi de vàlvules el realitzarem juntament amb els equips i les claus. 
+
+
+Cures de catèter vascular. Protocol Bacterièmia Zero
+Usarem el mínim núm. de claus de tres vies, i les retirarem quan no siguin
+imprescindibles. Es recomana substituir les claus de tres vies per allargadores bifurcades,
+trifurcades i simples segons les necessitats de tractament. 
+Canviarem tots els equips, perfusions, allargadores i resta de dispositius, SEMPRE que es
+canviï un CV. 
+Canviarem els equips d’infusió i elements col·laterals amb una freqüència NO INFERIOR
+a 96 hores, a no ser que estiguin bruts o s’hagi produït alguna desconnexió accidental, i
+amb un màxim de 7 dies. 
+3. Extraccions d’analítiques: 
+Aturarem i pinçarem les llums de les perfusions que estiguin passant pel CV abans de
+realitzar l’extracció sanguínia.
+Netejarem amb 10 cc de sèrum fisiològic (SF) la llum per on fem l’extracció. Si porta NP,
+netejarem amb 20 cc. 
+Desinfectarem els bioconnectors o les llums amb alcohol de 70º, i esperarem que
+s’assequi. 
+Retirarem 10 cc de sang i rebutjarem abans de realitzar l’extracció de sang. 
+Realitzarem l’extracció de sang segons procediment específic. 
+
+
+Cures de catèter vascular. Protocol Bacterièmia Zero
+Netejarem la llum d’extracció amb 10 cc de SF SEMPRE amb tècnica push-stop-push (P-
+S-P), i reiniciarem les perfusions. 
+Es recomana l’ús de xeringues precarregades de SF. 
+4. Extraccions d’hemocultius: 
+Aturarem i pinçarem les llums de les perfusions que estiguin passant pel CV. 
+Retirarem els bioconnectors i les claus de tres vies abans d’extreure mostres per
+hemocultius. 
+NO rebutjarem sang. 
+Realitzarem els hemocultius segons procediment específic. 
+Netejarem la llum d’extracció amb 10 cc de SF, SEMPRE amb tècnica P-S-P. 
+Col·locarem bioconnectors i claus de tres vies o allargadores, si precisa i reiniciarem les
+perfusions. 
+5. Administració d’hemoderivats: 
+L’administració d’hemoderivats ha d’acabar abans de les 4 h posteriors un cop iniciada la
+transfusió. 
+
+
+Cures de catèter vascular. Protocol Bacterièmia Zero
+Emprarem un equip infusor nou amb cada hemoderivat.
+Canviarem els bioconnectors SEMPRE després d’administrar una transfusió. 
+En finalitzar la transfusió, netejarem la llum amb 10 cc de SF, SEMPRE amb tècnica P-S-
+P i connectarem de nou les perfusions o salinitzarem el CV. 
+6. Perfusió de solucions lipídiques: 
+En perfusions contínues, retirarem els bioconnectors (Vegeu Imatge 10 ). 
+Suprimirem la perfusió de les emulsions lipídiques quan no siguin imprescindibles. 
+La perfusió de solucions lipídiques ha d’acabar dins les 24 h un cop instaurada. Si no és
+així s’ha de rebutjar i preparar una nova. 
+A ser possible, designarem una llum d’ús exclusiva en CV de vàries llums. 
+Canviarem els equips de les emulsions lipídiques cada 24 h. En el cas del Propofol, es
+recomana cada 12 h. 
+7. Perfusió de NP: 
+Utilitzarem una llum preferent per NP, SEMPRE tractada amb asèpsia. 
+
+
+Cures de catèter vascular. Protocol Bacterièmia Zero
+La llum susceptible de ser utilitzada per la NP pot emprar-se eventualment per
+l’administració d’altres fàrmacs, sempre que es mantinguin les tècniques asèptiques. 
+El canvi d’equips de NP es realitzarà cada 24 h, juntament amb el canvi de bossa. 
+Es recomana que aquesta llum estigui protegida, segellada amb taurolidina i identificada
+amb la caixa Mirabox®, mentre no es faci servir. 
+8. Antisèpsia de la pell: 
+Abans de l’asèpsia realitzarem una neteja de la zona de punció amb aigua i sabó amb
+clorhexidina, esbandirem i deixarem assecar completament. (Vegeu Imatge 4). 
+Aplicarem solució alcohòlica de clorhexidina en la preparació de la pell. L’antisèptic s’ha
+d’assecar completament abans de la inserció del catèter. 
+9. Cures i manteniment: 
+Punt de punció i apòsits: 
+Vigilarem diàriament el punt d’inserció dels catèters vasculars sense retirar l’apòsit
+sempre que sigui un apòsit transparent. 
+Registrarem la data de col·locació de l’apòsit, així com data de reemplaçament o
+manipulació sobre el catèter als registres infermers (Registres Especials –RE-). 
+No utilitzarem antibiòtics ni antisèptics en pomada al punt d’inserció. 
+
+
+Cures de catèter vascular. Protocol Bacterièmia Zero
+Utilitzarem preferentment apòsits transparents semipermeables estèrils. 
+Si el pacient presenta un excés de sudoració, col·locarem un apòsit de tela amb gasa. 
+Si el punt d’inserció presenta hemorràgia, aplicarem cianocrilat i apòsit transparent. 
+Realitzarem higiene de mans abans i després de cada canvi d’apòsit, i de la cura del punt
+d’inserció. 
+No canviarem l’apòsit transparent abans de 96 h i almenys cada 7 dies. L’apòsit de tela
+amb gasa s’ha de canviar cada 3 dies.
+Evitarem el contacte amb el punt d’inserció durant el canvi d’apòsit. 
+Utilitzarem guants nets per treure els apòsits, i guants estèrils per la cura del catèter (uns
+guants per cada apòsit). 
+Per la manipulació d’equips, connexions i vàlvules, ens rentarem les mans i ens
+col·locarem guants nets. 
+Durant la higiene del pacient protegirem l’apòsit i connexions. 
+Registrarem als RE el canvi d’apòsit i la data del proper canvi. 
+Retirada i canvi de catèters: 
+
+
+Cures de catèter vascular. Protocol Bacterièmia Zero
+Avaluarem diàriament la necessitat del CV i el retirarem quan no sigui necessari, o el
+canviarem per un amb menys llums. Utilitzarem sempre CV amb el mínim núm. de
+llums possibles. 
+Si la inserció s’ha fet de manera urgent sense tècnica estèril, es recomana el canvi
+abans de 24 h en un lloc diferent d’inserció. 
+No realitzarem recanvi de CV amb guia, quan hi ha evidència d’infecció relacionada
+amb catèter. 
+No és imprescindible recanviar un CICC o PICC per iniciar una NP, però es
+recomana que s’administri per una llum SEMPRE tractada amb asèpsia.
+Material
+Vegeu apartat Annexos: PNTs específics de cada catèter vascular.
+Aspectes a remarcar
+Mesures Obligatòries: 
+Higiene de mans: l’ús de guants no eximeix la higiene de mans. 
+Preparació de la pell: abans de l’asèpsia realitzarem una neteja de la zona de punció amb
+aigua i sabó amb clorhexidina, esbandirem i assecarem. Desinfectarem amb solució
+alcohòlica de clorhexidina amb concentració 0,5 i 2%. En cas d’al·lèrgia o hipersensibilitat
+a l’ús de clorhexidina, utilitzarem alcohol de 70º o solució alcohòlica iodada. 
+
+
+Cures de catèter vascular. Protocol Bacterièmia Zero
+L’antisèptic s’ha d’assecar completament abans de la inserció del catèter. 
+Ús de mesures de barrera total durant la inserció del catèter: cal col·locar-se casquet,
+mascareta, bata estèril, guants estèrils i talla gran estèril que cobreixi el pacient. 
+Preferència de la vena subclàvia com a lloc d’inserció de CICC. 
+S’ha de tenir en compte factors com la possibilitat de complicacions no infeccioses i
+l’habilitat del professional en la inserció de CV.
+Ús d’ecògraf recomanat per a la inserció dels CV per afavorir l’èxit de la implantació i
+reduir complicacions immediates relacionades amb la inserció. 
+Retirada de CV innecessaris: avaluarem almenys un cop al dia la possibilitat de retirada. 
+Maneig higiènic dels catèters: 
+Reduirem al mínim imprescindible la manipulació de connexions i netejarem punts
+d’injecció amb alcohol isopropílic 70º. 
+Substituirem els equips d’infusió, allargadores i connectors amb una freqüència no
+inferior a 96 h, però almenys cada 7 dies i sempre que estiguin visiblement brutes o
+en cas de desconnexió accidental. 
+Els apòsits transparents s’han de canviar cada 7 dies, els apòsits de tela amb gasa
+cada 3 dies. I sempre que estiguin bruts, mullats, desenganxats o amb mal aspecte. 
+
+
+Cures de catèter vascular. Protocol Bacterièmia Zero
+Canviarem els equips de NP i d’emulsions lipídiques cada 24 h. En el cas de
+Propofol, es recomana cada 12 h. 
+Mesures a evitar: 
+No utilitzarem profilaxi antibiòtica abans de la inserció de catèters vasculars (CV). 
+No realitzarem canvis periòdics rutinaris de CV per punció. 
+Evitarem canvis periòdics rutinaris dels CV mitjançant guia. 
+No utilitzarem antibiòtics i antisèptics tòpics en pomada en el punt d’inserció. 
+Canviarem l’equip d’infusió per cada nova bossa d’hemoderivats. 
+No deixarem sense tap qualsevol accés que no es faci servir.
+Risc d'infecció
+Codi NANDA
+00004
+Codi Nic
+6540
+Intervenció
+Control d'infeccions
+
+
+Cures de catèter vascular. Protocol Bacterièmia Zero
+Problemes relacionats amb el procediment
+Risc d'infecció. Codi NANDA 00004 
+Riscos Laborals
+Contacte amb agents biològics
+Actuació front punxada accidental
+Riscos Laborals
+Risc de punxada accidental
+Indicadors d'Avaluació
+Percentatge d’episodis de BCR "Estàndard de qualitat: menys de 3 episodis per 1.000 dies
+de CICC de mitjana estatal als pacients ingressats a UCI".
+Percentatge d’episodis de bacterièmia per 1.000/estades.
+Percentatge d’episodis per 1.000/total de dies d’ús del catèter per a la nutrició parenteral.
+Percentatge de complementació del Pack: CVC Checklist Bacterièmia Zero, per la inserció
+del CICC. 
+Registres
+Pla de cures
+Portal professional
+Registres especials
+Agenda de cures

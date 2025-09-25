@@ -1,0 +1,143 @@
+Extracció manual de l’acumulació de matèria fecal que forma una massa endurida i compacta a
+l’ampolla rectal (impactació fecal o fecaloma).
+Aquest procediment pot estar relacionat amb els diagnòstics d’infermeria de la taxonomia de la
+NANDA:
+Restrenyiment 00011
+Risc de restrenyiment 00015
+Objectiu
+Eliminar la femta acumulada al recte
+
+
+Extracció de fecalomes
+Alleugerir el dolor i malestar
+Restablir hàbit defecatori regular
+Responsabilitats
+Infermers/es
+TCAIS
+Procediment
+Preparació del pacient abans del procediment:
+Assegurar la seva correcta identificació
+Informar-lo  del procediment que se li ha de realitzar i la manera en què pot col·laborar
+Cal assegurar que estigui el més confortable possible i respectar la seva intimitat
+SEQÜÈNCIA D’ACCIONS:
+Ens rentem les mans
+Expliquem el procediment a el/la pacient i sol·licitem, si és possible, la seva col·laboració
+
+
+Extracció de fecalomes
+Ens col·loquem doble guant a la mà dominant, per tal d’evitar la contaminació si es trenca
+el guant extern
+Posem el llit a una alçada que ens sigui còmoda per evitar males posiciones i moviments
+forçats, col·loquem la barana dreta per  la seva seguretat
+Col·loquem a el/la pacient en decúbit lateral dret, amb el genoll esquerre flexionat, per
+situar el colon sigmoide a la part més alta, a fi de facilitar l’extracció manual del fecaloma
+(posició de SIMS dret)
+Col·loquem un xopador sota les natges de el/la pacient i el tapem amb la roba de llit,
+deixant exclusivament la zona de natges al descobert
+Administrem 1 o 2 cànules de lubricant anestèsic urològic a l’ampolla rectal i esperarem
+uns 10 minuts, perquè faci efecte
+Ens lubrifiquem el dit índex de la mà dominant
+Demanem a el/la pacient que inspiri profundament i expiri suaument per aconseguir la
+màxima relaxació de l’esfínter anal extern. A continuació li demanem que faci un esforç
+defecatori. Aprofitem aquest moment, per introduir el dit índex a l’ampolla rectal, en
+direcció al melic
+Mitjançant moviments rotatoris, intentem trencar el fecaloma, en fragments petits i
+dipositar-los a l’orinal pla
+És convenient fer petites pauses, per afavorir el descens de la matèria fecal i la
+recuperació de el/la pacient
+
+
+Extracció de fecalomes
+Si el fecaloma és molt gran, és recomanable, fer el procediment en diferents
+moments
+Aturarem el procediment si el/la pacient presenta:
+Dolor intens
+Sagnat
+Aparició de símptomes de reacció vagal (sudoració, pal·lidesa, palpitacions,
+hipotensió, bradicàrdia)
+Una vegada extret el màxim del fecaloma, netejar la zona i aconsellar a el pacient la
+conveniència d’anar al lavabo, ja que l’estimulació pot induir el reflex de defecació
+espontània
+En pacients dependents, posarem l’orinal pla i valorarem aplicar un petit ènema de neteja
+per extreure el contingut restant
+Valorem la quantitat i les característiques de la femta excreta
+Realitzem la higiene de la zona perineal i perianal del pacient
+Recol·loquem el/la pacient, l’acomodem i deixarem el llit a la posició més baixa per
+prevenció de caigudes
+Registrem a la història clínica el procediment i les característiques de la femta
+
+
+Extracció de fecalomes
+Valorem el ritme deposicional els dies posteriors
+OBSERVACIONS:
+Preservar la màxima intimitat, durant la realització del procediment
+La relaxació i col·laboració de el/la pacient és essencial i facilitarà el procediment
+Interrompre les maniobres, si el/la pacient presenta simptomatologia com: dolor intens,
+sagnat i/o reacció vagal
+Material
+Guants rebutjables
+Lubricant anestèsic hidrosoluble (urològic)
+Palangana, 
+tovallola i sabó
+Xopador
+Orinal pla
+Aspectes a remarcar
+
+
+Extracció de fecalomes
+Està contraindicat fer-ho en malalts amb patologia:
+Anus - genital (hemorroides, fissures, abscés, etc.) o qui hagin estat intervinguts
+recentment de cirurgia de la zona
+Pacients diagnosticats d’obstrucció intestinal
+Corroborar la conveniència o no de fer-ho amb malalts cardíacs i malalts amb tumors
+abdominals
+En cas que el procediment no sigui efectiu, comunicar-ho al metge i valorar posteriors
+accions a realitzar
+Valorar si es pot actuar sobre els factors associats amb la impactació fecal, com són:
+l’administració d’AINE’s, la immobilitat, dieta baixa en residus, escassa ingesta hídrica.
+Dolor Agut
+Codi NANDA
+00132
+Codi Nic
+1400
+Intervenció
+Maneig del dolor
+
+
+Extracció de fecalomes
+Risc sagnat
+Codi NANDA
+00206
+Codi Nic
+0430
+Intervenció
+Maneig intestinal
+Problemes relacionats amb el procediment
+Sagnat, reacció vagal, dolor intens abdominal:
+Suspendre el procediment si hi ha simptomatologia.
+Valorar les variables clíniques PA i FC. En cas d’aparèixer sagnat, identificar si és
+per iatrogènia o per patologia associada (hemorroides).
+Extracció inefectiva:
+Una de les causes pot ser que el fecaloma estigui localitzat per sobre de la zona
+explorada.
+Valorar la conveniència d’administrar un ènema de neteja.
+Consensuar amb el metge responsable, nutricionista i fisioterapeuta les accions que
+s’han de seguir: dieta, laxants, ènemes, hidratació, mobilitat, estimulació de la
+motilitat intestinal, etc.
+
+
+Extracció de fecalomes
+Riscos Laborals
+Contacte amb agents biològics
+Mesures de prevenció de manipulació de càrregues
+Indicadors d'Avaluació
+Percentatge de pacients que presenten impactació fecal o fecalomes durant l'ingrés
+respecte el total de pacients ingressats 
+Percentatge de complicacions derivades del procediment respecte  el total de procediments
+efectius
+Registres
+Entrades i sortides
+Pla de cures
+Agenda de cures
+Portal professional
+Valoració pacient

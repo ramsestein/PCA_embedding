@@ -1,0 +1,5 @@
+Strategy,Top1_Accuracy,Top5_Accuracy,MRR,Top1_Correct,Top5_Correct,Total_Queries
+solo_embeddings,0.583,0.667,0.6325,28,32,48
+solo_mrf,0.250,0.521,0.3713,12,25,48
+mrf_embeddings,0.583,0.750,0.6660,28,36,48
+adaptive_weights,0.583,0.729,0.6522,28,35,48

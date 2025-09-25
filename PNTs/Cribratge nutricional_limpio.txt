@@ -1,0 +1,143 @@
+El cribratge nutricional és un procediment estandarditzat que permet identificar els individus
+desnodrits o amb risc de desnutrició que es poden beneficiar d'una apropiada cura nutricional.
+Es recomana que es realitzi durant les primeres 24-48 hores de l'ingrés.
+Objectiu
+Detectar precoçment els pacients desnodrits o en risc de desnutrició a l’ingrés a la sala
+d’hospitalització.
+Realitzar interconsulta a Dietètica en cas que el test de cribratge sigui positiu, per fer una
+valoració nutricional específica i instaurar, si s’escau, un tractament nutricional.
+Coneixement: Procediments terapèutics (NOC 1814)
+Signes vitals (NOC 0802)
+Responsabilitats
+
+
+
+Dietistes
+Infermers/es
+Nutricionistes
+TCAIS
+Procediment
+PREPARACIÓ DEL PACIENT ABANS DEL PROCEDIMENT
+Assegurar la correcta identificació del pacient.
+Informar al pacient/família-cuidador sobre el procediment que se li ha de realitzar i la
+manera en que hi poden col·laborar.
+SEQÜÈNCIA D’INTERVENCIONS
+1- Dades antropomètriques:
+Pes / Talla i Índex de Massa Corporal (IMC):
+Pesarem i tallarem al pacient en les primeres hores de l’ingrés hospitalari i calcularem l’índex
+de massa corporal: (IMC: Pes (Kg) / Alçada 2 (m)). Càlcul automàtic a l'IPA Pacient a
+l'introduir el pes i la talla del pacient.
+Pesarem al pacient a intervals regulars i en les mateixes condicions.
+Al matí i en dejú.
+Amb roba lleugera, amb camisa de dormir o pijama.
+Sense sabates o sabatilles.
+2- Anamnesi: 
+Realitzarem una entrevista inicial al pacient i/o família-cuidador.
+Per a la valoració de les necessitats d’alimentació i hidratació, cal conèixer:
+Al·lèrgies alimentàries.
+
+
+
+Hàbits alimentaris i si segueix una dieta especial.
+Possibles canvis en la ingesta alimentària.
+Dificultats o limitacions per alimentar-se per via oral: disfàgia, alteracions del nivell
+de consciència, etc.
+Informació sobre els canvis de pes i el temps en què s’han produït.
+Si presenta símptomes digestius, com nàusees, vòmits, dolor, diarrees, que indiquin
+una menor ingesta d’aliments.
+Estat de la cavitat oral i de les dents.
+Estat general: limitació de l’activitat, prostració, alteració de la capacitat funcional,
+etc.
+Estat de la pell: seca, escamada, grau de turgència i/o amb presència de lesions.
+Presència de malalties cròniques i/o agudes.
+3- Mètodes de Cribratge Nutricional:
+La Valoració del pacient ho realitzarem, de forma esquemàtica, amb les següents escales:
+MUST (Malnutrition Universal Screening Tool).
+És un mètode de cribratge nutricional vàlid per tots els pacients independentment de l’edat.
+Valora l'IMC, la pèrdua involuntària en els darrers 3-6 mesos/el porcentatge de la pèrdua de pes
+i l'aportació nutricional que es preveu en els pròxims 5 dies.
+Consta de cinc passos (Vegeu Annex 1).
+Pas 1 - Puntuació per l'IMC.
+Pas 2 - Puntuació per la pèrdua de pes en un temps determinat.
+Pas 3 - Puntuació per l'efecte de la malaltia aguda.
+Pas 4 - Segons la puntuació final, ens indicarà el Risc de malnutrició.
+Pas 5 - Guies de maneig: seguir algoritme d'actuació.
+La puntuació final ens indicarà el Risc nutricional.
+0 – Risc baix
+1 – Risc entremig
+
+
+
+2 – Risc alt.
+Si la puntuació es 1 o 2, cal fer interconsulta a Dietètica per fer valoració nutricional i seguiment
+dietètic si escau.
+MNA-SF (Mini Nutritional Assesment-Short Form).
+És un mètode de cribratge nutricional vàlid per edats> 65 anys. Es pot utilitzar un mètode
+específicament dissenyat i validat per a població anciana (optatiu).
+Consta de 6 preguntes (Vegeu Annex 2).
+A -  Canvis en la ingesta
+B -  Pèrdua de pes en un temps determinat
+C -  Mobilitat
+D -  Malaltia aguda o estrès psicològic
+E -  Problemes neurològics
+F -  IMC o Circumferència dels bessons
+OBSERVACIONS
+En cas de no ser possible tallar i pesar al pacient (enllitats, etc), li preguntarem al familiar,
+cuidador o al pacient el pes i la talla estimats.
+També es pot estimar la talla mesurant la longitud del cúbit. El pacient ha de flexionar el
+braç (si és possible l’esquerre) amb el palmell de la ma en diagonal sobre el pit i els dits
+apuntant l'espatlla contraria (Vegeu Imatge 1). Amb la cinta mètrica es mesurarà la
+longitud en centímetres des de l’olècranon fins l'apòfisi estiloides del cúbit. Posteriorment
+s’utilitzaran les dades de la Imatge 1 per convertir la longitud del cúbit en l’estimació de la
+talla.
+La periodicitat del control de pes, dependrà de la patologia del pacient (pacients cirròtics,
+amb insuficiència renal i/o insuficiència cardíaca, pacients diabètics, amb trastorns
+alimentaris, altres), generalment venen determinats pels protocols establerts a cada
+servei/especialitat.
+Segons la puntuació final, ens indicarà el Risc de malnutrició.
+Material
+
+
+
+Bàscula i tallímetre
+Test: Malnutrition Universal Screening Tool (MUST)
+Test: Mini Nutritional Assessment (MNA- SF)
+Aspectes a remarcar
+L’anamnesi dirigida i les dades antropomètriques (pes, talla i índex de massa corporal) són
+elements basals pel cribratge de risc d’alteracions nutricionals, que han de confirmar-se
+juntament amb d’altres valoracions, bé siguin analítiques o d’altres dades
+antropomètriques explorades per altres especialistes.
+Cal repetir setmanalment el cribratge en pacients que presenten un estat nutricional
+correcte.
+Farem especial atenció en pacients ancians i fràgils.
+Risc de desequilibri nutricional
+Codi NANDA
+00002
+Codi Nic
+1160
+Intervenció
+Monitorització nutricional
+Risc de desequilibri nutricional
+Codi NANDA
+00002
+Codi Nic
+1100
+
+
+
+Intervenció
+Maneig de la nutrició
+Riscos Laborals
+Mesures de prevenció de manipulació de càrregues
+Indicadors d'Avaluació
+Nombre de pacients amb valoració nutricional basal, on consti: pes, talla i IMC a l’ingrés
+del pacient a la unitat d’hospitalització.
+Nombre de pacients en que el resultat del cribratge nutricional consta al curs evolutiu
+d’infermeria.
+Nombre de pacients amb sol·licitud d’interconsulta a Dietètica per valoració nutricional.
+Registres
+Capçalera
+Portal professional
+Annex 3: registre de descongelació, transport i entrega de productes de teràpia cel·lular
+(FCR-030)
+Registres clínics

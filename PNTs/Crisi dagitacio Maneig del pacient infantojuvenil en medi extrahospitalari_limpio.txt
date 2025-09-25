@@ -1,0 +1,109 @@
+Actuació davant d'una crisi i/o agitació d’un pacient fora del recinte hospitalari. Entenem per
+crisis i/o agitacions aquelles conductes que poden presentar un desenllaç perillós per a la
+persona, companys i professionals que l’envolten.
+Objectiu
+Donar una resposta ràpida, eficaç i coordinada a les situacions de crisis i/o agitacions en
+medi extrahospitalari.
+Garantir la seguretat del pacient fora del recinte hospitalari i durant tot el procediment.
+Assegurar la correcta realització del procediment identificant els diferents passos a seguir
+durant el mateix.
+Evitar i/o detectar de manera precoç l’aparició dels possibles problemes relacionats amb el
+procediment.
+Responsabilitats
+
+
+Crisi d'agitació. Maneig del pacient infantojuvenil en medi
+extrahospitalari
+Auxiliars sanitaris
+Educadors/es socials
+Infermers/es
+Metges/esses
+Seguretat
+TCAIS
+Procediment
+SEQÜÈNCIA D’INTERVENCIONS:
+Identificar causa de les crisis i/o agitació
+Adoptar mesures de seguretat, evitar les zones aïllades.
+Proporcionar la medicació de rescat corresponent
+Aplicar les intervencions descrites al PNT Contenció Verbal per preveure l’escalada
+d’agitació.
+Intentar tornar a l’hospital per afavorir la millor atenció de la situació de crisis.
+Procediment davant l’agitació:
+Si no és viable la desescalada de l’agitació fer trucada a la sala d’hospitalització
+infantojuvenil (ext. 4494 / 9173) per informar de la situació, per tal de poder portar al
+pacient a dins de l’hospital.
+Abans d’exposar-se a riscos esperar al personal de reforç: personal de seguretat. L’auxiliar
+sanitari de la sala d’hospitalització anirà a la porta d’entrada de l’hospital i donarà suport
+una vegada el pacient torni a estar dintre de l’hospital.
+En cas de persistir o d’un increment de la violència per preservar el seu estat físic i
+psicològic o que el pacient es trobi fora del rati d’actuació de l’hospital es trucarà al 112 i
+es procedirà al trasllat a l’hospital en ambulància.
+Aïllar resta de pacients. Aquests seran acompanyats per un professional a l’hospital.
+S’avisarà al metge responsable del pacient qui informarà d’aquesta situació a UCIES.
+Una vegada dintre de l’hospital es procedirà a portar al pacient a UCIES per valorar l’estat
+d’agitació.
+
+
+Crisi d'agitació. Maneig del pacient infantojuvenil en medi
+extrahospitalari
+Material
+Medicació de rescat si està pautada.
+Telèfon mòbil.
+Aspectes a remarcar
+En pacients amb històric d'episodis d'heteroagressivitat o autoagressivitat analitzarem
+prèviament el benefici de fer una sortida fora de l'hospital en relació amb el risc que
+suposa.
+Abans de fer la sortida valorarem si algun pacient no pot fer-la per observar signes
+de preagitació o estat alt d'ansietat.
+Explicar l'horari i les limitacions de les sortides
+Explicar que si apareixen conflictes durant la sortida, cal tornar immediatament a
+l'hospital.
+Risc d'autoagressió i/o heteroagressió
+Codi NANDA
+00138
+Codi Nic
+4640
+Intervenció
+Ajuda per control de l'enuig
+Risc d'autoagressió i/o heteroagressió
+Codi NANDA
+00138
+Codi Nic
+
+
+Crisi d'agitació. Maneig del pacient infantojuvenil en medi
+extrahospitalari
+5820
+Intervenció
+Disminució de l'ansietat
+Afrontament de problemes
+Codi NANDA
+00069
+Codi Nic
+5230
+Intervenció
+Augmentar l'afrontament
+Afrontament ineficaç
+Codi NANDA
+00069
+Codi Nic
+5250
+Intervenció
+Recolzament el la presa de decisions
+Riscos Laborals
+Lesions físiques i/o verbals derivades de l’actuació en evitar la conducta
+heteroagressiva per part del pacient
+Estrès psicosocial derivat de la responsabilitat professional i la vigilància constant al
+pacient
+Indicadors d'Avaluació
+
+
+Crisi d'agitació. Maneig del pacient infantojuvenil en medi
+extrahospitalari
+Percentatge d’actuacions realitzades davant d’una situació de crisis i/o agitació de pacient
+en àmbit extrahospitalari.
+Percentatge d’incidents durant la sortida.
+Percentatge de pacients fugats.
+Registres
+Portal professional
+Notificació d'incidents

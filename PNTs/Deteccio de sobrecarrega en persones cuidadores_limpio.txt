@@ -1,0 +1,64 @@
+Aquest PNT pretén establir un protocol de detecció de l’esgotament de la persona cuidadora de
+pacient hospitalitzat (síndrome de la persona cuidadora), per preveure i prevenir la seva
+claudicació, atenent factors de risc com durada de la cura, càrrega emocional i suport social
+limitat.
+Atès el grau de dedicació i responsabilitat, poden patir esgotament, aïllament i dificultats per
+afrontar una atenció suficient i de qualitat.
+Ontològicament, que el pacient disposi d’una persona cuidadora sense sobrecàrrega, reverteix
+directament en positiu en el seu benestar i evolució.
+DEFINICIONS
+Síndrome de la persona cuidadora: estat d’esgotament físic, emocional i mental a causa de la
+pressió i l'estrès continuats de cuidar una persona malalta, amb discapacitat, i/o gran.
+Objectiu
+
+
+Detecció de sobrecàrrega en persones cuidadores
+Identificar les persones amb sobrecàrrega que estan exercint el rol de cuidadores de
+pacients hospitalitzats.
+Proporcionar suport, acompanyament i assessorament de recursos segons diagnòstic
+social.
+Responsabilitats
+Equip assistencial
+Treballadors/es socials
+Procediment
+SEQÜÈNCIA D’INTERVENCIONS:
+Fase I: Identificar les persones cuidadores amb sospita de sobrecàrrega.
+Via interna a la institució:
+Durant les coordinacions amb l’equip assistencial, se’ns comunica una possible
+situació de sobrecàrrega.
+En els passes de guàrdia o sessions clíniques.
+Des del servei d’urgències Treball Social dels diferents torns.
+Voluntariat del Clínic.
+Via externa a la institució:
+Pacient i/o entorn proper (familiar cuidador; acompanyants del pacient no
+familiars).
+Organitzacions i/o professionals externs (serveis socials de territori,
+Fundacions, ONG’s, i altres)
+Fase II : Obrir expedient del pacient, i contactar amb els diferents actors interns i externs.
+Fase III : Passar l’escala de Zarit, per veure el nivell de sobrecàrrega que presenten, pel
+diagnòstic social i posterior intervenció; tenint en compte els resultats:
+De 22 a 46 punts, ens indica absència de sobrecàrrega.
+
+
+Detecció de sobrecàrrega en persones cuidadores
+De 47 a punts, ens indica que està amb sobrecàrrega.
+De 56 a 110 punts, ens indica que hi ha sobrecàrrega intensa.
+En els supòsits B i C, s’activarà  Protocol “ Intervenció Treball Social Sanitari a Hospitalització ”
+Fase IV: Enregistrament de la informació i la nostra intervenció, a la IPA Treball Social / al curs
+clínic.
+Aspectes a remarcar
+L'àmbit d'aplicació és a les sales d’hospitalització de la seu Villarroel i seu Plató.
+Problemes relacionats amb el procediment
+Per tal d’evitar falses claudicacions o claudicacions encobertes, és important passar l’instrument
+valoratiu de l’escala de Zarit abans d’emetre el diagnòstic.
+Respectar l’opinió i sentiments de la persona avaluada, tenint en compte que pot no coincidir
+amb la valoració professional.
+Indicadors d'Avaluació
+Nombre d’escales de Zarit enregistrades a l’IPA Treball Social.
+Percentatge de diagnòstics “sobrecàrrega de la persona cuidadora” a l’IPA Treball Social.
+Comparatiu anual.
+Registres
+Portal professional
+SAP
+Registres
+IPA pacient de treball

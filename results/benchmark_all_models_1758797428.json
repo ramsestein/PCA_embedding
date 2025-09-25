@@ -1,0 +1,145 @@
+{
+  "model-0_0003": {
+    "model_name": "Unknown",
+    "top1_accuracy": 0.5833333333333334,
+    "top5_accuracy": 0.6666666666666666,
+    "top1_correct": 28,
+    "top5_correct": 32,
+    "total_queries": 48,
+    "load_time": 0.4835219383239746,
+    "embedding_time": 52.09446716308594,
+    "total_time": 52.57798910140991
+  },
+  "model-0_0005": {
+    "model_name": "Unknown",
+    "top1_accuracy": 0.5833333333333334,
+    "top5_accuracy": 0.6666666666666666,
+    "top1_correct": 28,
+    "top5_correct": 32,
+    "total_queries": 48,
+    "load_time": 0.5500907897949219,
+    "embedding_time": 58.75028586387634,
+    "total_time": 59.300376653671265
+  },
+  "model-0_0008": {
+    "model_name": "Unknown",
+    "top1_accuracy": 0.5416666666666666,
+    "top5_accuracy": 0.6875,
+    "top1_correct": 26,
+    "top5_correct": 33,
+    "total_queries": 48,
+    "load_time": 0.5475680828094482,
+    "embedding_time": 59.481337785720825,
+    "total_time": 60.02890586853027
+  },
+  "model-0_0011": {
+    "model_name": "Unknown",
+    "top1_accuracy": 0.5625,
+    "top5_accuracy": 0.6875,
+    "top1_correct": 27,
+    "top5_correct": 33,
+    "total_queries": 48,
+    "load_time": 0.5834581851959229,
+    "embedding_time": 58.17814874649048,
+    "total_time": 58.7616069316864
+  },
+  "model-0_0013": {
+    "model_name": "Unknown",
+    "top1_accuracy": 0.5625,
+    "top5_accuracy": 0.6875,
+    "top1_correct": 27,
+    "top5_correct": 33,
+    "total_queries": 48,
+    "load_time": 0.5208663940429688,
+    "embedding_time": 59.12462759017944,
+    "total_time": 59.64549398422241
+  },
+  "model-0_0022": {
+    "model_name": "Unknown",
+    "top1_accuracy": 0.5416666666666666,
+    "top5_accuracy": 0.6458333333333334,
+    "top1_correct": 26,
+    "top5_correct": 31,
+    "total_queries": 48,
+    "load_time": 0.5406055450439453,
+    "embedding_time": 59.26604628562927,
+    "total_time": 59.80665183067322
+  },
+  "model-0_0039": {
+    "model_name": "Unknown",
+    "top1_accuracy": 0.5208333333333334,
+    "top5_accuracy": 0.6458333333333334,
+    "top1_correct": 25,
+    "top5_correct": 31,
+    "total_queries": 48,
+    "load_time": 0.7350318431854248,
+    "embedding_time": 58.440603494644165,
+    "total_time": 59.17563533782959
+  },
+  "model-0_0072": {
+    "model_name": "Unknown",
+    "top1_accuracy": 0.5,
+    "top5_accuracy": 0.6875,
+    "top1_correct": 24,
+    "top5_correct": 33,
+    "total_queries": 48,
+    "load_time": 0.5182812213897705,
+    "embedding_time": 58.68264198303223,
+    "total_time": 59.200923204422
+  },
+  "model-0_0154": {
+    "model_name": "Unknown",
+    "top1_accuracy": 0.5208333333333334,
+    "top5_accuracy": 0.6666666666666666,
+    "top1_correct": 25,
+    "top5_correct": 32,
+    "total_queries": 48,
+    "load_time": 0.5561904907226562,
+    "embedding_time": 58.469810485839844,
+    "total_time": 59.0260009765625
+  },
+  "model-0_0405": {
+    "model_name": "Unknown",
+    "top1_accuracy": 0.5208333333333334,
+    "top5_accuracy": 0.7291666666666666,
+    "top1_correct": 25,
+    "top5_correct": 35,
+    "total_queries": 48,
+    "load_time": 0.7032604217529297,
+    "embedding_time": 58.28708577156067,
+    "total_time": 58.9903461933136
+  },
+  "model-0_1242": {
+    "model_name": "Unknown",
+    "top1_accuracy": 0.4791666666666667,
+    "top5_accuracy": 0.7083333333333334,
+    "top1_correct": 23,
+    "top5_correct": 34,
+    "total_queries": 48,
+    "load_time": 0.5383672714233398,
+    "embedding_time": 58.7287061214447,
+    "total_time": 59.26707339286804
+  },
+  "model-0_2885": {
+    "model_name": "Unknown",
+    "top1_accuracy": 0.4583333333333333,
+    "top5_accuracy": 0.6458333333333334,
+    "top1_correct": 22,
+    "top5_correct": 31,
+    "total_queries": 48,
+    "load_time": 0.5362057685852051,
+    "embedding_time": 58.46364498138428,
+    "total_time": 58.99985074996948
+  },
+  "model-0_4719": {
+    "model_name": "Unknown",
+    "top1_accuracy": 0.5208333333333334,
+    "top5_accuracy": 0.6666666666666666,
+    "top1_correct": 25,
+    "top5_correct": 32,
+    "total_queries": 48,
+    "load_time": 0.6431574821472168,
+    "embedding_time": 58.39681053161621,
+    "total_time": 59.03996801376343
+  }
+}
